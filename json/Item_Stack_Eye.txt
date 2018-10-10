@@ -1215,48 +1215,55 @@
 		"jp_text": "ななめクロスアイ",
 		"tr_text": "X Eyes",
 		"jp_explain": "チケットを使用すると、新しい瞳の\nななめクロスアイが選択可能。",
-		"tr_explain": "Unlocks the eyes\n\"X Eyes\"\npara usar en el Estilista."
+		"tr_explain": "Desbloquea los ojos\n\"X Eyes\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3260176",
 		"jp_text": "黒瞳　大",
 		"tr_text": "Dilated Eyes L",
 		"jp_explain": "チケットを使用すると、新しい瞳の\n黒瞳　大が選択可能。",
-		"tr_explain": "Unlocks the eyes\n\"Dilated Eyes L\"\npara usar en el Estilista."
+		"tr_explain": "Desbloquea los ojos\n\"Dilated Eyes L\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3260177",
 		"jp_text": "黒瞳　小",
 		"tr_text": "Dilated Eyes S",
 		"jp_explain": "チケットを使用すると、新しい瞳の\n黒瞳　小が選択可能。",
-		"tr_explain": "Unlocks the eyes\n\"Dilated Eyes S\"\npara usar en el Estilista."
+		"tr_explain": "Desbloquea los ojos\n\"Dilated Eyes S\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3260178",
 		"jp_text": "星ハイライト瞳　大",
 		"tr_text": "Star Highlight Eyes L",
 		"jp_explain": "チケットを使用すると、新しい瞳の\n星ハイライト瞳　大が選択可能。",
-		"tr_explain": "Unlocks the eyes\n\"Star Highlight Eyes L\"\npara usar en el Estilista."
+		"tr_explain": "Desbloquea los ojos\n\"Star Highlight Eyes L\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3260179",
 		"jp_text": "星ハイライト瞳　小",
 		"tr_text": "Star Highlight Eyes S",
 		"jp_explain": "チケットを使用すると、新しい瞳の\n星ハイライト瞳　小が選択可能。",
-		"tr_explain": "Unlocks the eyes\n\"Star Highlight Eyes S\"\npara usar en el Estilista."
+		"tr_explain": "Desbloquea los ojos\n\"Star Highlight Eyes S\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3260180",
 		"jp_text": "グラス瞳　大",
 		"tr_text": "Glass Eyes L",
 		"jp_explain": "チケットを使用すると、新しい瞳の\nグラス瞳　大が選択可能。",
-		"tr_explain": "Unlocks the eyes\n\"Glass Eyes L\"\npara usar en el Estilista."
+		"tr_explain": "Desbloquea los ojos\n\"Glass Eyes L\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3260181",
 		"jp_text": "グラス瞳　小",
 		"tr_text": "Glass Eyes S",
 		"jp_explain": "チケットを使用すると、新しい瞳の\nグラス瞳　小が選択可能。",
-		"tr_explain": "Unlocks the eyes\n\"Glass Eyes S\"\npara usar en el Estilista."
+		"tr_explain": "Desbloquea los ojos\n\"Glass Eyes S\"\npara usar en el Estilista."
+	},
+	{
+		"assign": "3260182",
+		"jp_text": "マンガ風瞳Ｉ",
+		"tr_text": "",
+		"jp_explain": "チケットを使用すると、新しい瞳の\nマンガ風瞳Ｉが選択可能。",
+		"tr_explain": ""
 	}
 ]
