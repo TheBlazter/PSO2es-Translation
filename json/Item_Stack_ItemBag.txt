@@ -4680,7 +4680,7 @@
 		"jp_text": "Xmasタイツ＆ソックスＳ",
 		"tr_text": "X-mas Tights & Socks Set",
 		"jp_explain": "以下のアイテムを獲得する。\n「縦縞タイツ赤／黒」\n「チェック柄タイツ赤」\n「ハイソックス白」他一種",
-		"tr_explain": "Al usarlo recibiras:\n[Red/Black Striped Tights]\n[Red Plaid Tights]\n[White Knee Socks] +1 other"
+		"tr_explain": "Al usarlo recibiras:\n[Red/Black Striped Tights]\n[Red Plaid Tights]\n[White Knee Socks] +1 mas"
 	},
 	{
 		"assign": "3300866",
@@ -5436,7 +5436,7 @@
 		"jp_text": "クーナ冬物アクセセット",
 		"tr_text": "Quna Winter Accessory Set",
 		"jp_explain": "以下のアイテムを獲得する。\n「クーナマフラーＢ」\n「クーナニットキャップＢ」\n「クーナミトンＢ」他一種",
-		"tr_explain": "Al usarlo recibiras:\n[Quna Scarf B]\n[Quna Knit Cap B]\n[Quna Mitten B] +1 other"
+		"tr_explain": "Al usarlo recibiras:\n[Quna Scarf B]\n[Quna Knit Cap B]\n[Quna Mitten B] +1 mas"
 	},
 	{
 		"assign": "3300974",
@@ -7606,7 +7606,7 @@
 		"jp_text": "デゼル・レプカＦセット",
 		"tr_text": "Desel Repca F Set",
 		"jp_explain": "以下のアイテムを獲得する。\n「デゼル・レプカＦ」\n「デゼルミディアムヘア」\n「デゼルハット」他一種",
-		"tr_explain": "Al usarlo recibiras:\n[Dezel Repca F]\n[Dezel Medium Hair]\n[Dezel Hat] +1 other"
+		"tr_explain": "Al usarlo recibiras:\n[Dezel Repca F]\n[Dezel Medium Hair]\n[Dezel Hat] +1 mas"
 	},
 	{
 		"assign": "33001284",
@@ -8635,7 +8635,7 @@
 		"jp_text": "穂群原学園男子制服箱",
 		"tr_text": "Homurahara Boys Uniform Box",
 		"jp_explain": "以下のアイテムを獲得する。\n「穂群原学園男子制服」\n「士郎ショートカット」\n「＊狂戦士の斧剣」他一種",
-		"tr_explain": "Al usarlo recibiras:\n[Homurahara Boys Uniform]\n[Shirou Short Cut]\n[＊Berserker's Axe-Sword] +1 other"
+		"tr_explain": "Al usarlo recibiras:\n[Homurahara Boys Uniform]\n[Shirou Short Cut]\n[＊Berserker's Axe-Sword] +1 mas"
 	},
 	{
 		"assign": "33001432",
@@ -9608,7 +9608,7 @@
 		"jp_text": "マリオンＭグッズＳ",
 		"tr_text": "Marion M Goods Set",
 		"jp_explain": "以下のアイテムを獲得する。\n「マリオンハットＢ」\n「マリオンアイパッチ」\n「＊ディバインカノン」他一種",
-		"tr_explain": "Al usarlo recibiras:\n[Marion Hat B]\n[Marion Eye Patch]\n[＊Divine Cannon] +1 other"
+		"tr_explain": "Al usarlo recibiras:\n[Marion Hat B]\n[Marion Eye Patch]\n[＊Divine Cannon] +1 mas"
 	},
 	{
 		"assign": "33001571",
@@ -10742,14 +10742,14 @@
 		"jp_text": "スズナクシナダ雅セット",
 		"tr_text": "Suzuna Kushinada Elegance Set",
 		"jp_explain": "以下のアイテムを獲得する。\n「スズナクシナダ雅」\n「スズナロング」\n「スズナカチューシャ雅」他一種",
-		"tr_explain": "Al usarlo recibiras:\n[Suzuna Kushinada Elegance]\n[Suzuna Long]\n[Suzuna Headband Elegance] +1 other"
+		"tr_explain": "Al usarlo recibiras:\n[Suzuna Kushinada Elegance]\n[Suzuna Long]\n[Suzuna Headband Elegance] +1 mas"
 	},
 	{
 		"assign": "33001733",
 		"jp_text": "スズナクシナダ影セット",
 		"tr_text": "Suzuna Kushinada Shadow Set",
 		"jp_explain": "以下のアイテムを獲得する。\n「スズナクシナダ影」\n「スズナロング」\n「スズナカチューシャ影」他一種",
-		"tr_explain": "Al usarlo recibiras:\n[Suzuna Kushinada Shadow]\n[Suzuna Long]\n[Suzuna Headband Shadow] +1 other"
+		"tr_explain": "Al usarlo recibiras:\n[Suzuna Kushinada Shadow]\n[Suzuna Long]\n[Suzuna Headband Shadow] +1 mas"
 	},
 	{
 		"assign": "33001734",
@@ -11134,21 +11134,21 @@
 		"jp_text": "ノエル・レプカセット",
 		"tr_text": "Noel Repca Set",
 		"jp_explain": "以下のアイテムを獲得する。\n「ノエル・レプカ」\n「ノエルロングヘア」\n「＊魔銃・ベルヴェルク」他一種",
-		"tr_explain": "Al usarlo recibiras:\n[Noel Repca]\n[Noel Long Hair]\n[＊Bolverk] +1 other"
+		"tr_explain": "Al usarlo recibiras:\n[Noel Repca]\n[Noel Long Hair]\n[＊Bolverk] +1 mas"
 	},
 	{
 		"assign": "33001789",
 		"jp_text": "ノエル・レプカ影セット",
 		"tr_text": "Noel Repca Shadow Set",
 		"jp_explain": "以下のアイテムを獲得する。\n「ノエル・レプカ影」\n「ノエルロングヘア」\n「＊魔銃・ベルヴェルク」他一種",
-		"tr_explain": "Al usarlo recibiras:\n[Noel Repca Shadow]\n[Noel Long Hair]\n[＊Bolverk] +1 other"
+		"tr_explain": "Al usarlo recibiras:\n[Noel Repca Shadow]\n[Noel Long Hair]\n[＊Bolverk] +1 mas"
 	},
 	{
 		"assign": "33001790",
 		"jp_text": "ノエル・レプカ紅セット",
 		"tr_text": "Noel Repca Crimson Set",
 		"jp_explain": "以下のアイテムを獲得する。\n「ノエル・レプカ紅」\n「ノエルロングヘア」\n「＊魔銃・ベルヴェルク」他一種",
-		"tr_explain": "Al usarlo recibiras:\n[Noel Repca Crimson]\n[Noel Long Hair]\n[＊Bolverk] +1 other"
+		"tr_explain": "Al usarlo recibiras:\n[Noel Repca Crimson]\n[Noel Long Hair]\n[＊Bolverk] +1 mas"
 	},
 	{
 		"assign": "33001791",
@@ -12786,7 +12786,7 @@
 		"jp_text": "天輪の鎧セット",
 		"tr_text": "HW Armor Set",
 		"jp_explain": "以下のアイテムを獲得する。\n「天輪の鎧・サークレット」\n「天輪の鎧・上翼」\n「天輪の鎧・下翼」他一種",
-		"tr_explain": "Al usarlo recibiras:\n[HW Armor Circlet]\n[HW Armor Upper Wings]\n[HW Armor Lower Wings] +1 other"
+		"tr_explain": "Al usarlo recibiras:\n[HW Armor Circlet]\n[HW Armor Upper Wings]\n[HW Armor Lower Wings] +1 mas"
 	},
 	{
 		"assign": "33002028",
@@ -14956,7 +14956,7 @@
 		"jp_text": "トリリアムマリーセット２",
 		"tr_text": "Trilliam Marie Set 2",
 		"jp_explain": "以下のアイテムを獲得する。\n「トリリアムマリー[Ou]」\n「トリリアムマリー影[Ba]」\n「トリリアムマリー紅[In]」他一種",
-		"tr_explain": "Al usarlo recibiras:\n[Trillium Marie [Ou]]\n[Trillium Marie Shadow [Ba]]\n[Trillium Marie Crimson [In]] +1 other"
+		"tr_explain": "Al usarlo recibiras:\n[Trillium Marie [Ou]]\n[Trillium Marie Shadow [Ba]]\n[Trillium Marie Crimson [In]] +1 mas"
 	},
 	{
 		"assign": "33002338",
@@ -15117,7 +15117,7 @@
 		"jp_text": "フロンティアガイドセット２",
 		"tr_text": "Frontier Guide Set 2",
 		"jp_explain": "以下のアイテムを獲得する。\n「フロンティアガイド[Ou]」\n「フロンティアガイド影[Ba]」\n「フロンティアガイド紅[In]」他一種",
-		"tr_explain": "Al usarlo recibiras:\n[Frontier Guide [Ou]]\n[Frontier Guide Shadow [Ba]]\n[Frontier Guide Crimson [In]] +1 other"
+		"tr_explain": "Al usarlo recibiras:\n[Frontier Guide [Ou]]\n[Frontier Guide Shadow [Ba]]\n[Frontier Guide Crimson [In]] +1 mas"
 	},
 	{
 		"assign": "33002362",
@@ -15131,7 +15131,7 @@
 		"jp_text": "フロンティアガイドセット４",
 		"tr_text": "Frontier Guide Set 4",
 		"jp_explain": "以下のアイテムを獲得する。\n「フロンティアガイド[Ou]」\n「フロンティアガイド紅[Ba]」\n「フロンティアガイド影[In]」他一種",
-		"tr_explain": "Al usarlo recibiras:\n[Frontier Guide [Ou]]\n[Frontier Guide Crimson [Ba]]\n[Frontier Guide Shadow [In]] +1 other"
+		"tr_explain": "Al usarlo recibiras:\n[Frontier Guide [Ou]]\n[Frontier Guide Crimson [Ba]]\n[Frontier Guide Shadow [In]] +1 mas"
 	},
 	{
 		"assign": "33002364",
@@ -15635,7 +15635,7 @@
 		"jp_text": "リグサバイバーセット４",
 		"tr_text": "Rig Survivor Set 4",
 		"jp_explain": "以下のアイテムを獲得する。\n「リグサバイバー[Ou]」\n「リグサバイバー紅[Ba]」\n「リグサバイバー紅[In]」他一種",
-		"tr_explain": "Al usarlo recibiras:\n[Rig Survivor [Ou]]\n[Rig Survivor Crimson [Ba]]\n[Rig Survivor Crimson [In]] +1 other"
+		"tr_explain": "Al usarlo recibiras:\n[Rig Survivor [Ou]]\n[Rig Survivor Crimson [Ba]]\n[Rig Survivor Crimson [In]] +1 mas"
 	},
 	{
 		"assign": "33002438",
@@ -15740,14 +15740,14 @@
 		"jp_text": "レイディタッカーセット３",
 		"tr_text": "Lady Tacker Set 3",
 		"jp_explain": "以下のアイテムを獲得する。\n「レイディタッカー[Ou]」\n「レイディタッカー月[Ba]」\n「レイディタッカー桜[In]」他一種",
-		"tr_explain": "Al usarlo recibiras:\n[Lady Tacker [Ou]]\n[Lady Tacker Moon [Ba]]\n[Lady Tacker Sakura [In]] +1 other"
+		"tr_explain": "Al usarlo recibiras:\n[Lady Tacker [Ou]]\n[Lady Tacker Moon [Ba]]\n[Lady Tacker Sakura [In]] +1 mas"
 	},
 	{
 		"assign": "33002453",
 		"jp_text": "レイディタッカーセット４",
 		"tr_text": "Lady Tacker Set 4",
 		"jp_explain": "以下のアイテムを獲得する。\n「レイディタッカー[Ou]」\n「レイディタッカー雪[Ba]」\n「レイディタッカー影[In]」他一種",
-		"tr_explain": "Al usarlo recibiras:\n[Lady Tacker [Ou]]\n[Lady Tacker Snow [Ba]]\n[Lady Tacker Shadow [In]] +1 other"
+		"tr_explain": "Al usarlo recibiras:\n[Lady Tacker [Ou]]\n[Lady Tacker Snow [Ba]]\n[Lady Tacker Shadow [In]] +1 mas"
 	},
 	{
 		"assign": "33002454",
@@ -16699,21 +16699,21 @@
 		"jp_text": "☆スーツジャケット　Ａ箱３",
 		"tr_text": "☆Straight Jacket A Box 3",
 		"jp_explain": "以下のアイテムを獲得する。\n「スーツジャケット[Ou]」\n「スーツスラックス鋼[Ba]」\n「ロングトランクス１影[In]」他一種",
-		"tr_explain": "Al usarlo recibiras:\n[Straight Jacket [Ou]]\n[Suit Slacks Steel [Ba]]\n[L. Trunks 1 Shadow [In]] +1 other"
+		"tr_explain": "Al usarlo recibiras:\n[Straight Jacket [Ou]]\n[Suit Slacks Steel [Ba]]\n[L. Trunks 1 Shadow [In]] +1 mas"
 	},
 	{
 		"assign": "33002593",
 		"jp_text": "☆スーツジャケット　Ａ箱４",
 		"tr_text": "☆Straight Jacket A Box 4",
 		"jp_explain": "以下のアイテムを獲得する。\n「スーツジャケット[Ou]」\n「スーツスラックス空[Ba]」\n「ロングトランクス１空[In]」他一種",
-		"tr_explain": "Al usarlo recibiras:\n[Straight Jacket [Ou]]\n[Suit Slacks Sky [Ba]]\n[L. Trunks 1 Sky [In]] +1 other"
+		"tr_explain": "Al usarlo recibiras:\n[Straight Jacket [Ou]]\n[Suit Slacks Sky [Ba]]\n[L. Trunks 1 Sky [In]] +1 mas"
 	},
 	{
 		"assign": "33002594",
 		"jp_text": "☆スーツジャケット　Ｂ箱１",
 		"tr_text": "☆Straight Jacket B Box 1",
 		"jp_explain": "以下のアイテムを獲得する。\n「スーツジャケット[Ou]」\n「スラックス[Ba]」\n「ロングトランクス１[In]」他一種",
-		"tr_explain": "Al usarlo recibiras:\n[Straight Jacket [Ou]]\n[Slacks [Ba]]\n[L. Trunks 1 [In]] +1 other"
+		"tr_explain": "Al usarlo recibiras:\n[Straight Jacket [Ou]]\n[Slacks [Ba]]\n[L. Trunks 1 [In]] +1 mas"
 	},
 	{
 		"assign": "33002595",
@@ -16727,14 +16727,14 @@
 		"jp_text": "☆スーツジャケット　Ｂ箱３",
 		"tr_text": "☆Straight Jacket B Box 3",
 		"jp_explain": "以下のアイテムを獲得する。\n「スーツジャケット[Ou]」\n「スラックス鋼[Ba]」\n「ロングトランクス１影[In]」他一種",
-		"tr_explain": "Al usarlo recibiras:\n[Straight Jacket [Ou]]\n[Slacks Steel [Ba]]\n[L. Trunks 1 Shadow [In]] +1 other"
+		"tr_explain": "Al usarlo recibiras:\n[Straight Jacket [Ou]]\n[Slacks Steel [Ba]]\n[L. Trunks 1 Shadow [In]] +1 mas"
 	},
 	{
 		"assign": "33002597",
 		"jp_text": "☆スーツジャケット　Ｂ箱４",
 		"tr_text": "☆Straight Jacket B Box 4",
 		"jp_explain": "以下のアイテムを獲得する。\n「スーツジャケット[Ou]」\n「スラックス栗[Ba]」\n「ロングトランクス１空[In]」他一種",
-		"tr_explain": "Al usarlo recibiras:\n[Straight Jacket [Ou]]\n[Slacks Chestnut [Ba]]\n[L. Trunks 1 Sky [In]] +1 other"
+		"tr_explain": "Al usarlo recibiras:\n[Straight Jacket [Ou]]\n[Slacks Chestnut [Ba]]\n[L. Trunks 1 Sky [In]] +1 mas"
 	},
 	{
 		"assign": "33002598",
@@ -20108,7 +20108,7 @@
 		"jp_text": "☆フロンティアガイド雪箱２",
 		"tr_text": "☆Frontier Guide Snow Box 2",
 		"jp_explain": "以下のアイテムを獲得する。\n「フロンティアガイド雪[Ou]」\n「フロンティアガイド雪[Ba]」\n「フロンティアガイド紅[In]」他一種",
-		"tr_explain": "Al usarlo recibiras:\n[Frontier Guide Snow [Ou]]\n[Frontier Guide Snow [Ba]]\n[Frontier Guide Crimson [In]] +1 other"
+		"tr_explain": "Al usarlo recibiras:\n[Frontier Guide Snow [Ou]]\n[Frontier Guide Snow [Ba]]\n[Frontier Guide Crimson [In]] +1 mas"
 	},
 	{
 		"assign": "33003080",
@@ -20451,14 +20451,14 @@
 		"jp_text": "☆リグサバイバー雪セット１",
 		"tr_text": "☆Rig Survivor Snow Set 1",
 		"jp_explain": "以下のアイテムを獲得する。\n「リグサバイバー雪[Ou]」\n「リグサバイバー影[Ba]」\n「リグサバイバー影[In]」他一種",
-		"tr_explain": "Al usarlo recibiras:\n[Rig Survivor Snow [Ou]]\n[Rig Survivor Shadow [Ba]]\n[Rig Survivor Shadow [In]] +1 other"
+		"tr_explain": "Al usarlo recibiras:\n[Rig Survivor Snow [Ou]]\n[Rig Survivor Shadow [Ba]]\n[Rig Survivor Shadow [In]] +1 mas"
 	},
 	{
 		"assign": "33003129",
 		"jp_text": "☆リグサバイバー雪セット２",
 		"tr_text": "☆Rig Survivor Snow Set 2",
 		"jp_explain": "以下のアイテムを獲得する。\n「リグサバイバー雪[Ou]」\n「リグサバイバー冬[Ba]」\n「リグサバイバー雅[In]」他一種",
-		"tr_explain": "Al usarlo recibiras:\n[Rig Survivor Snow [Ou]]\n[Rig Survivor Winter [Ba]]\n[Rig Survivor Elegance [In]] +1 other"
+		"tr_explain": "Al usarlo recibiras:\n[Rig Survivor Snow [Ou]]\n[Rig Survivor Winter [Ba]]\n[Rig Survivor Elegance [In]] +1 mas"
 	},
 	{
 		"assign": "33003130",
@@ -23223,7 +23223,7 @@
 		"jp_text": "☆スズナクシナダ陽セット",
 		"tr_text": "☆Suzuna Kushinada Sun Set",
 		"jp_explain": "以下のアイテムを獲得する。\n「スズナクシナダ陽」\n「スズナロング」\n「スズナカチューシャ陽」他一種",
-		"tr_explain": "Al usarlo recibiras:\n[Suzuna Kushinada Sun]\n[Suzuna Long]\n[Suzuna Headband Sun] +1 other"
+		"tr_explain": "Al usarlo recibiras:\n[Suzuna Kushinada Sun]\n[Suzuna Long]\n[Suzuna Headband Sun] +1 mas"
 	},
 	{
 		"assign": "33003525",
@@ -23517,7 +23517,7 @@
 		"jp_text": "☆レイディタッカーセット４",
 		"tr_text": "☆Lady Tacker Set 4",
 		"jp_explain": "以下のアイテムを獲得する。\n「レイディタッカー[Ou]」\n「レイディタッカー雪[Ba]」\n「レイディタッカー影[In]」他一種",
-		"tr_explain": "Al usarlo recibiras:\n[Lady Tacker [Ou]]\n[Lady Tacker Snow [Ba]]\n[Lady Tacker Shadow [In]] +1 other"
+		"tr_explain": "Al usarlo recibiras:\n[Lady Tacker [Ou]]\n[Lady Tacker Snow [Ba]]\n[Lady Tacker Shadow [In]] +1 mas"
 	},
 	{
 		"assign": "33003567",
@@ -23545,7 +23545,7 @@
 		"jp_text": "☆トリリアムマリーセット２",
 		"tr_text": "☆Trillium Marie Set 2",
 		"jp_explain": "以下のアイテムを獲得する。\n「トリリアムマリー[Ou]」\n「トリリアムマリー影[Ba]」\n「トリリアムマリー紅[In]」他一種",
-		"tr_explain": "Al usarlo recibiras:\n[Trillium Marie [Ou]]\n[Trillium Marie Shadow [Ba]]\n[Trillium Marie Crimson [In]] +1 other"
+		"tr_explain": "Al usarlo recibiras:\n[Trillium Marie [Ou]]\n[Trillium Marie Shadow [Ba]]\n[Trillium Marie Crimson [In]] +1 mas"
 	},
 	{
 		"assign": "33003571",
@@ -23839,7 +23839,7 @@
 		"jp_text": "☆トリリアムマリー鋼箱１",
 		"tr_text": "☆Trillium Marie Steel Box 1",
 		"jp_explain": "以下のアイテムを獲得する。\n「トリリアムマリー鋼[Ou]」\n「トリリアムマリー冬[Ba]」\n「トリリアムマリー冬[In]」他一種",
-		"tr_explain": "Al usarlo recibiras:\n[Trillium Marie Steel [Ou]]\n[Trillium Marie Winter [Ba]]\n[Trillium Marie Winter [In]] +1 other"
+		"tr_explain": "Al usarlo recibiras:\n[Trillium Marie Steel [Ou]]\n[Trillium Marie Winter [Ba]]\n[Trillium Marie Winter [In]] +1 mas"
 	},
 	{
 		"assign": "33003613",
@@ -25190,7 +25190,7 @@
 		"jp_text": "ヨルハステッカー箱",
 		"tr_text": "YoRHa Sticker Box",
 		"jp_explain": "以下のアイテムを獲得する。\n「人類軍ステッカー」\n「レジスタンスステッカー」\n「ヨルハ部隊ステッカーＡ」他一種",
-		"tr_explain": "Al usarlo recibiras:\n[Mankind Forces Sticker]\n[Resistance Sticker]\n[YoRHa Squad. Sticker A] +1 other"
+		"tr_explain": "Al usarlo recibiras:\n[Mankind Forces Sticker]\n[Resistance Sticker]\n[YoRHa Squad. Sticker A] +1 mas"
 	},
 	{
 		"assign": "33003806",
@@ -28508,7 +28508,7 @@
 		"jp_text": "☆クエンジットマント箱５",
 		"tr_text": "☆Cuensit Mantle Box 5",
 		"jp_explain": "以下のアイテムを獲得する。\n「クエンジットマント[Ou]」\n「クエンジットウェア玄[Ba]」\n「クエンジットハット」他一種",
-		"tr_explain": "Al usarlo recibiras:\n[Cuensit Mantle [Ou]]\n[Cuensit Wear Mysterious [Ba]]\n[Cuensit Hat] +1 other"
+		"tr_explain": "Al usarlo recibiras:\n[Cuensit Mantle [Ou]]\n[Cuensit Wear Mysterious [Ba]]\n[Cuensit Hat] +1 mas"
 	},
 	{
 		"assign": "33004280",
@@ -31203,42 +31203,42 @@
 		"jp_text": "☆かすみ・レプカセット",
 		"tr_text": "☆Kasumi Repca Set",
 		"jp_explain": "以下のアイテムを獲得する。\n「かすみ・レプカ」\n「かすみヘアー」\n「かすみの小太刀」他一種",
-		"tr_explain": "Al usarlo recibiras:\n[Kasumi Repca]\n[Kasumi Hair]\n[Kasumi's Dagger] +1 other"
+		"tr_explain": "Al usarlo recibiras:\n[Kasumi Repca]\n[Kasumi Hair]\n[Kasumi's Dagger] +1 mas"
 	},
 	{
 		"assign": "33004671",
 		"jp_text": "☆かすみ・レプカ影セット",
 		"tr_text": "☆Kasumi Repca Shadow Set",
 		"jp_explain": "以下のアイテムを獲得する。\n「かすみ・レプカ影」\n「かすみヘアー」\n「かすみの小太刀」他一種",
-		"tr_explain": "Al usarlo recibiras:\n[Kasumi Repca Shadow]\n[Kasumi Hair]\n[Kasumi's Dagger] +1 other"
+		"tr_explain": "Al usarlo recibiras:\n[Kasumi Repca Shadow]\n[Kasumi Hair]\n[Kasumi's Dagger] +1 mas"
 	},
 	{
 		"assign": "33004672",
 		"jp_text": "☆かすみ・レプカ紅セット",
 		"tr_text": "☆Kasumi Repca Crimson Set",
 		"jp_explain": "以下のアイテムを獲得する。\n「かすみ・レプカ紅」\n「かすみヘアー」\n「かすみの小太刀」他一種",
-		"tr_explain": "Al usarlo recibiras:\n[Kasumi Repca Crimson]\n[Kasumi Hair]\n[Kasumi's Dagger] +1 other"
+		"tr_explain": "Al usarlo recibiras:\n[Kasumi Repca Crimson]\n[Kasumi Hair]\n[Kasumi's Dagger] +1 mas"
 	},
 	{
 		"assign": "33004673",
 		"jp_text": "☆かすみ・レプカ雪セット",
 		"tr_text": "☆Kasumi Repca Snow Set",
 		"jp_explain": "以下のアイテムを獲得する。\n「かすみ・レプカ雪」\n「かすみヘアー」\n「かすみの小太刀」他一種",
-		"tr_explain": "Al usarlo recibiras:\n[Kasumi Repca Snow]\n[Kasumi Hair]\n[Kasumi's Dagger] +1 other"
+		"tr_explain": "Al usarlo recibiras:\n[Kasumi Repca Snow]\n[Kasumi Hair]\n[Kasumi's Dagger] +1 mas"
 	},
 	{
 		"assign": "33004674",
 		"jp_text": "☆かすみ・レプカ桜セット",
 		"tr_text": "☆Kasumi Repca Sakura Set",
 		"jp_explain": "以下のアイテムを獲得する。\n「かすみ・レプカ桜」\n「かすみヘアー」\n「かすみの小太刀」他一種",
-		"tr_explain": "Al usarlo recibiras:\n[Kasumi Repca Sakura]\n[Kasumi Hair]\n[Kasumi's Dagger] +1 other"
+		"tr_explain": "Al usarlo recibiras:\n[Kasumi Repca Sakura]\n[Kasumi Hair]\n[Kasumi's Dagger] +1 mas"
 	},
 	{
 		"assign": "33004675",
 		"jp_text": "☆かすみ・レプカ月セット",
 		"tr_text": "☆Kasumi Repca Moon Set",
 		"jp_explain": "以下のアイテムを獲得する。\n「かすみ・レプカ月」\n「かすみヘアー」\n「かすみの小太刀」他一種",
-		"tr_explain": "Al usarlo recibiras:\n[Kasumi Repca Moon]\n[Kasumi Hair]\n[Kasumi's Dagger] +1 other"
+		"tr_explain": "Al usarlo recibiras:\n[Kasumi Repca Moon]\n[Kasumi Hair]\n[Kasumi's Dagger] +1 mas"
 	},
 	{
 		"assign": "33004676",
@@ -31399,28 +31399,28 @@
 		"jp_text": "エナメル全身タイツＭセット",
 		"tr_text": "Enamel Body Tights M Set",
 		"jp_explain": "以下のアイテムを獲得する。\n「エナメル全身タイツＭ　黒」\n「エナメル全身タイツＭ　白」\n「エナメル全身タイツＭ　赤」他一種",
-		"tr_explain": "Al usarlo recibiras:\n[Black Enamel Body Tights M]\n[White Enamel Body Tights M]\n[Red Enamel Body Tights M] +1 other"
+		"tr_explain": "Al usarlo recibiras:\n[Black Enamel Body Tights M]\n[White Enamel Body Tights M]\n[Red Enamel Body Tights M] +1 mas"
 	},
 	{
 		"assign": "33004699",
 		"jp_text": "エナメル全身タイツＦセット",
 		"tr_text": "Enamel Body Tights F Set",
 		"jp_explain": "以下のアイテムを獲得する。\n「エナメル全身タイツＦ　黒」\n「エナメル全身タイツＦ　白」\n「エナメル全身タイツＦ　赤」他一種",
-		"tr_explain": "Al usarlo recibiras:\n[Black Enamel Body Tights F]\n[White Enamel Body Tights F]\n[Red Enamel Body Tights F] +1 other"
+		"tr_explain": "Al usarlo recibiras:\n[Black Enamel Body Tights F]\n[White Enamel Body Tights F]\n[Red Enamel Body Tights F] +1 mas"
 	},
 	{
 		"assign": "33004700",
 		"jp_text": "サイドツインエクステ箱Ａ",
 		"tr_text": "Side T. Extensions Box A",
 		"jp_explain": "以下のアイテムを獲得する。\n「サイドツインエクステ」\n「サイドツインエクステ　黒」\n「サイドツインエクステ　青」他一種",
-		"tr_explain": "Al usarlo recibiras:\n[Side Twin Extensions]\n[Black Side Twin Extensions]\n[Blue Side Twin Extensions] +1 other"
+		"tr_explain": "Al usarlo recibiras:\n[Side Twin Extensions]\n[Black Side Twin Extensions]\n[Blue Side Twin Extensions] +1 mas"
 	},
 	{
 		"assign": "33004701",
 		"jp_text": "サイドツインエクステ箱Ｂ",
 		"tr_text": "Side T. Extensions Box B",
 		"jp_explain": "以下のアイテムを獲得する。\n「サイドツインエクステ」\n「サイドツインエクステ　白」\n「サイドツインエクステ　黄」他一種",
-		"tr_explain": "Al usarlo recibiras:\n[Side Twin Extensions]\n[White Side Twin Extensions]\n[Yellow Side T. Extensions] +1 other"
+		"tr_explain": "Al usarlo recibiras:\n[Side Twin Extensions]\n[White Side Twin Extensions]\n[Yellow Side T. Extensions] +1 mas"
 	},
 	{
 		"assign": "33004702",
@@ -31490,84 +31490,84 @@
 		"jp_text": "☆ホリーキャロルドレス箱１",
 		"tr_text": "☆Holly Carol Dress Box 1",
 		"jp_explain": "以下のアイテムを獲得する。\n「ホリーキャロルドレス[Ou]」\n「ホリーキャロルドレス[Ba]」\n「ホリーキャロルバレッタ」他一種",
-		"tr_explain": "Al usarlo recibiras:\n[Holly Carol Dress [Ou]]\n[Holly Carol Dress [Ba]]\n[Holly Carol Barrette] +1 other"
+		"tr_explain": "Al usarlo recibiras:\n[Holly Carol Dress [Ou]]\n[Holly Carol Dress [Ba]]\n[Holly Carol Barrette] +1 mas"
 	},
 	{
 		"assign": "33004712",
 		"jp_text": "☆ホリーキャロルドレス箱２",
 		"tr_text": "☆Holly Carol Dress Box 2",
 		"jp_explain": "以下のアイテムを獲得する。\n「ホリーキャロルドレス[Ou]」\n「ホリーキャロルドレス紅[Ba]」\n「ホリーキャロルバレッタ」他一種",
-		"tr_explain": "Al usarlo recibiras:\n[Holly Carol Dress [Ou]]\n[Holly Carol Dress Crimson [Ba]]\n[Holly Carol Barrette] +1 other"
+		"tr_explain": "Al usarlo recibiras:\n[Holly Carol Dress [Ou]]\n[Holly Carol Dress Crimson [Ba]]\n[Holly Carol Barrette] +1 mas"
 	},
 	{
 		"assign": "33004713",
 		"jp_text": "☆ホリーキャロルドレス箱３",
 		"tr_text": "☆Holly Carol Dress Box 3",
 		"jp_explain": "以下のアイテムを獲得する。\n「ホリーキャロルドレス[Ou]」\n「ホリーキャロルドレス影[Ba]」\n「ホリーキャロルバレッタ」他一種",
-		"tr_explain": "Al usarlo recibiras:\n[Holly Carol Dress [Ou]]\n[Holly Carol Dress Shadow [Ba]]\n[Holly Carol Barrette] +1 other"
+		"tr_explain": "Al usarlo recibiras:\n[Holly Carol Dress [Ou]]\n[Holly Carol Dress Shadow [Ba]]\n[Holly Carol Barrette] +1 mas"
 	},
 	{
 		"assign": "33004714",
 		"jp_text": "☆ホリーキャロルドレス箱４",
 		"tr_text": "☆Holly Carol Dress Box 4",
 		"jp_explain": "以下のアイテムを獲得する。\n「ホリーキャロルドレス[Ou]」\n「ホリーキャロルドレス雪[Ba]」\n「ホリーキャロルバレッタ」他一種",
-		"tr_explain": "Al usarlo recibiras:\n[Holly Carol Dress [Ou]]\n[Holly Carol Dress Snow [Ba]]\n[Holly Carol Barrette] +1 other"
+		"tr_explain": "Al usarlo recibiras:\n[Holly Carol Dress [Ou]]\n[Holly Carol Dress Snow [Ba]]\n[Holly Carol Barrette] +1 mas"
 	},
 	{
 		"assign": "33004715",
 		"jp_text": "☆ホリーキャロルドレス箱５",
 		"tr_text": "☆Holly Carol Dress Box 5",
 		"jp_explain": "以下のアイテムを獲得する。\n「ホリーキャロルドレス[Ou]」\n「ホリーキャロルドレス海[Ba]」\n「ホリーキャロルバレッタ」他一種",
-		"tr_explain": "Al usarlo recibiras:\n[Holly Carol Dress [Ou]]\n[Holly Carol Dress Sea [Ba]]\n[Holly Carol Barrette] +1 other"
+		"tr_explain": "Al usarlo recibiras:\n[Holly Carol Dress [Ou]]\n[Holly Carol Dress Sea [Ba]]\n[Holly Carol Barrette] +1 mas"
 	},
 	{
 		"assign": "33004716",
 		"jp_text": "☆ホリーキャロルドレス箱６",
 		"tr_text": "☆Holly Carol Dress Box 6",
 		"jp_explain": "以下のアイテムを獲得する。\n「ホリーキャロルドレス[Ou]」\n「ホリーキャロルドレス桜[Ba]」\n「ホリーキャロルバレッタ」他一種",
-		"tr_explain": "Al usarlo recibiras:\n[Holly Carol Dress [Ou]]\n[Holly Carol Dress Sakura [Ba]]\n[Holly Carol Barrette] +1 other"
+		"tr_explain": "Al usarlo recibiras:\n[Holly Carol Dress [Ou]]\n[Holly Carol Dress Sakura [Ba]]\n[Holly Carol Barrette] +1 mas"
 	},
 	{
 		"assign": "33004717",
 		"jp_text": "☆メリーキャロルドレス箱",
 		"tr_text": "☆Merry Carol Dress Box",
 		"jp_explain": "以下のアイテムを獲得する。\n「メリーキャロルドレス」\n「メリーキャロルバニー」\n「メリーキャロルバレッタ」他一種",
-		"tr_explain": "Al usarlo recibiras:\n[Merry Carol Dress]\n[Merry Carol Bunny]\n[Merry Carol Barrette] +1 other"
+		"tr_explain": "Al usarlo recibiras:\n[Merry Carol Dress]\n[Merry Carol Bunny]\n[Merry Carol Barrette] +1 mas"
 	},
 	{
 		"assign": "33004718",
 		"jp_text": "☆メリーキャロルドレス葉箱",
 		"tr_text": "☆Merry Carol Dress Leaf Box",
 		"jp_explain": "以下のアイテムを獲得する。\n「メリーキャロルドレス葉」\n「メリーキャロルバニー」\n「メリーキャロルバレッタ」他一種",
-		"tr_explain": "Al usarlo recibiras:\n[Merry Carol Dress Leaf]\n[Merry Carol Bunny]\n[Merry Carol Barrette] +1 other"
+		"tr_explain": "Al usarlo recibiras:\n[Merry Carol Dress Leaf]\n[Merry Carol Bunny]\n[Merry Carol Barrette] +1 mas"
 	},
 	{
 		"assign": "33004719",
 		"jp_text": "☆メリーキャロルドレス影箱",
 		"tr_text": "☆Merry Carol Dress Shadow Box",
 		"jp_explain": "以下のアイテムを獲得する。\n「メリーキャロルドレス影」\n「メリーキャロルバニー」\n「メリーキャロルバレッタ」他一種",
-		"tr_explain": "Al usarlo recibiras:\n[Merry Carol Dress Shadow]\n[Merry Carol Bunny]\n[Merry Carol Barrette] +1 other"
+		"tr_explain": "Al usarlo recibiras:\n[Merry Carol Dress Shadow]\n[Merry Carol Bunny]\n[Merry Carol Barrette] +1 mas"
 	},
 	{
 		"assign": "33004720",
 		"jp_text": "☆メリーキャロルドレス雪箱",
 		"tr_text": "☆Merry Carol Dress Snow Box",
 		"jp_explain": "以下のアイテムを獲得する。\n「メリーキャロルドレス雪」\n「メリーキャロルバニー」\n「メリーキャロルバレッタ」他一種",
-		"tr_explain": "Al usarlo recibiras:\n[Merry Carol Dress Snow]\n[Merry Carol Bunny]\n[Merry Carol Barrette] +1 other"
+		"tr_explain": "Al usarlo recibiras:\n[Merry Carol Dress Snow]\n[Merry Carol Bunny]\n[Merry Carol Barrette] +1 mas"
 	},
 	{
 		"assign": "33004721",
 		"jp_text": "☆メリーキャロルドレス夜箱",
 		"tr_text": "☆Merry Carol Dress Night Box",
 		"jp_explain": "以下のアイテムを獲得する。\n「メリーキャロルドレス夜」\n「メリーキャロルバニー」\n「メリーキャロルバレッタ」他一種",
-		"tr_explain": "Al usarlo recibiras:\n[Merry Carol Dress Night]\n[Merry Carol Bunny]\n[Merry Carol Barrette] +1 other"
+		"tr_explain": "Al usarlo recibiras:\n[Merry Carol Dress Night]\n[Merry Carol Bunny]\n[Merry Carol Barrette] +1 mas"
 	},
 	{
 		"assign": "33004722",
 		"jp_text": "☆メリーキャロルドレス紅箱",
 		"tr_text": "☆Merry Carol Dress Crimson Box",
 		"jp_explain": "以下のアイテムを獲得する。\n「メリーキャロルドレス紅」\n「メリーキャロルバニー」\n「メリーキャロルバレッタ」他一種",
-		"tr_explain": "Al usarlo recibiras:\n[Merry Carol Dress Crimson]\n[Merry Carol Bunny]\n[Merry Carol Barrette] +1 other"
+		"tr_explain": "Al usarlo recibiras:\n[Merry Carol Dress Crimson]\n[Merry Carol Bunny]\n[Merry Carol Barrette] +1 mas"
 	},
 	{
 		"assign": "33004723",
@@ -32197,42 +32197,42 @@
 		"jp_text": "☆ドラグニカクロス箱１",
 		"tr_text": "☆Dragnica Cross Box 1",
 		"jp_explain": "以下のアイテムを獲得する。\n「ドラグニカクロス[Ou]」\n「ドラグニカクロス[Ba]」\n「ドラグニカクロス[In]」他一種",
-		"tr_explain": "Al usarlo recibiras:\n[Dragnica Cross [Ou]]\n[Dragnica Cross [Ba]]\n[Dragnica Cross [In]] +1 other"
+		"tr_explain": "Al usarlo recibiras:\n[Dragnica Cross [Ou]]\n[Dragnica Cross [Ba]]\n[Dragnica Cross [In]] +1 mas"
 	},
 	{
 		"assign": "33004813",
 		"jp_text": "☆ドラグニカクロス箱２",
 		"tr_text": "☆Dragnica Cross Box 2",
 		"jp_explain": "以下のアイテムを獲得する。\n「ドラグニカクロス[Ou]」\n「ドラグニカクロス紅[Ba]」\n「ドラグニカクロス紅[In]」他一種",
-		"tr_explain": "Al usarlo recibiras:\n[Dragnica Cross [Ou]]\n[Dragnica Cross Crimson [Ba]]\n[Dragnica C. Crimson [In]] +1 other"
+		"tr_explain": "Al usarlo recibiras:\n[Dragnica Cross [Ou]]\n[Dragnica Cross Crimson [Ba]]\n[Dragnica C. Crimson [In]] +1 mas"
 	},
 	{
 		"assign": "33004814",
 		"jp_text": "☆ドラグニカクロス箱３",
 		"tr_text": "☆Dragnica Cross Box 3",
 		"jp_explain": "以下のアイテムを獲得する。\n「ドラグニカクロス[Ou]」\n「ドラグニカクロス銀[Ba]」\n「ドラグニカクロス銀[In]」他一種",
-		"tr_explain": "Al usarlo recibiras:\n[Dragnica Cross [Ou]]\n[Dragnica Cross Silver [Ba]]\n[Dragnica C. Silver [In]] +1 other"
+		"tr_explain": "Al usarlo recibiras:\n[Dragnica Cross [Ou]]\n[Dragnica Cross Silver [Ba]]\n[Dragnica C. Silver [In]] +1 mas"
 	},
 	{
 		"assign": "33004815",
 		"jp_text": "☆ドラグニカクロス箱４",
 		"tr_text": "☆Dragnica Cross Box 4",
 		"jp_explain": "以下のアイテムを獲得する。\n「ドラグニカクロス[Ou]」\n「ドラグニカクロス夜[Ba]」\n「ドラグニカクロス夜[In]」他一種",
-		"tr_explain": "Al usarlo recibiras:\n[Dragnica Cross [Ou]]\n[Dragnica Cross Night [Ba]]\n[Dragnica C. Night [In]] +1 other"
+		"tr_explain": "Al usarlo recibiras:\n[Dragnica Cross [Ou]]\n[Dragnica Cross Night [Ba]]\n[Dragnica C. Night [In]] +1 mas"
 	},
 	{
 		"assign": "33004816",
 		"jp_text": "☆ドラグニカクロス箱５",
 		"tr_text": "☆Dragnica Cross Box 5",
 		"jp_explain": "以下のアイテムを獲得する。\n「ドラグニカクロス[Ou]」\n「ドラグニカクロス雪[Ba]」\n「ドラグニカクロス雪[In]」他一種",
-		"tr_explain": "Al usarlo recibiras:\n[Dragnica Cross [Ou]]\n[Dragnica Cross Snow [Ba]]\n[Dragnica C. Snow [In]] +1 other"
+		"tr_explain": "Al usarlo recibiras:\n[Dragnica Cross [Ou]]\n[Dragnica Cross Snow [Ba]]\n[Dragnica C. Snow [In]] +1 mas"
 	},
 	{
 		"assign": "33004817",
 		"jp_text": "☆ドラグニカクロス箱６",
 		"tr_text": "☆Dragnica Cross Box 6",
 		"jp_explain": "以下のアイテムを獲得する。\n「ドラグニカクロス[Ou]」\n「ドラグニカクロス影[Ba]」\n「ドラグニカクロス影[In]」他一種",
-		"tr_explain": "Al usarlo recibiras:\n[Dragnica Cross [Ou]]\n[Dragnica Cross Shadow [Ba]]\n[Dragnica C. Shadow [In]] +1 other"
+		"tr_explain": "Al usarlo recibiras:\n[Dragnica Cross [Ou]]\n[Dragnica Cross Shadow [Ba]]\n[Dragnica C. Shadow [In]] +1 mas"
 	},
 	{
 		"assign": "33004818",
@@ -32309,35 +32309,35 @@
 		"jp_text": "☆ドラグニアフラール箱２",
 		"tr_text": "☆Dragnier Flower Box 2",
 		"jp_explain": "以下のアイテムを獲得する。\n「ドラグニアフラール[Ou]」\n「ドラグニアフラール紅[Ba]」\n「ドラグニアフラール紅[In]」他一種",
-		"tr_explain": "Al usarlo recibiras:\n[Dragnier Flower [Ou]]\n[Dragnier Flower Crimson [Ba]]\n[Dragnier F. Crimson [In]] +1 other"
+		"tr_explain": "Al usarlo recibiras:\n[Dragnier Flower [Ou]]\n[Dragnier Flower Crimson [Ba]]\n[Dragnier F. Crimson [In]] +1 mas"
 	},
 	{
 		"assign": "33004829",
 		"jp_text": "☆ドラグニアフラール箱３",
 		"tr_text": "☆Dragnier Flower Box 3",
 		"jp_explain": "以下のアイテムを獲得する。\n「ドラグニアフラール[Ou]」\n「ドラグニアフラール桜[Ba]」\n「ドラグニアフラール桜[In]」他一種",
-		"tr_explain": "Al usarlo recibiras:\n[Dragnier Flower [Ou]]\n[Dragnier Flower Sakura [Ba]]\n[Dragnier F. Sakura [In]] +1 other"
+		"tr_explain": "Al usarlo recibiras:\n[Dragnier Flower [Ou]]\n[Dragnier Flower Sakura [Ba]]\n[Dragnier F. Sakura [In]] +1 mas"
 	},
 	{
 		"assign": "33004830",
 		"jp_text": "☆ドラグニアフラール箱４",
 		"tr_text": "☆Dragnier Flower Box 4",
 		"jp_explain": "以下のアイテムを獲得する。\n「ドラグニアフラール[Ou]」\n「ドラグニアフラール夜[Ba]」\n「ドラグニアフラール夜[In]」他一種",
-		"tr_explain": "Al usarlo recibiras:\n[Dragnier Flower [Ou]]\n[Dragnier Flower Night [Ba]]\n[Dragnier F. Night [In]] +1 other"
+		"tr_explain": "Al usarlo recibiras:\n[Dragnier Flower [Ou]]\n[Dragnier Flower Night [Ba]]\n[Dragnier F. Night [In]] +1 mas"
 	},
 	{
 		"assign": "33004831",
 		"jp_text": "☆ドラグニアフラール箱５",
 		"tr_text": "☆Dragnier Flower Box 5",
 		"jp_explain": "以下のアイテムを獲得する。\n「ドラグニアフラール[Ou]」\n「ドラグニアフラール雪[Ba]」\n「ドラグニアフラール雪[In]」他一種",
-		"tr_explain": "Al usarlo recibiras:\n[Dragnier Flower [Ou]]\n[Dragnier Flower Snow [Ba]]\n[Dragnier F. Snow [In]] +1 other"
+		"tr_explain": "Al usarlo recibiras:\n[Dragnier Flower [Ou]]\n[Dragnier Flower Snow [Ba]]\n[Dragnier F. Snow [In]] +1 mas"
 	},
 	{
 		"assign": "33004832",
 		"jp_text": "☆ドラグニアフラール箱６",
 		"tr_text": "☆Dragnier Flower Box 6",
 		"jp_explain": "以下のアイテムを獲得する。\n「ドラグニアフラール[Ou]」\n「ドラグニアフラール影[Ba]」\n「ドラグニアフラール影[In]」他一種",
-		"tr_explain": "Al usarlo recibiras:\n[Dragnier Flower [Ou]]\n[Dragnier Flower Shadow [Ba]]\n[Dragnier F. Shadow [In]] +1 other"
+		"tr_explain": "Al usarlo recibiras:\n[Dragnier Flower [Ou]]\n[Dragnier Flower Shadow [Ba]]\n[Dragnier F. Shadow [In]] +1 mas"
 	},
 	{
 		"assign": "33004833",
@@ -32792,14 +32792,14 @@
 		"jp_text": "☆ヘリオスディルア雪箱１",
 		"tr_text": "☆Helios Dirah Snow Box 1",
 		"jp_explain": "以下のアイテムを獲得する。\n「ヘリオスディルア雪[Ou]」\n「ヘリオスディルア茜[Ba]」\n「ヘリオスソックスＢ」他一種",
-		"tr_explain": "Al usarlo recibiras:\n[Helios Dirah Snow [Ou]]\n[Helios Dirah Madder [Ba]]\n[Helios Socks B] +1 other"
+		"tr_explain": "Al usarlo recibiras:\n[Helios Dirah Snow [Ou]]\n[Helios Dirah Madder [Ba]]\n[Helios Socks B] +1 mas"
 	},
 	{
 		"assign": "33004898",
 		"jp_text": "☆ヘリオスディルア雪箱２",
 		"tr_text": "☆Helios Dirah Snow Box 2",
 		"jp_explain": "以下のアイテムを獲得する。\n「ヘリオスディルア雪[Ou]」\n「ヘリオスディルア玄[Ba]」\n「ヘリオスソックスＢ」他一種",
-		"tr_explain": "Al usarlo recibiras:\n[Helios Dirah Snow [Ou]]\n[Helios Dirah Mysterious [Ba]]\n[Helios Socks B] +1 other"
+		"tr_explain": "Al usarlo recibiras:\n[Helios Dirah Snow [Ou]]\n[Helios Dirah Mysterious [Ba]]\n[Helios Socks B] +1 mas"
 	},
 	{
 		"assign": "33004899",
@@ -34164,7 +34164,7 @@
 		"jp_text": "☆コープスパーカーＭ箱１",
 		"tr_text": "☆Corpse Parka M Box 1",
 		"jp_explain": "以下のアイテムを獲得する。\n「コープスパーカーＭ[Ou]」\n「上なしカーゴパンツ[Ba]」\n「ペイントタンク[In]」他一種",
-		"tr_explain": "Al usarlo recibiras:\n[Corpse Parka M [Ou]]\n[Topless Cargo [Ba]]\n[Painted Tank Top [In]] +1 other"
+		"tr_explain": "Al usarlo recibiras:\n[Corpse Parka M [Ou]]\n[Topless Cargo [Ba]]\n[Painted Tank Top [In]] +1 mas"
 	},
 	{
 		"assign": "33005094",
@@ -34283,35 +34283,35 @@
 		"jp_text": "☆ステラメモリーズセット２",
 		"tr_text": "☆Stella Memories Set 2",
 		"jp_explain": "以下のアイテムを獲得する。\n「ステラメモリーズ[Ou]」\n「ステラメモリーズ影[Ba]」\n「ステラメモリーズ影[In]」他一種",
-		"tr_explain": "Al usarlo recibiras:\n[Stella Memories [Ou]]\n[Stella Memories Shadow [Ba]]\n[S. Memories Shadow [In]] +1 other"
+		"tr_explain": "Al usarlo recibiras:\n[Stella Memories [Ou]]\n[Stella Memories Shadow [Ba]]\n[S. Memories Shadow [In]] +1 mas"
 	},
 	{
 		"assign": "33005111",
 		"jp_text": "☆ステラメモリーズセット３",
 		"tr_text": "☆Stella Memories Set 3",
 		"jp_explain": "以下のアイテムを獲得する。\n「ステラメモリーズ[Ou]」\n「ステラメモリーズ紅[Ba]」\n「ステラメモリーズ紅[In]」他一種",
-		"tr_explain": "Al usarlo recibiras:\n[Stella Memories [Ou]]\n[Stella Memories Crimson [Ba]]\n[S. Memories Crimson [In]] +1 other"
+		"tr_explain": "Al usarlo recibiras:\n[Stella Memories [Ou]]\n[Stella Memories Crimson [Ba]]\n[S. Memories Crimson [In]] +1 mas"
 	},
 	{
 		"assign": "33005112",
 		"jp_text": "☆ステラメモリーズセット４",
 		"tr_text": "☆Stella Memories Set 4",
 		"jp_explain": "以下のアイテムを獲得する。\n「ステラメモリーズ[Ou]」\n「ステラメモリーズ海[Ba]」\n「ステラメモリーズ海[In]」他一種",
-		"tr_explain": "Al usarlo recibiras:\n[Stella Memories [Ou]]\n[Stella Memories Sea [Ba]]\n[S. Memories Sea [In]] +1 other"
+		"tr_explain": "Al usarlo recibiras:\n[Stella Memories [Ou]]\n[Stella Memories Sea [Ba]]\n[S. Memories Sea [In]] +1 mas"
 	},
 	{
 		"assign": "33005113",
 		"jp_text": "☆ステラメモリーズセット５",
 		"tr_text": "☆Stella Memories Set 5",
 		"jp_explain": "以下のアイテムを獲得する。\n「ステラメモリーズ[Ou]」\n「ステラメモリーズ桜[Ba]」\n「ステラメモリーズ桜[In]」他一種",
-		"tr_explain": "Al usarlo recibiras:\n[Stella Memories [Ou]]\n[Stella Memories Sakura [Ba]]\n[S. Memories Sakura [In]] +1 other"
+		"tr_explain": "Al usarlo recibiras:\n[Stella Memories [Ou]]\n[Stella Memories Sakura [Ba]]\n[S. Memories Sakura [In]] +1 mas"
 	},
 	{
 		"assign": "33005114",
 		"jp_text": "☆ステラメモリーズセット６",
 		"tr_text": "☆Stella Memories Set 6",
 		"jp_explain": "以下のアイテムを獲得する。\n「ステラメモリーズ[Ou]」\n「ステラメモリーズ栗[Ba]」\n「ステラメモリーズ月[In]」他一種",
-		"tr_explain": "Al usarlo recibiras:\n[Stella Memories [Ou]]\n[Stella Memories Chestnut [Ba]]\n[S. Memories Moon [In]] +1 other"
+		"tr_explain": "Al usarlo recibiras:\n[Stella Memories [Ou]]\n[Stella Memories Chestnut [Ba]]\n[S. Memories Moon [In]] +1 mas"
 	},
 	{
 		"assign": "33005115",
@@ -36425,7 +36425,7 @@
 		"jp_text": "☆佐倉双葉の私服箱Ｂ",
 		"tr_text": "☆Futaba Sakura Casual Box B",
 		"jp_explain": "以下のアイテムを獲得する。\n「佐倉双葉の私服」\n「佐倉双葉ヘアー」\n「佐倉双葉メガネ」他一種",
-		"tr_explain": "Al usarlo recibiras:\n[Futaba Sakura's Casual]\n[Futaba Sakura Hair]\n[Futaba Sakura Glasses] +1 other"
+		"tr_explain": "Al usarlo recibiras:\n[Futaba Sakura's Casual]\n[Futaba Sakura Hair]\n[Futaba Sakura Glasses] +1 mas"
 	},
 	{
 		"assign": "33005417",
@@ -36796,42 +36796,42 @@
 		"jp_text": "☆ハナヤギテリトリーＭ箱１",
 		"tr_text": "☆Hanayagi Territory M Box 1",
 		"jp_explain": "以下のアイテムを獲得する。\n「ハナヤギテリトリーＭ[Ou]」\n「ハナヤギテリトリーＭ[Ba]」\n「ハナヤギグローブＭ」他一種",
-		"tr_explain": "Al usarlo recibiras:\n[H. Territory M [Ou]]\n[H. Territory M [Ba]]\n[Hanayagi Gloves M] +1 other"
+		"tr_explain": "Al usarlo recibiras:\n[H. Territory M [Ou]]\n[H. Territory M [Ba]]\n[Hanayagi Gloves M] +1 mas"
 	},
 	{
 		"assign": "33005470",
 		"jp_text": "☆ハナヤギテリトリーＭ箱２",
 		"tr_text": "☆Hanayagi Territory M Box 2",
 		"jp_explain": "以下のアイテムを獲得する。\n「ハナヤギテリトリーＭ[Ou]」\n「ハナヤギテリトリーＭ月[Ba]」\n「ハナヤギグローブＭ」他一種",
-		"tr_explain": "Al usarlo recibiras:\n[H. Territory M [Ou]]\n[H. Territory M Moon [Ba]]\n[Hanayagi Gloves M] +1 other"
+		"tr_explain": "Al usarlo recibiras:\n[H. Territory M [Ou]]\n[H. Territory M Moon [Ba]]\n[Hanayagi Gloves M] +1 mas"
 	},
 	{
 		"assign": "33005471",
 		"jp_text": "☆ハナヤギテリトリーＭ箱３",
 		"tr_text": "☆Hanayagi Territory M Box 3",
 		"jp_explain": "以下のアイテムを獲得する。\n「ハナヤギテリトリーＭ[Ou]」\n「ハナヤギテリトリーＭ雅[Ba]」\n「ハナヤギグローブＭ」他一種",
-		"tr_explain": "Al usarlo recibiras:\n[H. Territory M [Ou]]\n[H. Territory M Elegance [Ba]]\n[Hanayagi Gloves M] +1 other"
+		"tr_explain": "Al usarlo recibiras:\n[H. Territory M [Ou]]\n[H. Territory M Elegance [Ba]]\n[Hanayagi Gloves M] +1 mas"
 	},
 	{
 		"assign": "33005472",
 		"jp_text": "☆ハナヤギテリトリーＭ箱４",
 		"tr_text": "☆Hanayagi Territory M Box 4",
 		"jp_explain": "以下のアイテムを獲得する。\n「ハナヤギテリトリーＭ[Ou]」\n「ハナヤギテリトリーＭ空[Ba]」\n「ハナヤギグローブＭ」他一種",
-		"tr_explain": "Al usarlo recibiras:\n[H. Territory M [Ou]]\n[H. Territory M Sky [Ba]]\n[Hanayagi Gloves M] +1 other"
+		"tr_explain": "Al usarlo recibiras:\n[H. Territory M [Ou]]\n[H. Territory M Sky [Ba]]\n[Hanayagi Gloves M] +1 mas"
 	},
 	{
 		"assign": "33005473",
 		"jp_text": "☆ハナヤギテリトリーＭ箱５",
 		"tr_text": "☆Hanayagi Territory M Box 5",
 		"jp_explain": "以下のアイテムを獲得する。\n「ハナヤギテリトリーＭ[Ou]」\n「ハナヤギテリトリーＭ雪[Ba]」\n「ハナヤギグローブＭ」他一種",
-		"tr_explain": "Al usarlo recibiras:\n[H. Territory M [Ou]]\n[H. Territory M Snow [Ba]]\n[Hanayagi Gloves M] +1 other"
+		"tr_explain": "Al usarlo recibiras:\n[H. Territory M [Ou]]\n[H. Territory M Snow [Ba]]\n[Hanayagi Gloves M] +1 mas"
 	},
 	{
 		"assign": "33005474",
 		"jp_text": "☆ハナヤギテリトリーＭ箱６",
 		"tr_text": "☆Hanayagi Territory M Box 6",
 		"jp_explain": "以下のアイテムを獲得する。\n「ハナヤギテリトリーＭ[Ou]」\n「ハナヤギテリトリーＭ影[Ba]」\n「ハナヤギグローブＭ」他一種",
-		"tr_explain": "Al usarlo recibiras:\n[H. Territory M [Ou]]\n[H. Territory M Shadow [Ba]]\n[Hanayagi Gloves M] +1 other"
+		"tr_explain": "Al usarlo recibiras:\n[H. Territory M [Ou]]\n[H. Territory M Shadow [Ba]]\n[Hanayagi Gloves M] +1 mas"
 	},
 	{
 		"assign": "33005475",
@@ -37517,14 +37517,14 @@
 		"jp_text": "シュレッガースタイル箱",
 		"tr_text": "Schlegger Style Set",
 		"jp_explain": "以下のアイテムを獲得する。\n「シュレッガーヘアー」\n「シュレッガーの冠」\n「シュレッガーのマント」他一種",
-		"tr_explain": "Al usarlo recibiras:\n[Schlegger Hair]\n[Schlegger Crown]\n[Schlegger Cloak] +1 other"
+		"tr_explain": "Al usarlo recibiras:\n[Schlegger Hair]\n[Schlegger Crown]\n[Schlegger Cloak] +1 mas"
 	},
 	{
 		"assign": "33005573",
 		"jp_text": "エルミルスタイルセット",
 		"tr_text": "Elmir Style Set",
 		"jp_explain": "以下のアイテムを獲得する。\n「エルミルヘアー」\n「エルミルの帽子」\n「エルミルのペンダント」他一種",
-		"tr_explain": "Al usarlo recibiras:\n[Elmir Hair]\n[Elmir Hat]\n[Elmir Pendant] +1 other"
+		"tr_explain": "Al usarlo recibiras:\n[Elmir Hair]\n[Elmir Hat]\n[Elmir Pendant] +1 mas"
 	},
 	{
 		"assign": "33005574",
@@ -37902,42 +37902,42 @@
 		"jp_text": "☆ビターシムーンセット１",
 		"tr_text": "☆Bitter Simoom Set 1",
 		"jp_explain": "以下のアイテムを獲得する。\n「ビターシムーン[Ou]」\n「ビターシムーン[Ba]」\n「ビターシムーン[In]」他一種",
-		"tr_explain": "Al usarlo recibiras:\n[Bitter Simoom [Ou]]\n[Bitter Simoom [Ba]]\n[Bitter Simoom [In]] +1 other"
+		"tr_explain": "Al usarlo recibiras:\n[Bitter Simoom [Ou]]\n[Bitter Simoom [Ba]]\n[Bitter Simoom [In]] +1 mas"
 	},
 	{
 		"assign": "33005628",
 		"jp_text": "☆ビターシムーンセット２",
 		"tr_text": "☆Bitter Simoom Set 2",
 		"jp_explain": "以下のアイテムを獲得する。\n「ビターシムーン[Ou]」\n「ビターシムーン夜[Ba]」\n「ビターシムーン夜[In]」他一種",
-		"tr_explain": "Al usarlo recibiras:\n[Bitter Simoom [Ou]]\n[Bitter Simoom Night [Ba]]\n[Bitter Simoom Night [In]] +1 other"
+		"tr_explain": "Al usarlo recibiras:\n[Bitter Simoom [Ou]]\n[Bitter Simoom Night [Ba]]\n[Bitter Simoom Night [In]] +1 mas"
 	},
 	{
 		"assign": "33005629",
 		"jp_text": "☆ビターシムーンセット３",
 		"tr_text": "☆Bitter Simoom Set 3",
 		"jp_explain": "以下のアイテムを獲得する。\n「ビターシムーン[Ou]」\n「ビターシムーン雅[Ba]」\n「ビターシムーン雅[In]」他一種",
-		"tr_explain": "Al usarlo recibiras:\n[Bitter Simoom [Ou]]\n[Bitter Simoom Elegance [Ba]]\n[Bitter Simoom Elegance [In]] +1 other"
+		"tr_explain": "Al usarlo recibiras:\n[Bitter Simoom [Ou]]\n[Bitter Simoom Elegance [Ba]]\n[Bitter Simoom Elegance [In]] +1 mas"
 	},
 	{
 		"assign": "33005630",
 		"jp_text": "☆ビターシムーンセット４",
 		"tr_text": "☆Bitter Simoom Set 4",
 		"jp_explain": "以下のアイテムを獲得する。\n「ビターシムーン[Ou]」\n「ビターシムーン栗[Ba]」\n「ビターシムーン栗[In]」他一種",
-		"tr_explain": "Al usarlo recibiras:\n[Bitter Simoom [Ou]]\n[Bitter Simoom Chestnut [Ba]]\n[Bitter Simoom Chestnut [In]] +1 other"
+		"tr_explain": "Al usarlo recibiras:\n[Bitter Simoom [Ou]]\n[Bitter Simoom Chestnut [Ba]]\n[Bitter Simoom Chestnut [In]] +1 mas"
 	},
 	{
 		"assign": "33005631",
 		"jp_text": "☆ビターシムーンセット５",
 		"tr_text": "☆Bitter Simoom Set 5",
 		"jp_explain": "以下のアイテムを獲得する。\n「ビターシムーン[Ou]」\n「ビターシムーン雪[Ba]」\n「ビターシムーン雪[In]」他一種",
-		"tr_explain": "Al usarlo recibiras:\n[Bitter Simoom [Ou]]\n[Bitter Simoom Snow [Ba]]\n[Bitter Simoom Snow [In]] +1 other"
+		"tr_explain": "Al usarlo recibiras:\n[Bitter Simoom [Ou]]\n[Bitter Simoom Snow [Ba]]\n[Bitter Simoom Snow [In]] +1 mas"
 	},
 	{
 		"assign": "33005632",
 		"jp_text": "☆ビターシムーンセット６",
 		"tr_text": "☆Bitter Simoom Set 6",
 		"jp_explain": "以下のアイテムを獲得する。\n「ビターシムーン[Ou]」\n「ビターシムーン紅[Ba]」\n「ビターシムーン紅[In]」他一種",
-		"tr_explain": "Al usarlo recibiras:\n[Bitter Simoom [Ou]]\n[Bitter Simoom Crimson [Ba]]\n[Bitter Simoom Crimson [In]] +1 other"
+		"tr_explain": "Al usarlo recibiras:\n[Bitter Simoom [Ou]]\n[Bitter Simoom Crimson [Ba]]\n[Bitter Simoom Crimson [In]] +1 mas"
 	},
 	{
 		"assign": "33005633",
@@ -37958,7 +37958,7 @@
 		"jp_text": "☆ゼルフィカールセット",
 		"tr_text": "☆Zelikfar Set",
 		"jp_explain": "以下のアイテムを獲得する。\n「ゼルフィカール・ボディ」\n「ゼルフィカール・ヘッド」\n「バーゼラルド・アーム」他一種",
-		"tr_explain": "Al usarlo recibiras:\n[Zelfikar Body]\n[Zelfikar Head]\n[Baselard Arms] +1 other"
+		"tr_explain": "Al usarlo recibiras:\n[Zelfikar Body]\n[Zelfikar Head]\n[Baselard Arms] +1 mas"
 	},
 	{
 		"assign": "33005636",
@@ -38028,42 +38028,42 @@
 		"jp_text": "☆スイートシムーンセット１",
 		"tr_text": "☆Sweet Simoom Set 1",
 		"jp_explain": "以下のアイテムを獲得する。\n「スイートシムーン[Ou]」\n「スイートシムーン[Ba]」\n「スイートシムーン[In]」他一種",
-		"tr_explain": "Al usarlo recibiras:\n[Sweet Simoom [Ou]]\n[Sweet Simoom [Ba]]\n[Sweet Simoom [In]] +1 other"
+		"tr_explain": "Al usarlo recibiras:\n[Sweet Simoom [Ou]]\n[Sweet Simoom [Ba]]\n[Sweet Simoom [In]] +1 mas"
 	},
 	{
 		"assign": "33005646",
 		"jp_text": "☆スイートシムーンセット２",
 		"tr_text": "☆Sweet Simoom Set 2",
 		"jp_explain": "以下のアイテムを獲得する。\n「スイートシムーン[Ou]」\n「スイートシムーン紅[Ba]」\n「スイートシムーン紅[In]」他一種",
-		"tr_explain": "Al usarlo recibiras:\n[Sweet Simoom [Ou]]\n[Sweet Simoom Crimson [Ba]]\n[Sweet Simoom Crimson [In]] +1 other"
+		"tr_explain": "Al usarlo recibiras:\n[Sweet Simoom [Ou]]\n[Sweet Simoom Crimson [Ba]]\n[Sweet Simoom Crimson [In]] +1 mas"
 	},
 	{
 		"assign": "33005647",
 		"jp_text": "☆スイートシムーンセット３",
 		"tr_text": "☆Sweet Simoom Set 3",
 		"jp_explain": "以下のアイテムを獲得する。\n「スイートシムーン[Ou]」\n「スイートシムーン夜[Ba]」\n「スイートシムーン夜[In]」他一種",
-		"tr_explain": "Al usarlo recibiras:\n[Sweet Simoom [Ou]]\n[Sweet Simoom Night [Ba]]\n[Sweet Simoom Night [In]] +1 other"
+		"tr_explain": "Al usarlo recibiras:\n[Sweet Simoom [Ou]]\n[Sweet Simoom Night [Ba]]\n[Sweet Simoom Night [In]] +1 mas"
 	},
 	{
 		"assign": "33005648",
 		"jp_text": "☆スイートシムーンセット４",
 		"tr_text": "☆Sweet Simoom Set 4",
 		"jp_explain": "以下のアイテムを獲得する。\n「スイートシムーン[Ou]」\n「スイートシムーン静[Ba]」\n「スイートシムーン静[In]」他一種",
-		"tr_explain": "Al usarlo recibiras:\n[Sweet Simoom [Ou]]\n[Sweet Simoom Calm [Ba]]\n[Sweet Simoom Calm [In]] +1 other"
+		"tr_explain": "Al usarlo recibiras:\n[Sweet Simoom [Ou]]\n[Sweet Simoom Calm [Ba]]\n[Sweet Simoom Calm [In]] +1 mas"
 	},
 	{
 		"assign": "33005649",
 		"jp_text": "☆スイートシムーンセット５",
 		"tr_text": "☆Sweet Simoom Set 5",
 		"jp_explain": "以下のアイテムを獲得する。\n「スイートシムーン[Ou]」\n「スイートシムーン雪[Ba]」\n「スイートシムーン雪[In]」他一種",
-		"tr_explain": "Al usarlo recibiras:\n[Sweet Simoom [Ou]]\n[Sweet Simoom Snow [Ba]]\n[Sweet Simoom Snow [In]] +1 other"
+		"tr_explain": "Al usarlo recibiras:\n[Sweet Simoom [Ou]]\n[Sweet Simoom Snow [Ba]]\n[Sweet Simoom Snow [In]] +1 mas"
 	},
 	{
 		"assign": "33005650",
 		"jp_text": "☆スイートシムーンセット６",
 		"tr_text": "☆Sweet Simoom Set 6",
 		"jp_explain": "以下のアイテムを獲得する。\n「スイートシムーン[Ou]」\n「スイートシムーン影[Ba]」\n「スイートシムーン影[In]」他一種",
-		"tr_explain": "Al usarlo recibiras:\n[Sweet Simoom [Ou]]\n[Sweet Simoom Shadow [Ba]]\n[Sweet Simoom Shadow [In]] +1 other"
+		"tr_explain": "Al usarlo recibiras:\n[Sweet Simoom [Ou]]\n[Sweet Simoom Shadow [Ba]]\n[Sweet Simoom Shadow [In]] +1 mas"
 	},
 	{
 		"assign": "33005651",
@@ -38546,7 +38546,7 @@
 		"jp_text": "シューティングＤスタイル箱",
 		"tr_text": "Shooting Drive Style Box",
 		"jp_explain": "以下のアイテムを獲得する。\n「シューティングＤヘアー」\n「シューティングＤギアＡ」\n「シューティングＤパーツＡ」他一種",
-		"tr_explain": "Al usarlo recibiras:\n[Shooting Drive Hair]\n[Shooting D Gear A]\n[Shooting D. Gear Parts A] +1 other"
+		"tr_explain": "Al usarlo recibiras:\n[Shooting Drive Hair]\n[Shooting D Gear A]\n[Shooting D. Gear Parts A] +1 mas"
 	},
 	{
 		"assign": "33005720",
@@ -38945,14 +38945,14 @@
 		"jp_text": "☆ハリエット正礼装　影箱１",
 		"tr_text": "☆Harriet Formals Shadow Box 1",
 		"jp_explain": "以下のアイテムを獲得する。\n「ハリエットの正礼装　影[Ou]」\n「ハリエットの正礼装　玄[Ba]」\n「ハリエットのサイハイＢ」他一種",
-		"tr_explain": "Al usarlo recibiras:\n[Harriet Formals Shadow [Ou]]\n[Harriet Formals Black [Ba]]\n[Harriet Thigh Highs B] +1 other"
+		"tr_explain": "Al usarlo recibiras:\n[Harriet Formals Shadow [Ou]]\n[Harriet Formals Black [Ba]]\n[Harriet Thigh Highs B] +1 mas"
 	},
 	{
 		"assign": "33005777",
 		"jp_text": "☆ハリエット正礼装　影箱２",
 		"tr_text": "☆Harriet Formals Shadow Box 2",
 		"jp_explain": "以下のアイテムを獲得する。\n「ハリエットの正礼装　影[Ou]」\n「ハリエットの正礼装　雪[Ba]」\n「ハリエットのサイハイＢ」他一種",
-		"tr_explain": "Al usarlo recibiras:\n[Harriet Formals Shadow [Ou]]\n[Harriet Formals Snow [Ba]]\n[Harriet Thigh Highs B] +1 other"
+		"tr_explain": "Al usarlo recibiras:\n[Harriet Formals Shadow [Ou]]\n[Harriet Formals Snow [Ba]]\n[Harriet Thigh Highs B] +1 mas"
 	},
 	{
 		"assign": "33005778",
@@ -38973,7 +38973,7 @@
 		"jp_text": "フロースタイルセット",
 		"tr_text": "Flo Style Set",
 		"jp_explain": "以下のアイテムを獲得する。\n「フローヘアー」\n「フローのベレー帽」\n「フローのスカーフ」他一種",
-		"tr_explain": "Al usarlo recibiras:\n[Flo Hair]\n[Flo Beret]\n[Flo Scarf] +1 other"
+		"tr_explain": "Al usarlo recibiras:\n[Flo Hair]\n[Flo Beret]\n[Flo Scarf] +1 mas"
 	},
 	{
 		"assign": "33005781",
@@ -39001,6 +39001,734 @@
 		"jp_text": "スティレットグッズ箱Ｃ",
 		"tr_text": "Stylet Goods Box C",
 		"jp_explain": "以下のアイテムを獲得する。\n「肩部大型バランサー」\n「脚部大型バランサー」\n「ＡＣＳクレイドルＡ」他一種",
-		"tr_explain": "Al usarlo recibiras:\n[Large Shoulder Balancer]\n[Large Leg Balancer]\n[ACS Cradle A] +1 other"
+		"tr_explain": "Al usarlo recibiras:\n[Large Shoulder Balancer]\n[Large Leg Balancer]\n[ACS Cradle A] +1 mas"
+	},
+	{
+		"assign": "33005786",
+		"jp_text": "☆アルカナエレメタル箱１",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「アルカナエレメタル[Ou]」\n「アルカナエレメタル[Ba]」\n「エレメタルハット」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33005787",
+		"jp_text": "☆アルカナエレメタル箱２",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「アルカナエレメタル[Ou]」\n「アルカナエレメタル紅[Ba]」\n「エレメタルハット」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33005788",
+		"jp_text": "☆アルカナエレメタル箱３",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「アルカナエレメタル[Ou]」\n「アルカナエレメタル夜[Ba]」\n「エレメタルハット」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33005789",
+		"jp_text": "☆アルカナエレメタル箱４",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「アルカナエレメタル[Ou]」\n「アルカナエレメタル栗[Ba]」\n「エレメタルピアス」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33005790",
+		"jp_text": "☆アルカナエレメタル箱５",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「アルカナエレメタル[Ou]」\n「アルカナエレメタル雪[Ba]」\n「エレメタルピアス」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33005791",
+		"jp_text": "☆アルカナエレメタル箱６",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「アルカナエレメタル[Ou]」\n「アルカナエレメタル影[Ba]」\n「エレメタルピアス」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33005792",
+		"jp_text": "☆イービルテラーセット１",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「イービルテラー[Ou]」\n「イービルテラー[Ba]」\n「イービルテラー[In]」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33005793",
+		"jp_text": "☆イービルテラーセット２",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「イービルテラー[Ou]」\n「イービルテラー紅[Ba]」\n「イービルテラー紅[In]」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33005794",
+		"jp_text": "☆イービルテラーセット３",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「イービルテラー[Ou]」\n「イービルテラー夜[Ba]」\n「イービルテラー夜[In]」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33005795",
+		"jp_text": "☆イービルテラーセット４",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「イービルテラー[Ou]」\n「イービルテラー葉[Ba]」\n「イービルテラー葉[In]」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33005796",
+		"jp_text": "☆イービルテラーセット５",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「イービルテラー[Ou]」\n「イービルテラー雪[Ba]」\n「イービルテラー雪[In]」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33005797",
+		"jp_text": "☆イービルテラーセット６",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「イービルテラー[Ou]」\n「イービルテラー影[Ba]」\n「イービルテラー影[In]」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33005798",
+		"jp_text": "フェスティヴマミーＭセット",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「フェスティヴマミーＭ[Ba]」\n「ハロウィンブローチ」\n「マミースカート」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33005799",
+		"jp_text": "フェスティヴマミーＭ影セット",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「フェスティヴマミーＭ影[Ba]」\n「ハロウィンブローチ」\n「マミースカート」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33005800",
+		"jp_text": "フェスティヴマミーＭ紅セット",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「フェスティヴマミーＭ紅[Ba]」\n「ハロウィンブローチ」\n「マミースカート」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33005801",
+		"jp_text": "フェスティヴマミーＭ夜セット",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「フェスティヴマミーＭ夜[Ba]」\n「ハロウィンブローチ」\n「マミースカート」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33005802",
+		"jp_text": "フェスティヴマミーＭ雅セット",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「フェスティヴマミーＭ雅[Ba]」\n「ハロウィンブローチ」\n「マミースカート」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33005803",
+		"jp_text": "フェスティヴマミーＭ空セット",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「フェスティヴマミーＭ空[Ba]」\n「ハロウィンブローチ」\n「マミースカート」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33005804",
+		"jp_text": "☆レクイエムバインド雪箱１",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「レクイエムバインド雪[Ou]」\n「レクイエムバインド玄[Ba]」\n「レクイエムマスクＢ」他一種",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33005805",
+		"jp_text": "☆レクイエムバインド雪箱２",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「レクイエムバインド雪[Ou]」\n「レクイエムバインド冬[Ba]」\n「レクイエムマスクＢ」他一種",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33005806",
+		"jp_text": "☆ＨマントＭ紅セット１",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「ハーミディオマントＭ紅[Ou]」\n「ハーミディオフードＢ」\n「ハーミディオメイク」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33005807",
+		"jp_text": "☆ＨマントＭ紅セット２",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「ハーミディオマントＭ紅[Ou]」\n「ハーミディオフードＢ」\n「ハーミディオメイク」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33005808",
+		"jp_text": "☆ダルモルスＣＶセット",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「ダルモルスＣＶ」シリーズ\n「ダルモルス・ヘッドＣＶ」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33005809",
+		"jp_text": "☆フロリックポプシー箱１",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「フロリックポプシー[Ou]」\n「フロリックポプシー[Ba]」\n「フロリックポプシー[In]」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33005810",
+		"jp_text": "☆フロリックポプシー箱２",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「フロリックポプシー[Ou]」\n「フロリックポプシー紅[Ba]」\n「フロリックポプシー紅[In]」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33005811",
+		"jp_text": "☆フロリックポプシー箱３",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「フロリックポプシー[Ou]」\n「フロリックポプシー夜[Ba]」\n「フロリックポプシー空[In]」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33005812",
+		"jp_text": "☆フロリックポプシー箱４",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「フロリックポプシー[Ou]」\n「フロリックポプシー桜[Ba]」\n「フロリックポプシー桜[In]」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33005813",
+		"jp_text": "☆フロリックポプシー箱５",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「フロリックポプシー[Ou]」\n「フロリックポプシー影[Ba]」\n「フロリックポプシー影[In]」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33005814",
+		"jp_text": "☆フロリックポプシー箱６",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「フロリックポプシー[Ou]」\n「フロリックポプシー陽[Ba]」\n「フロリックポプシー陽[In]」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33005815",
+		"jp_text": "☆アルカナスピリカル箱１",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「アルカナスピリカル[Ou]」\n「アルカナスピリカル[Ba]」\n「スピリカルハット」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33005816",
+		"jp_text": "☆アルカナスピリカル箱２",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「アルカナスピリカル[Ou]」\n「アルカナスピリカル紅[Ba]」\n「スピリカルハット」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33005817",
+		"jp_text": "☆アルカナスピリカル箱３",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「アルカナスピリカル[Ou]」\n「アルカナスピリカル夜[Ba]」\n「スピリカルハット」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33005818",
+		"jp_text": "☆アルカナスピリカル箱４",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「アルカナスピリカル[Ou]」\n「アルカナスピリカル桜[Ba]」\n「スピリカルハット」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33005819",
+		"jp_text": "☆アルカナスピリカル箱５",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「アルカナスピリカル[Ou]」\n「アルカナスピリカル雪[Ba]」\n「スピリカルハット」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33005820",
+		"jp_text": "☆アルカナスピリカル箱６",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「アルカナスピリカル[Ou]」\n「アルカナスピリカル影[Ba]」\n「スピリカルハット」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33005821",
+		"jp_text": "☆ラミュロスシルエット箱１",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「ラミュロスシルエット[Ou]」\n「ラミュロスシルエット[Ba]」\n「ラミュロスヘアー」他一種",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33005822",
+		"jp_text": "☆ラミュロスシルエット箱２",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「ラミュロスシルエット[Ou]」\n「ラミュロスシルエット紅[Ba]」\n「ラミュロスヘアー」他一種",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33005823",
+		"jp_text": "☆ラミュロスシルエット箱３",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「ラミュロスシルエット[Ou]」\n「ラミュロスシルエット夜[Ba]」\n「ラミュロスヘアー」他一種",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33005824",
+		"jp_text": "☆ラミュロスシルエット箱４",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「ラミュロスシルエット[Ou]」\n「ラミュロスシルエット葉[Ba]」\n「ラミュロスヘアー」他一種",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33005825",
+		"jp_text": "☆ラミュロスシルエット箱５",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「ラミュロスシルエット[Ou]」\n「ラミュロスシルエット雪[Ba]」\n「ラミュロスヘアー」他一種",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33005826",
+		"jp_text": "☆ラミュロスシルエット箱６",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「ラミュロスシルエット[Ou]」\n「ラミュロスシルエット影[Ba]」\n「ラミュロスヘアー」他一種",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33005827",
+		"jp_text": "フェスティヴマミーＦセット",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「フェスティヴマミーＦ[Ba]」\n「ハロウィンブローチ」\n「マミーキャップ」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33005828",
+		"jp_text": "フェスティヴマミーＦ影セット",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「フェスティヴマミーＦ影[Ba]」\n「ハロウィンブローチ」\n「マミーキャップ」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33005829",
+		"jp_text": "フェスティヴマミーＦ紅セット",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「フェスティヴマミーＦ紅[Ba]」\n「ハロウィンブローチ」\n「マミーキャップ」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33005830",
+		"jp_text": "フェスティヴマミーＦ夜セット",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「フェスティヴマミーＦ夜[Ba]」\n「ハロウィンブローチ」\n「マミーキャップ」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33005831",
+		"jp_text": "フェスティヴマミーＦ雅セット",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「フェスティヴマミーＦ雅[Ba]」\n「ハロウィンブローチ」\n「マミーキャップ」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33005832",
+		"jp_text": "フェスティヴマミーＦ空セット",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「フェスティヴマミーＦ空[Ba]」\n「ハロウィンブローチ」\n「マミーキャップ」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33005833",
+		"jp_text": "☆プロウラークラスタ雪箱１",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「プロウラークラスタ雪[Ou]」\n「プロウラークラスタ影[Ba]」\n「プロウラーハット」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33005834",
+		"jp_text": "☆プロウラークラスタ雪箱２",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「プロウラークラスタ雪[Ou]」\n「プロウラークラスタ冬[Ba]」\n「プロウラーヘアー」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33005835",
+		"jp_text": "☆Ｎミスティ紅セット１",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「ノクターナルミスティ紅[Ou]」\n「ノクターナルミスティ玄[Ba]」\n「ノクターナルヘアー」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33005836",
+		"jp_text": "☆Ｎミスティ紅セット２",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「ノクターナルミスティ紅[Ou]」\n「ノクターナルミスティ冬[Ba]」\n「ノクターナルヘアー」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33005837",
+		"jp_text": "☆ＨマントＦ紅セット１",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「ハーミディオマントＦ紅[Ou]」\n「ハーミディオフードＢ」\n「ハーミディオメイク」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33005838",
+		"jp_text": "☆ＨマントＦ紅セット２",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「ハーミディオマントＦ紅[Ou]」\n「ハーミディオフードＢ」\n「ハーミディオメイク」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33005839",
+		"jp_text": "☆フェマーレＣＶセット",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「フェマーレＣＶ」シリーズ\n「フェマーレ・ヘッド」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33005840",
+		"jp_text": "フロリックスタイルセット",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「フロリックヘアー」\n「フロリックハット」\n「フロリックテイル」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33005841",
+		"jp_text": "イービルスタイルセット",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「イービルヘッドバンド」\n「イービルブレスレット」\n「イービルグローブ」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33005842",
+		"jp_text": "極薄まつげセット",
+		"tr_text": "",
+		"jp_explain": "以下のアイテム４種を獲得する。\n「極薄まつげ　黒／紺／茶／白」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33005843",
+		"jp_text": "☆東衣真君セット１",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「東衣真君[Ou]」\n「東衣真君[Ba]」\n「東衣真君[In]」他一種",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33005844",
+		"jp_text": "☆東衣真君セット２",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「東衣真君[Ou]」\n「東衣真君　夜[Ba]」\n「東衣真君　夜[In]」他一種",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33005845",
+		"jp_text": "☆東衣真君セット３",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「東衣真君[Ou]」\n「東衣真君　陽[Ba]」\n「東衣真君　陽[In]」他一種",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33005846",
+		"jp_text": "☆東衣真君セット４",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「東衣真君[Ou]」\n「東衣真君　紅[Ba]」\n「東衣真君　紅[In]」他一種",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33005847",
+		"jp_text": "☆東衣真君セット５",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「東衣真君[Ou]」\n「東衣真君　雪[Ba]」\n「東衣真君　雪[In]」他一種",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33005848",
+		"jp_text": "☆東衣真君セット６",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「東衣真君[Ou]」\n「東衣真君　影[Ba]」\n「東衣真君　影[In]」他一種",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33005849",
+		"jp_text": "☆メイガスセット",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「メイガス」シリーズ\n「メイガス・ヘッド」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33005850",
+		"jp_text": "☆ノースリーブコートＭ雪箱１",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「ノースリーブコートＭ雪[Ou]」\n「タグネックレス　金」\n「タッセル付きストール　黒」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33005851",
+		"jp_text": "☆ノースリーブコートＭ雪箱２",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「ノースリーブコートＭ雪[Ou]」\n「タグネックレス　金」\n「タッセル付きストール　黒」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33005852",
+		"jp_text": "☆レイリィ・レプカセット１",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「レイリィ・レプカ[Ou]」\n「レイリィ・レプカ[Ba]」\n「レイリィのカチューシャ」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33005853",
+		"jp_text": "☆レイリィ・レプカセット２",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「レイリィ・レプカ[Ou]」\n「レイリィ・レプカ紅[Ba]」\n「レイリィのカチューシャ」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33005854",
+		"jp_text": "☆レイリィ・レプカセット３",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「レイリィ・レプカ[Ou]」\n「レイリィ・レプカ影[Ba]」\n「レイリィのカチューシャ」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33005855",
+		"jp_text": "☆レイリィ・レプカセット４",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「レイリィ・レプカ[Ou]」\n「レイリィ・レプカ夜[Ba]」\n「レイリィのカチューシャ」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33005856",
+		"jp_text": "☆レイリィ・レプカセット５",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「レイリィ・レプカ[Ou]」\n「レイリィ・レプカ雪[Ba]」\n「レイリィのカチューシャ」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33005857",
+		"jp_text": "☆レイリィ・レプカセット６",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「レイリィ・レプカ[Ou]」\n「レイリィ・レプカ桜[Ba]」\n「レイリィのカチューシャ」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33005858",
+		"jp_text": "☆カイ・シュレン・レプカ箱１",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「カイ・シュレン・レプカ[Ou]」\n「カイ・シュレン・レプカ[Ba]」\n「カイ・シュレンヘアー１」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33005859",
+		"jp_text": "☆カイ・シュレン・レプカ箱２",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「カイ・シュレン・レプカ[Ou]」\n「カイ・シュレン・レプカ雪[Ba]」\n「カイ・シュレンヘアー１」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33005860",
+		"jp_text": "☆カイ・シュレン・レプカ箱３",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「カイ・シュレン・レプカ[Ou]」\n「カイ・シュレン・レプカ鋼[Ba]」\n「カイ・シュレンヘアー１」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33005861",
+		"jp_text": "☆カイ・シュレン・レプカ箱４",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「カイ・シュレン・レプカ[Ou]」\n「カイ・シュレン・レプカ夜[Ba]」\n「カイ・シュレンヘアー１」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33005862",
+		"jp_text": "☆カイ・シュレン・レプカ箱５",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「カイ・シュレン・レプカ[Ou]」\n「カイ・シュレン・レプカ栗[Ba]」\n「カイ・シュレンヘアー１」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33005863",
+		"jp_text": "☆カイ・シュレン・レプカ箱６",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「カイ・シュレン・レプカ[Ou]」\n「カイ・シュレン・レプカ紅[Ba]」\n「カイ・シュレンヘアー１」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33005864",
+		"jp_text": "☆クライマリア・レプカ箱１",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「クライマリア・レプカ[Ou]」\n「クライマリア・レプカ[Ba]」\n「ゼクス・オウル隊章」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33005865",
+		"jp_text": "☆クライマリア・レプカ箱２",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「クライマリア・レプカ[Ou]」\n「クライマリア・レプカ雪[Ba]」\n「ゼクス・オウル隊章」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33005866",
+		"jp_text": "☆クライマリア・レプカ箱３",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「クライマリア・レプカ[Ou]」\n「クライマリア・レプカ影[Ba]」\n「ゼクス・オウル隊章」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33005867",
+		"jp_text": "☆クライマリア・レプカ箱４",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「クライマリア・レプカ[Ou]」\n「クライマリア・レプカ夜[Ba]」\n「ゼクス・オウル隊章」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33005868",
+		"jp_text": "☆クライマリア・レプカ箱５",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「クライマリア・レプカ[Ou]」\n「クライマリア・レプカ葉[Ba]」\n「ゼクス・オウル隊章」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33005869",
+		"jp_text": "☆クライマリア・レプカ箱６",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「クライマリア・レプカ[Ou]」\n「クライマリア・レプカ紅[Ba]」\n「ゼクス・オウル隊章」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33005870",
+		"jp_text": "☆東衣仙妃セット１",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「東衣仙妃[Ou]」\n「東衣仙妃[Ba]」\n「東衣仙妃[In]」他一種",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33005871",
+		"jp_text": "☆東衣仙妃セット２",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「東衣仙妃[Ou]」\n「東衣仙妃　夜[Ba]」\n「東衣仙妃　夜[In]」他一種",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33005872",
+		"jp_text": "☆東衣仙妃セット３",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「東衣仙妃[Ou]」\n「東衣仙妃　陽[Ba]」\n「東衣仙妃　陽[In]」他一種",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33005873",
+		"jp_text": "☆東衣仙妃セット４",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「東衣仙妃[Ou]」\n「東衣仙妃　紅[Ba]」\n「東衣仙妃　紅[In]」他一種",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33005874",
+		"jp_text": "☆東衣仙妃セット５",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「東衣仙妃[Ou]」\n「東衣仙妃　雪[Ba]」\n「東衣仙妃　雪[In]」他一種",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33005875",
+		"jp_text": "☆東衣仙妃セット６",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「東衣仙妃[Ou]」\n「東衣仙妃　影[Ba]」\n「東衣仙妃　影[In]」他一種",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33005876",
+		"jp_text": "☆フラメルセット",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「フラメル」シリーズ\n「フラメル・ヘッド」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33005877",
+		"jp_text": "☆ノースリーブコートＦ雪箱１",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「ノースリーブコートＦ雪[Ou]」\n「ダメージハーフパンツ冬[Ba]」\n「カジュアルブーツ　黒」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33005878",
+		"jp_text": "☆ノースリーブコートＦ雪箱２",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「ノースリーブコートＦ雪[Ou]」\n「ダメージハーフパンツ玄[Ba]」\n「カジュアルブーツ　黒」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33005879",
+		"jp_text": "☆アリシア・レプカ玄セット",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「アリシア・レプカ玄」\n「アリシアバンダナＢ」\n「エーデルワイス号」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33005880",
+		"jp_text": "☆セルベリア・レプカ冬箱",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「セルベリア・レプカ冬」\n「セルベリアロング」\n「＊ヴァルキュリアの槍」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33005881",
+		"jp_text": "☆セルベリア・ツヴァイ冬箱",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「セルベリア・ツヴァイ冬」\n「セルベリアロング」\n「＊ヴァルキュリアの槍」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33005882",
+		"jp_text": "☆セルベリア・Ｓウェア影箱",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「セルベリア・スイムウェア影」\n「セルベリアロング」\n「＊ヴァルキュリアの槍」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33005883",
+		"jp_text": "☆アリシア・レプカセット２",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「アリシア・レプカ」\n「アリシアバンダナ」\n「エーデルワイス号」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33005884",
+		"jp_text": "☆セルベリア・レプカセット",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「セルベリア・レプカ」\n「セルベリアロング」\n「＊ヴァルキュリアの槍」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33005885",
+		"jp_text": "☆セルベリア・Ｓウェア箱",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「セルベリア・スイムウェア」\n「セルベリアロング」\n「＊ヴァルキュリアの槍」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33005886",
+		"jp_text": "レイリィスタイルセット",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「レイリィヘアー」\n「レイリィの擲弾砲」\n「レイリィのタイツ」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33005887",
+		"jp_text": "カイ・シュレンスタイルセット",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「カイ・シュレンヘアー２」\n「カイ・シュレンの帽子」\n「＊カイ・シュレンの狙撃銃」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33005888",
+		"jp_text": "クライマリアスタイルセット",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「クライマリアヘアー」\n「クライマリアの帽子」\n「＊ヴァルキュリアの杖」",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33005889",
+		"jp_text": "☆セルベリア・ツヴァイセット",
+		"tr_text": "",
+		"jp_explain": "以下のアイテムを獲得する。\n「セルベリア・ツヴァイ」\n「セルベリアロング」\n「＊ヴァルキュリアの槍」",
+		"tr_explain": ""
 	}
 ]
