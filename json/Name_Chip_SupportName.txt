@@ -90,6 +90,16 @@
 		"tr_text": "Will of Native Destruction+"
 	},
 	{
+		"assign": "11030",
+		"jp_text": "エナジーチューニング",
+		"tr_text": "Energy Tuning"
+	},
+	{
+		"assign": "11040",
+		"jp_text": "エナジーチューニング＋",
+		"tr_text": "Energy Tuning+"
+	},
+	{
 		"assign": "30009",
 		"jp_text": "ブーステッドチェイサー",
 		"tr_text": "Boosted Chaser"
@@ -910,26 +920,6 @@
 		"tr_text": "Berserk Storm+"
 	},
 	{
-		"assign": "31149",
-		"jp_text": "-",
-		"tr_text": ""
-	},
-	{
-		"assign": "31150",
-		"jp_text": "-",
-		"tr_text": ""
-	},
-	{
-		"assign": "31151",
-		"jp_text": "-",
-		"tr_text": ""
-	},
-	{
-		"assign": "31152",
-		"jp_text": "-",
-		"tr_text": ""
-	},
-	{
 		"assign": "31155",
 		"jp_text": "漆黒の烈弾",
 		"tr_text": "Powerful Bullet of Ebony"
@@ -1270,16 +1260,6 @@
 		"tr_text": "Elemental Boost+"
 	},
 	{
-		"assign": "31253",
-		"jp_text": "崩天滅地円舞",
-		"tr_text": ""
-	},
-	{
-		"assign": "31254",
-		"jp_text": "崩天滅地円舞＋",
-		"tr_text": ""
-	},
-	{
 		"assign": "31257",
 		"jp_text": "万象破断の連刃",
 		"tr_text": "Natural Rupturing Blades"
@@ -1318,16 +1298,6 @@
 		"assign": "31266",
 		"jp_text": "旋転せし猛風の追走＋",
 		"tr_text": "Blowing Wind's Pursuit+"
-	},
-	{
-		"assign": "31267",
-		"jp_text": "ラッピー・マーチ",
-		"tr_text": "Rappy March"
-	},
-	{
-		"assign": "31268",
-		"jp_text": "ラッピー・マーチ＋",
-		"tr_text": "Rappy March+"
 	},
 	{
 		"assign": "31273",
@@ -1390,16 +1360,6 @@
 		"tr_text": ""
 	},
 	{
-		"assign": "31287",
-		"jp_text": "-",
-		"tr_text": ""
-	},
-	{
-		"assign": "31288",
-		"jp_text": "-",
-		"tr_text": ""
-	},
-	{
 		"assign": "31289",
 		"jp_text": "排除指令執行",
 		"tr_text": ""
@@ -1428,16 +1388,6 @@
 		"assign": "31296",
 		"jp_text": "美女神の悪戯＋",
 		"tr_text": "Beautiful God's Prank+"
-	},
-	{
-		"assign": "31297",
-		"jp_text": "-",
-		"tr_text": ""
-	},
-	{
-		"assign": "31298",
-		"jp_text": "-",
-		"tr_text": ""
 	},
 	{
 		"assign": "31299",
@@ -1477,16 +1427,6 @@
 	{
 		"assign": "31306",
 		"jp_text": "影より願いし払暁の光＋",
-		"tr_text": ""
-	},
-	{
-		"assign": "31307",
-		"jp_text": "-",
-		"tr_text": ""
-	},
-	{
-		"assign": "31308",
-		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
@@ -2455,16 +2395,6 @@
 		"tr_text": "Shining Ray+"
 	},
 	{
-		"assign": "31570",
-		"jp_text": "アメイジング・ドローエンジン",
-		"tr_text": "Amazing Draw Engine"
-	},
-	{
-		"assign": "31571",
-		"jp_text": "アメイジング・ドローエンジン＋",
-		"tr_text": "Amazing Draw Engine+"
-	},
-	{
 		"assign": "31572",
 		"jp_text": "シューティングスターショット",
 		"tr_text": "Shooting Star Shot"
@@ -2527,12 +2457,12 @@
 	{
 		"assign": "31591",
 		"jp_text": "討魔の一矢",
-		"tr_text": ""
+		"tr_text": "Demon-Slaying Arrow"
 	},
 	{
 		"assign": "31592",
 		"jp_text": "討魔の一矢＋",
-		"tr_text": ""
+		"tr_text": "Demon-Slaying Arrow+"
 	},
 	{
 		"assign": "31593",
@@ -2547,12 +2477,12 @@
 	{
 		"assign": "31595",
 		"jp_text": "修羅無尽剣・天断",
-		"tr_text": ""
+		"tr_text": "Unwearying Blade - Judgment"
 	},
 	{
 		"assign": "31596",
 		"jp_text": "修羅無尽剣・天断＋",
-		"tr_text": ""
+		"tr_text": "Unwearying Blade - Judgment+"
 	},
 	{
 		"assign": "31597",
@@ -2567,32 +2497,32 @@
 	{
 		"assign": "31601",
 		"jp_text": "雷牙轟砕拳",
-		"tr_text": ""
+		"tr_text": "Thunder Beast Howling Fist"
 	},
 	{
 		"assign": "31602",
 		"jp_text": "雷牙轟砕拳＋",
-		"tr_text": ""
+		"tr_text": "Thunder Beast Howling Fist+"
 	},
 	{
 		"assign": "31603",
 		"jp_text": "喧嘩上等無鉄砲",
-		"tr_text": ""
+		"tr_text": "Reckless Aggression"
 	},
 	{
 		"assign": "31604",
 		"jp_text": "喧嘩上等無鉄砲＋",
-		"tr_text": ""
+		"tr_text": "Reckless Aggression+"
 	},
 	{
 		"assign": "31607",
 		"jp_text": "レイジィ・ティーブレイク",
-		"tr_text": ""
+		"tr_text": "Lazy Tea Break"
 	},
 	{
 		"assign": "31608",
 		"jp_text": "レイジィ・ティーブレイク＋",
-		"tr_text": ""
+		"tr_text": "Lazy Tea Break+"
 	},
 	{
 		"assign": "31611",
@@ -2607,12 +2537,12 @@
 	{
 		"assign": "31613",
 		"jp_text": "想い伝える勇気の一矢",
-		"tr_text": ""
+		"tr_text": "Arrow of Heart's Desire"
 	},
 	{
 		"assign": "31614",
 		"jp_text": "想い伝える勇気の一矢＋",
-		"tr_text": ""
+		"tr_text": "Arrow of Heart's Desire+"
 	},
 	{
 		"assign": "31615",
@@ -2717,12 +2647,12 @@
 	{
 		"assign": "31640",
 		"jp_text": "零の助勢",
-		"tr_text": ""
+		"tr_text": "Zero's Support"
 	},
 	{
 		"assign": "31641",
 		"jp_text": "零の助勢＋",
-		"tr_text": ""
+		"tr_text": "Zero's Support+"
 	},
 	{
 		"assign": "31642",
@@ -2757,22 +2687,22 @@
 	{
 		"assign": "31654",
 		"jp_text": "錬気の元素刃",
-		"tr_text": ""
+		"tr_text": "Refined Elemental Blades"
 	},
 	{
 		"assign": "31655",
 		"jp_text": "錬気の元素刃＋",
-		"tr_text": ""
+		"tr_text": "Refined Elemental Blades+"
 	},
 	{
 		"assign": "31656",
 		"jp_text": "全砲門一斉射",
-		"tr_text": ""
+		"tr_text": "All Guns Blazing"
 	},
 	{
 		"assign": "31657",
 		"jp_text": "全砲門一斉射＋",
-		"tr_text": ""
+		"tr_text": "All Guns Blazing+"
 	},
 	{
 		"assign": "31658",
@@ -2902,62 +2832,62 @@
 	{
 		"assign": "31694",
 		"jp_text": "月影夜桜吹雪",
-		"tr_text": ""
+		"tr_text": "Moonlit Cherry Blossom"
 	},
 	{
 		"assign": "31695",
 		"jp_text": "月影夜桜吹雪＋",
-		"tr_text": ""
+		"tr_text": "Moonlit Cherry Blossom+"
 	},
 	{
 		"assign": "31696",
 		"jp_text": "栄光の赤薔薇",
-		"tr_text": ""
+		"tr_text": "Red Rose of Glory"
 	},
 	{
 		"assign": "31697",
 		"jp_text": "栄光の赤薔薇＋",
-		"tr_text": ""
+		"tr_text": "Red Rose of Glory+"
 	},
 	{
 		"assign": "31698",
 		"jp_text": "衝撃的マッスルコンバット",
-		"tr_text": ""
+		"tr_text": "Spectacular Muscle Combat"
 	},
 	{
 		"assign": "31699",
 		"jp_text": "衝撃的マッスルコンバット＋",
-		"tr_text": ""
+		"tr_text": "Spectacular Muscle Combat+"
 	},
 	{
 		"assign": "31705",
 		"jp_text": "純白の誓い",
-		"tr_text": ""
+		"tr_text": "Pure White Oath"
 	},
 	{
 		"assign": "31706",
 		"jp_text": "純白の誓い＋",
-		"tr_text": ""
+		"tr_text": "Pure White Oath+"
 	},
 	{
 		"assign": "31707",
 		"jp_text": "激励アニマート",
-		"tr_text": ""
+		"tr_text": "Encouragement Animato"
 	},
 	{
 		"assign": "31708",
 		"jp_text": "激励アニマート＋",
-		"tr_text": ""
+		"tr_text": "Encouragement Animato+"
 	},
 	{
 		"assign": "31709",
 		"jp_text": "新光一刀流・風迅",
-		"tr_text": ""
+		"tr_text": "Pristine Sword Style - Swift Wind"
 	},
 	{
 		"assign": "31710",
 		"jp_text": "新光一刀流・風迅＋",
-		"tr_text": ""
+		"tr_text": "Pristine Sword Style - Swift Wind+"
 	},
 	{
 		"assign": "31715",
@@ -3030,16 +2960,6 @@
 		"tr_text": "Embrace Con Amore+"
 	},
 	{
-		"assign": "31729",
-		"jp_text": "-",
-		"tr_text": ""
-	},
-	{
-		"assign": "31730",
-		"jp_text": "-",
-		"tr_text": ""
-	},
-	{
 		"assign": "31731",
 		"jp_text": "鋭盾ブルークレイバー",
 		"tr_text": "Blue Clever - Sharp Shield"
@@ -3052,22 +2972,22 @@
 	{
 		"assign": "31736",
 		"jp_text": "致命の千刃クナイ",
-		"tr_text": ""
+		"tr_text": "Thousand Blades of Death"
 	},
 	{
 		"assign": "31737",
 		"jp_text": "致命の千刃クナイ＋",
-		"tr_text": ""
+		"tr_text": "Thousand Blades of Death+"
 	},
 	{
 		"assign": "31738",
 		"jp_text": "悠久なる時の祈り",
-		"tr_text": ""
+		"tr_text": "Prayer for Eternity"
 	},
 	{
 		"assign": "31739",
 		"jp_text": "悠久なる時の祈り＋",
-		"tr_text": ""
+		"tr_text": "Prayer for Eternity+"
 	},
 	{
 		"assign": "31740",
@@ -3102,12 +3022,12 @@
 	{
 		"assign": "31755",
 		"jp_text": "破砕の魔弾",
-		"tr_text": ""
+		"tr_text": "Crushing Devil Bullet"
 	},
 	{
 		"assign": "31756",
 		"jp_text": "破砕の魔弾＋",
-		"tr_text": ""
+		"tr_text": "Crushing Devil Bullet+"
 	},
 	{
 		"assign": "31761",
@@ -3215,14 +3135,69 @@
 		"tr_text": "Command to Victory+"
 	},
 	{
-		"assign": "11030",
-		"jp_text": "エナジーチューニング",
-		"tr_text": "Energy Tuning"
+		"assign": "31792",
+		"jp_text": "連飛翔スワン＆レイヴン",
+		"tr_text": ""
 	},
 	{
-		"assign": "11040",
-		"jp_text": "エナジーチューニング＋",
-		"tr_text": "Energy Tuning+"
+		"assign": "31793",
+		"jp_text": "連飛翔スワン＆レイヴン＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31796",
+		"jp_text": "きらめき・ロリポップ",
+		"tr_text": ""
+	},
+	{
+		"assign": "31797",
+		"jp_text": "きらめき・ロリポップ＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31798",
+		"jp_text": "ウイッチスターブレス",
+		"tr_text": ""
+	},
+	{
+		"assign": "31799",
+		"jp_text": "ウイッチスターブレス＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31800",
+		"jp_text": "情熱リソルート",
+		"tr_text": ""
+	},
+	{
+		"assign": "31801",
+		"jp_text": "情熱リソルート＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31802",
+		"jp_text": "ニャンだふるトリック",
+		"tr_text": ""
+	},
+	{
+		"assign": "31803",
+		"jp_text": "ニャンだふるトリック＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31804",
+		"jp_text": "嵐舞・絶命斬",
+		"tr_text": ""
+	},
+	{
+		"assign": "31805",
+		"jp_text": "嵐舞・絶命斬＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31806",
+		"jp_text": "嵐舞・絶命斬＋＋",
+		"tr_text": ""
 	},
 	{
 		"assign": "2210",
@@ -4586,12 +4561,12 @@
 	},
 	{
 		"assign": "40257",
-		"jp_text": "-",
+		"jp_text": "ウェポンエンハンス・風長槍",
 		"tr_text": ""
 	},
 	{
 		"assign": "40258",
-		"jp_text": "-",
+		"jp_text": "ウェポンエンハンス・風長槍＋",
 		"tr_text": ""
 	},
 	{
@@ -4803,16 +4778,6 @@
 		"assign": "40300",
 		"jp_text": "ウェポンエンハンス・炎銃剣＋",
 		"tr_text": "Wpn Enhance - Fire Gunslash+"
-	},
-	{
-		"assign": "40301",
-		"jp_text": "-",
-		"tr_text": ""
-	},
-	{
-		"assign": "40302",
-		"jp_text": "-",
-		"tr_text": ""
 	},
 	{
 		"assign": "40303",
@@ -5325,16 +5290,6 @@
 		"tr_text": ""
 	},
 	{
-		"assign": "40405",
-		"jp_text": "-",
-		"tr_text": ""
-	},
-	{
-		"assign": "40406",
-		"jp_text": "-",
-		"tr_text": ""
-	},
-	{
 		"assign": "40407",
 		"jp_text": "-",
 		"tr_text": ""
@@ -5376,12 +5331,12 @@
 	},
 	{
 		"assign": "40415",
-		"jp_text": "-",
+		"jp_text": "ウェポンエンハンス・光導具",
 		"tr_text": ""
 	},
 	{
 		"assign": "40416",
-		"jp_text": "-",
+		"jp_text": "ウェポンエンハンス・光導具＋",
 		"tr_text": ""
 	},
 	{
@@ -5455,436 +5410,6 @@
 		"tr_text": ""
 	},
 	{
-		"assign": "3410",
-		"jp_text": "群れなす力",
-		"tr_text": "Power of the Swarm"
-	},
-	{
-		"assign": "3420",
-		"jp_text": "群れなす暴威",
-		"tr_text": "Terror of the Swarm"
-	},
-	{
-		"assign": "3510",
-		"jp_text": "闇の兆し",
-		"tr_text": ""
-	},
-	{
-		"assign": "3520",
-		"jp_text": "闇の増長",
-		"tr_text": ""
-	},
-	{
-		"assign": "3610",
-		"jp_text": "闇の胎動",
-		"tr_text": ""
-	},
-	{
-		"assign": "3620",
-		"jp_text": "闇の躍動",
-		"tr_text": ""
-	},
-	{
-		"assign": "3710",
-		"jp_text": "毒の針",
-		"tr_text": ""
-	},
-	{
-		"assign": "3720",
-		"jp_text": "毒の撃針",
-		"tr_text": ""
-	},
-	{
-		"assign": "4210",
-		"jp_text": "硬殻",
-		"tr_text": ""
-	},
-	{
-		"assign": "4220",
-		"jp_text": "強固な硬殻",
-		"tr_text": ""
-	},
-	{
-		"assign": "4410",
-		"jp_text": "追撃",
-		"tr_text": ""
-	},
-	{
-		"assign": "4420",
-		"jp_text": "捕捉追撃",
-		"tr_text": ""
-	},
-	{
-		"assign": "4610",
-		"jp_text": "-",
-		"tr_text": ""
-	},
-	{
-		"assign": "4620",
-		"jp_text": "-",
-		"tr_text": ""
-	},
-	{
-		"assign": "4710",
-		"jp_text": "邪気の放出",
-		"tr_text": ""
-	},
-	{
-		"assign": "4720",
-		"jp_text": "邪念の噴出",
-		"tr_text": ""
-	},
-	{
-		"assign": "5210",
-		"jp_text": "ダーカーディフェンス",
-		"tr_text": "Darker Defense"
-	},
-	{
-		"assign": "5220",
-		"jp_text": "ダーカーディフェンス＋",
-		"tr_text": "Darker Defense+"
-	},
-	{
-		"assign": "20013",
-		"jp_text": "鎌薙",
-		"tr_text": ""
-	},
-	{
-		"assign": "20014",
-		"jp_text": "双連鎌薙",
-		"tr_text": ""
-	},
-	{
-		"assign": "20015",
-		"jp_text": "刹牙風",
-		"tr_text": ""
-	},
-	{
-		"assign": "20016",
-		"jp_text": "刹牙烈風",
-		"tr_text": ""
-	},
-	{
-		"assign": "20041",
-		"jp_text": "ダーティーリング",
-		"tr_text": "Dirty Ring"
-	},
-	{
-		"assign": "20042",
-		"jp_text": "ブラッディリング",
-		"tr_text": "Bloody Ring"
-	},
-	{
-		"assign": "20047",
-		"jp_text": "旋回激衝",
-		"tr_text": ""
-	},
-	{
-		"assign": "20048",
-		"jp_text": "轟転激衝",
-		"tr_text": ""
-	},
-	{
-		"assign": "5610",
-		"jp_text": "風の兆し",
-		"tr_text": ""
-	},
-	{
-		"assign": "5620",
-		"jp_text": "風の増長",
-		"tr_text": ""
-	},
-	{
-		"assign": "5710",
-		"jp_text": "風の胎動",
-		"tr_text": ""
-	},
-	{
-		"assign": "5720",
-		"jp_text": "風の躍動",
-		"tr_text": ""
-	},
-	{
-		"assign": "5810",
-		"jp_text": "呼応する力",
-		"tr_text": ""
-	},
-	{
-		"assign": "5820",
-		"jp_text": "呼応する暴威",
-		"tr_text": ""
-	},
-	{
-		"assign": "5910",
-		"jp_text": "遁走",
-		"tr_text": "Escape"
-	},
-	{
-		"assign": "5920",
-		"jp_text": "大遁走",
-		"tr_text": "Great Escape"
-	},
-	{
-		"assign": "6210",
-		"jp_text": "氷の兆し",
-		"tr_text": ""
-	},
-	{
-		"assign": "6220",
-		"jp_text": "氷の増長",
-		"tr_text": ""
-	},
-	{
-		"assign": "6310",
-		"jp_text": "氷の胎動",
-		"tr_text": ""
-	},
-	{
-		"assign": "6320",
-		"jp_text": "氷の躍動",
-		"tr_text": ""
-	},
-	{
-		"assign": "6510",
-		"jp_text": "長鼻の突進",
-		"tr_text": ""
-	},
-	{
-		"assign": "6520",
-		"jp_text": "長鼻の猛突進",
-		"tr_text": ""
-	},
-	{
-		"assign": "6910",
-		"jp_text": "原生種ディフェンス",
-		"tr_text": "Native Defense"
-	},
-	{
-		"assign": "6920",
-		"jp_text": "原生種ディフェンス＋",
-		"tr_text": "Native Defense+"
-	},
-	{
-		"assign": "7610",
-		"jp_text": "-",
-		"tr_text": ""
-	},
-	{
-		"assign": "7620",
-		"jp_text": "-",
-		"tr_text": ""
-	},
-	{
-		"assign": "7710",
-		"jp_text": "龍の知識「防」",
-		"tr_text": "Dragon's Knowledge [Defense]"
-	},
-	{
-		"assign": "7720",
-		"jp_text": "龍の叡智「防」",
-		"tr_text": "Dragon's Wisdom [Defense]"
-	},
-	{
-		"assign": "7810",
-		"jp_text": "龍の知識「攻」",
-		"tr_text": "Dragon's Knowledge [Attack]"
-	},
-	{
-		"assign": "7820",
-		"jp_text": "龍の叡智「攻」",
-		"tr_text": "Dragon's Wisdom [Attack]"
-	},
-	{
-		"assign": "7910",
-		"jp_text": "龍の知識「術」",
-		"tr_text": "Dragon's Knowledge [Art]"
-	},
-	{
-		"assign": "7920",
-		"jp_text": "龍の叡智「術」",
-		"tr_text": "Dragon's Wisdom [Art]"
-	},
-	{
-		"assign": "8010",
-		"jp_text": "炎の胎動",
-		"tr_text": ""
-	},
-	{
-		"assign": "8020",
-		"jp_text": "炎の躍動",
-		"tr_text": ""
-	},
-	{
-		"assign": "8110",
-		"jp_text": "炎の兆し",
-		"tr_text": ""
-	},
-	{
-		"assign": "8120",
-		"jp_text": "炎の増長",
-		"tr_text": ""
-	},
-	{
-		"assign": "8210",
-		"jp_text": "龍の光の知識「防」",
-		"tr_text": "Light Dragon's Knowledge [Defense]"
-	},
-	{
-		"assign": "8220",
-		"jp_text": "龍の光の叡智「防」",
-		"tr_text": "Light Dragon's Wisdom [Defense]"
-	},
-	{
-		"assign": "8310",
-		"jp_text": "龍の光の知識「攻」",
-		"tr_text": "Light Dragon's Knowledge [Attack]"
-	},
-	{
-		"assign": "8320",
-		"jp_text": "龍の光の叡智「攻」",
-		"tr_text": "Light Dragon's Wisdom [Attack]"
-	},
-	{
-		"assign": "8410",
-		"jp_text": "龍の光の知識「術」",
-		"tr_text": "Light Dragon's Knowledge [Art]"
-	},
-	{
-		"assign": "8420",
-		"jp_text": "龍の光の叡智「術」",
-		"tr_text": "Light Dragon's Wisdom [Art]"
-	},
-	{
-		"assign": "8510",
-		"jp_text": "光の胎動",
-		"tr_text": ""
-	},
-	{
-		"assign": "8520",
-		"jp_text": "光の躍動",
-		"tr_text": ""
-	},
-	{
-		"assign": "8610",
-		"jp_text": "光の兆し",
-		"tr_text": ""
-	},
-	{
-		"assign": "8620",
-		"jp_text": "光の増長",
-		"tr_text": ""
-	},
-	{
-		"assign": "8810",
-		"jp_text": "龍族ディフェンス",
-		"tr_text": "Dragon Defense"
-	},
-	{
-		"assign": "8820",
-		"jp_text": "龍族ディフェンス＋",
-		"tr_text": "Dragon Defense+"
-	},
-	{
-		"assign": "9010",
-		"jp_text": "混乱の石",
-		"tr_text": ""
-	},
-	{
-		"assign": "9020",
-		"jp_text": "混乱の紫水晶",
-		"tr_text": ""
-	},
-	{
-		"assign": "20023",
-		"jp_text": "晶牢光獄",
-		"tr_text": ""
-	},
-	{
-		"assign": "20024",
-		"jp_text": "壁陣・晶牢光獄",
-		"tr_text": ""
-	},
-	{
-		"assign": "20029",
-		"jp_text": "双角突撃",
-		"tr_text": ""
-	},
-	{
-		"assign": "20030",
-		"jp_text": "双角突破",
-		"tr_text": ""
-	},
-	{
-		"assign": "20031",
-		"jp_text": "二連閃光",
-		"tr_text": ""
-	},
-	{
-		"assign": "20032",
-		"jp_text": "二連閃撃",
-		"tr_text": ""
-	},
-	{
-		"assign": "9510",
-		"jp_text": "雷の兆し",
-		"tr_text": ""
-	},
-	{
-		"assign": "9520",
-		"jp_text": "雷の増長",
-		"tr_text": ""
-	},
-	{
-		"assign": "9610",
-		"jp_text": "雷の胎動",
-		"tr_text": ""
-	},
-	{
-		"assign": "9620",
-		"jp_text": "雷の躍動",
-		"tr_text": ""
-	},
-	{
-		"assign": "9710",
-		"jp_text": "機甲種ディフェンス",
-		"tr_text": "Mech Defense"
-	},
-	{
-		"assign": "9720",
-		"jp_text": "機甲種ディフェンス＋",
-		"tr_text": "Mech Defense+"
-	},
-	{
-		"assign": "20033",
-		"jp_text": "トリプルショット",
-		"tr_text": "Triple Shot"
-	},
-	{
-		"assign": "20034",
-		"jp_text": "スリーポイントバースト",
-		"tr_text": "Three-Point Burst"
-	},
-	{
-		"assign": "20039",
-		"jp_text": "無情の大進撃",
-		"tr_text": ""
-	},
-	{
-		"assign": "20040",
-		"jp_text": "無情の大蹂躙",
-		"tr_text": ""
-	},
-	{
-		"assign": "20001",
-		"jp_text": "ブレイクスピナー",
-		"tr_text": "Break Spinner"
-	},
-	{
-		"assign": "20002",
-		"jp_text": "バスタースピナー",
-		"tr_text": "Buster Spinner"
-	},
-	{
 		"assign": "21310",
 		"jp_text": "炎属性活性反応",
 		"tr_text": ""
@@ -5945,22 +5470,442 @@
 		"tr_text": ""
 	},
 	{
-		"assign": "25114",
+		"assign": "3410",
+		"jp_text": "群れなす力",
+		"tr_text": "Power of the Swarm"
+	},
+	{
+		"assign": "3420",
+		"jp_text": "群れなす暴威",
+		"tr_text": "Terror of the Swarm"
+	},
+	{
+		"assign": "3510",
+		"jp_text": "闇の兆し",
+		"tr_text": "Omen of Darkness"
+	},
+	{
+		"assign": "3520",
+		"jp_text": "闇の増長",
+		"tr_text": "Growth of Darkness"
+	},
+	{
+		"assign": "3610",
+		"jp_text": "闇の胎動",
+		"tr_text": "Stirring of Darkness"
+	},
+	{
+		"assign": "3620",
+		"jp_text": "闇の躍動",
+		"tr_text": "Thrashing of Darkness"
+	},
+	{
+		"assign": "3710",
+		"jp_text": "毒の針",
+		"tr_text": "Poison Needle"
+	},
+	{
+		"assign": "3720",
+		"jp_text": "毒の撃針",
+		"tr_text": "Poison Lance"
+	},
+	{
+		"assign": "4210",
+		"jp_text": "硬殻",
+		"tr_text": "Hard Shell"
+	},
+	{
+		"assign": "4220",
+		"jp_text": "強固な硬殻",
+		"tr_text": "Rock-Hard Shell"
+	},
+	{
+		"assign": "4410",
+		"jp_text": "追撃",
+		"tr_text": ""
+	},
+	{
+		"assign": "4420",
+		"jp_text": "捕捉追撃",
+		"tr_text": ""
+	},
+	{
+		"assign": "4610",
 		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
-		"assign": "25214",
+		"assign": "4620",
 		"jp_text": "-",
 		"tr_text": ""
 	},
 	{
-		"assign": "25410",
+		"assign": "4710",
+		"jp_text": "邪気の放出",
+		"tr_text": ""
+	},
+	{
+		"assign": "4720",
+		"jp_text": "邪念の噴出",
+		"tr_text": ""
+	},
+	{
+		"assign": "20001",
+		"jp_text": "ブレイクスピナー",
+		"tr_text": "Break Spinner"
+	},
+	{
+		"assign": "20002",
+		"jp_text": "バスタースピナー",
+		"tr_text": "Buster Spinner"
+	},
+	{
+		"assign": "5210",
+		"jp_text": "ダーカーディフェンス",
+		"tr_text": "Darker Defense"
+	},
+	{
+		"assign": "5220",
+		"jp_text": "ダーカーディフェンス＋",
+		"tr_text": "Darker Defense+"
+	},
+	{
+		"assign": "20013",
+		"jp_text": "鎌薙",
+		"tr_text": "Reaper's Scythe"
+	},
+	{
+		"assign": "20014",
+		"jp_text": "双連鎌薙",
+		"tr_text": "Reaper's Twin Scythes"
+	},
+	{
+		"assign": "20015",
+		"jp_text": "刹牙風",
+		"tr_text": ""
+	},
+	{
+		"assign": "20016",
+		"jp_text": "刹牙烈風",
+		"tr_text": ""
+	},
+	{
+		"assign": "20041",
+		"jp_text": "ダーティーリング",
+		"tr_text": "Dirty Ring"
+	},
+	{
+		"assign": "20042",
+		"jp_text": "ブラッディリング",
+		"tr_text": "Bloody Ring"
+	},
+	{
+		"assign": "20047",
+		"jp_text": "旋回激衝",
+		"tr_text": ""
+	},
+	{
+		"assign": "20048",
+		"jp_text": "轟転激衝",
+		"tr_text": ""
+	},
+	{
+		"assign": "5610",
+		"jp_text": "風の兆し",
+		"tr_text": "Omen of Wind"
+	},
+	{
+		"assign": "5620",
+		"jp_text": "風の増長",
+		"tr_text": "Growth of Wind"
+	},
+	{
+		"assign": "5710",
+		"jp_text": "風の胎動",
+		"tr_text": "Stirring of Wind"
+	},
+	{
+		"assign": "5720",
+		"jp_text": "風の躍動",
+		"tr_text": "Thrashing of Wind"
+	},
+	{
+		"assign": "5810",
+		"jp_text": "呼応する力",
+		"tr_text": ""
+	},
+	{
+		"assign": "5820",
+		"jp_text": "呼応する暴威",
+		"tr_text": ""
+	},
+	{
+		"assign": "5910",
+		"jp_text": "遁走",
+		"tr_text": "Escape"
+	},
+	{
+		"assign": "5920",
+		"jp_text": "大遁走",
+		"tr_text": "Great Escape"
+	},
+	{
+		"assign": "6210",
+		"jp_text": "氷の兆し",
+		"tr_text": "Omen of Ice"
+	},
+	{
+		"assign": "6220",
+		"jp_text": "氷の増長",
+		"tr_text": "Growth of Ice"
+	},
+	{
+		"assign": "6310",
+		"jp_text": "氷の胎動",
+		"tr_text": "Stirring of Ice"
+	},
+	{
+		"assign": "6320",
+		"jp_text": "氷の躍動",
+		"tr_text": "Thrashing of Ice"
+	},
+	{
+		"assign": "6510",
+		"jp_text": "長鼻の突進",
+		"tr_text": "Long Nose Charge"
+	},
+	{
+		"assign": "6520",
+		"jp_text": "長鼻の猛突進",
+		"tr_text": "Long Nose Stampede"
+	},
+	{
+		"assign": "6910",
+		"jp_text": "原生種ディフェンス",
+		"tr_text": "Native Defense"
+	},
+	{
+		"assign": "6920",
+		"jp_text": "原生種ディフェンス＋",
+		"tr_text": "Native Defense+"
+	},
+	{
+		"assign": "7610",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "7620",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "7710",
+		"jp_text": "龍の知識「防」",
+		"tr_text": "Dragon's Knowledge [Defense]"
+	},
+	{
+		"assign": "7720",
+		"jp_text": "龍の叡智「防」",
+		"tr_text": "Dragon's Wisdom [Defense]"
+	},
+	{
+		"assign": "7810",
+		"jp_text": "龍の知識「攻」",
+		"tr_text": "Dragon's Knowledge [Attack]"
+	},
+	{
+		"assign": "7820",
+		"jp_text": "龍の叡智「攻」",
+		"tr_text": "Dragon's Wisdom [Attack]"
+	},
+	{
+		"assign": "7910",
+		"jp_text": "龍の知識「術」",
+		"tr_text": "Dragon's Knowledge [Art]"
+	},
+	{
+		"assign": "7920",
+		"jp_text": "龍の叡智「術」",
+		"tr_text": "Dragon's Wisdom [Art]"
+	},
+	{
+		"assign": "8010",
+		"jp_text": "炎の胎動",
+		"tr_text": "Stirring of Fire"
+	},
+	{
+		"assign": "8020",
+		"jp_text": "炎の躍動",
+		"tr_text": "Thrashing of Fire"
+	},
+	{
+		"assign": "8110",
+		"jp_text": "炎の兆し",
+		"tr_text": "Omen of Fire"
+	},
+	{
+		"assign": "8120",
+		"jp_text": "炎の増長",
+		"tr_text": "Growth of Fire"
+	},
+	{
+		"assign": "8210",
+		"jp_text": "龍の光の知識「防」",
+		"tr_text": "Light Dragon's Knowledge [Defense]"
+	},
+	{
+		"assign": "8220",
+		"jp_text": "龍の光の叡智「防」",
+		"tr_text": "Light Dragon's Wisdom [Defense]"
+	},
+	{
+		"assign": "8310",
+		"jp_text": "龍の光の知識「攻」",
+		"tr_text": "Light Dragon's Knowledge [Attack]"
+	},
+	{
+		"assign": "8320",
+		"jp_text": "龍の光の叡智「攻」",
+		"tr_text": "Light Dragon's Wisdom [Attack]"
+	},
+	{
+		"assign": "8410",
+		"jp_text": "龍の光の知識「術」",
+		"tr_text": "Light Dragon's Knowledge [Art]"
+	},
+	{
+		"assign": "8420",
+		"jp_text": "龍の光の叡智「術」",
+		"tr_text": "Light Dragon's Wisdom [Art]"
+	},
+	{
+		"assign": "8510",
+		"jp_text": "光の胎動",
+		"tr_text": "Stirring of Light"
+	},
+	{
+		"assign": "8520",
+		"jp_text": "光の躍動",
+		"tr_text": "Thrashing of Light"
+	},
+	{
+		"assign": "8610",
+		"jp_text": "光の兆し",
+		"tr_text": "Omen of Light"
+	},
+	{
+		"assign": "8620",
+		"jp_text": "光の増長",
+		"tr_text": "Growth of Light"
+	},
+	{
+		"assign": "8810",
+		"jp_text": "龍族ディフェンス",
+		"tr_text": "Dragon Defense"
+	},
+	{
+		"assign": "8820",
+		"jp_text": "龍族ディフェンス＋",
+		"tr_text": "Dragon Defense+"
+	},
+	{
+		"assign": "9010",
+		"jp_text": "混乱の石",
+		"tr_text": ""
+	},
+	{
+		"assign": "9020",
+		"jp_text": "混乱の紫水晶",
+		"tr_text": ""
+	},
+	{
+		"assign": "20023",
+		"jp_text": "晶牢光獄",
+		"tr_text": ""
+	},
+	{
+		"assign": "20024",
+		"jp_text": "壁陣・晶牢光獄",
+		"tr_text": ""
+	},
+	{
+		"assign": "20029",
+		"jp_text": "双角突撃",
+		"tr_text": "Twin-Horned Charge"
+	},
+	{
+		"assign": "20030",
+		"jp_text": "双角突破",
+		"tr_text": "Twin-Horned Breakthrough"
+	},
+	{
+		"assign": "20031",
+		"jp_text": "二連閃光",
+		"tr_text": "Double Flash"
+	},
+	{
+		"assign": "20032",
+		"jp_text": "二連閃撃",
+		"tr_text": "Double Flare"
+	},
+	{
+		"assign": "9510",
+		"jp_text": "雷の兆し",
+		"tr_text": "Omen of Lightning"
+	},
+	{
+		"assign": "9520",
+		"jp_text": "雷の増長",
+		"tr_text": "Growth of Lightning"
+	},
+	{
+		"assign": "9610",
+		"jp_text": "雷の胎動",
+		"tr_text": "Stirring of Lightning"
+	},
+	{
+		"assign": "9620",
+		"jp_text": "雷の躍動",
+		"tr_text": "Thrashing of Lightning"
+	},
+	{
+		"assign": "9710",
+		"jp_text": "機甲種ディフェンス",
+		"tr_text": "Mech Defense"
+	},
+	{
+		"assign": "9720",
+		"jp_text": "機甲種ディフェンス＋",
+		"tr_text": "Mech Defense+"
+	},
+	{
+		"assign": "20033",
+		"jp_text": "トリプルショット",
+		"tr_text": "Triple Shot"
+	},
+	{
+		"assign": "20034",
+		"jp_text": "スリーポイントバースト",
+		"tr_text": "Three-Point Burst"
+	},
+	{
+		"assign": "20039",
+		"jp_text": "無情の大進撃",
+		"tr_text": "Heartless Advance"
+	},
+	{
+		"assign": "20040",
+		"jp_text": "無情の大蹂躙",
+		"tr_text": "Heartless Trample"
+	},
+	{
+		"assign": "25310",
 		"jp_text": "グラインドパワー２",
 		"tr_text": "Grind Power 2"
 	},
 	{
-		"assign": "25310",
+		"assign": "25410",
 		"jp_text": "グラインドパワー１",
 		"tr_text": "Grind Power 1"
 	},
@@ -5995,23 +5940,13 @@
 		"tr_text": "Revenge Shell"
 	},
 	{
-		"assign": "20051",
-		"jp_text": "カイザーバルガー",
+		"assign": "20057",
+		"jp_text": "深海の魔手",
 		"tr_text": ""
 	},
 	{
-		"assign": "20052",
-		"jp_text": "カイザーバルガー（解放後）",
-		"tr_text": ""
-	},
-	{
-		"assign": "20055",
-		"jp_text": "シノワラピドゥス",
-		"tr_text": ""
-	},
-	{
-		"assign": "20056",
-		"jp_text": "シノワラピドゥス（解放後）",
+		"assign": "20058",
+		"jp_text": "深海の魔鞭",
 		"tr_text": ""
 	}
 ]
