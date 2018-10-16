@@ -14,8 +14,8 @@
 1. Obtener el **[ESBreaker]** desde su repositorio
 2. Copiar los archivos JSON de la carpeta JSON (si no esta ahi creelo en el mismo lugar donde esta el ejecutable EXE).
 3. Siga las instrucciones que estan en el repo de ESBreaker
-3. Corra el ESBreaker (esto tomara un tiempo).
-4. Coja los archivos de salida desde la carpeta Output y ponlos en tu dispositivo android.
+4. Corra el ESBreaker (esto tomara un tiempo).
+5. Coja los archivos de salida desde la carpeta Output y ponlos en tu dispositivo android.
 
 ## Como Traducir
 ### Desde la Web
@@ -38,8 +38,8 @@
 
 ## Creditos de la Version en Español
 
-* NozomiRen - Traduccion Inicial del Menu
 * Blazter - Traduccion al Español
+* NozomiRen - Traduccion Inicial del Menu
 
 ## Creditos
 

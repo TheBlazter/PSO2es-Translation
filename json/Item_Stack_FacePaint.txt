@@ -1465,8 +1465,8 @@
 	{
 		"assign": "3250226",
 		"jp_text": "ビジュアルメイク",
-		"tr_text": "",
+		"tr_text": "Visual Makeup",
 		"jp_explain": "チケットを使用すると、新しいメイクの\nビジュアルメイクが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Desbloquea el maquillaje\n\"Visual Makeup\"\npara usar en el Estilista."
 	}
 ]
