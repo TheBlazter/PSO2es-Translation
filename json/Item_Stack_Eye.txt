@@ -1262,8 +1262,8 @@
 	{
 		"assign": "3260182",
 		"jp_text": "マンガ風瞳Ｉ",
-		"tr_text": "",
+		"tr_text": "Manga Style Eyes I",
 		"jp_explain": "チケットを使用すると、新しい瞳の\nマンガ風瞳Ｉが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Desbloquea los ojos\n\"Manga Style Eyes I\"\npara usar en el Estilista."
 	}
 ]

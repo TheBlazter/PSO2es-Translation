@@ -683,14 +683,14 @@
 		"jp_text": "ガーター＆白タイツ",
 		"tr_text": "Garter & White Tights",
 		"jp_explain": "チケットを使用すると、ボディペイント\nガーター＆白タイツが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Desbloquea la pintura femenina\n\" Garter & White Tights\"\npara usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Garter & White Tights\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3290114",
 		"jp_text": "スクールタイツ",
 		"tr_text": "School Tights",
 		"jp_explain": "チケットを使用すると、ボディペイント\nスクールタイツが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Desbloquea la pintura femenina\n\" School Tights\"\npara usar en el Estilista."
+		"tr_explain": "Desbloquea la pintura femenina\n\"School Tights\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3290115",
@@ -3404,36 +3404,36 @@
 	{
 		"assign": "3290528",
 		"jp_text": "赤薔薇ソックス　白",
-		"tr_text": "",
+		"tr_text": "Red Rose Socks White",
 		"jp_explain": "チケットを使用すると、ボディペイント\n赤薔薇ソックス　白が選択可能。\n女性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Desbloquea la pintura femenina\n\"Red Rose Socks White\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3290529",
 		"jp_text": "青薔薇ソックス　白",
-		"tr_text": "",
+		"tr_text": "Blue Rose Socks White",
 		"jp_explain": "チケットを使用すると、ボディペイント\n青薔薇ソックス　白が選択可能。\n女性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Desbloquea la pintura femenina\n\"Blue Rose Socks White\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3290530",
 		"jp_text": "赤薔薇ソックス　黒",
-		"tr_text": "",
+		"tr_text": "Red Rose Socks Black",
 		"jp_explain": "チケットを使用すると、ボディペイント\n赤薔薇ソックス　黒が選択可能。\n女性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Desbloquea la pintura femenina\n\"Red Rose Socks Black\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3290531",
 		"jp_text": "青薔薇ソックス　黒",
-		"tr_text": "",
+		"tr_text": "Blue Rose Socks Black",
 		"jp_explain": "チケットを使用すると、ボディペイント\n青薔薇ソックス　黒が選択可能。\n女性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Desbloquea la pintura femenina\n\"Blue Rose Socks Black\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3290532",
 		"jp_text": "レイリィのタイツ",
-		"tr_text": "",
+		"tr_text": "Riley Tights",
 		"jp_explain": "チケットを使用すると、ボディペイント\nレイリィのタイツが選択可能。\n女性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Desbloquea la pintura femenina\n\"Riley Tights\"\npara usar en el Estilista."
 	}
 ]
