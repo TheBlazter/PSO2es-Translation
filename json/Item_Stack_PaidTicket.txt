@@ -254,9 +254,9 @@
 	{
 		"assign": "320037",
 		"jp_text": "ＡＣ１００００獲得チケット",
-		"tr_text": "Tiquete de AC 10000",
+		"tr_text": "Tiquete de AC 10,000",
 		"jp_explain": "ＡＣの授与申請チケット。\nチケットを使用すると\nＡＣを【１００００】獲得可能。",
-		"tr_explain": "Al usarlo recibes de inmediato\n10000 ARKS Cash."
+		"tr_explain": "Al usarlo recibes de inmediato\n10,000 ARKS Cash."
 	},
 	{
 		"assign": "320040",
@@ -695,9 +695,9 @@
 	{
 		"assign": "3200106",
 		"jp_text": "ＣＣ１００００獲得チケット",
-		"tr_text": "Tiquete de CC 10000",
+		"tr_text": "Tiquete de CC 10,000",
 		"jp_explain": "ＣＣ（カジノコイン）の授与申請チケット。\nチケットを使用すると\nＣＣを【１００００】獲得可能。",
-		"tr_explain": "Al usarlo recibes de inmediato\n10000 Casino Coins."
+		"tr_explain": "Al usarlo recibes de inmediato\n10,000 Casino Coins."
 	},
 	{
 		"assign": "3200107",
@@ -758,16 +758,16 @@
 	{
 		"assign": "3200115",
 		"jp_text": "経験値獲得１５０００",
-		"tr_text": "Tiquete de EXP 15000",
+		"tr_text": "Tiquete de EXP 15,000",
 		"jp_explain": "経験値の授与申請チケット。\n使用したクラスの経験値を\n【１５０００】獲得可能。",
-		"tr_explain": "Al usarlo recibes de inmediato\n15000 EXP."
+		"tr_explain": "Al usarlo recibes de inmediato\n15,000 EXP."
 	},
 	{
 		"assign": "3200116",
 		"jp_text": "経験値獲得１０００００",
-		"tr_text": "Tiquete de EXP 100000",
+		"tr_text": "Tiquete de EXP 100,000",
 		"jp_explain": "経験値の授与申請チケット。\n使用したクラスの経験値を\n【１０００００】獲得可能。",
-		"tr_explain": "Al usarlo recibes de inmediato\n100000 EXP."
+		"tr_explain": "Al usarlo recibes de inmediato\n100,000 EXP."
 	},
 	{
 		"assign": "3200117",
@@ -877,9 +877,9 @@
 	{
 		"assign": "3200133",
 		"jp_text": "ＣＭ１００００獲得チケット",
-		"tr_text": "Tiquete de CM 10000",
+		"tr_text": "Tiquete de CM 10,000",
 		"jp_explain": "チャレンジマイルの授与申請チケット。\nチケットを使用すると\nＣＭを【１００００】獲得可能。",
-		"tr_explain": "Al usarlo recibes de inmediato\n100000 Challenge Miles."
+		"tr_explain": "Al usarlo recibes de inmediato\n100,000 Challenge Miles."
 	},
 	{
 		"assign": "3200134",
@@ -1269,15 +1269,15 @@
 	{
 		"assign": "3200197",
 		"jp_text": "経験値獲得１００万",
-		"tr_text": "Tiquete de EXP 100,000",
+		"tr_text": "Tiquete de EXP 1000,000",
 		"jp_explain": "経験値の授与申請チケット。\n使用したクラスの経験値を\n【１００万】獲得可能。",
-		"tr_explain": "Al usarlo recibes de inmediato\n100,000 EXP."
+		"tr_explain": "Al usarlo recibes de inmediato\n1,000,000 EXP."
 	},
 	{
 		"assign": "3200198",
 		"jp_text": "経験値獲得５００万",
-		"tr_text": "Tiquete de EXP 500,000",
+		"tr_text": "Tiquete de EXP 5,000,000",
 		"jp_explain": "経験値の授与申請チケット。\n使用したクラスの経験値を\n【５００万】獲得可能。",
-		"tr_explain": "Al usarlo recibes de inmediato\n500,000 EXP."
+		"tr_explain": "Al usarlo recibes de inmediato\n5,000,000 EXP."
 	}
 ]
