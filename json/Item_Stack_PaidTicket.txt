@@ -128,9 +128,9 @@
 	{
 		"assign": "320019",
 		"jp_text": "アイテムパック拡張１０",
-		"tr_text": "Item Pack Expansion 10 Slots",
+		"tr_text": "Expansion de Inventario x10",
 		"jp_explain": "アイテムの最大所持数を１０拡張する。\n１キャラクターにつき１０個まで使用でき\n最大所持数は１５０まで拡張可能。",
-		"tr_explain": "Increases the amount of slots of your\ncharacter's inventory by 10, up to a\nmaximum of 150 slots."
+		"tr_explain": "Aйade 10 espacios de inventario\nde tu personaje actual.\nEl maximo de espacios posibles es 150."
 	},
 	{
 		"assign": "320020",
@@ -156,16 +156,16 @@
 	{
 		"assign": "320023",
 		"jp_text": "マグ獲得チケット",
-		"tr_text": "Mag Claim Ticket",
+		"tr_text": "Tiquete de Reclamo de Mag",
 		"jp_explain": "マグライセンス所有者が２体目以降の\nマグを１体追加申請できるチケット。\n１キャラクター２０体まで所有可能。",
-		"tr_explain": "Allows you to receive an additional\nMag. You can have up to 20 Mags\nper character."
+		"tr_explain": "Al usarlo recibes un Mag.\nPuedes tener un maximo de 20 Mags\npor personaje."
 	},
 	{
 		"assign": "320024",
 		"jp_text": "マイルーム利用３日",
 		"tr_text": "My Room 3 Days",
 		"jp_explain": "マイルーム利用許可チケット。\n使用することで、３日間\nマイルームの利用が可能になる。",
-		"tr_explain": "Allows you to open your own room\nfor 3 days."
+		"tr_explain": "Permite al jugador mejorar su cuarto\npor 3 dias."
 	},
 	{
 		"assign": "320025",
@@ -186,21 +186,21 @@
 		"jp_text": "マイルーム利用１日",
 		"tr_text": "My Room 1 Day",
 		"jp_explain": "マイルーム利用許可チケット。\n使用することで、１日間\nマイルームの利用が可能になる。",
-		"tr_explain": "Allows you to open your own room\nfor a single day."
+		"tr_explain": "Permite al jugador mejorar su cuarto\npor un dia."
 	},
 	{
 		"assign": "320028",
 		"jp_text": "マイショップ出店１日",
-		"tr_text": "My Shop 1 Day",
+		"tr_text": "My Shop 1 Dia",
 		"jp_explain": "マイショップ出店許可チケット。\n使用することで、１日間\nマイショップの出品が可能になる。",
-		"tr_explain": "Allows you to sell items at the player\nshops for a single day."
+		"tr_explain": "Permite al jugador vender objetos\nen el visiphone por un dia."
 	},
 	{
 		"assign": "320029",
 		"jp_text": "マイショップ出店３日",
-		"tr_text": "My Shop 3 Days",
+		"tr_text": "My Shop 3 Dias",
 		"jp_explain": "マイショップ出店許可チケット。\n使用することで、３日間\nマイショップの出品が可能になる。",
-		"tr_explain": "Allows you to sell items at the player\nshops for 3 days."
+		"tr_explain": "Permite al jugador vender objetos\nen el visiphone por 3 dias."
 	},
 	{
 		"assign": "320030",
@@ -1269,7 +1269,7 @@
 	{
 		"assign": "3200197",
 		"jp_text": "経験値獲得１００万",
-		"tr_text": "Tiquete de EXP 1000,000",
+		"tr_text": "Tiquete de EXP 1,000,000",
 		"jp_explain": "経験値の授与申請チケット。\n使用したクラスの経験値を\n【１００万】獲得可能。",
 		"tr_explain": "Al usarlo recibes de inmediato\n1,000,000 EXP."
 	},
