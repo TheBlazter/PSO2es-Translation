@@ -15864,7 +15864,7 @@
 	{
 		"assign": "2202510",
 		"jp_text": "エルゼ・レプカＦ",
-		"tr_text": "",
+		"tr_text": "Elze Repca F",
 		"jp_explain": "灼零龍の素材を使用した防具の\nレプリカ。相なす氷と炎の力が\n強固な守りを可能にした。",
 		"tr_explain": ""
 	},
@@ -15934,42 +15934,42 @@
 	{
 		"assign": "2202522",
 		"jp_text": "里中千枝の制服",
-		"tr_text": "",
+		"tr_text": "Chie Satonaka Uniform",
 		"jp_explain": "八十神高校の生徒である\n里中千枝の服を模した衣装。制服の上に\n動きやすいジャージを合わせている。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "2202523",
 		"jp_text": "里中千枝の制服　紅",
-		"tr_text": "",
+		"tr_text": "Chie Satonaka Uniform Crimson",
 		"jp_explain": "八十神高校の生徒である\n里中千枝の服を模した衣装。制服の上に\n動きやすいジャージを合わせている。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "2202524",
 		"jp_text": "里中千枝の制服　影",
-		"tr_text": "",
+		"tr_text": "Chie Satonaka Uniform Shadow",
 		"jp_explain": "八十神高校の生徒である\n里中千枝の服を模した衣装。制服の上に\n動きやすいジャージを合わせている。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "2202525",
 		"jp_text": "月光館学園女子制服",
-		"tr_text": "",
+		"tr_text": "Gekkou High Uniform F",
 		"jp_explain": "小中高一貫校の私立月光館学園高等部の\n女子生徒の制服を模した衣装。\n胸元のリボンが印象的。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "2202526",
 		"jp_text": "月光館学園女子制服　紅",
-		"tr_text": "",
+		"tr_text": "Gekkou High Uniform F Scarlet",
 		"jp_explain": "小中高一貫校の私立月光館学園高等部の\n女子生徒の制服を模した衣装。\n胸元のリボンが印象的。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "2202527",
 		"jp_text": "月光館学園女子制服　夜",
-		"tr_text": "",
+		"tr_text": "Gekkou High Uniform F Night",
 		"jp_explain": "小中高一貫校の私立月光館学園高等部の\n女子生徒の制服を模した衣装。\n胸元のリボンが印象的。",
 		"tr_explain": ""
 	},
