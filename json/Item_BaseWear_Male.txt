@@ -3978,9 +3978,9 @@
 	{
 		"assign": "3340635",
 		"jp_text": "ニンドリＴシャツＭ[Ba]",
-		"tr_text": "Nintendo Dream T-shirt M [Ba]",
+		"tr_text": "Nintendo Dream T-Shirt M [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nニンドリＴシャツＭ[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Un nuevo traje base\n\"Nintendo Dream T-shirt M [Ba]\".\nSolo para personajes masculinos."
+		"tr_explain": "Un nuevo traje base\n\"Nintendo Dream T-Shirt M [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340636",

@@ -11,14 +11,14 @@
 		"jp_text": "カラーチェンジパス",
 		"tr_text": "Color Change Pass",
 		"jp_explain": "コスチュームのカラー変更パス\nエステにてカラーリングの変更が可能。\n利用するたびにパスは消費される。",
-		"tr_explain": "Allows you to recolor your\ncharacter from the Beauty Salon."
+		"tr_explain": "Permite recolorear un traje/n o tu personaje cast desde el/nSalon de Belleza."
 	},
 	{
 		"assign": "32104",
 		"jp_text": "スキルツリー追加パス",
 		"tr_text": "Add. Skill Tree Pass",
 		"jp_explain": "クラスカウンターで使われるパス。\n新規のスキルツリーを１枚追加できる。\n１キャラクター２０枚まで拡張可能。",
-		"tr_explain": "Adds an additional Skill Tree\nto a selected class, up to\n20 trees on a single class."
+		"tr_explain": "Agrega un Skill Tree en la\nclase seleccionada, es posible\ntener 20 skill tree por clase."
 	},
 	{
 		"assign": "32105",
@@ -67,21 +67,21 @@
 		"jp_text": "強化スキップ（→７）",
 		"tr_text": "Grind Skip (→7)",
 		"jp_explain": "旧式武器、ユニット用の強化補助素材。\n強化値が＋６以下の時に使用すると\n＋７まで一気に強化することができる。",
-		"tr_explain": "Instantly grinds to +7 when the item\ngrinding is +6 or lower. Cannot be\ntraded or sold to other players."
+		"tr_explain": "Mejora de inmediato a +7 un equipo\nque este debajo de +6. No puede\nser vendido o cambiado a otros jugadores."
 	},
 	{
 		"assign": "321012",
 		"jp_text": "強化リスク軽減（＋１）",
 		"tr_text": "Grind Risk Reduction (+1)",
 		"jp_explain": "旧式武器、ユニット用の原型保護素材。\n強化時に使用することで\n強化失敗時のリスクを１段階低減する。",
-		"tr_explain": "Used when grinding equipment.\nDecreases grinding risk by 1."
+		"tr_explain": "Usado en la mejora de equipo.\nReduce el riesgo de fallo por 1."
 	},
 	{
 		"assign": "321013",
 		"jp_text": "強化リスク軽減（完全）",
 		"tr_text": "Grind Risk Reduction (Full)",
 		"jp_explain": "旧式武器、ユニット用の原型保護素材。\n強化時に使用することで\n強化失敗時のリスクを打ち消す。",
-		"tr_explain": "Used when grinding equipment.\nCompletely removes grinding risk."
+		"tr_explain": "Usado en la mejora de equipo.\nReduce el riesgo de fallo por completo."
 	},
 	{
 		"assign": "321014",
@@ -158,35 +158,35 @@
 		"jp_text": "特殊能力追加（打撃）",
 		"tr_text": "Habilidad Power Boost",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【打撃】の特殊能力を追加する。",
-		"tr_explain": "Material usado al sintetizar habilidades.\nOtorga \"Power Boost\"\ncuando es usado en  la sistesis."
+		"tr_explain": "Material usado al sintetizar habilidades.\nOtorga \"Power Boost\"\ncuando es usado en la sistesis."
 	},
 	{
 		"assign": "321025",
 		"jp_text": "特殊能力追加（射撃）",
 		"tr_text": "Habilidad Shoot Boost",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【射撃】の特殊能力を追加する。",
-		"tr_explain": "Material usado al sintetizar habilidades.\nOtorga \"Shooting Boost\"\ncuando es usado en  la sistesis."
+		"tr_explain": "Material usado al sintetizar habilidades.\nOtorga \"Shooting Boost\"\ncuando es usado en la sistesis."
 	},
 	{
 		"assign": "321026",
 		"jp_text": "特殊能力追加（法撃）",
 		"tr_text": "Habilidad Tech Boost",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【法撃】の特殊能力を追加する。",
-		"tr_explain": "Material usado al sintetizar habilidades.\nOtorga \"Technique Boost\"\ncuando es usado en  la sistesis."
+		"tr_explain": "Material usado al sintetizar habilidades.\nOtorga \"Technique Boost\"\ncuando es usado en la sistesis."
 	},
 	{
 		"assign": "321027",
 		"jp_text": "特殊能力追加（ＨＰ）",
 		"tr_text": "Habilidad Stamina Boost",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【ＨＰ】の特殊能力を追加する。",
-		"tr_explain": "Material usado al sintetizar habilidades.\nOtorga \"Stamina Boost\"\ncuando es usado en  la sistesis."
+		"tr_explain": "Material usado al sintetizar habilidades.\nOtorga \"Stamina Boost\"\ncuando es usado en la sistesis."
 	},
 	{
 		"assign": "321028",
 		"jp_text": "特殊能力追加（ＰＰ）",
 		"tr_text": "Habilidad Spirita Boost",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【ＰＰ】の特殊能力を追加する。",
-		"tr_explain": "Material usado al sintetizar habilidades.\nOtorga \"Spirita Boost\"\ncuando es usado en  la sistesis."
+		"tr_explain": "Material usado al sintetizar habilidades.\nOtorga \"Spirita Boost\"\ncuando es usado en la sistesis."
 	},
 	{
 		"assign": "321030",
@@ -214,35 +214,35 @@
 		"jp_text": "★１０武器購入パス",
 		"tr_text": "10★ Weapon Exchange Pass",
 		"jp_explain": "特定レアリティ武器の購入パス。\nマイショップで【★１０】武器を\n購入する際に消費される。",
-		"tr_explain": "A pass that grants the purchase\nof 10★ weapons from My Shop."
+		"tr_explain": "Un pase que permite comprar\narmas de 10★ de My Shop."
 	},
 	{
 		"assign": "321034",
 		"jp_text": "★１１武器購入パス",
 		"tr_text": "11★ Weapon Exchange Pass",
 		"jp_explain": "特定レアリティ武器の購入パス。\nマイショップで【★１１】武器を\n購入する際に消費される。",
-		"tr_explain": "A pass that grants the purchase\nof 11★ weapons from My Shop."
+		"tr_explain": "Un pase que permite comprar\narmas de 11★ de My Shop."
 	},
 	{
 		"assign": "321035",
 		"jp_text": "★１２武器購入パス",
 		"tr_text": "★12 Weapon Exchange Pass",
 		"jp_explain": "特定レアリティ武器の購入パス。\nマイショップで【★１２】武器を\n購入する際に消費される。",
-		"tr_explain": "A pass that grants the purchase\nof 12★ weapons from My Shop."
+		"tr_explain": "Un pase que permite comprar\narmas de 12★ de My Shop."
 	},
 	{
 		"assign": "321039",
 		"jp_text": "★１０ユニット購入パス",
 		"tr_text": "10★ Unit Exchange Pass",
 		"jp_explain": "特定レアリティユニットの購入パス。\nマイショップで【★１０】ユニットを\n購入する際に消費される。",
-		"tr_explain": "A pass that grants the purchase\nof 10★ units from My Shop."
+		"tr_explain": "Un pase que permite comprar\nunits de 10★ de My Shop."
 	},
 	{
 		"assign": "321040",
 		"jp_text": "★１１ユニット購入パス",
 		"tr_text": "11★ Unit Exchange Pass",
 		"jp_explain": "特定レアリティユニットの購入パス。\nマイショップで【★１１】ユニットを\n購入する際に消費される。",
-		"tr_explain": "A pass that grants the purchase\nof 11★ units from My Shop."
+		"tr_explain": "Un pase que permite comprar\nunits de 11★ de My Shop."
 	},
 	{
 		"assign": "321047",
@@ -256,7 +256,7 @@
 		"jp_text": "強化リスク軽減（＋２）",
 		"tr_text": "Grind Risk Reduction (+2)",
 		"jp_explain": "旧式武器、ユニット用の原型保護素材。\n強化時に使用することで\n強化失敗時のリスクを２段階低減する。",
-		"tr_explain": "Used when grinding equipment.\nDecreases grinding risk by 2."
+		"tr_explain": "Usado en la mejora de equipo.\nReduce el riesgo de fallo por 2."
 	},
 	{
 		"assign": "321051",
@@ -277,7 +277,7 @@
 		"jp_text": "能力追加成功率＋５０％",
 		"tr_text": "Ability Success Rate +50%",
 		"jp_explain": "特殊能力追加用の補助素材。\n特殊能力追加時に使用することで\n成功率を５０％上昇させる。",
-		"tr_explain": "Used when adding Special Abilities\non your equipment.\nBoosts success rate by 50%"
+		"tr_explain": "Cuando agregas una Habilidad\na tu equipo.\nAumenta el chance de exito en 50%"
 	},
 	{
 		"assign": "321056",
@@ -312,28 +312,28 @@
 		"jp_text": "リリパリウムフルチャージ",
 		"tr_text": "Lilliparium Full Charge",
 		"jp_explain": "現在所持している全ての\nクラフトエネルギーを\n全回復させる。",
-		"tr_explain": "Reduces the cooldown of all craft\nlines completely."
+		"tr_explain": "Reduce el tiempo de espera de/ntodas las lineas de crafteo por completo."
 	},
 	{
 		"assign": "321061",
 		"jp_text": "リリパリウム（極小）",
 		"tr_text": "Lilliparium (Mini)",
 		"jp_explain": "選択したクラフトエネルギーを\n１５分回復させる。",
-		"tr_explain": "Reduces the cooldown of a craft\nline by 15 minutes."
+		"tr_explain": "Reduce el tiempo de espera/nde una linea de crafteo 15 minutos."
 	},
 	{
 		"assign": "321062",
 		"jp_text": "リリパリウム（小）",
 		"tr_text": "Lilliparium (Small)",
 		"jp_explain": "選択したクラフトエネルギーを\n３０分回復させる。",
-		"tr_explain": "Reduces the cooldown of a craft\nline by 30 minutes."
+		"tr_explain": "Reduce el tiempo de espera/nde una linea de crafteo 30 minutos."
 	},
 	{
 		"assign": "321066",
 		"jp_text": "リリパリウム（極大）",
 		"tr_text": "Lilliparium (Max)",
 		"jp_explain": "選択したクラフトエネルギーを\n１２時間回復させる。",
-		"tr_explain": "Reduces the cooldown of a single\ncraft line by 12 hours."
+		"tr_explain": "Reduce el tiempo de espera/nde una linea de crafteo 12 horas."
 	},
 	{
 		"assign": "321067",
@@ -438,63 +438,63 @@
 		"jp_text": "装備条件緩和＋１０％",
 		"tr_text": "Relax Equip. Conditions +10%",
 		"jp_explain": "武装エクステンド実行時に\n装備条件を１０％緩和する。",
-		"tr_explain": "Decreases the required stat of\nthe extended equipment by 10%."
+		"tr_explain": "Reduce el requisito de stats de\nel equipo extendido en un 10%."
 	},
 	{
 		"assign": "321082",
 		"jp_text": "装備条件緩和＋２０％",
 		"tr_text": "Relax Equip. Conditions +20%",
 		"jp_explain": "武装エクステンド実行時に\n装備条件を２０％緩和する。",
-		"tr_explain": "Decreases the required stat of\nthe extended equipment by 20%."
+		"tr_explain": "Reduce el requisito de stats de\nel equipo extendido en un 20%."
 	},
 	{
 		"assign": "321083",
 		"jp_text": "装備条件緩和＋３０％",
 		"tr_text": "Relax Equip. Conditions +30%",
 		"jp_explain": "武装エクステンド実行時に\n装備条件を３０％緩和する。",
-		"tr_explain": "Decreases the required stat of\nthe extended equipment by 30%."
+		"tr_explain": "Reduce el requisito de stats de\nel equipo extendido en un 30%."
 	},
 	{
 		"assign": "321086",
 		"jp_text": "メリット値＋１０％",
 		"tr_text": "Merit Value +10%",
 		"jp_explain": "テクニックカスタマイズ実行時に\nメリットの下限値を\n１０％上昇させる。",
-		"tr_explain": "Increases the merit value by 10%\nwhen customizing techniques."
+		"tr_explain": "Incrementa el merito en un 10%\ncuando personalizas tecnicas."
 	},
 	{
 		"assign": "321087",
 		"jp_text": "メリット値＋２０％",
 		"tr_text": "Merit Value +20%",
 		"jp_explain": "テクニックカスタマイズ実行時に\nメリットの下限値を\n２０％上昇させる。",
-		"tr_explain": "Increases the merit value by 20%\nwhen customizing techniques."
+		"tr_explain": "Incrementa el merito en un 20%\ncuando personalizas tecnicas."
 	},
 	{
 		"assign": "321088",
 		"jp_text": "メリット値＋３０％",
 		"tr_text": "Merit Value +30%",
 		"jp_explain": "テクニックカスタマイズ実行時に\nメリットの下限値を\n３０％上昇させる。",
-		"tr_explain": "Increases the merit value by 30%\nwhen customizing techniques."
+		"tr_explain": "Incrementa el merito en un 30%\ncuando personalizas tecnicas."
 	},
 	{
 		"assign": "321091",
 		"jp_text": "デメリット値－１０％",
 		"tr_text": "Demerit Value -10%",
 		"jp_explain": "テクニックカスタマイズ実行時に\nデメリットの上限値を\n１０％軽減させる。",
-		"tr_explain": "Decreases the demerit value by -10%\nwhen customizing techniques."
+		"tr_explain": "Reduce el demerito en un -10%\ncuando personalizas tecnicas."
 	},
 	{
 		"assign": "321092",
 		"jp_text": "デメリット値－２０％",
 		"tr_text": "Demerit Value -20%",
 		"jp_explain": "テクニックカスタマイズ実行時に\nデメリットの上限値を\n２０％軽減させる。",
-		"tr_explain": "Decreases the demerit value by -20%\nwhen customizing techniques."
+		"tr_explain": "Reduce el demerito en un -20%\ncuando personalizas tecnicas."
 	},
 	{
 		"assign": "321093",
 		"jp_text": "デメリット値－３０％",
 		"tr_text": "Demerit Value -30%",
 		"jp_explain": "テクニックカスタマイズ実行時に\nデメリットの上限値を\n３０％軽減させる。",
-		"tr_explain": "Decreases the demerit value by -30%\nwhen customizing techniques."
+		"tr_explain": "Reduce el demerito en un -30%\ncuando personalizas tecnicas."
 	},
 	{
 		"assign": "321096",
@@ -508,7 +508,7 @@
 		"jp_text": "マグ形態変更パス",
 		"tr_text": "Mag Form Change Pass",
 		"jp_explain": "マグ形態変更機能利用パス。\n登録済リストからマグ形態を選択できる。\n利用するたびにパスは消費される。",
-		"tr_explain": "Allows you to select the form\nof your Mag. Pass is consumed\nwhen you select a form."
+		"tr_explain": "Te permite seleccionar la forma\nde tu Mag. El pase es consumido\ncuando seleccionas una forma."
 	},
 	{
 		"assign": "321098",
@@ -536,7 +536,7 @@
 		"jp_text": "効果時間延長＋７日",
 		"tr_text": "Timed Effect Extension +7 Days",
 		"jp_explain": "時限能力インストール実行時に\nデータの効果時間を７日\n延長させる。",
-		"tr_explain": "Extends the expiration of\na Timed Ability by 7 days."
+		"tr_explain": "Extiende la fecha de expiracion\nde una Timed Ability por 7 dias."
 	},
 	{
 		"assign": "3210114",
@@ -550,7 +550,7 @@
 		"jp_text": "特殊能力追加（打撃＆ＰＰ）",
 		"tr_text": "Habilidad (Strike&PP)",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【打撃＆ＰＰ】の特殊能力を追加する。",
-		"tr_explain": "Material usado al sintetizar habilidades.\nOtorga \"Noble Power\"\ncuando es usado en  la sistesis."
+		"tr_explain": "Material usado al sintetizar habilidades.\nOtorga \"Noble Power\"\ncuando es usado en la sistesis."
 	},
 	{
 		"assign": "3210116",
@@ -564,56 +564,56 @@
 		"jp_text": "特殊能力追加（法撃＆ＰＰ）",
 		"tr_text": "Habilidad (Tech&PP)",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【法撃＆ＰＰ】の特殊能力を追加する。",
-		"tr_explain": "Material usado al sintetizar habilidades.\nOtorga \"Noble Technique\"\ncuando es usado en  la sistesis."
+		"tr_explain": "Material usado al sintetizar habilidades.\nOtorga \"Noble Technique\"\ncuando es usado en la sistesis."
 	},
 	{
 		"assign": "3210118",
 		"jp_text": "特殊能力追加（ＨＰ＆ＰＰ）",
 		"tr_text": "Habilidad (Stamina&PP)",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【ＨＰ＆ＰＰ】の特殊能力を追加する。",
-		"tr_explain": "Material usado al sintetizar habilidades.\nOtorga \"Noble Stamina\"\ncuando es usado en  la sistesis."
+		"tr_explain": "Material usado al sintetizar habilidades.\nOtorga \"Noble Stamina\"\ncuando es usado en la sistesis."
 	},
 	{
 		"assign": "3210119",
 		"jp_text": "カスタムタイプ１＋１０％",
 		"tr_text": "Custom Type 1+10%",
 		"jp_explain": "カスタマイズ実行時に\nカスタムタイプ１の効果値を\n１０％向上させる。",
-		"tr_explain": "Used during customization crafts.\nCustom Type 1 effect boosted\nby 10%."
+		"tr_explain": "Usado durante el crafteo.\nEfecto de Custom Type 1 mejorado\nen un 10%."
 	},
 	{
 		"assign": "3210120",
 		"jp_text": "カスタムタイプ１＋２０％",
 		"tr_text": "Custom Type 1+20%",
 		"jp_explain": "カスタマイズ実行時に\nカスタムタイプ１の効果値を\n２０％向上させる。",
-		"tr_explain": "Used during customization crafts.\nCustom Type 1 effect boosted\nby 20%."
+		"tr_explain": "Usado durante el crafteo.\nEfecto de Custom Type 1 mejorado\nen un 20%."
 	},
 	{
 		"assign": "3210121",
 		"jp_text": "カスタムタイプ１＋３０％",
 		"tr_text": "Custom Type 1+30%",
 		"jp_explain": "カスタマイズ実行時に\nカスタムタイプ１の効果値を\n３０％向上させる。",
-		"tr_explain": "Used during customization crafts.\nCustom Type 1 effect boosted\nby 30%."
+		"tr_explain": "Usado durante el crafteo.\nEfecto de Custom Type 1 mejorado\nen un 30%."
 	},
 	{
 		"assign": "3210124",
 		"jp_text": "カスタムタイプ２＋１０％",
 		"tr_text": "Custom Type 2+10%",
 		"jp_explain": "カスタマイズ実行時に\nカスタムタイプ２の効果値を\n１０％向上させる。",
-		"tr_explain": "Used during customization crafts.\nCustom Type 2 effect boosted\nby 10%."
+		"tr_explain": "Usado durante el crafteo.\nEfecto de Custom Type 2 mejorado\nen un 10%."
 	},
 	{
 		"assign": "3210125",
 		"jp_text": "カスタムタイプ２＋２０％",
 		"tr_text": "Custom Type 2+20%",
 		"jp_explain": "カスタマイズ実行時に\nカスタムタイプ２の効果値を\n２０％向上させる。",
-		"tr_explain": "Used during customization crafts.\nCustom Type 2 effect boosted\nby 20%."
+		"tr_explain": "Usado durante el crafteo.\nEfecto de Custom Type 2 mejorado\nen un 20%."
 	},
 	{
 		"assign": "3210126",
 		"jp_text": "カスタムタイプ２＋３０％",
 		"tr_text": "Custom Type 2+30%",
 		"jp_explain": "カスタマイズ実行時に\nカスタムタイプ２の効果値を\n３０％向上させる。",
-		"tr_explain": "Used during customization crafts.\nCustom Type 2 effect boosted\nby 30%."
+		"tr_explain": "Usado durante el crafteo.\nEfecto de Custom Type 2 mejorado\nen un 30%."
 	},
 	{
 		"assign": "3210129",
@@ -627,14 +627,14 @@
 		"jp_text": "リリパリウムオール（極大）",
 		"tr_text": "Lilliparium All (Max)",
 		"jp_explain": "現在所持している全ての\nクラフトエネルギーを\n１２時間回復させる。",
-		"tr_explain": "Reduces the cooldown of all craft\nlines by 12 hours."
+		"tr_explain": "Reduce el tiempo de espera de/ntodas las lineas de crafteo 12 horas."
 	},
 	{
 		"assign": "3210136",
 		"jp_text": "強化スキップ（→５）",
 		"tr_text": "Grind Skip (→5)",
 		"jp_explain": "旧式武器、ユニット用の強化補助素材。\n強化値が＋４以下の時に使用すると\n＋５まで一気に強化することができる。",
-		"tr_explain": "Instantly grinds to +5 when the item\ngrinding is +4 or lower. Cannot be\ntraded or sold to other players."
+		"tr_explain": "Mejora de inmediato a +5 un equipo\nque este debajo de +4. No puede\nser vendido o cambiado a otros jugadores."
 	},
 	{
 		"assign": "3210139",
@@ -718,35 +718,35 @@
 		"jp_text": "キャンディーイレイサー",
 		"tr_text": "Candy Eraser",
 		"jp_explain": "指定したペットのキャンディーボックスに\nセットしたキャンディーを１つ削除する。\n削除したキャンディーは失われる。",
-		"tr_explain": "Destroys one Candy from\na selected Pet Candy Box."
+		"tr_explain": "Destruye un dulce\nde una Pet Candy Box."
 	},
 	{
 		"assign": "3210151",
 		"jp_text": "全キャンディーイレイサー",
 		"tr_text": "All Candy Eraser",
 		"jp_explain": "指定したペットのキャンディーボックスに\nセットしたキャンディーを全て削除する。\n削除したキャンディーは失われる。",
-		"tr_explain": "Destroys all specified Candy\nfrom a selected Pet Candy Box."
+		"tr_explain": "Destruye los dulces\nde una Pet Candy Box."
 	},
 	{
 		"assign": "3210152",
 		"jp_text": "キャンディーリムーバー",
 		"tr_text": "Candy Remover",
 		"jp_explain": "指定したペットのキャンディーボックスに\nセットしたキャンディーを１つ\nアイテムパックに戻す。",
-		"tr_explain": "Returns one set Candy from\na Candy Box back to\nyour item pack."
+		"tr_explain": "Retoma un dulce\nde una Candy Box de vuelta a\ntu inventario."
 	},
 	{
 		"assign": "3210153",
 		"jp_text": "全キャンディーリムーバー",
 		"tr_text": "All Candy Remover",
 		"jp_explain": "指定したペットのキャンディーボックスに\nセットしたキャンディーを全て\nアイテムパックに戻す。",
-		"tr_explain": "Returns all set Candy from a\nCandy Box back to your\nitem pack."
+		"tr_explain": "Retoma los dulces\nde una Candy Box de vuelta a\ntu inventario."
 	},
 	{
 		"assign": "3210154",
 		"jp_text": "キャラメルクラッシャー",
 		"tr_text": "Caramel Crusher",
 		"jp_explain": "指定したペットのキャンディーボックスに\nセットされたキャラメルブロックを\n１つ削除する。",
-		"tr_explain": "Destroys one Caramel Cube\nfrom a selected\nPet Candy Box"
+		"tr_explain": "Destruye un Caramel Cube\nde una Pet Candy Box."
 	},
 	{
 		"assign": "3210155",
@@ -963,28 +963,28 @@
 		"jp_text": "強化大成功確率＋２０％",
 		"tr_text": "Great Success Grind Rate +20%",
 		"jp_explain": "新世武器用の強化補助素材。\n強化時に使用することで\n大成功確率を２０％上昇させる。",
-		"tr_explain": "Material usado en Armas NT.\nDurante la mejora, success\nprobability rate boosted by 20%."
+		"tr_explain": "Material usado en Armas NT.\nIncrementa el chance de mejora\npotenciada en 20%."
 	},
 	{
 		"assign": "3210190",
 		"jp_text": "強化大成功確率＋３０％",
 		"tr_text": "Great Success Grind Rate +30%",
 		"jp_explain": "新世武器用の強化補助素材。\n強化時に使用することで\n大成功確率を３０％上昇させる。",
-		"tr_explain": "Material usado en Armas NT.\nDurante la mejora, success\nprobability rate boosted by 30%."
+		"tr_explain": "Material usado en Armas NT.\nIncrementa el chance de mejora\npotenciada en 30%."
 	},
 	{
 		"assign": "3210192",
 		"jp_text": "強化大成功確率＋５０％",
 		"tr_text": "Great Success Grind Rate +50%",
 		"jp_explain": "新世武器用の強化補助素材。\n強化時に使用することで\n大成功確率を５０％上昇させる。",
-		"tr_explain": "Material usado en Armas NT.\nDurante la mejora, success\nprobability rate boosted by 50%."
+		"tr_explain": "Material usado en Armas NT.\nIncrementa el chance de mejora\npotenciada en 50%."
 	},
 	{
 		"assign": "3210193",
 		"jp_text": "強化大成功（１００％）",
 		"tr_text": "Great Success Grind Rate (100%)",
 		"jp_explain": "新世武器用の強化補助素材。\n強化時に使用することで\n確実に大成功を発生させる。",
-		"tr_explain": "Material usado en Armas NT.\nDurante la mejora, success\nprobability rate boosted by 100%."
+		"tr_explain": "Material usado en Armas NT.\nIncrementa el chance de mejora\npotenciada en 100%."
 	},
 	{
 		"assign": "3210194",
@@ -1068,35 +1068,35 @@
 		"jp_text": "特殊能力追加（攻撃総合）",
 		"tr_text": "Habilidad (Attack Fusion)",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【攻撃総合】の特殊能力を追加する。",
-		"tr_explain": "Material usado al sintetizar habilidades.\nOtorga \"Offensive Boost\"\ncuando es usado en  la sistesis."
+		"tr_explain": "Material usado al sintetizar habilidades.\nOtorga \"Offensive Boost\"\ncuando es usado en la sistesis."
 	},
 	{
 		"assign": "3210206",
 		"jp_text": "特殊能力追加（防御総合）",
 		"tr_text": "Habilidad (Def. Fusion)",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【防御総合】の特殊能力を追加する。",
-		"tr_explain": "Material usado al sintetizar habilidades.\nOtorga \"Defense Boost\"\ncuando es usado en  la sistesis."
+		"tr_explain": "Material usado al sintetizar habilidades.\nOtorga \"Defense Boost\"\ncuando es usado en la sistesis."
 	},
 	{
 		"assign": "3210207",
 		"jp_text": "特殊能力追加（攻撃継承）",
 		"tr_text": "Habilidad (Attack Transfer)",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【攻撃継承】の特殊能力を追加する。",
-		"tr_explain": "Material usado al sintetizar habilidades.\nOtorga \"Attack Receptor\"\ncuando es usado en  la sistesis."
+		"tr_explain": "Material usado al sintetizar habilidades.\nOtorga \"Attack Receptor\"\ncuando es usado en la sistesis."
 	},
 	{
 		"assign": "3210208",
 		"jp_text": "特殊能力追加（防御継承）",
 		"tr_text": "Habilidad (Def. Transfer)",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【防御継承】の特殊能力を追加する。",
-		"tr_explain": "Material usado al sintetizar habilidades.\nOtorga \"Defense Receptor\"\ncuando es usado en  la sistesis."
+		"tr_explain": "Material usado al sintetizar habilidades.\nOtorga \"Defense Receptor\"\ncuando es usado en la sistesis."
 	},
 	{
 		"assign": "3210209",
 		"jp_text": "特殊能力追加（心身継承）",
 		"tr_text": "Habilidad (Mind&Body)",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【心身継承】の特殊能力を追加する。",
-		"tr_explain": "Material usado al sintetizar habilidades.\nOtorga \"Photon Receptor\"\ncuando es usado en  la sistesis."
+		"tr_explain": "Material usado al sintetizar habilidades.\nOtorga \"Photon Receptor\"\ncuando es usado en la sistesis."
 	},
 	{
 		"assign": "3210210",
@@ -1180,42 +1180,42 @@
 		"jp_text": "特殊能力追加（テノラ）",
 		"tr_text": "Habilidad (Tenora)",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【テノラ】の特殊能力を追加する。",
-		"tr_explain": "Material usado al sintetizar habilidades.\nOtorga \"Tenora Boost\"\ncuando es usado en  la sistesis."
+		"tr_explain": "Material usado al sintetizar habilidades.\nOtorga \"Tenora Boost\"\ncuando es usado en la sistesis."
 	},
 	{
 		"assign": "3210222",
 		"jp_text": "特殊能力追加（ヨウメイ）",
 		"tr_text": "Habilidad (Yohmei)",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【ヨウメイ】の特殊能力を追加する。",
-		"tr_explain": "Material usado al sintetizar habilidades.\nOtorga \"Yohmei Boost\"\ncuando es usado en  la sistesis."
+		"tr_explain": "Material usado al sintetizar habilidades.\nOtorga \"Yohmei Boost\"\ncuando es usado en la sistesis."
 	},
 	{
 		"assign": "3210223",
 		"jp_text": "特殊能力（打撃＆ＰＰ/２）",
 		"tr_text": "Habilidad (Strike&PP/2)",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【打撃＆ＰＰ/２】の特殊能力を追加する。",
-		"tr_explain": "Material usado al sintetizar habilidades.\nOtorga \"Elegant Power\"\ncuando es usado en  la sistesis."
+		"tr_explain": "Material usado al sintetizar habilidades.\nOtorga \"Elegant Power\"\ncuando es usado en la sistesis."
 	},
 	{
 		"assign": "3210224",
 		"jp_text": "特殊能力（射撃＆ＰＰ/２）",
 		"tr_text": "Habilidad (Shoot&PP/2)",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【射撃＆ＰＰ/２】の特殊能力を追加する。",
-		"tr_explain": "Material usado al sintetizar habilidades.\nOtorga \"Elegant Shoot\"\ncuando es usado en  la sistesis."
+		"tr_explain": "Material usado al sintetizar habilidades.\nOtorga \"Elegant Shoot\"\ncuando es usado en la sistesis."
 	},
 	{
 		"assign": "3210225",
 		"jp_text": "特殊能力（法撃＆ＰＰ/２）",
 		"tr_text": "Habilidad (Tech&PP/2)",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【法撃＆ＰＰ/２】の特殊能力を追加する。",
-		"tr_explain": "Material usado al sintetizar habilidades.\nOtorga \"Elegant\nTechnique\" when used in Special\nAbility Synthesis."
+		"tr_explain": "Material usado al sintetizar habilidades.\nOtorga \"Elegant Technique\"\ncuando es usado en la sistesis."
 	},
 	{
 		"assign": "3210226",
 		"jp_text": "特殊能力（ＨＰ＆ＰＰ/２）",
 		"tr_text": "Habilidad (Stamina&PP/2)",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【ＨＰ＆ＰＰ/２】の特殊能力を追加する。",
-		"tr_explain": "Material usado al sintetizar habilidades.\nOtorga \"Elegant Stamina\"\ncuando es usado en  la sistesis."
+		"tr_explain": "Material usado al sintetizar habilidades.\nOtorga \"Elegant Stamina\"\ncuando es usado en la sistesis."
 	},
 	{
 		"assign": "3210227",
@@ -1390,56 +1390,56 @@
 		"jp_text": "カスタムタイプ１＋６０％",
 		"tr_text": "Custom Type 1 +60%",
 		"jp_explain": "カスタマイズ実行時に\nカスタムタイプ１の効果値を\n６０％向上させる。",
-		"tr_explain": "Used during customization crafts.\nCustom Type 1 effect boosted by\n60%."
+		"tr_explain": "Usado durante el crafteo.\nCustom Type 1 effect boosted by\n60%."
 	},
 	{
 		"assign": "3210271",
 		"jp_text": "カスタムタイプ２＋６０％",
 		"tr_text": "Custom Type 2 +60%",
 		"jp_explain": "カスタマイズ実行時に\nカスタムタイプ２の効果値を\n６０％向上させる。",
-		"tr_explain": "Used during customization crafts.\nCustom Type 2 effect boosted\nby 60%."
+		"tr_explain": "Usado durante el crafteo.\nEfecto de Custom Type 2 mejorado\nen un 60%."
 	},
 	{
 		"assign": "3210272",
 		"jp_text": "メリット値＋６０％",
 		"tr_text": "Merit Value +60%",
 		"jp_explain": "テクニックカスタマイズ実行時に\nメリットの下限値を\n６０％上昇させる。",
-		"tr_explain": "Increases the merit value by 60%\nwhen customizing techniques."
+		"tr_explain": "Incrementa el merito en un 60%\ncuando personalizas tecnicas."
 	},
 	{
 		"assign": "3210273",
 		"jp_text": "デメリット値－６０％",
 		"tr_text": "Demerit Value -60%",
 		"jp_explain": "テクニックカスタマイズ実行時に\nデメリットの上限値を\n６０％軽減させる。",
-		"tr_explain": "Decreases the demerit value by\n-60% when customizing techniques."
+		"tr_explain": "Reduce el demerito en un\n-60% cuando personalizas tecnicas."
 	},
 	{
 		"assign": "3210274",
 		"jp_text": "カスタムタイプ１＋７０％",
 		"tr_text": "Custom Type 1 +70%",
 		"jp_explain": "カスタマイズ実行時に\nカスタムタイプ１の効果値を\n７０％向上させる。",
-		"tr_explain": "Used during customization crafts.\nCustom Type 1 effect boosted\nby 70%."
+		"tr_explain": "Usado durante el crafteo.\nEfecto de Custom Type 1 mejorado\nen un 70%."
 	},
 	{
 		"assign": "3210275",
 		"jp_text": "カスタムタイプ２＋７０％",
 		"tr_text": "Custom Type 2 +70%",
 		"jp_explain": "カスタマイズ実行時に\nカスタムタイプ２の効果値を\n７０％向上させる。",
-		"tr_explain": "Used during customization crafts.\nCustom Type 2 effect boosted\nby 70%."
+		"tr_explain": "Usado durante el crafteo.\nEfecto de Custom Type 2 mejorado\nen un 70%."
 	},
 	{
 		"assign": "3210276",
 		"jp_text": "メリット値＋７０％",
 		"tr_text": "Merit Value +70%",
 		"jp_explain": "テクニックカスタマイズ実行時に\nメリットの下限値を\n７０％上昇させる。",
-		"tr_explain": "Increases the merit value by 70%\nwhen customizing techniques."
+		"tr_explain": "Incrementa el merito en un 70%\ncuando personalizas tecnicas."
 	},
 	{
 		"assign": "3210277",
 		"jp_text": "デメリット値－７０％",
 		"tr_text": "Demerit Value -70%",
 		"jp_explain": "テクニックカスタマイズ実行時に\nデメリットの上限値を\n７０％軽減させる。",
-		"tr_explain": "Decreases the demerit value by -70%\nwhen customizing techniques."
+		"tr_explain": "Reduce el demerito en un -70%\ncuando personalizas tecnicas."
 	},
 	{
 		"assign": "3210278",
@@ -1458,23 +1458,23 @@
 	{
 		"assign": "3210283",
 		"jp_text": "特殊能力保護（４枠以下）",
-		"tr_text": "Ability Protection (4s or lower)",
+		"tr_text": "Ability Protection (4s o menos)",
 		"jp_explain": "特殊能力追加に失敗時、素材アイテムと\n特殊能力追加アイテムが返却される。\n<yellow>対象：追加予定リストが４スロット以下<c>",
-		"tr_explain": ""
+		"tr_explain": "Regresa Special Abilities que se\nperdieron durante la sintesis.\n<yellow>Solo funciona con 4 slots o menos.<c>"
 	},
 	{
 		"assign": "3210284",
 		"jp_text": "特殊能力保護（５枠以下）",
-		"tr_text": "Ability Protection (5s or lower)",
+		"tr_text": "Ability Protection (5s o menos)",
 		"jp_explain": "特殊能力追加に失敗時、素材アイテムと\n特殊能力追加アイテムが返却される。\n<yellow>対象：追加予定リストが５スロット以下<c>",
-		"tr_explain": "Returns the Special Abilities that\nwere lost from synthesis.\n<yellow>Only works on 5 slots or lower.<c>"
+		"tr_explain": "Regresa Special Abilities que se\nperdieron durante la sintesis.\n<yellow>Solo funciona con 5 slots o menos.<c>"
 	},
 	{
 		"assign": "3210285",
 		"jp_text": "特殊能力保護（６枠以下）",
-		"tr_text": "Ability Protection (6s or lower)",
+		"tr_text": "Ability Protection (6s o menos)",
 		"jp_explain": "特殊能力追加に失敗時、素材アイテムと\n特殊能力追加アイテムが返却される。\n<yellow>対象：追加予定リストが６スロット以下<c>",
-		"tr_explain": "Returns the Special Abilities that\nwere lost from synthesis.\n<yellow>Only works on 6 slots or lower.<c>"
+		"tr_explain": "Regresa Special Abilities que se\nperdieron durante la sintesis.\n<yellow>Solo funciona con 6 slots o menos.<c>"
 	},
 	{
 		"assign": "3210288",
