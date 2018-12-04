@@ -1985,7 +1985,7 @@
 		"jp_text": "男性追加ボイス１４７",
 		"tr_text": "Male Extra Voice 147",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n人間男性のみ使用可能。\nＣＶ神谷 浩史",
-		"tr_explain": "Allows a new voice to be selected.\nNon-Cast male characters only.\nCV: Hiroshi Kamiya"
+		"tr_explain": "Una nueva voz podra ser elegida.\nSolo No-Cast masculinos.\nCV: Hiroshi Kamiya"
 	},
 	{
 		"assign": "3180312",
@@ -2517,7 +2517,7 @@
 		"jp_text": "男性Ｃ追加ボイス１４７",
 		"tr_text": "Male C Extra Voice 147",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\nキャスト男性のみ使用可能。\nＣＶ神谷 浩史",
-		"tr_explain": "Allows a new voice to be selected.\nMale Casts only.\nCV: Hiroshi Kamiya"
+		"tr_explain": "Una nueva voz podra ser elegida.\nSolo Casts masculinos.\nCV: Hiroshi Kamiya"
 	},
 	{
 		"assign": "3180416",
@@ -4176,7 +4176,7 @@
 		"jp_text": "女性追加ボイス１８８",
 		"tr_text": "Female Extra Voice 188",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n人間女性のみ使用可能。\nＣＶ伊藤 静",
-		"tr_explain": "Allows a new voice to be selected.\nFemale characters only (all races).\nCV: Shizuka Ito"
+		"tr_explain": "Una nueva voz podra ser elegida.\nSolo femeninos (todas las razas).\nCV: Shizuka Ito"
 	},
 	{
 		"assign": "3180773",
@@ -4204,7 +4204,7 @@
 		"jp_text": "女性Ｃ追加ボイス１８８",
 		"tr_text": "Female C Extra Voice 188",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\nキャスト女性のみ使用可能。\nＣＶ伊藤 静",
-		"tr_explain": "Allows a new voice to be selected.\nFemale Casts only.\nCV: Shizuka Ito"
+		"tr_explain": "Una nueva voz podra ser elegida.\nFeSolo Casts masculinos.\nCV: Shizuka Ito"
 	},
 	{
 		"assign": "3180789",
@@ -4617,7 +4617,7 @@
 		"jp_text": "男性追加ボイス１５３",
 		"tr_text": "Male Extra Voice 153",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n人間男性のみ使用可能。\nＣＶ草尾 毅",
-		"tr_explain": "Allows a new voice to be selected.\nNon-Cast male characters only.\nCV: Takeshi Kusao"
+		"tr_explain": "Una nueva voz podra ser elegida.\nSolo No-Cast masculinos.\nCV: Takeshi Kusao"
 	},
 	{
 		"assign": "3180880",
@@ -5422,7 +5422,7 @@
 		"jp_text": "男性Ｃ追加ボイス１５３",
 		"tr_text": "Male C Extra Voice 153",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\nキャスト男性のみ使用可能。\nＣＶ草尾 毅",
-		"tr_explain": "Allows a new voice to be selected.\nMale Casts only.\nCV: Takeshi Kusao"
+		"tr_explain": "Una nueva voz podra ser elegida.\nSolo Casts masculinos.\nCV: Takeshi Kusao"
 	},
 	{
 		"assign": "31801058",
@@ -6031,7 +6031,7 @@
 		"jp_text": "男性追加ボイス１４８",
 		"tr_text": "Male Extra Voice 148",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n人間男性のみ使用可能。\nＣＶ速水 奨",
-		"tr_explain": "Allows a new voice to be selected.\nNon-Cast male characters only.\nCV: Sho Hayami"
+		"tr_explain": "Una nueva voz podra ser elegida.\nSolo No-Cast masculinos.\nCV: Sho Hayami"
 	},
 	{
 		"assign": "31801220",
@@ -6115,14 +6115,14 @@
 		"jp_text": "男性共通ライトニングＥＶｏ",
 		"tr_text": "Male Lightning Espada Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n男性のみ使用可能。\nＣＶ市来 光弘",
-		"tr_explain": "Una nueva voz podra ser elegida.\nMale characters only (all races).\nCV: Mitsuhiro Ichiki"
+		"tr_explain": "Una nueva voz podra ser elegida.\nSolo masculinos (todas las razas).\nCV: Mitsuhiro Ichiki"
 	},
 	{
 		"assign": "31801249",
 		"jp_text": "男性共通ノクスカディナＶｏ",
 		"tr_text": "Male Nox Cadina Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n男性のみ使用可能。\nＣＶ市来 光弘",
-		"tr_explain": "Una nueva voz podra ser elegida.\nMale characters only (all races).\nCV: Mitsuhiro Ichiki"
+		"tr_explain": "Una nueva voz podra ser elegida.\nSolo masculinos (todas las razas).\nCV: Mitsuhiro Ichiki"
 	},
 	{
 		"assign": "31801250",
@@ -6255,7 +6255,7 @@
 		"jp_text": "男性Ｃ追加ボイス１４８",
 		"tr_text": "Male C Extra Voice 148",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\nキャスト男性のみ使用可能。\nＣＶ速水 奨",
-		"tr_explain": "Allows a new voice to be selected.\nMale Casts only.\nCV: Sho Hayami"
+		"tr_explain": "Una nueva voz podra ser elegida.\nSolo Casts masculinos.\nCV: Sho Hayami"
 	},
 	{
 		"assign": "31801320",
@@ -6388,7 +6388,7 @@
 		"jp_text": "女性追加ボイス１８０",
 		"tr_text": "Female Extra Voice 180",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n人間女性のみ使用可能。\nＣＶ瀬戸 麻沙美",
-		"tr_explain": "Allows a new voice to be selected.\nNon-Cast female characters only.\nCV: Asami Seto"
+		"tr_explain": "Una nueva voz podra ser elegida.\nSolo No-Cast femeninos.\nCV: Asami Seto"
 	},
 	{
 		"assign": "31801396",
@@ -6549,7 +6549,7 @@
 		"jp_text": "女性追加ボイス１８１",
 		"tr_text": "Female Extra Voice 181",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n人間女性のみ使用可能。\nＣＶ甲斐田 裕子",
-		"tr_explain": "Allows a new voice to be selected.\nNon-Cast female characters only.\nCV: Yuko Kaida"
+		"tr_explain": "Una nueva voz podra ser elegida.\nSolo No-Cast femeninos.\nCV: Yuko Kaida"
 	},
 	{
 		"assign": "31801447",
@@ -6584,21 +6584,21 @@
 		"jp_text": "女性共通ニレンカムイＶｏ",
 		"tr_text": "Female Twin Kamui Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n女性のみ使用可能。\nＣＶ佐藤 聡美",
-		"tr_explain": "Una nueva voz podra ser elegida.\nFemale characters only (all races).\nCV: Satomi Sato"
+		"tr_explain": "Una nueva voz podra ser elegida.\nFeSolo masculinos (todas las razas).\nCV: Satomi Sato"
 	},
 	{
 		"assign": "31801452",
 		"jp_text": "女性共通シューティングＤＶｏ",
 		"tr_text": "Female Shooting Drive Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n女性のみ使用可能。\nＣＶ飯田 友子",
-		"tr_explain": "Una nueva voz podra ser elegida.\nFemale characters only (all races).\nCV: Yuko Iida"
+		"tr_explain": "Una nueva voz podra ser elegida.\nFeSolo masculinos (todas las razas).\nCV: Yuko Iida"
 	},
 	{
 		"assign": "31801453",
 		"jp_text": "女性共通ラヴィス＝Ｂボイス",
 		"tr_text": "Female Lavis Blade Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n女性のみ使用可能。\nＣＶ木村 珠莉",
-		"tr_explain": "Una nueva voz podra ser elegida.\nFemale characters only (all races).\nCV: Juri Kimura"
+		"tr_explain": "Una nueva voz podra ser elegida.\nFeSolo masculinos (todas las razas).\nCV: Juri Kimura"
 	},
 	{
 		"assign": "31801454",
@@ -6668,7 +6668,7 @@
 		"jp_text": "女性Ｃ追加ボイス１８０",
 		"tr_text": "Female C Extra Voice 180",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\nキャスト女性のみ使用可能。\nＣＶ瀬戸 麻沙美",
-		"tr_explain": "Allows a new voice to be selected.\nFemale Casts only.\nCV: Asami Seto"
+		"tr_explain": "Una nueva voz podra ser elegida.\nFeSolo Casts masculinos.\nCV: Asami Seto"
 	},
 	{
 		"assign": "31801492",
@@ -6787,7 +6787,7 @@
 		"jp_text": "女性Ｃ追加ボイス１８１",
 		"tr_text": "Female C Extra Voice 181",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\nキャスト女性のみ使用可能。\nＣＶ甲斐田 裕子",
-		"tr_explain": "Allows a new voice to be selected.\nFemale Casts only.\nCV: Yuko Kaida"
+		"tr_explain": "Una nueva voz podra ser elegida.\nFeSolo Casts masculinos.\nCV: Yuko Kaida"
 	},
 	{
 		"assign": "31801554",

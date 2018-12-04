@@ -4358,14 +4358,14 @@
 		"jp_text": "エルゼヘルム",
 		"tr_text": "Elze Helm",
 		"jp_explain": "チケットを使用すると、新しい髪型の\nエルゼヘルムが選択可能。",
-		"tr_explain": "Unlocks the hairstyle\n\"Elze Helm\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el peinado\n\"Elze Helm\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3150746",
 		"jp_text": "エルゼヘアー",
 		"tr_text": "Elze Hair",
 		"jp_explain": "チケットを使用すると、新しい髪型の\nエルゼヘアーが選択可能。",
-		"tr_explain": "Unlocks the hairstyle\n\"Elze Hair\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el peinado\n\"Elze Hair\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3150747",
@@ -4568,28 +4568,28 @@
 		"jp_text": "鳴上悠ヘアー",
 		"tr_text": "Yu Narukami Hair",
 		"jp_explain": "チケットを使用すると、新しい髪型の\n鳴上悠ヘアーが選択可能。",
-		"tr_explain": "Unlocks the hairstyle\n\"Yu Narukami Hair\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el peinado\n\"Yu Narukami Hair\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3150792",
 		"jp_text": "里中千枝ヘアー",
 		"tr_text": "Chie Satonaka Hair",
 		"jp_explain": "チケットを使用すると、新しい髪型の\n里中千枝ヘアーが選択可能。",
-		"tr_explain": "Unlocks the hairstyle\n\"Chie Satonaka Hair\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el peinado\n\"Chie Satonaka Hair\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3150793",
 		"jp_text": "マリーショートヘアー",
 		"tr_text": "Marie Short Hair",
 		"jp_explain": "チケットを使用すると、新しい髪型の\nマリーショートヘアーが選択可能。",
-		"tr_explain": "Unlocks the hairstyle\n\"Marie Short Hair\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el peinado\n\"Marie Short Hair\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3150794",
 		"jp_text": "Ｐ３Ｐ女性主人公ヘアー",
 		"tr_text": "P3P Female Hair",
 		"jp_explain": "チケットを使用すると、新しい髪型の\nＰ３Ｐ女性主人公ヘアーが選択可能。",
-		"tr_explain": "Unlocks the hairstyle\n\"P3P Female Hair\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el peinado\n\"P3P Female Hair\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3150795",

@@ -3462,7 +3462,7 @@
 		"jp_text": "The King of Speed",
 		"tr_text": "The King of Speed",
 		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＤＡＹ ＃０１\n『The King of Speed』",
-		"tr_explain": "Music Disc for My Room.\nDAY #01\n\"The King of Speed\""
+		"tr_explain": "Un disco de musica para tu jukebox.\nDAY #01\n\"The King of Speed\""
 	},
 	{
 		"assign": "3190561",

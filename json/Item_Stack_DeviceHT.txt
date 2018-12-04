@@ -60,7 +60,7 @@
 		"jp_text": "マグリセットデバイス",
 		"tr_text": "Mag Reset Device",
 		"jp_explain": "マグのレベルや支援機能をリセットし\nマグを初期の状態へ戻すデバイス。",
-		"tr_explain": "Resets a Mag's appearance, stats,\nand support functions back to its \ndefault state."
+		"tr_explain": "Reinicia todos los ajustes de un\nMag a su estado inicial."
 	},
 	{
 		"assign": "31209",
@@ -1110,14 +1110,14 @@
 		"jp_text": "進化デバイス／パートニャー",
 		"tr_text": "Evo. Device / Partnya",
 		"jp_explain": "Ｌｖ．１００以上のマグに使用できる\nマグの形態進化デバイス。\n「パートニャー」に進化する。",
-		"tr_explain": "Requires a Lv.100 mag or above to\nuse. Evolves your mag into a\nPartnya."
+		"tr_explain": "Requiere un mag de Lv.100 o mas\npara usarse. Evoluciona tu mag en un\nPartnya."
 	},
 	{
 		"assign": "3120171",
 		"jp_text": "進化デバイス／プーギー",
 		"tr_text": "Evo. Device / Poogie",
 		"jp_explain": "Ｌｖ．１００以上のマグに使用できる\nマグの形態進化デバイス。\n「プーギー」に進化する。",
-		"tr_explain": "Requires a Lv.100 mag or above to\nuse. Evolves your mag into a\nPoogie."
+		"tr_explain": "Requiere un mag de Lv.100 o mas\npara usarse. Evoluciona tu mag en un\nPoogie."
 	},
 	{
 		"assign": "3120172",
@@ -1138,6 +1138,6 @@
 		"jp_text": "進化Ｄ／ジャックフロスト",
 		"tr_text": "Evo. Device / Jack Frost",
 		"jp_explain": "Ｌｖ．１００以上のマグに使用できる\nマグの形態進化デバイス。\n「ジャックフロスト」に進化する。",
-		"tr_explain": "Requires a Lv.100 mag or above to\nuse. Evolves your mag into a\nJack Frost."
+		"tr_explain": "Requiere un mag de Lv.100 o mas\npara usarse. Evoluciona tu mag en un\nJack Frost."
 	}
 ]
