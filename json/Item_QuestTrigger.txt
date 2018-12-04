@@ -305,7 +305,7 @@
 		"jp_text": "灼熱の絶対零度トリガー",
 		"tr_text": "T. Mision: Burning Frost",
 		"jp_explain": "境界蝕む灼熱の絶対零度を\nクエストカウンターから発生させる。\n<yellow>※消費後は理由によらず返却されません。\n※２０１９年５月１５日まで使用可。<c>",
-		"tr_explain": "[The Freezing Burn]\npodra elegirse en las Misiones.\n<yellow>※Este objeto no sera regresado\ndespues de su consumo. Ex: 15/05/2019.<c>"
+		"tr_explain": "[The Freezing Burn] Expira: 15/05/2019.\npodra elegirse en las Misiones.\n<yellow>※Este objeto no sera regresado\ndespues de su consumo.<c>"
 	},
 	{
 		"assign": "373047",

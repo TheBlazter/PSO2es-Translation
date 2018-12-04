@@ -11,7 +11,7 @@
 		"jp_text": "カラーチェンジパス",
 		"tr_text": "Color Change Pass",
 		"jp_explain": "コスチュームのカラー変更パス\nエステにてカラーリングの変更が可能。\n利用するたびにパスは消費される。",
-		"tr_explain": "Permite recolorear un traje/n o tu personaje cast desde el/nSalon de Belleza."
+		"tr_explain": "Permite recolorear un traje\n o tu personaje cast desde el\nSalon de Belleza."
 	},
 	{
 		"assign": "32104",
@@ -312,28 +312,28 @@
 		"jp_text": "リリパリウムフルチャージ",
 		"tr_text": "Lilliparium Full Charge",
 		"jp_explain": "現在所持している全ての\nクラフトエネルギーを\n全回復させる。",
-		"tr_explain": "Reduce el tiempo de espera de/ntodas las lineas de crafteo por completo."
+		"tr_explain": "Reduce el tiempo de espera de\ntodas las lineas de crafteo por completo."
 	},
 	{
 		"assign": "321061",
 		"jp_text": "リリパリウム（極小）",
 		"tr_text": "Lilliparium (Mini)",
 		"jp_explain": "選択したクラフトエネルギーを\n１５分回復させる。",
-		"tr_explain": "Reduce el tiempo de espera/nde una linea de crafteo 15 minutos."
+		"tr_explain": "Reduce el tiempo de espera\nde una linea de crafteo 15 minutos."
 	},
 	{
 		"assign": "321062",
 		"jp_text": "リリパリウム（小）",
 		"tr_text": "Lilliparium (Small)",
 		"jp_explain": "選択したクラフトエネルギーを\n３０分回復させる。",
-		"tr_explain": "Reduce el tiempo de espera/nde una linea de crafteo 30 minutos."
+		"tr_explain": "Reduce el tiempo de espera\nde una linea de crafteo 30 minutos."
 	},
 	{
 		"assign": "321066",
 		"jp_text": "リリパリウム（極大）",
 		"tr_text": "Lilliparium (Max)",
 		"jp_explain": "選択したクラフトエネルギーを\n１２時間回復させる。",
-		"tr_explain": "Reduce el tiempo de espera/nde una linea de crafteo 12 horas."
+		"tr_explain": "Reduce el tiempo de espera\nde una linea de crafteo 12 horas."
 	},
 	{
 		"assign": "321067",
@@ -627,7 +627,7 @@
 		"jp_text": "リリパリウムオール（極大）",
 		"tr_text": "Lilliparium All (Max)",
 		"jp_explain": "現在所持している全ての\nクラフトエネルギーを\n１２時間回復させる。",
-		"tr_explain": "Reduce el tiempo de espera de/ntodas las lineas de crafteo 12 horas."
+		"tr_explain": "Reduce el tiempo de espera de\ntodas las lineas de crafteo 12 horas."
 	},
 	{
 		"assign": "3210136",
