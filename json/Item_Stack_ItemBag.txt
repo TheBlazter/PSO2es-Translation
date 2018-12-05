@@ -40653,6 +40653,6 @@
 		"jp_text": "先割れまつげセット",
 		"tr_text": "Split End Eyelashes Set",
 		"jp_explain": "以下のアイテム４種を獲得する。\n「先割れまつげ　黒／紺／茶／白」",
-		"tr_explain": "Use to receive the following 4 items:\n[Split End Eyelashes (4 colors)]"
+		"tr_explain": "Al usarlo recibiras:\n[Split End Eyelashes (4 colores)]"
 	}
 ]
