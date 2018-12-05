@@ -991,7 +991,7 @@
 		"jp_text": "男性追加ボイス３０",
 		"tr_text": "Male Extra Voice 30",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n人間男性のみ使用可能。\nＣＶ木村 良平",
-		"tr_explain": "Una nueva voz podra ser elegida.\nSolo No-Cast masculinos.\nCV: Tetsuya Kakihara"
+		"tr_explain": "Una nueva voz podra ser elegida.\nSolo No-Cast masculinos.\nCV: Ryohei Kimura"
 	},
 	{
 		"assign": "3180152",
@@ -4176,7 +4176,7 @@
 		"jp_text": "女性追加ボイス１８８",
 		"tr_text": "Female Extra Voice 188",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n人間女性のみ使用可能。\nＣＶ伊藤 静",
-		"tr_explain": "Una nueva voz podra ser elegida.\nSolo femeninos (todas las razas).\nCV: Shizuka Ito"
+		"tr_explain": "Una nueva voz podra ser elegida.\nSolo No-Cast femeninos.\nCV: Shizuka Ito"
 	},
 	{
 		"assign": "3180773",

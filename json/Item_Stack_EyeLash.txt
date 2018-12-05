@@ -1612,29 +1612,29 @@
 	{
 		"assign": "3280235",
 		"jp_text": "先割れまつげ　黒",
-		"tr_text": "",
+		"tr_text": "Split End Eyelashes Black",
 		"jp_explain": "チケットを使用すると、新しいまつげの\n先割れまつげ　黒が選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Desbloquea las pestaйas\n\"Split End Eyelashes Black\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3280236",
 		"jp_text": "先割れまつげ　紺",
-		"tr_text": "",
+		"tr_text": "Split End Eyelashes Blue",
 		"jp_explain": "チケットを使用すると、新しいまつげの\n先割れまつげ　紺が選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Desbloquea las pestaйas\n\"Split End Eyelashes Blue\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3280237",
 		"jp_text": "先割れまつげ　茶",
-		"tr_text": "",
+		"tr_text": "Split End Eyelashes Brown",
 		"jp_explain": "チケットを使用すると、新しいまつげの\n先割れまつげ　茶が選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Desbloquea las pestaйas\n\"Split End Eyelashes Brown\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3280238",
 		"jp_text": "先割れまつげ　白",
-		"tr_text": "",
+		"tr_text": "Split End Eyelashes White",
 		"jp_explain": "チケットを使用すると、新しいまつげの\n先割れまつげ　白が選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Desbloquea las pestaйas\n\"Split End Eyelashes White\"\npara usar en el Estilista."
 	}
 ]

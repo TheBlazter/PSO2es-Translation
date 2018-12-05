@@ -1192,9 +1192,9 @@
 	{
 		"assign": "3260171",
 		"jp_text": "ＰＳＯ２アニメ瞳Ｃ",
-		"tr_text": "",
+		"tr_text": "PSO2 Anime Eyes C",
 		"jp_explain": "チケットを使用すると、新しい瞳の\nＰＳＯ２アニメ瞳Ｃが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Desbloquea los ojos\n\"PSO2 Anime Eyes C\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3260172",
