@@ -3234,6 +3234,13 @@
 		"tr_explain": "Aprende una nueva accion de lobby\n\"Seal & Release\".\nUsa los botones para cambiar de pose."
 	},
 	{
+		"assign": "3230470",
+		"jp_text": "456「スイパラポーズ」",
+		"tr_text": "",
+		"jp_explain": "ロビアク『スイパラポーズ』\nを全キャラクターで使用可能になる。\n対応機能：ボタン派生",
+		"tr_explain": ""
+	},
+	{
 		"assign": "3230473",
 		"jp_text": "459「ＭＨＦ１」",
 		"tr_text": "459 \"MHF1\"",
@@ -3264,9 +3271,9 @@
 	{
 		"assign": "3230477",
 		"jp_text": "463「わさビーフを食べる」",
-		"tr_text": "",
+		"tr_text": "463 \"Eat Wasabeef\"",
 		"jp_explain": "ロビアク『わさビーフを食べる』\nを全キャラクターで使用可能になる。\n対応機能：ボタン派生",
-		"tr_explain": ""
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Eat Wasabeef\".\nUsa los botones para cambiar de pose."
 	},
 	{
 		"assign": "3230478",
@@ -3299,23 +3306,23 @@
 	{
 		"assign": "3230482",
 		"jp_text": "468「初代ＫＫポーズ１」",
-		"tr_text": "",
+		"tr_text": "468 \"First Gen CC Pose 1\"",
 		"jp_explain": "ロビアク『初代ＫＫポーズ１』\nを全キャラクターで使用可能になる。\n対応機能：ボタン派生",
-		"tr_explain": ""
+		"tr_explain": "Aprende una nueva accion de lobby\n\"First Gen CC Pose 1\".\nUsa los botones para cambiar de pose."
 	},
 	{
 		"assign": "3230483",
 		"jp_text": "469「初代ＫＫポーズ２」",
-		"tr_text": "",
+		"tr_text": "469 \"First Gen CC Pose 2\"",
 		"jp_explain": "ロビアク『初代ＫＫポーズ２』\nを全キャラクターで使用可能になる。\n対応機能：ボタン派生",
-		"tr_explain": ""
+		"tr_explain": "Aprende una nueva accion de lobby\n\"First Gen CC Pose 2\".\nUsa los botones para cambiar de pose."
 	},
 	{
 		"assign": "3230484",
 		"jp_text": "470「ヴォルフ＆アトッサ」",
-		"tr_text": "",
+		"tr_text": "470 \"Wolf & Atossa\"",
 		"jp_explain": "ロビアク『ヴォルフ＆アトッサ』\nを全キャラクターで使用可能になる。\n対応機能：ボタン派生",
-		"tr_explain": ""
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Wolf & Atossa\".\nUsa los botones para cambiar de pose."
 	},
 	{
 		"assign": "3230485",
@@ -3344,5 +3351,40 @@
 		"tr_text": "474 \"Vo Performance 9\"",
 		"jp_explain": "ロビアク『Ｖｏパフォーマンス９』\nを全キャラクターで使用可能になる。",
 		"tr_explain": "Aprende una nueva accion de lobby\n\"Vo Performance 9\"."
+	},
+	{
+		"assign": "3230489",
+		"jp_text": "475「アルマポーズ」",
+		"tr_text": "475 \"Alma Pose\"",
+		"jp_explain": "ロビアク『アルマポーズ』\nを全キャラクターで使用可能になる。\n対応機能：ボタン派生",
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Alma Pose\".\nUsa los botones para cambiar de pose."
+	},
+	{
+		"assign": "3230490",
+		"jp_text": "476「アルマボール」",
+		"tr_text": "476 \"Alma Ball\"",
+		"jp_explain": "ロビアク『アルマボール』\nを全キャラクターで使用可能になる。\n対応機能：ボタン派生",
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Alma Ball\".\nUsa los botones para cambiar de pose."
+	},
+	{
+		"assign": "3230491",
+		"jp_text": "477「虹ドロ入手」",
+		"tr_text": "",
+		"jp_explain": "ロビアク『虹ドロ入手』\nを全キャラクターで使用可能になる。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3230492",
+		"jp_text": "478「脚を組む」",
+		"tr_text": "",
+		"jp_explain": "ロビアク『脚を組む』\nを全キャラクターで使用可能になる。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3230501",
+		"jp_text": "487「イチカ＆テトラポーズ」",
+		"tr_text": "",
+		"jp_explain": "ロビアク『イチカ＆テトラポーズ』\nを全キャラクターで使用可能になる。",
+		"tr_explain": ""
 	}
 ]

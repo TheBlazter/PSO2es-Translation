@@ -803,5 +803,19 @@
 		"tr_text": "Huevo de Synchro S 14★",
 		"jp_explain": "ペット「シンクロウ」のエッグ。\n使用するとシンクロウが\nペット登録され、育成可能となる。",
 		"tr_explain": "Huevo de Synchro.\nUsalo para registrar\ny cria esta mascota."
+	},
+	{
+		"assign": "1210149",
+		"jp_text": "レドランエッグ★１４",
+		"tr_text": "Huevo de Redran 14★",
+		"jp_explain": "ペット「レドラン」のエッグ。\n使用するとレドランが\nペット登録され、育成可能となる。",
+		"tr_explain": "Huevo de Redran.\nUsalo para registrar\ny cria esta mascota."
+	},
+	{
+		"assign": "1210150",
+		"jp_text": "レドランＳエッグ★１４",
+		"tr_text": "Huevo de Redran S 14★",
+		"jp_explain": "ペット「レドラン」のエッグ。\n使用するとレドランが\nペット登録され、育成可能となる。",
+		"tr_explain": "Huevo de Redran.\nUsalo para registrar\ny cria esta mascota."
 	}
 ]

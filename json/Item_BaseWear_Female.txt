@@ -8311,149 +8311,149 @@
 	{
 		"assign": "33501294",
 		"jp_text": "エクエスティオー[Ba]",
-		"tr_text": "",
+		"tr_text": "Equestio [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nエクエスティオー[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Un nuevo traje base\n\"Equestio [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501295",
 		"jp_text": "エクエスティオー空[Ba]",
-		"tr_text": "",
+		"tr_text": "Equestio Sky [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nエクエスティオー空[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Un nuevo traje base\n\"Equestio Sky [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501296",
 		"jp_text": "エクエスティオー雪[Ba]",
-		"tr_text": "",
+		"tr_text": "Equestio Snow [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nエクエスティオー雪[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Un nuevo traje base\n\"Equestio Snow [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501297",
 		"jp_text": "エクエスティオー雅[Ba]",
-		"tr_text": "",
+		"tr_text": "Equestio Elegant [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nエクエスティオー雅[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Un nuevo traje base\n\"Equestio Elegant [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501298",
 		"jp_text": "エクエスティオー影[Ba]",
-		"tr_text": "",
+		"tr_text": "Equestio Shadow [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nエクエスティオー影[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Un nuevo traje base\n\"Equestio Shadow [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501299",
 		"jp_text": "エクエスティオー冬[Ba]",
-		"tr_text": "",
+		"tr_text": "Equestio Winter [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nエクエスティオー冬[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Un nuevo traje base\n\"Equestio Winter [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501300",
 		"jp_text": "エレティックレーヌ[Ba]",
-		"tr_text": "",
+		"tr_text": "Eretique Reine [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nエレティックレーヌ[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Un nuevo traje base\n\"Eretique Reine [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501301",
 		"jp_text": "エレティックレーヌ影[Ba]",
-		"tr_text": "",
+		"tr_text": "Eretique Reine Shadow [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nエレティックレーヌ影[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Un nuevo traje base\n\"Eretique Reine Shadow [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501302",
 		"jp_text": "エレティックレーヌ雅[Ba]",
-		"tr_text": "",
+		"tr_text": "Eretique Reine Elegant [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nエレティックレーヌ雅[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Un nuevo traje base\n\"Eretique Reine Elegant [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501303",
 		"jp_text": "エレティックレーヌ雪[Ba]",
-		"tr_text": "",
+		"tr_text": "Eretique Reine Snow [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nエレティックレーヌ雪[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Un nuevo traje base\n\"Eretique Reine Snow [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501304",
 		"jp_text": "エレティックレーヌ紅[Ba]",
-		"tr_text": "",
+		"tr_text": "Eretique Reine Crimson [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nエレティックレーヌ紅[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Un nuevo traje base\n\"Eretique Reine Crimson [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501305",
 		"jp_text": "エレティックレーヌ玄[Ba]",
-		"tr_text": "",
+		"tr_text": "Eretique Reine Mysterious [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nエレティックレーヌ玄[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Un nuevo traje base\n\"Eretique Reine Mysterious [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501306",
 		"jp_text": "エグザムリーシュＦ[Ba]",
-		"tr_text": "",
+		"tr_text": "Exam Leash F [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nエグザムリーシュＦ[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Un nuevo traje base\n\"Exam Leash F [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501307",
 		"jp_text": "エグザムリーシュＦ影[Ba]",
-		"tr_text": "",
+		"tr_text": "Exam Leash F Shadow [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nエグザムリーシュＦ影[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Un nuevo traje base\n\"Exam Leash F Shadow [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501308",
 		"jp_text": "エグザムリーシュＦ紅[Ba]",
-		"tr_text": "",
+		"tr_text": "Exam Leash F Crimson [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nエグザムリーシュＦ紅[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Un nuevo traje base\n\"Exam Leash F Crimson [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501309",
 		"jp_text": "エグザムリーシュＦ夜[Ba]",
-		"tr_text": "",
+		"tr_text": "Exam Leash F Night [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nエグザムリーシュＦ夜[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Un nuevo traje base\n\"Exam Leash F Night [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501310",
 		"jp_text": "シーリスクロス[Ba]",
-		"tr_text": "",
+		"tr_text": "Xyris Clothes [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nシーリスクロス[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Un nuevo traje base\n\"Xyris Clothes [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501311",
 		"jp_text": "シーリスクロス影[Ba]",
-		"tr_text": "",
+		"tr_text": "Xyris Clothes Shadow [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nシーリスクロス影[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Un nuevo traje base\n\"Xyris Clothes Shadow [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501312",
 		"jp_text": "シーリスクロス紅[Ba]",
-		"tr_text": "",
+		"tr_text": "Xyris Clothes Crimson [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nシーリスクロス紅[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Un nuevo traje base\n\"Xyris Clothes Crimson [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501313",
 		"jp_text": "シーリスクロス夜[Ba]",
-		"tr_text": "",
+		"tr_text": "Xyris Clothes Night [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nシーリスクロス夜[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Un nuevo traje base\n\"Xyris Clothes Night [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501314",
 		"jp_text": "ディアルマ・ゼロ[Ba]",
-		"tr_text": "",
+		"tr_text": "DeAlma Zero [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nディアルマ・ゼロ[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Un nuevo traje base\n\"DeAlma Zero [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501315",
@@ -8524,5 +8524,173 @@
 		"tr_text": "Holly Carol Dress Madder [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nホリーキャロルドレス茜[Ba]が選択可能。\n女性のみ使用可能。",
 		"tr_explain": "Un nuevo traje base\n\"Holly Carol Dress Madder [Ba]\".\nSolo para personajes femeninos."
+	},
+	{
+		"assign": "33501330",
+		"jp_text": "逢魔幽玄譚[Ba]",
+		"tr_text": "Amorous Tale [Ba]",
+		"jp_explain": "使用すると、新しいベースウェアの\n逢魔幽玄譚[Ba]が選択可能。\n女性のみ使用可能。",
+		"tr_explain": "Un nuevo traje base\n\"Amorous Tale [Ba]\".\nSolo para personajes femeninos."
+	},
+	{
+		"assign": "33501331",
+		"jp_text": "逢魔幽玄譚　紅[Ba]",
+		"tr_text": "Amorous Tale Crimson [Ba]",
+		"jp_explain": "使用すると、新しいベースウェアの\n逢魔幽玄譚　紅[Ba]が選択可能。\n女性のみ使用可能。",
+		"tr_explain": "Un nuevo traje base\n\"Amorous Tale Crimson [Ba]\".\nSolo para personajes femeninos."
+	},
+	{
+		"assign": "33501332",
+		"jp_text": "逢魔幽玄譚　葉[Ba]",
+		"tr_text": "Amorous Tale Leaf [Ba]",
+		"jp_explain": "使用すると、新しいベースウェアの\n逢魔幽玄譚　葉[Ba]が選択可能。\n女性のみ使用可能。",
+		"tr_explain": "Un nuevo traje base\n\"Amorous Tale Leaf [Ba]\".\nSolo para personajes femeninos."
+	},
+	{
+		"assign": "33501333",
+		"jp_text": "逢魔幽玄譚　桜[Ba]",
+		"tr_text": "Amorous Tale Sakura [Ba]",
+		"jp_explain": "使用すると、新しいベースウェアの\n逢魔幽玄譚　桜[Ba]が選択可能。\n女性のみ使用可能。",
+		"tr_explain": "Un nuevo traje base\n\"Amorous Tale Sakura [Ba]\".\nSolo para personajes femeninos."
+	},
+	{
+		"assign": "33501334",
+		"jp_text": "逢魔幽玄譚　雪[Ba]",
+		"tr_text": "Amorous Tale Snow [Ba]",
+		"jp_explain": "使用すると、新しいベースウェアの\n逢魔幽玄譚　雪[Ba]が選択可能。\n女性のみ使用可能。",
+		"tr_explain": "Un nuevo traje base\n\"Amorous Tale Snow [Ba]\".\nSolo para personajes femeninos."
+	},
+	{
+		"assign": "33501335",
+		"jp_text": "逢魔幽玄譚　影[Ba]",
+		"tr_text": "Amorous Tale Shadow [Ba]",
+		"jp_explain": "使用すると、新しいベースウェアの\n逢魔幽玄譚　影[Ba]が選択可能。\n女性のみ使用可能。",
+		"tr_explain": "Un nuevo traje base\n\"Amorous Tale Shadow [Ba]\".\nSolo para personajes femeninos."
+	},
+	{
+		"assign": "33501336",
+		"jp_text": "淑花絹羽織[Ba]",
+		"tr_text": "Perennial Opulence [Ba]",
+		"jp_explain": "使用すると、新しいベースウェアの\n淑花絹羽織[Ba]が選択可能。\n女性のみ使用可能。",
+		"tr_explain": "Un nuevo traje base\n\"Perennial Opulence [Ba]\".\nSolo para personajes femeninos."
+	},
+	{
+		"assign": "33501337",
+		"jp_text": "淑花絹羽織　紅[Ba]",
+		"tr_text": "Perennial Opulence Scarlet [Ba]",
+		"jp_explain": "使用すると、新しいベースウェアの\n淑花絹羽織　紅[Ba]が選択可能。\n女性のみ使用可能。",
+		"tr_explain": "Un nuevo traje base\n\"Perennial Opulence Scarlet [Ba]\".\nSolo para personajes femeninos."
+	},
+	{
+		"assign": "33501338",
+		"jp_text": "淑花絹羽織　雅[Ba]",
+		"tr_text": "Perennial Opulence Elegant [Ba]",
+		"jp_explain": "使用すると、新しいベースウェアの\n淑花絹羽織　雅[Ba]が選択可能。\n女性のみ使用可能。",
+		"tr_explain": "Un nuevo traje base\n\"Perennial Opulence Elegant [Ba]\".\nSolo para personajes femeninos."
+	},
+	{
+		"assign": "33501339",
+		"jp_text": "淑花絹羽織　夜[Ba]",
+		"tr_text": "Perennial Opulence Night [Ba]",
+		"jp_explain": "使用すると、新しいベースウェアの\n淑花絹羽織　夜[Ba]が選択可能。\n女性のみ使用可能。",
+		"tr_explain": "Un nuevo traje base\n\"Perennial Opulence Night [Ba]\".\nSolo para personajes femeninos."
+	},
+	{
+		"assign": "33501340",
+		"jp_text": "淑花絹羽織　雪[Ba]",
+		"tr_text": "Perennial Opulence Snow [Ba]",
+		"jp_explain": "使用すると、新しいベースウェアの\n淑花絹羽織　雪[Ba]が選択可能。\n女性のみ使用可能。",
+		"tr_explain": "Un nuevo traje base\n\"Perennial Opulence Snow [Ba]\".\nSolo para personajes femeninos."
+	},
+	{
+		"assign": "33501341",
+		"jp_text": "淑花絹羽織　影[Ba]",
+		"tr_text": "Perennial Opulence Dark [Ba]",
+		"jp_explain": "使用すると、新しいベースウェアの\n淑花絹羽織　影[Ba]が選択可能。\n女性のみ使用可能。",
+		"tr_explain": "Un nuevo traje base\n\"Perennial Opulence Dark [Ba]\".\nSolo para personajes femeninos."
+	},
+	{
+		"assign": "33501342",
+		"jp_text": "ハルチハヤ[Ba]",
+		"tr_text": "Haru Chihaya [Ba]",
+		"jp_explain": "使用すると、新しいベースウェアの\nハルチハヤ[Ba]が選択可能。\n女性のみ使用可能。",
+		"tr_explain": "Un nuevo traje base\n\"Haru Chihaya [Ba]\".\nSolo para personajes femeninos."
+	},
+	{
+		"assign": "33501343",
+		"jp_text": "ハルチハヤ夜[Ba]",
+		"tr_text": "Haru Chihaya Night [Ba]",
+		"jp_explain": "使用すると、新しいベースウェアの\nハルチハヤ夜[Ba]が選択可能。\n女性のみ使用可能。",
+		"tr_explain": "Un nuevo traje base\n\"Haru Chihaya Night [Ba]\".\nSolo para personajes femeninos."
+	},
+	{
+		"assign": "33501344",
+		"jp_text": "ハルチハヤ雪[Ba]",
+		"tr_text": "Haru Chihaya Snow [Ba]",
+		"jp_explain": "使用すると、新しいベースウェアの\nハルチハヤ雪[Ba]が選択可能。\n女性のみ使用可能。",
+		"tr_explain": "Un nuevo traje base\n\"Haru Chihaya Snow [Ba]\".\nSolo para personajes femeninos."
+	},
+	{
+		"assign": "33501345",
+		"jp_text": "ハルチハヤ雅[Ba]",
+		"tr_text": "Haru Chihaya Elegant [Ba]",
+		"jp_explain": "使用すると、新しいベースウェアの\nハルチハヤ雅[Ba]が選択可能。\n女性のみ使用可能。",
+		"tr_explain": "Un nuevo traje base\n\"Haru Chihaya Elegant [Ba]\".\nSolo para personajes femeninos."
+	},
+	{
+		"assign": "33501346",
+		"jp_text": "ハルチハヤ陽[Ba]",
+		"tr_text": "Haru Chihaya Sun [Ba]",
+		"jp_explain": "使用すると、新しいベースウェアの\nハルチハヤ陽[Ba]が選択可能。\n女性のみ使用可能。",
+		"tr_explain": "Un nuevo traje base\n\"Haru Chihaya Sun [Ba]\".\nSolo para personajes femeninos."
+	},
+	{
+		"assign": "33501347",
+		"jp_text": "ハルチハヤ影[Ba]",
+		"tr_text": "Haru Chihaya Shadow [Ba]",
+		"jp_explain": "使用すると、新しいベースウェアの\nハルチハヤ影[Ba]が選択可能。\n女性のみ使用可能。",
+		"tr_explain": "Un nuevo traje base\n\"Haru Chihaya Shadow [Ba]\".\nSolo para personajes femeninos."
+	},
+	{
+		"assign": "33501348",
+		"jp_text": "ＰＳＺサリサ・レプカ[Ba]",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいベースウェアの\nＰＳＺサリサ・レプカ[Ba]が選択可能。\n女性のみ使用可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33501349",
+		"jp_text": "ＰＳＺサリサ・レプカ紅[Ba]",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいベースウェアの\nＰＳＺサリサ・レプカ紅[Ba]が選択可能。\n女性のみ使用可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33501350",
+		"jp_text": "ＰＳＺサリサ・レプカ影[Ba]",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいベースウェアの\nＰＳＺサリサ・レプカ影[Ba]が選択可能。\n女性のみ使用可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33501351",
+		"jp_text": "春風桜物語　春[Ba]",
+		"tr_text": "Spring Breeze Spring [Ba]",
+		"jp_explain": "使用すると、新しいベースウェアの\n春風桜物語　春[Ba]が選択可能。\n女性のみ使用可能。",
+		"tr_explain": "Un nuevo traje base\n\"Spring Breeze Spring [Ba]\".\nSolo para personajes femeninos."
+	},
+	{
+		"assign": "33501352",
+		"jp_text": "春風桜物語　茜[Ba]",
+		"tr_text": "Spring Breeze Madder [Ba]",
+		"jp_explain": "使用すると、新しいベースウェアの\n春風桜物語　茜[Ba]が選択可能。\n女性のみ使用可能。",
+		"tr_explain": "Un nuevo traje base\n\"Spring Breeze Madder [Ba]\".\nSolo para personajes femeninos."
+	},
+	{
+		"assign": "33501353",
+		"jp_text": "春風桜物語　燃[Ba]",
+		"tr_text": "Spring Breeze Burning [Ba]",
+		"jp_explain": "使用すると、新しいベースウェアの\n春風桜物語　燃[Ba]が選択可能。\n女性のみ使用可能。",
+		"tr_explain": "Un nuevo traje base\n\"Spring Breeze Burning [Ba]\".\nSolo para personajes femeninos."
 	}
 ]

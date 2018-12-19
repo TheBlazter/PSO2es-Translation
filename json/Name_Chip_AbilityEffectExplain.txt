@@ -920,6 +920,36 @@
 		"tr_text": "Damage boost up"
 	},
 	{
+		"assign": "186",
+		"jp_text": "ダメージ量アップ",
+		"tr_text": "Damage boost up"
+	},
+	{
+		"assign": "187",
+		"jp_text": "ダメージ量アップ",
+		"tr_text": "Damage boost up"
+	},
+	{
+		"assign": "188",
+		"jp_text": "ダメージ量アップ",
+		"tr_text": "Damage boost up"
+	},
+	{
+		"assign": "189",
+		"jp_text": "ダメージ量アップ",
+		"tr_text": "Damage boost up"
+	},
+	{
+		"assign": "190",
+		"jp_text": "ダメージ量アップ",
+		"tr_text": "Damage boost up"
+	},
+	{
+		"assign": "191",
+		"jp_text": "ダメージ量アップ",
+		"tr_text": "Damage boost up"
+	},
+	{
 		"assign": "997",
 		"jp_text": "ダメージ量アップ",
 		"tr_text": "Damage boost up"

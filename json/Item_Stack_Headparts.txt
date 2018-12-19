@@ -1832,5 +1832,19 @@
 		"tr_text": "Nimbus Head CV",
 		"jp_explain": "チケットを使用すると、新しい頭部の\nニンバス・ヘッドＣＶが選択可能。\nキャスト女性のみ使用可能。",
 		"tr_explain": "Desbloquea la cabeza femenina\n\"Nimbus Head CV\"\npara usar en el Estilista."
+	},
+	{
+		"assign": "3160304",
+		"jp_text": "ティタンガム・ヘッド",
+		"tr_text": "Titangam Head",
+		"jp_explain": "チケットを使用すると、新しい頭部の\nティタンガム・ヘッドが選択可能。\nキャスト男性のみ使用可能。",
+		"tr_explain": "Desbloquea la cabeza masculina\n\"Titangam Head\"\npara usar en el Estilista."
+	},
+	{
+		"assign": "3160305",
+		"jp_text": "アイシリカ・ヘッド",
+		"tr_text": "Icesilica Head",
+		"jp_explain": "チケットを使用すると、新しい頭部の\nアイシリカ・ヘッドが選択可能。\nキャスト女性のみ使用可能。",
+		"tr_explain": "Desbloquea la cabeza femenina\n\"Icesilica Head\"\npara usar en el Estilista."
 	}
 ]

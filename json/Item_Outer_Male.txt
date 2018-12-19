@@ -1136,21 +1136,21 @@
 	{
 		"assign": "230398",
 		"jp_text": "シャープオーダー[Ou]",
-		"tr_text": "",
+		"tr_text": "Sharp Order [Ou]",
 		"jp_explain": "アークス用戦闘服。レンジャークラスの\n初期支給品で、射撃補助に重点を置いた\n合理的な設計がされている。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "230399",
 		"jp_text": "シャープオーダー銀[Ou]",
-		"tr_text": "",
+		"tr_text": "Sharp Order Silver [Ou]",
 		"jp_explain": "アークス用戦闘服。レンジャークラスの\n初期支給品で、射撃補助に重点を置いた\n合理的な設計がされている。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "230402",
 		"jp_text": "エグザムリーシュＭ[Ou]",
-		"tr_text": "",
+		"tr_text": "Exam Leash M [Ou]",
 		"jp_explain": "フォトナーのフローがまとっていた\n検査衣を模したもの。速乾性が高く\n丈夫で、着脱しやすい作り。",
 		"tr_explain": ""
 	},
@@ -1166,6 +1166,27 @@
 		"jp_text": "トレンチコートＭ影[Ou]",
 		"tr_text": "Trench Coat M Shadow [Ou]",
 		"jp_explain": "襟元にピンが付いたシンプルな\nトレンチコート。定番スタイルの中にも\n変化が光るオシャレなデザインで人気。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "230414",
+		"jp_text": "妖異奇聞禄[Ou]",
+		"tr_text": "Twisted Tidings [Ou]",
+		"jp_explain": "民話や文献などで伝わる不可思議な\n存在を模した服。その者は、多数の目を\n腕に持ち、数は百ほどあるといわれる。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "230418",
+		"jp_text": "大豆ＴシャツＭ[Ou]",
+		"tr_text": "",
+		"jp_explain": "選ばれし者に贈られる名誉ある服。\n中央にあしらわれた不思議な文様は\n大いなる豆知識の意とされる。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "230419",
+		"jp_text": "浪漫義士羽織Ｍ銀[Ou]",
+		"tr_text": "Romanticist Haori M Silver [Ou]",
+		"jp_explain": "ダンダラ模様が入った長羽織。\n陣羽織に似た作りになっており\n凛々しい印象を与える。",
 		"tr_explain": ""
 	}
 ]

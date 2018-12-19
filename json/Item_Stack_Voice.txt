@@ -5534,7 +5534,7 @@
 		"jp_text": "女性Ｃヴィヴィアンボイス",
 		"tr_text": "Female C Vivianne Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\nキャスト女性のみ使用可能。\nＣＶ",
-		"tr_explain": "Una nueva voz podra ser elegida.\nSolo Casts femeninos.\nCV: Megumi Toyoguchi"
+		"tr_explain": "Una nueva voz podra ser elegida.\nSolo Casts femeninos.\nCV:"
 	},
 	{
 		"assign": "31801083",
@@ -5908,6 +5908,13 @@
 		"tr_explain": "Una nueva voz podra ser elegida.\nSolo No-Cast masculinos.\nCV: Shimazonaki Nobunaga."
 	},
 	{
+		"assign": "31801192",
+		"jp_text": "男性追加ボイス１４９",
+		"tr_text": "Male Extra Voice 149",
+		"jp_explain": "使用すると、新しいボイスが選択可能。\n人間男性のみ使用可能。\nＣＶ島﨑 信長",
+		"tr_explain": "Una nueva voz podra ser elegida.\nSolo No-Cast masculinos.\nCV: Nobunaga Shimazaki"
+	},
+	{
 		"assign": "31801195",
 		"jp_text": "男性追加ボイス１３４",
 		"tr_text": "Male Extra Voice 134",
@@ -6127,9 +6134,9 @@
 	{
 		"assign": "31801250",
 		"jp_text": "男性共通ヴォルフボイス",
-		"tr_text": "",
+		"tr_text": "Male Wolf Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n男性のみ使用可能。\nＣＶ江口 拓也",
-		"tr_explain": ""
+		"tr_explain": "Una nueva voz podra ser elegida.\nSolo masculinos (todas las razas).\nCV: Takuya Eguchi"
 	},
 	{
 		"assign": "31801287",
@@ -6151,6 +6158,13 @@
 		"tr_text": "Male C Extra Voice 133",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\nキャスト男性のみ使用可能。\nＣＶ島﨑 信長",
 		"tr_explain": "Una nueva voz podra ser elegida.\nSolo Cast masculinos.\nCV: Shimazonaki Nobunaga."
+	},
+	{
+		"assign": "31801292",
+		"jp_text": "男性Ｃ追加ボイス１４９",
+		"tr_text": "Male C Extra Voice 149",
+		"jp_explain": "使用すると、新しいボイスが選択可能。\nキャスト男性のみ使用可能。\nＣＶ島﨑 信長",
+		"tr_explain": "Una nueva voz podra ser elegida.\nSolo Casts masculinos.\nCV: Nobunaga Shimazaki"
 	},
 	{
 		"assign": "31801295",
@@ -6468,6 +6482,13 @@
 		"tr_explain": "Una nueva voz podra ser elegida.\nSolo No-Cast femeninos.\nCV: Mamiko Noto"
 	},
 	{
+		"assign": "31801417",
+		"jp_text": "女性追加ボイス１８２",
+		"tr_text": "Female Extra Voice 182",
+		"jp_explain": "使用すると、新しいボイスが選択可能。\n人間女性のみ使用可能。\nＣＶ能登 麻美子",
+		"tr_explain": "Una nueva voz podra ser elegida.\nNon-Cast female characters only.\nCV: Mamiko Noto"
+	},
+	{
 		"assign": "31801420",
 		"jp_text": "女性追加ボイス１５４",
 		"tr_text": "Female Extra Voice 154",
@@ -6584,34 +6605,41 @@
 		"jp_text": "女性共通ニレンカムイＶｏ",
 		"tr_text": "Female Twin Kamui Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n女性のみ使用可能。\nＣＶ佐藤 聡美",
-		"tr_explain": "Una nueva voz podra ser elegida.\nFeSolo masculinos (todas las razas).\nCV: Satomi Sato"
+		"tr_explain": "Una nueva voz podra ser elegida.\nnSolo femeninos (todas las razas).\nCV: Satomi Sato"
 	},
 	{
 		"assign": "31801452",
 		"jp_text": "女性共通シューティングＤＶｏ",
 		"tr_text": "Female Shooting Drive Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n女性のみ使用可能。\nＣＶ飯田 友子",
-		"tr_explain": "Una nueva voz podra ser elegida.\nFeSolo masculinos (todas las razas).\nCV: Yuko Iida"
+		"tr_explain": "Una nueva voz podra ser elegida.\nnSolo femeninos (todas las razas).\nCV: Yuko Iida"
 	},
 	{
 		"assign": "31801453",
 		"jp_text": "女性共通ラヴィス＝Ｂボイス",
 		"tr_text": "Female Lavis Blade Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n女性のみ使用可能。\nＣＶ木村 珠莉",
-		"tr_explain": "Una nueva voz podra ser elegida.\nFeSolo masculinos (todas las razas).\nCV: Juri Kimura"
+		"tr_explain": "Una nueva voz podra ser elegida.\nnSolo femeninos (todas las razas).\nCV: Juri Kimura"
 	},
 	{
 		"assign": "31801454",
 		"jp_text": "女性共通アトッサボイス",
-		"tr_text": "",
+		"tr_text": "Female Atossa Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n女性のみ使用可能。\nＣＶ榎本 温子",
-		"tr_explain": ""
+		"tr_explain": "Una nueva voz podra ser elegida.\nSolo femeninos (todas las razas).\nCV: Atsuko Enomoto"
 	},
 	{
 		"assign": "31801455",
 		"jp_text": "女性共通初代ＫＫボイス",
-		"tr_text": "",
+		"tr_text": "Female First Gen CC Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n女性のみ使用可能。\nＣＶ能登 麻美子",
+		"tr_explain": "Una nueva voz podra ser elegida.\nSolo femeninos (todas las razas).\nCV: Mamiko Noto"
+	},
+	{
+		"assign": "31801456",
+		"jp_text": "女性共通シエラボイス",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいボイスが選択可能。\n女性のみ使用可能。\nＣＶ木村 珠莉",
 		"tr_explain": ""
 	},
 	{
@@ -6709,6 +6737,13 @@
 		"assign": "31801506",
 		"jp_text": "女性Ｃ追加ボイス１５３",
 		"tr_text": "Female C Extra Voice 153",
+		"jp_explain": "使用すると、新しいボイスが選択可能。\nキャスト女性のみ使用可能。\nＣＶ能登 麻美子",
+		"tr_explain": "Una nueva voz podra ser elegida.\nSolo Casts femeninos.\nCV: Mamiko Noto"
+	},
+	{
+		"assign": "31801507",
+		"jp_text": "女性Ｃ追加ボイス１８２",
+		"tr_text": "Female C Extra Voice 182",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\nキャスト女性のみ使用可能。\nＣＶ能登 麻美子",
 		"tr_explain": "Una nueva voz podra ser elegida.\nSolo Casts femeninos.\nCV: Mamiko Noto"
 	},
