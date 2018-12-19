@@ -3308,83 +3308,83 @@
 		"jp_text": "エクエスティオー[In]",
 		"tr_text": "Equestio [In]",
 		"jp_explain": "使用すると、新しいインナーウェアの\nエクエスティオー[In]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new innerwear\n\"Equestio [In]\".\nOnly usable on female characters."
+		"tr_explain": "Una nueva ropa interior\n\"Equestio [In]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "3370525",
 		"jp_text": "エクエスティオー月[In]",
 		"tr_text": "Equestio Moon [In]",
 		"jp_explain": "使用すると、新しいインナーウェアの\nエクエスティオー月[In]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new innerwear\n\"Equestio Moon [In]\".\nOnly usable on female characters."
+		"tr_explain": "Una nueva ropa interior\n\"Equestio Moon [In]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "3370526",
 		"jp_text": "エクエスティオー影[In]",
 		"tr_text": "Equestio Shadow [In]",
 		"jp_explain": "使用すると、新しいインナーウェアの\nエクエスティオー影[In]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new innerwear\n\"Equestio Shadow [In]\".\nOnly usable on female characters."
+		"tr_explain": "Una nueva ropa interior\n\"Equestio Shadow [In]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "3370527",
 		"jp_text": "エクエスティオー萌[In]",
 		"tr_text": "Equestio Sprout [In]",
 		"jp_explain": "使用すると、新しいインナーウェアの\nエクエスティオー萌[In]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new innerwear\n\"Equestio Sprout [In]\".\nOnly usable on female characters."
+		"tr_explain": "Una nueva ropa interior\n\"Equestio Sprout [In]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "3370528",
 		"jp_text": "エクエスティオー紅[In]",
 		"tr_text": "Equestio Crimson [In]",
 		"jp_explain": "使用すると、新しいインナーウェアの\nエクエスティオー紅[In]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new innerwear\n\"Equestio Crimson [In]\".\nOnly usable on female characters."
+		"tr_explain": "Una nueva ropa interior\n\"Equestio Crimson [In]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "3370529",
 		"jp_text": "エクエスティオー空[In]",
 		"tr_text": "Equestio Sky [In]",
 		"jp_explain": "使用すると、新しいインナーウェアの\nエクエスティオー空[In]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new innerwear\n\"Equestio Sky [In]\".\nOnly usable on female characters."
+		"tr_explain": "Una nueva ropa interior\n\"Equestio Sky [In]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "3370531",
 		"jp_text": "逢魔幽玄譚[In]",
 		"tr_text": "Amorous Tale [In]",
 		"jp_explain": "使用すると、新しいインナーウェアの\n逢魔幽玄譚[In]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new innerwear\n\"Amorous Tale [In]\".\nOnly usable on female characters."
+		"tr_explain": "Una nueva ropa interior\n\"Amorous Tale [In]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "3370532",
 		"jp_text": "逢魔幽玄譚　紅[In]",
 		"tr_text": "Amorous Tale Crimson [In]",
 		"jp_explain": "使用すると、新しいインナーウェアの\n逢魔幽玄譚　紅[In]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new innerwear\n\"Amorous Tale Crimson [In]\".\nOnly usable on female characters."
+		"tr_explain": "Una nueva ropa interior\n\"Amorous Tale Crimson [In]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "3370533",
 		"jp_text": "逢魔幽玄譚　雅[In]",
 		"tr_text": "Amorous Tale Elegant [In]",
 		"jp_explain": "使用すると、新しいインナーウェアの\n逢魔幽玄譚　雅[In]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new innerwear\n\"Amorous Tale Elegant [In]\".\nOnly usable on female characters."
+		"tr_explain": "Una nueva ropa interior\n\"Amorous Tale Elegant [In]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "3370534",
 		"jp_text": "逢魔幽玄譚　桜[In]",
 		"tr_text": "Amorous Tale Sakura [In]",
 		"jp_explain": "使用すると、新しいインナーウェアの\n逢魔幽玄譚　桜[In]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new innerwear\n\"Amorous Tale Sakura [In]\".\nOnly usable on female characters."
+		"tr_explain": "Una nueva ropa interior\n\"Amorous Tale Sakura [In]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "3370535",
 		"jp_text": "逢魔幽玄譚　雪[In]",
 		"tr_text": "Amorous Tale Snow [In]",
 		"jp_explain": "使用すると、新しいインナーウェアの\n逢魔幽玄譚　雪[In]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new innerwear\n\"Amorous Tale Snow [In]\".\nOnly usable on female characters."
+		"tr_explain": "Una nueva ropa interior\n\"Amorous Tale Snow [In]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "3370536",
 		"jp_text": "逢魔幽玄譚　影[In]",
 		"tr_text": "Amorous Tale Shadow [In]",
 		"jp_explain": "使用すると、新しいインナーウェアの\n逢魔幽玄譚　影[In]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new innerwear\n\"Amorous Tale Shadow [In]\".\nOnly usable on female characters."
+		"tr_explain": "Una nueva ropa interior\n\"Amorous Tale Shadow [In]\".\nSolo para personajes femeninos."
 	}
 ]
