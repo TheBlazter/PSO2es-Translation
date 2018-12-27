@@ -24182,21 +24182,21 @@
 		"jp_text": "怨嗟の【仮面】",
 		"tr_text": "[Persona]'s Malice",
 		"jp_explain": "使用すると、新しいアクセサリーの\n怨嗟の【仮面】が選択可能。",
-		"tr_explain": "Unlocks the accessory\n\"[Persona]'s Malice\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el accesorio\n\"[Persona]'s Malice\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3803754",
 		"jp_text": "怨嗟のマントＡ",
 		"tr_text": "Malice Mantle A",
 		"jp_explain": "使用すると、新しいアクセサリーの\n怨嗟のマントＡが選択可能。",
-		"tr_explain": "Unlocks the accessory\n\"Malice Mantle A\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el accesorio\n\"Malice Mantle A\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3803755",
 		"jp_text": "怨嗟のマントＢ",
 		"tr_text": "Malice Mantle B",
 		"jp_explain": "使用すると、新しいアクセサリーの\n怨嗟のマントＢが選択可能。",
-		"tr_explain": "Unlocks the accessory\n\"Malice Mantle B\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el accesorio\n\"Malice Mantle B\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3803756",
@@ -24448,7 +24448,7 @@
 		"jp_text": "エグザムデバイスＲ",
 		"tr_text": "Exam Device R",
 		"jp_explain": "使用すると、新しいアクセサリーの\nエグザムデバイスＲが選択可能。",
-		"tr_explain": "Unlocks the accessory\n\"Exam Device R\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el accesorio\n\"Exam Device R\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3803816",
@@ -24665,14 +24665,14 @@
 		"jp_text": "頭乗り二代目ＫＫ",
 		"tr_text": "Head-riding Matoi",
 		"jp_explain": "使用すると、新しいアクセサリーの\n頭乗り二代目ＫＫが選択可能。",
-		"tr_explain": "Unlocks the accessory\n\"Head-riding Matoi\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el accesorio\n\"Head-riding Matoi\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3803847",
 		"jp_text": "頭乗り【仮面】",
 		"tr_text": "Head-riding [Persona]",
 		"jp_explain": "使用すると、新しいアクセサリーの\n頭乗り【仮面】が選択可能。",
-		"tr_explain": "Unlocks the accessory\n\"Head-riding [Persona]\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el accesorio\n\"Head-riding [Persona]\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3803848",
@@ -24721,7 +24721,7 @@
 		"jp_text": "頭乗りわさっち",
 		"tr_text": "Head-riding Wasatchi",
 		"jp_explain": "使用すると、新しいアクセサリーの\n頭乗りわさっちが選択可能。",
-		"tr_explain": "Unlocks the accessory\n\"Head-riding Wasatchi\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el accesorio\n\"Head-riding Wasatchi\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3803855",
@@ -24826,14 +24826,14 @@
 		"jp_text": "頭乗りクーナ",
 		"tr_text": "Head-riding Quna",
 		"jp_explain": "使用すると、新しいアクセサリーの\n頭乗りクーナが選択可能。",
-		"tr_explain": "Unlocks the accessory\n\"Head-riding Quna\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el accesorio\n\"Head-riding Quna\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3803884",
 		"jp_text": "頭乗りハドレッド",
 		"tr_text": "Head-riding Hadred",
 		"jp_explain": "使用すると、新しいアクセサリーの\n頭乗りハドレッドが選択可能。",
-		"tr_explain": "Unlocks the accessory\n\"Head-riding Hadred\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el accesorio\n\"Head-riding Hadred\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3803885",
@@ -24959,7 +24959,7 @@
 		"jp_text": "頭乗せ鏡餅ラッピー",
 		"tr_text": "Head-riding Rappy Rice Cake",
 		"jp_explain": "使用すると、新しいアクセサリーの\n頭乗せ鏡餅ラッピーが選択可能。",
-		"tr_explain": "Unlocks the accessory\n\"Head-riding Rappy Rice Cake\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el accesorio\n\"Head-riding Rappy Rice Cake\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3803903",
@@ -24987,6 +24987,6 @@
 		"jp_text": "ラッピー柄マスク",
 		"tr_text": "Rappy Patterned Mask",
 		"jp_explain": "使用すると、新しいアクセサリーの\nラッピー柄マスクが選択可能。",
-		"tr_explain": "Unlocks the accessory\n\"Rappy Patterned Mask\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el accesorio\n\"Rappy Patterned Mask\"\npara usar en el Estilista."
 	}
 ]

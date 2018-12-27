@@ -4498,7 +4498,7 @@
 		"jp_text": "ステラの仮面",
 		"tr_text": "Stella Helmet",
 		"jp_explain": "チケットを使用すると、新しい髪型の\nステラの仮面が選択可能。",
-		"tr_explain": "Unlocks the hairstyle\n\"Stella Helmet\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el peinado\n\"Stella Helmet\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3150771",
@@ -4673,20 +4673,20 @@
 		"jp_text": "ＰＳＺサリサヘアー",
 		"tr_text": "PSZ Sarisa Hair",
 		"jp_explain": "チケットを使用すると、新しい髪型の\nＰＳＺサリサヘアーが選択可能。",
-		"tr_explain": "Unlocks the hairstyle\n\"PSZ Sarisa Hair\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el peinado\n\"PSZ Sarisa Hair\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3150809",
 		"jp_text": "シャープツインテールＧＶ",
 		"tr_text": "Sharp Twin Tail GV",
 		"jp_explain": "チケットを使用すると、新しい髪型の\nシャープツインテールＧＶが選択可能。",
-		"tr_explain": "Unlocks the hairstyle\n\"Sharp Twin Tail GV\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el peinado\n\"Sharp Twin Tail GV\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3150810",
 		"jp_text": "ＰＳＺカイヘアー",
 		"tr_text": "PSZ Kai Hair",
 		"jp_explain": "チケットを使用すると、新しい髪型の\nＰＳＺカイヘアーが選択可能。",
-		"tr_explain": "Unlocks the hairstyle\n\"PSZ Kai Hair\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el peinado\n\"PSZ Kai Hair\"\npara usar en el Estilista."
 	}
 ]
