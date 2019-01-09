@@ -324,9 +324,9 @@
 	{
 		"assign": "373049",
 		"jp_text": "闇の狂宴トリガー",
-		"tr_text": "Revelry Trigger",
+		"tr_text": "T. Mision: Revelry",
 		"jp_explain": "星芒喰らう闇の狂宴を\nクエストカウンターから発生させる。\n<yellow>※消費後はいかなる理由においても\n本アイテムは返却されません。<c>",
-		"tr_explain": "[Revelry of Darkness]\ncan be selected from Quest Counter.\n<yellow>※This item will not be returned after\nconsumption.<c>"
+		"tr_explain": "[Revelry of Darkness]\npodra elegirse en las Misiones.\n<yellow>※Este objeto no sera regresado\ndespues de su consumo.<c>"
 	},
 	{
 		"assign": "373050",
@@ -338,7 +338,7 @@
 	{
 		"assign": "373051",
 		"jp_text": "輝光：母なる神トリガー",
-		"tr_text": "T. Solo: Earth Destroyers Trigger",
+		"tr_text": "T. Solo: Earth Destroyers",
 		"jp_explain": "輝光を砕く母なる神を\nクエストカウンターから発生させる。\n<yellow>※消費後はいかなる理由においても\n本アイテムは返却されません。<c>",
 		"tr_explain": "[The Destroyers of Light]\npodra elegirse en las Misiones.\n<yellow>※Este objeto no sera regresado\ndespues de su consumo.<c>"
 	}
