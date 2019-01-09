@@ -324,9 +324,9 @@
 	{
 		"assign": "373049",
 		"jp_text": "闇の狂宴トリガー",
-		"tr_text": "T. Mision: Revelry",
+		"tr_text": "T. Mision: Festival Oscuro",
 		"jp_explain": "星芒喰らう闇の狂宴を\nクエストカウンターから発生させる。\n<yellow>※消費後はいかなる理由においても\n本アイテムは返却されません。<c>",
-		"tr_explain": "[Revelry of Darkness]\npodra elegirse en las Misiones.\n<yellow>※Este objeto no sera regresado\ndespues de su consumo.<c>"
+		"tr_explain": "[Festival Oscuro]\npodra elegirse en las Misiones.\n<yellow>※Este objeto no sera regresado\ndespues de su consumo.<c>"
 	},
 	{
 		"assign": "373050",
