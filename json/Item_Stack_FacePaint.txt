@@ -1353,23 +1353,23 @@
 	{
 		"assign": "3250209",
 		"jp_text": "グラデーションリップ赤",
-		"tr_text": "Red Gradiation Lips",
+		"tr_text": "Red Gradient Lips",
 		"jp_explain": "チケットを使用すると、新しいメイクの\nグラデーションリップ赤が選択可能。",
-		"tr_explain": "Desbloquea el maquillaje\n\"Red Gradiation Lips\"\npara usar en el Estilista."
+		"tr_explain": "Desbloquea el maquillaje\n\"Red Gradient Lips\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3250210",
 		"jp_text": "グラデーションリップ桃",
-		"tr_text": "Peach Gradiation Lips",
+		"tr_text": "Peach Gradient Lips",
 		"jp_explain": "チケットを使用すると、新しいメイクの\nグラデーションリップ桃が選択可能。",
-		"tr_explain": "Desbloquea el maquillaje\n\"Peach Gradiation Lips\"\npara usar en el Estilista."
+		"tr_explain": "Desbloquea el maquillaje\n\"Peach Gradient Lips\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3250211",
 		"jp_text": "グラデーションリップ橙",
-		"tr_text": "Orange Gradiation Lips",
+		"tr_text": "Orange Gradient Lips",
 		"jp_explain": "チケットを使用すると、新しいメイクの\nグラデーションリップ橙が選択可能。",
-		"tr_explain": "Desbloquea el maquillaje\n\"Orange Gradiation Lips\"\npara usar en el Estilista."
+		"tr_explain": "Desbloquea el maquillaje\n\"Orange Gradient Lips\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3250212",
