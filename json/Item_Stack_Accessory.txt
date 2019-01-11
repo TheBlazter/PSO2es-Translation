@@ -25379,14 +25379,14 @@
 		"jp_text": "マロンバルーン",
 		"tr_text": "Maron Balloon",
 		"jp_explain": "使用すると、新しいアクセサリーの\nマロンバルーンが選択可能。",
-		"tr_explain": "Unlocks the accessory\n\"Maron Balloon\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el accesorio\n\"Maron Balloon\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3803963",
 		"jp_text": "メロンバルーン",
 		"tr_text": "Melon Balloon",
 		"jp_explain": "使用すると、新しいアクセサリーの\nメロンバルーンが選択可能。",
-		"tr_explain": "Unlocks the accessory\n\"Melon Balloon\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el accesorio\n\"Melon Balloon\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3803964",
