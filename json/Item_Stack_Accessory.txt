@@ -3523,20 +3523,17 @@
 	{
 		"assign": "380525",
 		"jp_text": "ガスマスクＡ",
-		"tr_text": "Gask Mask A",
+		"tr_text": "Gas Mask A",
 		"jp_explain": "使用すると、新しいアクセサリーの\nガスマスクＡが選択可能。",
-		"tr_explain": "Desbloquea el accesorio\n\"Gask Mask A\"\npara usar en el Estilista."
+		"tr_explain": "Desbloquea el accesorio\n\"Gas Mask A\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "380526",
 		"jp_text": "ガスマスクＢ",
-		"tr_text": "Gask Mask B",
+		"tr_text": "Gas Mask B",
 		"jp_explain": "使用すると、新しいアクセサリーの\nガスマスクＢが選択可能。",
-		"tr_explain": "Desbloquea el accesorio\n\"Gask Mask B\"\npara usar en el Estilista."
-	},
-	{
+		"tr_explain": "Desbloquea el accesorio\n\"Gas Mask B\"\npara usar en el Estilista."
 		"assign": "380527",
-		"jp_text": "メタルウィング",
 		"tr_text": "Metal Wings",
 		"jp_explain": "使用すると、新しいアクセサリーの\nメタルウィングが選択可能。",
 		"tr_explain": "Desbloquea el accesorio\n\"Metal Wings\"\npara usar en el Estilista."
@@ -7324,9 +7321,9 @@
 	{
 		"assign": "3801141",
 		"jp_text": "頭乗りニャウ",
-		"tr_text": "Head Riding Nyau",
+		"tr_text": "Head-Riding Nyau",
 		"jp_explain": "使用すると、新しいアクセサリーの\n頭乗りニャウが選択可能。",
-		"tr_explain": "Desbloquea el accesorio\n\"Head Riding Nyau\"\npara usar en el Estilista."
+		"tr_explain": "Desbloquea el accesorio\n\"Head-Riding Nyau\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3801142",
@@ -10306,16 +10303,16 @@
 	{
 		"assign": "3801579",
 		"jp_text": "頭乗せカブトムシ",
-		"tr_text": "Head Rhinoceros Beetle",
+		"tr_text": "Head-Riding Rhinoceros Beetle",
 		"jp_explain": "使用すると、新しいアクセサリーの\n頭乗せカブトムシが選択可能。",
-		"tr_explain": "Desbloquea el accesorio\n\"Head Rhinoceros Beetle\"\npara usar en el Estilista."
+		"tr_explain": "Desbloquea el accesorio\n\"Head-Riding Rhinoceros Beetle\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3801580",
 		"jp_text": "頭乗せクワガタ",
-		"tr_text": "Head Stag Beetle",
+		"tr_text": "Head-Riding Stag Beetle",
 		"jp_explain": "使用すると、新しいアクセサリーの\n頭乗せクワガタが選択可能。",
-		"tr_explain": "Desbloquea el accesorio\n\"Head Stag Beetle\"\npara usar en el Estilista."
+		"tr_explain": "Desbloquea el accesorio\n\"Head-Riding Stag Beetle\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3801581",
@@ -10852,44 +10849,44 @@
 	{
 		"assign": "3801659",
 		"jp_text": "頭乗りミケネコ",
-		"tr_text": "Head Riding Calico Cat",
+		"tr_text": "Head-Riding Calico Cat",
 		"jp_explain": "使用すると、新しいアクセサリーの\n頭乗りミケネコが選択可能。",
-		"tr_explain": "Desbloquea el accesorio\n\"Head Riding Calico Cat\"\npara usar en el Estilista."
+		"tr_explain": "Desbloquea el accesorio\n\"Head-Riding Calico Cat\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3801660",
 		"jp_text": "頭乗りクロネコ",
-		"tr_text": "Head Riding Black Cat",
+		"tr_text": "Head-Riding Black Cat",
 		"jp_explain": "使用すると、新しいアクセサリーの\n頭乗りクロネコが選択可能。",
-		"tr_explain": "Desbloquea el accesorio\n\"Head Riding Black Cat\"\npara usar en el Estilista."
+		"tr_explain": "Desbloquea el accesorio\n\"Head-Riding Black Cat\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3801661",
 		"jp_text": "頭乗りキジネコ",
-		"tr_text": "Head Riding Tabby Cat",
+		"tr_text": "Head-Riding Tabby Cat",
 		"jp_explain": "使用すると、新しいアクセサリーの\n頭乗りキジネコが選択可能。",
-		"tr_explain": "Desbloquea el accesorio\n\"Head Riding Tabby Cat\"\npara usar en el Estilista."
+		"tr_explain": "Desbloquea el accesorio\n\"Head-Riding Tabby Cat\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3801662",
 		"jp_text": "頭乗りシャト　水",
-		"tr_text": "Head Riding Sato Aqua",
+		"tr_text": "Head-Riding Sato Aqua",
 		"jp_explain": "使用すると、新しいアクセサリーの\n頭乗りシャト　水が選択可能。",
-		"tr_explain": "Desbloquea el accesorio\n\"Head Riding Sato Aqua\"\npara usar en el Estilista."
+		"tr_explain": "Desbloquea el accesorio\n\"Head-Riding Sato Aqua\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3801663",
 		"jp_text": "頭乗りシャト　白",
-		"tr_text": "Head Riding Sato White",
+		"tr_text": "Head-Riding Sato White",
 		"jp_explain": "使用すると、新しいアクセサリーの\n頭乗りシャト　白が選択可能。",
-		"tr_explain": "Desbloquea el accesorio\n\"Head Riding Sato White\"\npara usar en el Estilista."
+		"tr_explain": "Desbloquea el accesorio\n\"Head-Riding Sato White\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3801664",
 		"jp_text": "頭乗りシャト　黒",
-		"tr_text": "Head Riding Sato Black",
+		"tr_text": "Head-Riding Sato Black",
 		"jp_explain": "使用すると、新しいアクセサリーの\n頭乗りシャト　黒が選択可能。",
-		"tr_explain": "Desbloquea el accesorio\n\"Head Riding Sato Black\"\npara usar en el Estilista."
+		"tr_explain": "Desbloquea el accesorio\n\"Head-Riding Sato Black\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3801665",
@@ -11181,9 +11178,9 @@
 	{
 		"assign": "3801707",
 		"jp_text": "頭乗りドリームキャスト",
-		"tr_text": "Head Riding Dreamcast",
+		"tr_text": "Head-Riding Dreamcast",
 		"jp_explain": "使用すると、新しいアクセサリーの\n頭乗りドリームキャストが選択可能。",
-		"tr_explain": "Desbloquea el accesorio\n\"Head Riding Dreamcast\"\npara usar en el Estilista."
+		"tr_explain": "Desbloquea el accesorio\n\"Head-Riding Dreamcast\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3801708",
@@ -12028,9 +12025,9 @@
 	{
 		"assign": "3801832",
 		"jp_text": "頭乗り聞かザル",
-		"tr_text": "Head Riding Kikazaru",
+		"tr_text": "Head-Riding Kikazaru",
 		"jp_explain": "使用すると、新しいアクセサリーの\n頭乗り聞かザルが選択可能。",
-		"tr_explain": "Desbloquea el accesorio\n\"Head Riding Kikazaru\"\npara usar en el Estilista."
+		"tr_explain": "Desbloquea el accesorio\n\"Head-Riding Kikazaru\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3801833",
@@ -12868,9 +12865,9 @@
 	{
 		"assign": "3801952",
 		"jp_text": "頭乗りスガヌマ",
-		"tr_text": "Head Riding Suganuma",
+		"tr_text": "Head-Riding Suganuma",
 		"jp_explain": "使用すると、新しいアクセサリーの\n頭乗りスガヌマが選択可能。",
-		"tr_explain": "Desbloquea el accesorio\n\"Head Riding Suganuma\"\npara usar en el Estilista."
+		"tr_explain": "Desbloquea el accesorio\n\"Head-Riding Suganuma\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3801953",
@@ -13603,9 +13600,9 @@
 	{
 		"assign": "3802080",
 		"jp_text": "頭乗りリリーパ",
-		"tr_text": "Head Riding Lillipan",
+		"tr_text": "Head-Riding Lillipan",
 		"jp_explain": "使用すると、新しいアクセサリーの\n頭乗りリリーパが選択可能。",
-		"tr_explain": "Desbloquea el accesorio\n\"Head Riding Lillipan\"\npara usar en el Estilista."
+		"tr_explain": "Desbloquea el accesorio\n\"Head-Riding Lillipan\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3802081",
@@ -13757,16 +13754,16 @@
 	{
 		"assign": "3802102",
 		"jp_text": "頭乗りトロ",
-		"tr_text": "Head Riding Toro",
+		"tr_text": "Head-Riding Toro",
 		"jp_explain": "使用すると、新しいアクセサリーの\n頭乗りトロが選択可能。",
-		"tr_explain": "Desbloquea el accesorio\n\"Head Riding Toro\"\npara usar en el Estilista."
+		"tr_explain": "Desbloquea el accesorio\n\"Head-Riding Toro\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3802103",
 		"jp_text": "頭乗りクロ",
-		"tr_text": "Head Riding Black Toro",
+		"tr_text": "Head-Riding Kuro",
 		"jp_explain": "使用すると、新しいアクセサリーの\n頭乗りクロが選択可能。",
-		"tr_explain": "Desbloquea el accesorio\n\"Head Riding Black Toro\"\npara usar en el Estilista."
+		"tr_explain": "Desbloquea el accesorio\n\"Head-Riding Kuro\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3802104",
@@ -13855,9 +13852,9 @@
 	{
 		"assign": "3802119",
 		"jp_text": "頭乗せエスカくん",
-		"tr_text": "Head Riding ESC-A-kun",
+		"tr_text": "Head-Riding ESC-A-kun",
 		"jp_explain": "使用すると、新しいアクセサリーの\n頭乗せエスカくんが選択可能。",
-		"tr_explain": "Desbloquea el accesorio\n\"Head Riding ESC-A-kun\"\npara usar en el Estilista."
+		"tr_explain": "Desbloquea el accesorio\n\"Head-Riding ESC-A-kun\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3802120",
@@ -14030,9 +14027,9 @@
 	{
 		"assign": "3802144",
 		"jp_text": "頭乗り子犬",
-		"tr_text": "Head Riding Puppy",
+		"tr_text": "Head-Riding Puppy",
 		"jp_explain": "使用すると、新しいアクセサリーの\n頭乗り子犬が選択可能。",
-		"tr_explain": "Desbloquea el accesorio\n\"Head Riding Puppy\"\npara usar en el Estilista."
+		"tr_explain": "Desbloquea el accesorio\n\"Head-Riding Puppy\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3802145",
@@ -15143,16 +15140,16 @@
 	{
 		"assign": "3802332",
 		"jp_text": "頭乗せエンペ・ラッピー",
-		"tr_text": "Head Riding Empe Rappy",
+		"tr_text": "Head-Riding Emperappy",
 		"jp_explain": "使用すると、新しいアクセサリーの\n頭乗せエンペ・ラッピーが選択可能。",
-		"tr_explain": "Desbloquea el accesorio\n\"Head Riding Empe Rappy\"\npara usar en el Estilista."
+		"tr_explain": "Desbloquea el accesorio\n\"Head-Riding Emperappy\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3802333",
 		"jp_text": "エンペ・クラウン",
-		"tr_text": "Empe Crown",
+		"tr_text": "Emper Crown",
 		"jp_explain": "使用すると、新しいアクセサリーの\nエンペ・クラウンが選択可能。",
-		"tr_explain": "Desbloquea el accesorio\n\"Empe Crown\"\npara usar en el Estilista."
+		"tr_explain": "Desbloquea el accesorio\n\"Emper Crown\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3802334",
@@ -15220,9 +15217,9 @@
 	{
 		"assign": "3802343",
 		"jp_text": "頭乗りリス",
-		"tr_text": "Head Riding Squirrel",
+		"tr_text": "Head-Riding Squirrel",
 		"jp_explain": "使用すると、新しいアクセサリーの\n頭乗りリスが選択可能。",
-		"tr_explain": "Desbloquea el accesorio\n\"Head Riding Squirrel\"\npara usar en el Estilista."
+		"tr_explain": "Desbloquea el accesorio\n\"Head-Riding Squirrel\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3802344",
@@ -15906,16 +15903,16 @@
 	{
 		"assign": "3802448",
 		"jp_text": "頭乗りマトイ",
-		"tr_text": "Head Riding Matoi",
+		"tr_text": "Head-Riding Matoi",
 		"jp_explain": "使用すると、新しいアクセサリーの\n頭乗りマトイが選択可能。",
-		"tr_explain": "Desbloquea el accesorio\n\"Head Riding Matoi\"\npara usar en el Estilista."
+		"tr_explain": "Desbloquea el accesorio\n\"Head-Riding Matoi\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3802449",
 		"jp_text": "頭乗りルーサー",
-		"tr_text": "Head Riding Luther",
+		"tr_text": "Head-Riding Luther",
 		"jp_explain": "使用すると、新しいアクセサリーの\n頭乗りルーサーが選択可能。",
-		"tr_explain": "Desbloquea el accesorio\n\"Head Riding Luther\"\npara usar en el Estilista."
+		"tr_explain": "Desbloquea el accesorio\n\"Head-Riding Luther\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3802450",
@@ -16158,9 +16155,9 @@
 	{
 		"assign": "3802484",
 		"jp_text": "頭乗りニワトリ",
-		"tr_text": "Head Riding Chicken",
+		"tr_text": "Perched Chicken",
 		"jp_explain": "使用すると、新しいアクセサリーの\n頭乗りニワトリが選択可能。",
-		"tr_explain": "Desbloquea el accesorio\n\"Head Riding Chicken\"\npara usar en el Estilista."
+		"tr_explain": "Desbloquea el accesorio\n\"Perched Chicken\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3802485",
@@ -16501,16 +16498,16 @@
 	{
 		"assign": "3802533",
 		"jp_text": "頭乗せ雪像ラッピー",
-		"tr_text": "Perched Snow Rappy",
+		"tr_text": "Head-Riding Snow Rappy",
 		"jp_explain": "使用すると、新しいアクセサリーの\n頭乗せ雪像ラッピーが選択可能。",
-		"tr_explain": "Desbloquea el accesorio\n\"Perched Snow Rappy\"\npara usar en el Estilista."
+		"tr_explain": "Desbloquea el accesorio\n\"Head-Riding Snow Rappy\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3802534",
 		"jp_text": "肩乗せ雪像リリーパ",
-		"tr_text": "Shoulder Snow Lillipa",
+		"tr_text": "Shoulder-Riding Snow Lillipa",
 		"jp_explain": "使用すると、新しいアクセサリーの\n肩乗せ雪像リリーパが選択可能。",
-		"tr_explain": "Desbloquea el accesorio\n\"Shoulder Snow Lillipa\"\npara usar en el Estilista."
+		"tr_explain": "Desbloquea el accesorio\n\"Shoulder-Riding Snow Lillipa\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3802535",
@@ -18118,9 +18115,9 @@
 	{
 		"assign": "3802773",
 		"jp_text": "頭乗りドンペン",
-		"tr_text": "Head Riding Donpen",
+		"tr_text": "Head-Riding Donpen",
 		"jp_explain": "使用すると、新しいアクセサリーの\n頭乗りドンペンが選択可能。",
-		"tr_explain": "Desbloquea el accesorio\n\"Head Riding Donpen\"\npara usar en el Estilista."
+		"tr_explain": "Desbloquea el accesorio\n\"Head-Riding Donpen\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3802774",
@@ -18356,16 +18353,16 @@
 	{
 		"assign": "3802813",
 		"jp_text": "頭乗りマザー",
-		"tr_text": "Head Riding Mother",
+		"tr_text": "Head-Riding Mother",
 		"jp_explain": "使用すると、新しいアクセサリーの\n頭乗りマザーが選択可能。",
-		"tr_explain": "Desbloquea el accesorio\n\"Head Riding Mother\"\npara usar en el Estilista."
+		"tr_explain": "Desbloquea el accesorio\n\"Head-Riding Mother\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3802814",
 		"jp_text": "頭乗りアラトロン",
-		"tr_text": "Head Riding Aratron",
+		"tr_text": "Head-Riding Aratron",
 		"jp_explain": "使用すると、新しいアクセサリーの\n頭乗りアラトロンが選択可能。",
-		"tr_explain": "Desbloquea el accesorio\n\"Head Riding Aratron\"\npara usar en el Estilista."
+		"tr_explain": "Desbloquea el accesorio\n\"Head-Riding Aratron\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3802815",
@@ -19021,9 +19018,9 @@
 	{
 		"assign": "3802927",
 		"jp_text": "頭乗りパンダ",
-		"tr_text": "Perched Panda",
+		"tr_text": "Head-Riding Panda",
 		"jp_explain": "使用すると、新しいアクセサリーの\n頭乗りパンダが選択可能。",
-		"tr_explain": "Desbloquea el accesorio\n\"Perched Panda\"\npara usar en el Estilista."
+		"tr_explain": "Desbloquea el accesorio\n\"Head-Riding Panda\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3802936",
@@ -19203,9 +19200,9 @@
 	{
 		"assign": "3802961",
 		"jp_text": "頭乗りラタン・エンペ",
-		"tr_text": "Perched Latan Empe",
+		"tr_text": "Head-Riding Latan Emperappy",
 		"jp_explain": "使用すると、新しいアクセサリーの\n頭乗りラタン・エンペが選択可能。",
-		"tr_explain": "Desbloquea el accesorio\n\"Perched Latan Empe\"\npara usar en el Estilista."
+		"tr_explain": "Desbloquea el accesorio\n\"Head-Riding Latan Emperappy\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3802962",
@@ -19462,9 +19459,9 @@
 	{
 		"assign": "3803001",
 		"jp_text": "頭乗せポリタン",
-		"tr_text": "Perched Polytan",
+		"tr_text": "Head-Riding Polytan",
 		"jp_explain": "使用すると、新しいアクセサリーの\n頭乗せポリタンが選択可能。",
-		"tr_explain": "Desbloquea el accesorio\n\"Perched Polytan\"\npara usar en el Estilista."
+		"tr_explain": "Desbloquea el accesorio\n\"Head-Riding Polytan\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3803002",
@@ -19756,16 +19753,16 @@
 	{
 		"assign": "3803043",
 		"jp_text": "頭乗り子犬　白",
-		"tr_text": "White Perched Puppy",
+		"tr_text": "White Head-Riding Puppy",
 		"jp_explain": "使用すると、新しいアクセサリーの\n頭乗り子犬　白が選択可能。",
-		"tr_explain": "Desbloquea el accesorio\n\"White Perched Puppy\"\npara usar en el Estilista."
+		"tr_explain": "Desbloquea el accesorio\n\"White Head-Riding Puppy\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3803044",
 		"jp_text": "頭乗り子犬　黒",
-		"tr_text": "Black Perched Puppy",
+		"tr_text": "Black Head-Riding Puppy",
 		"jp_explain": "使用すると、新しいアクセサリーの\n頭乗り子犬　黒が選択可能。",
-		"tr_explain": "Desbloquea el accesorio\n\"Black Perched Puppy\"\npara usar en el Estilista."
+		"tr_explain": "Desbloquea el accesorio\n\"Black Head-Riding Puppy\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3803045",
@@ -20561,9 +20558,9 @@
 	{
 		"assign": "3803164",
 		"jp_text": "頭乗せ恵方巻",
-		"tr_text": "Perched Ehoumaki",
+		"tr_text": "Head Ehoumaki",
 		"jp_explain": "使用すると、新しいアクセサリーの\n頭乗せ恵方巻が選択可能。",
-		"tr_explain": "Desbloquea el accesorio\n\"Perched Ehoumaki\"\npara usar en el Estilista."
+		"tr_explain": "Desbloquea el accesorio\n\"Head Ehoumaki\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3803165",
@@ -20638,9 +20635,9 @@
 	{
 		"assign": "3803175",
 		"jp_text": "頭乗り妖精シエラ",
-		"tr_text": "Head Riding Fairy Xiera",
+		"tr_text": "Head-Riding Fairy Xiera",
 		"jp_explain": "使用すると、新しいアクセサリーの\n頭乗り妖精シエラが選択可能。",
-		"tr_explain": "Desbloquea el accesorio\n\"Head Riding Fairy Xiera\"\npara usar en el Estilista."
+		"tr_explain": "Desbloquea el accesorio\n\"Head-Riding Fairy Xiera\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3803176",
@@ -21436,16 +21433,16 @@
 	{
 		"assign": "3803296",
 		"jp_text": "頭乗りラッピーちゃん",
-		"tr_text": "Head Riding Rappy",
+		"tr_text": "Head-Riding Rappy",
 		"jp_explain": "使用すると、新しいアクセサリーの\n頭乗りラッピーちゃんが選択可能。",
-		"tr_explain": "Desbloquea el accesorio\n\"Head Riding Rappy\"\npara usar en el Estilista."
+		"tr_explain": "Desbloquea el accesorio\n\"Head-Riding Rappy\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3803297",
 		"jp_text": "頭乗りラッピーくん",
-		"tr_text": "Head Riding Kid Rappy",
+		"tr_text": "Head-Riding Kid Rappy",
 		"jp_explain": "使用すると、新しいアクセサリーの\n頭乗りラッピーくんが選択可能。",
-		"tr_explain": "Desbloquea el accesorio\n\"Head Riding Kid Rappy\"\npara usar en el Estilista."
+		"tr_explain": "Desbloquea el accesorio\n\"Head-Riding Kid Rappy\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3803298",
@@ -22171,9 +22168,9 @@
 	{
 		"assign": "3803413",
 		"jp_text": "頭乗せ雛ラッピー",
-		"tr_text": "Head Riding Rappy Chick",
+		"tr_text": "Head-Riding Rappy Chick",
 		"jp_explain": "使用すると、新しいアクセサリーの\n頭乗せ雛ラッピーが選択可能。",
-		"tr_explain": "Desbloquea el accesorio\n\"Head Riding Rappy Chick\"\npara usar en el Estilista."
+		"tr_explain": "Desbloquea el accesorio\n\"Head-Riding Rappy Chick\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3803414",
@@ -23284,9 +23281,9 @@
 	{
 		"assign": "3803602",
 		"jp_text": "頭乗りあきこちゃん",
-		"tr_text": "Head Riding Akiko-chan",
+		"tr_text": "Head-Riding Akiko-chan",
 		"jp_explain": "使用すると、新しいアクセサリーの\n頭乗りあきこちゃんが選択可能。",
-		"tr_explain": "Desbloquea el accesorio\n\"Head Riding Akiko-chan\"\npara usar en el Estilista."
+		"tr_explain": "Desbloquea el accesorio\n\"Head-Riding Akiko-chan\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3803603",
@@ -23466,9 +23463,9 @@
 	{
 		"assign": "3803629",
 		"jp_text": "頭乗りこぶた",
-		"tr_text": "Head Riding Kobuta",
+		"tr_text": "Head-Riding Kobuta",
 		"jp_explain": "使用すると、新しいアクセサリーの\n頭乗りこぶたが選択可能。",
-		"tr_explain": "Desbloquea el accesorio\n\"Head Riding Kobuta\"\npara usar en el Estilista."
+		"tr_explain": "Desbloquea el accesorio\n\"Head-Riding Kobuta\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3803644",
@@ -23781,9 +23778,9 @@
 	{
 		"assign": "3803688",
 		"jp_text": "頭乗せナポリタン",
-		"tr_text": "Perched Napolitan",
+		"tr_text": "Head Napolitan",
 		"jp_explain": "使用すると、新しいアクセサリーの\n頭乗せナポリタンが選択可能。",
-		"tr_explain": "Desbloquea el accesorio\n\"Perched Napolitan\"\npara usar en el Estilista."
+		"tr_explain": "Desbloquea el accesorio\n\"Head Napolitan\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3803689",
@@ -23893,9 +23890,9 @@
 	{
 		"assign": "3803712",
 		"jp_text": "手持ちハンドガンＢ",
-		"tr_text": "Held Handgun B",
+		"tr_text": "Handheld Pistol B",
 		"jp_explain": "使用すると、新しいアクセサリーの\n手持ちハンドガンＢが選択可能。",
-		"tr_explain": "Desbloquea el accesorio\n\"Held Handgun B\"\npara usar en el Estilista."
+		"tr_explain": "Desbloquea el accesorio\n\"Handheld Pistol B\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3803713",
@@ -24201,9 +24198,9 @@
 	{
 		"assign": "3803756",
 		"jp_text": "頭乗せ風見ラッピー",
-		"tr_text": "",
+		"tr_text": "Head Weatherappy",
 		"jp_explain": "使用すると、新しいアクセサリーの\n頭乗せ風見ラッピーが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Desbloquea el accesorio\n\"Head Weatherappy\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3803757",
@@ -24663,16 +24660,16 @@
 	{
 		"assign": "3803846",
 		"jp_text": "頭乗り二代目ＫＫ",
-		"tr_text": "Head-riding Matoi",
+		"tr_text": "Head-Riding 2nd Gen Claris",
 		"jp_explain": "使用すると、新しいアクセサリーの\n頭乗り二代目ＫＫが選択可能。",
-		"tr_explain": "Desbloquea el accesorio\n\"Head-riding Matoi\"\npara usar en el Estilista."
+		"tr_explain": "Desbloquea el accesorio\n\"Head-Riding 2nd Gen Claris\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3803847",
 		"jp_text": "頭乗り【仮面】",
-		"tr_text": "Head-riding [Persona]",
+		"tr_text": "Head-Riding [Persona]",
 		"jp_explain": "使用すると、新しいアクセサリーの\n頭乗り【仮面】が選択可能。",
-		"tr_explain": "Desbloquea el accesorio\n\"Head-riding [Persona]\"\npara usar en el Estilista."
+		"tr_explain": "Desbloquea el accesorio\n\"Head-Riding [Persona]\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3803848",
@@ -24719,9 +24716,9 @@
 	{
 		"assign": "3803854",
 		"jp_text": "頭乗りわさっち",
-		"tr_text": "Head-riding Wasatchi",
+		"tr_text": "Head-Riding Wasatchi",
 		"jp_explain": "使用すると、新しいアクセサリーの\n頭乗りわさっちが選択可能。",
-		"tr_explain": "Desbloquea el accesorio\n\"Head-riding Wasatchi\"\npara usar en el Estilista."
+		"tr_explain": "Desbloquea el accesorio\n\"Head-Riding Wasatchi\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3803855",
@@ -24824,16 +24821,16 @@
 	{
 		"assign": "3803883",
 		"jp_text": "頭乗りクーナ",
-		"tr_text": "Head-riding Quna",
+		"tr_text": "Head-Riding Quna",
 		"jp_explain": "使用すると、新しいアクセサリーの\n頭乗りクーナが選択可能。",
-		"tr_explain": "Desbloquea el accesorio\n\"Head-riding Quna\"\npara usar en el Estilista."
+		"tr_explain": "Desbloquea el accesorio\n\"Head-Riding Quna\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3803884",
 		"jp_text": "頭乗りハドレッド",
-		"tr_text": "Head-riding Hadred",
+		"tr_text": "Head-Riding Hadred",
 		"jp_explain": "使用すると、新しいアクセサリーの\n頭乗りハドレッドが選択可能。",
-		"tr_explain": "Desbloquea el accesorio\n\"Head-riding Hadred\"\npara usar en el Estilista."
+		"tr_explain": "Desbloquea el accesorio\n\"Head-Riding Hadred\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3803885",
@@ -24957,9 +24954,9 @@
 	{
 		"assign": "3803902",
 		"jp_text": "頭乗せ鏡餅ラッピー",
-		"tr_text": "Head-riding Rappy Rice Cake",
+		"tr_text": "Head Rappy Rice Cake",
 		"jp_explain": "使用すると、新しいアクセサリーの\n頭乗せ鏡餅ラッピーが選択可能。",
-		"tr_explain": "Desbloquea el accesorio\n\"Head-riding Rappy Rice Cake\"\npara usar en el Estilista."
+		"tr_explain": "Desbloquea el accesorio\n\"Head Rappy Rice Cake\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3803903",
@@ -24992,23 +24989,23 @@
 	{
 		"assign": "3803907",
 		"jp_text": "バレンタインハットＢ",
-		"tr_text": "",
+		"tr_text": "Valentine Hat B",
 		"jp_explain": "使用すると、新しいアクセサリーの\nバレンタインハットＢが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Desbloquea el accesorio\n\"Valentine Hat B\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3803908",
 		"jp_text": "グランヴィナヘッドギアＤ",
-		"tr_text": "",
+		"tr_text": "Granvina Headgear D",
 		"jp_explain": "使用すると、新しいアクセサリーの\nグランヴィナヘッドギアＤが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Desbloquea el accesorio\n\"Granvina Headgear D\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3803909",
 		"jp_text": "緩めたネクタイ　紫",
-		"tr_text": "",
+		"tr_text": "Purple Loosened Necktie",
 		"jp_explain": "使用すると、新しいアクセサリーの\n緩めたネクタイ　紫が選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Desbloquea el accesorio\n\"Purple Loosened Necktie\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3803910",
@@ -25062,23 +25059,23 @@
 	{
 		"assign": "3803917",
 		"jp_text": "マウントブレードＢ",
-		"tr_text": "",
+		"tr_text": "Mounted Blade B",
 		"jp_explain": "使用すると、新しいアクセサリーの\nマウントブレードＢが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Desbloquea el accesorio\n\"Mounted Blade B\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3803918",
 		"jp_text": "マウントアームＢ",
-		"tr_text": "",
+		"tr_text": "Mounted Arm B",
 		"jp_explain": "使用すると、新しいアクセサリーの\nマウントアームＢが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Desbloquea el accesorio\n\"Mounted Arm B\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3803919",
 		"jp_text": "ラブリーアイパッチ　赤",
-		"tr_text": "",
+		"tr_text": "Lovely Eye Patch Red",
 		"jp_explain": "使用すると、新しいアクセサリーの\nラブリーアイパッチ　赤が選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Desbloquea el accesorio\n\"Lovely Eye Patch Red\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3803920",
@@ -25090,23 +25087,23 @@
 	{
 		"assign": "3803921",
 		"jp_text": "フェリチェカチューシャＢ",
-		"tr_text": "",
+		"tr_text": "Felice Headband B",
 		"jp_explain": "使用すると、新しいアクセサリーの\nフェリチェカチューシャＢが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Desbloquea el accesorio\n\"Felice Headband B\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3803922",
 		"jp_text": "マクスウェルピンＢ",
-		"tr_text": "",
+		"tr_text": "Maxwell Pin B",
 		"jp_explain": "使用すると、新しいアクセサリーの\nマクスウェルピンＢが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Desbloquea el accesorio\n\"Maxwell Pin B\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3803923",
 		"jp_text": "デイジーヘアピンＢ",
-		"tr_text": "",
+		"tr_text": "Daisy Hairpin B",
 		"jp_explain": "使用すると、新しいアクセサリーの\nデイジーヘアピンＢが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Desbloquea el accesorio\n\"Daisy Hairpin B\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3803924",
@@ -25132,44 +25129,44 @@
 	{
 		"assign": "3803927",
 		"jp_text": "ユクリータの腕飾り",
-		"tr_text": "",
+		"tr_text": "Yucreta Armlets",
 		"jp_explain": "使用すると、新しいアクセサリーの\nユクリータの腕飾りが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Desbloquea el accesorio\n\"Yucreta Armlets\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3803928",
 		"jp_text": "クリムピアシオアーム",
-		"tr_text": "",
+		"tr_text": "Crimpiacio Arms",
 		"jp_explain": "使用すると、新しいアクセサリーの\nクリムピアシオアームが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Desbloquea el accesorio\n\"Crimpiacio Arms\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3803929",
 		"jp_text": "ユクリータのマント",
-		"tr_text": "",
+		"tr_text": "Yucreta Cloak",
 		"jp_explain": "使用すると、新しいアクセサリーの\nユクリータのマントが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Desbloquea el accesorio\n\"Yucreta Cloak\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3803930",
 		"jp_text": "ユクリータのマント　赤",
-		"tr_text": "",
+		"tr_text": "Yucreta Cloak Red",
 		"jp_explain": "使用すると、新しいアクセサリーの\nユクリータのマント　赤が選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Desbloquea el accesorio\n\"Yucreta Cloak Red\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3803931",
 		"jp_text": "クリムピアシオマント",
-		"tr_text": "",
+		"tr_text": "Crimpiacio Cloak",
 		"jp_explain": "使用すると、新しいアクセサリーの\nクリムピアシオマントが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Desbloquea el accesorio\n\"Crimpiacio Cloak\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3803932",
 		"jp_text": "クリムピアシオマント　赤",
-		"tr_text": "",
+		"tr_text": "Crimpiacio Cloak Red",
 		"jp_explain": "使用すると、新しいアクセサリーの\nクリムピアシオマント　赤が選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Desbloquea el accesorio\n\"Crimpiacio Cloak Red\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3803933",
@@ -25216,30 +25213,30 @@
 	{
 		"assign": "3803939",
 		"jp_text": "ロージーヘッドドレス",
-		"tr_text": "",
+		"tr_text": "Rosey Headdress",
 		"jp_explain": "使用すると、新しいアクセサリーの\nロージーヘッドドレスが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Desbloquea el accesorio\n\"Rosey Headdress\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3803940",
 		"jp_text": "シュクルメルヘンハット",
-		"tr_text": "",
+		"tr_text": "Sucre Marchen Hat",
 		"jp_explain": "使用すると、新しいアクセサリーの\nシュクルメルヘンハットが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Desbloquea el accesorio\n\"Sucre Marchen Hat\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3803941",
 		"jp_text": "シュクルメルヘン首飾り",
-		"tr_text": "",
+		"tr_text": "Sucre Marchen Choker",
 		"jp_explain": "使用すると、新しいアクセサリーの\nシュクルメルヘン首飾りが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Desbloquea el accesorio\n\"Sucre Marchen Choker\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3803942",
 		"jp_text": "シュクルメルヘン腕飾り",
-		"tr_text": "",
+		"tr_text": "Sucre Marchen Armlets",
 		"jp_explain": "使用すると、新しいアクセサリーの\nシュクルメルヘン腕飾りが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Desbloquea el accesorio\n\"Sucre Marchen Armlets\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3803943",
@@ -25272,79 +25269,79 @@
 	{
 		"assign": "3803947",
 		"jp_text": "ＰＳＺヒューマーゴーグル",
-		"tr_text": "",
+		"tr_text": "PSZ HUmar Goggles",
 		"jp_explain": "使用すると、新しいアクセサリーの\nＰＳＺヒューマーゴーグルが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Desbloquea el accesorio\n\"PSZ HUmar Goggles\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3803948",
 		"jp_text": "ガンボーイハット",
-		"tr_text": "",
+		"tr_text": "Gun Boy Hat",
 		"jp_explain": "使用すると、新しいアクセサリーの\nガンボーイハットが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Desbloquea el accesorio\n\"Gun Boy Hat\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3803949",
 		"jp_text": "ガンガールハット",
-		"tr_text": "",
+		"tr_text": "Gun Girl Hat",
 		"jp_explain": "使用すると、新しいアクセサリーの\nガンガールハットが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Desbloquea el accesorio\n\"Gun Girl Hat\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3803950",
 		"jp_text": "ガンガールホルスター",
-		"tr_text": "",
+		"tr_text": "Gun Girl Holster",
 		"jp_explain": "使用すると、新しいアクセサリーの\nガンガールホルスターが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Desbloquea el accesorio\n\"Gun Girl Holster\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3803951",
 		"jp_text": "スウィートメルトリボン　赤",
-		"tr_text": "",
+		"tr_text": "Sweet Melt Ribbon Red",
 		"jp_explain": "使用すると、新しいアクセサリーの\nスウィートメルトリボン　赤が選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Desbloquea el accesorio\n\"Sweet Melt Ribbon Red\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3803952",
 		"jp_text": "スウィートメルトリボン",
-		"tr_text": "",
+		"tr_text": "Sweet Melt Ribbon",
 		"jp_explain": "使用すると、新しいアクセサリーの\nスウィートメルトリボンが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Desbloquea el accesorio\n\"Sweet Melt Ribbon\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3803953",
 		"jp_text": "アーベント髪飾り",
-		"tr_text": "",
+		"tr_text": "Abend Hair Ornament",
 		"jp_explain": "使用すると、新しいアクセサリーの\nアーベント髪飾りが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Desbloquea el accesorio\n\"Abend Hair Ornament\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3803954",
 		"jp_text": "アーベントメガネ",
-		"tr_text": "",
+		"tr_text": "Abend Glasses",
 		"jp_explain": "使用すると、新しいアクセサリーの\nアーベントメガネが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Desbloquea el accesorio\n\"Abend Glasses\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3803955",
 		"jp_text": "アーベントリボンタイ",
-		"tr_text": "",
+		"tr_text": "Abend Ribbon Tie",
 		"jp_explain": "使用すると、新しいアクセサリーの\nアーベントリボンタイが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Desbloquea el accesorio\n\"Abend Ribbon Tie\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3803956",
 		"jp_text": "ＰＳＺヒューマール襟巻き",
-		"tr_text": "",
+		"tr_text": "PSZ HUmarl Scarf",
 		"jp_explain": "使用すると、新しいアクセサリーの\nＰＳＺヒューマール襟巻きが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Desbloquea el accesorio\n\"PSZ HUmarl Scarf\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3803957",
 		"jp_text": "スピニングユニット",
-		"tr_text": "",
+		"tr_text": "Spinning Units",
 		"jp_explain": "使用すると、新しいアクセサリーの\nスピニングユニットが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Desbloquea el accesorio\n\"Spinning Units\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3803958",
@@ -25356,16 +25353,16 @@
 	{
 		"assign": "3803959",
 		"jp_text": "グレートヘルム",
-		"tr_text": "",
+		"tr_text": "Great Helm",
 		"jp_explain": "使用すると、新しいアクセサリーの\nグレートヘルムが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Desbloquea el accesorio\n\"Great Helm\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3803960",
 		"jp_text": "グレートヘルム　銀",
-		"tr_text": "",
+		"tr_text": "Great Helm Silver",
 		"jp_explain": "使用すると、新しいアクセサリーの\nグレートヘルム　銀が選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Desbloquea el accesorio\n\"Great Helm Silver\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3803961",
@@ -25398,15 +25395,15 @@
 	{
 		"assign": "3803965",
 		"jp_text": "ＰＳＺヒューマールリボン",
-		"tr_text": "",
+		"tr_text": "PSZ HUmarl Ribbon",
 		"jp_explain": "使用すると、新しいアクセサリーの\nＰＳＺヒューマールリボンが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Desbloquea el accesorio\n\"PSZ HUmarl Ribbon\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3803966",
 		"jp_text": "ＰＳＺヒューマールピアス",
-		"tr_text": "",
+		"tr_text": "PSZ HUmarl Earring",
 		"jp_explain": "使用すると、新しいアクセサリーの\nＰＳＺヒューマールピアスが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Desbloquea el accesorio\n\"PSZ HUmarl Earring\"\npara usar en el Estilista."
 	}
 ]
