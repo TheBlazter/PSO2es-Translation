@@ -331,9 +331,9 @@
 	{
 		"assign": "373050",
 		"jp_text": "悲劇を願う破滅トリガー",
-		"tr_text": "T. Mision: Specter Destruction",
+		"tr_text": "T. Mision: Destruction",
 		"jp_explain": "悲劇を願う破滅の虚影を\nクエストカウンターから発生させる。\n<yellow>※消費後はいかなる理由においても\n本アイテムは返却されません。<c>",
-		"tr_explain": "[The Specter of Destruction]\npodra elegirse en las Misiones.\n<yellow>※Este objeto no sera regresado\ndespues de su consumo.<c>"
+		"tr_explain": "[The Specter of Tragdy]\npodra elegirse en las Misiones.\n<yellow>※Este objeto no sera regresado\ndespues de su consumo.<c>"
 	},
 	{
 		"assign": "373051",
