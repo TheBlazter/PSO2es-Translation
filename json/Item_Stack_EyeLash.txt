@@ -291,7 +291,7 @@
 		"jp_text": "二重デフォルメまつげ　紺",
 		"tr_text": "Double-Fold Awry Eyelashes Blue",
 		"jp_explain": "チケットを使用すると、新しいまつげの\n二重デフォルメまつげ　紺が選択可能。",
-		"tr_explain": "Desbloquea las pestaйas\n\"Double-Fold Awry Eyelashes\nBlue\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea las pestaйas\n\"Double-Fold Awry Eyelashes\nBlue\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "328042",
@@ -1530,28 +1530,28 @@
 		"jp_text": "パッチリまつげ　黒",
 		"tr_text": "Wide Eyelashes Black",
 		"jp_explain": "チケットを使用すると、新しいまつげの\nパッチリまつげ　黒が選択可能。",
-		"tr_explain": "Desbloquea las pestaйas\n\"Wide Eyelashes Black\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea las pestaйas\n\"Wide Eyelashes Black\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3280224",
 		"jp_text": "パッチリまつげ　紺",
 		"tr_text": "Wide Eyelashes Blue",
 		"jp_explain": "チケットを使用すると、新しいまつげの\nパッチリまつげ　紺が選択可能。",
-		"tr_explain": "Desbloquea las pestaйas\n\"Wide Eyelashes Blue\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea las pestaйas\n\"Wide Eyelashes Blue\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3280225",
 		"jp_text": "パッチリまつげ　茶",
 		"tr_text": "Wide Eyelashes Brown",
 		"jp_explain": "チケットを使用すると、新しいまつげの\nパッチリまつげ　茶が選択可能。",
-		"tr_explain": "Desbloquea las pestaйas\n\"Wide Eyelashes Brown\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea las pestaйas\n\"Wide Eyelashes Brown\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3280226",
 		"jp_text": "パッチリまつげ　白",
 		"tr_text": "Wide Eyelashes White",
 		"jp_explain": "チケットを使用すると、新しいまつげの\nパッチリまつげ　白が選択可能。",
-		"tr_explain": "Desbloquea las pestaйas\n\"Wide Eyelashes White\"\nse podra usar en el Estilista."
+		"tr_explain": "Desbloquea las pestaйas\n\"Wide Eyelashes White\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3280227",
@@ -1692,5 +1692,33 @@
 		"tr_text": "Triangular Lower Lashes White",
 		"jp_explain": "チケットを使用すると、新しいまつげの\n三角下まつげ　白が選択可能。",
 		"tr_explain": "Desbloquea las pestaйas\n\"Triangular Lower Lashes White\"\npara usar en el Estilista."
+	},
+	{
+		"assign": "3280247",
+		"jp_text": "派手くっきりまつげＣ　黒",
+		"tr_text": "",
+		"jp_explain": "チケットを使用すると、新しいまつげの\n派手くっきりまつげＣ　黒が選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3280248",
+		"jp_text": "派手くっきりまつげＣ　紺",
+		"tr_text": "",
+		"jp_explain": "チケットを使用すると、新しいまつげの\n派手くっきりまつげＣ　紺が選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3280249",
+		"jp_text": "派手くっきりまつげＣ　茶",
+		"tr_text": "",
+		"jp_explain": "チケットを使用すると、新しいまつげの\n派手くっきりまつげＣ　茶が選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3280250",
+		"jp_text": "派手くっきりまつげＣ　白",
+		"tr_text": "",
+		"jp_explain": "チケットを使用すると、新しいまつげの\n派手くっきりまつげＣ　白が選択可能。",
+		"tr_explain": ""
 	}
 ]

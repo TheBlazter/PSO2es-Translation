@@ -1089,7 +1089,7 @@
 		"jp_text": "特殊能力追加（防御継承）",
 		"tr_text": "Habilidad (Def. Transfer)",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【防御継承】の特殊能力を追加する。",
-		"tr_explain": "Material usado al sintetizar habilidades.\nOtorga \"Defense Receptor\"\ncuando es usado en la sistesis."
+		"tr_explain": "Material usado al sintetizar habilidades.\nOtorga \"Guard Receptor\"\ncuando es usado en la sistesis."
 	},
 	{
 		"assign": "3210209",
