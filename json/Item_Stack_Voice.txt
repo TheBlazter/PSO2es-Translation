@@ -4764,7 +4764,7 @@
 		"jp_text": "女性追加ボイス１８６",
 		"tr_text": "Female Extra Voice 186",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n人間女性のみ使用可能。\nＣＶ横山 智佐",
-		"tr_explain": "Allows a new voice to be selected.\nNon-Cast female characters only.\nCV: Chisa Yokoyama"
+		"tr_explain": "Una nueva voz podra ser elegida.\nSolo No-Cast femeninos.\nCV: Chisa Yokoyama"
 	},
 	{
 		"assign": "3180903",
@@ -5191,7 +5191,7 @@
 		"jp_text": "男性Ｃ追加ボイス１５１",
 		"tr_text": "Male C Extra Voice 151",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\nキャスト男性のみ使用可能。\nＣＶ陶山 章央",
-		"tr_explain": "Una nueva voz podra ser elegida.\nMale Casts only.\nCV: Akio Suyama"
+		"tr_explain": "Una nueva voz podra ser elegida.\nSolo Casts masculinos.\nCV: Akio Suyama"
 	},
 	{
 		"assign": "31801005",
@@ -5555,7 +5555,7 @@
 		"jp_text": "女性Ｃ追加ボイス１８６",
 		"tr_text": "Female C Extra Voice 186",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\nキャスト女性のみ使用可能。\nＣＶ横山 智佐",
-		"tr_explain": "Allows a new voice to be selected.\nFemale Casts only.\nCV: Chisa Yokoyama"
+		"tr_explain": "Una nueva voz podra ser elegida.\nSolo Casts femeninos.\nCV: Chisa Yokoyama"
 	},
 	{
 		"assign": "31801082",
@@ -5933,7 +5933,7 @@
 		"jp_text": "男性追加ボイス１５２",
 		"tr_text": "Male Extra Voice 152",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n人間男性のみ使用可能。\nＣＶ梶 裕貴",
-		"tr_explain": "Allows a new voice to be selected.\nNon-Cast male characters only.\nCV: Yuki Kaji"
+		"tr_explain": "Una nueva voz podra ser elegida.\nSolo No-Cast masculinos.\nCV: Yuki Kaji"
 	},
 	{
 		"assign": "31801191",
@@ -6129,7 +6129,7 @@
 		"jp_text": "男性追加ボイス１５４",
 		"tr_text": "Male Extra Voice 154",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n人間男性のみ使用可能。\nＣＶ諏訪部 順一",
-		"tr_explain": "Allows a new voice to be selected.\nNon-Cast male characters only.\nCV: Junichi Suwabe"
+		"tr_explain": "Una nueva voz podra ser elegida.\nSolo No-Cast masculinos.\nCV: Junichi Suwabe"
 	},
 	{
 		"assign": "31801243",
@@ -6206,7 +6206,7 @@
 		"jp_text": "男性Ｃ追加ボイス１５２",
 		"tr_text": "Male C Extra Voice 152",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\nキャスト男性のみ使用可能。\nＣＶ梶 裕貴",
-		"tr_explain": "Allows a new voice to be selected.\nMale Casts only.\nCV: Yuki Kaji"
+		"tr_explain": "Una nueva voz podra ser elegida.\nSolo Casts masculinos.\nCV: Yuki Kaji"
 	},
 	{
 		"assign": "31801291",
@@ -6367,14 +6367,14 @@
 		"jp_text": "男性Ｃ追加ボイス１５０",
 		"tr_text": "Male C Extra Voice 150",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\nキャスト男性のみ使用可能。\nＣＶ安元 洋貴",
-		"tr_explain": "Una nueva voz podra ser elegida.\nMale Casts only.\nCV: Hiroki Yasumoto"
+		"tr_explain": "Una nueva voz podra ser elegida.\nSolo Casts masculinos.\nCV: Hiroki Yasumoto"
 	},
 	{
 		"assign": "31801335",
 		"jp_text": "男性Ｃ追加ボイス１５４",
 		"tr_text": "Male C Extra Voice 154",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\nキャスト男性のみ使用可能。\nＣＶ諏訪部 順一",
-		"tr_explain": "Allows a new voice to be selected.\nMale Casts only.\nCV: Junichi Suwabe"
+		"tr_explain": "Una nueva voz podra ser elegida.\nSolo Casts masculinos.\nCV: Junichi Suwabe"
 	},
 	{
 		"assign": "31801374",
@@ -6598,7 +6598,7 @@
 		"jp_text": "女性追加ボイス１８５",
 		"tr_text": "Female Extra Voice 185",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n人間女性のみ使用可能。\nＣＶ坂本 真綾",
-		"tr_explain": "Allows a new voice to be selected.\nNon-Cast female characters only.\nCV: Maaya Sakamoto"
+		"tr_explain": "Una nueva voz podra ser elegida.\nSolo No-Cast femeninos.\nCV: Maaya Sakamoto"
 	},
 	{
 		"assign": "31801432",
@@ -6878,7 +6878,7 @@
 		"jp_text": "女性Ｃ追加ボイス１８５",
 		"tr_text": "Female C Extra Voice 185",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\nキャスト女性のみ使用可能。\nＣＶ坂本 真綾",
-		"tr_explain": "Allows a new voice to be selected.\nFemale Casts only.\nCV: Maaya Sakamoto"
+		"tr_explain": "Una nueva voz podra ser elegida.\nSolo Casts femeninos.\nCV: Maaya Sakamoto"
 	},
 	{
 		"assign": "31801523",

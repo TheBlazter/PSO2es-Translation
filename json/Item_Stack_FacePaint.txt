@@ -1488,7 +1488,7 @@
 		"jp_text": "ＰＳＺカイの傷",
 		"tr_text": "PSZ Kai's Scar",
 		"jp_explain": "チケットを使用すると、新しいメイクの\nＰＳＺカイの傷が選択可能。",
-		"tr_explain": "Unlocks the makeup\n\"PSZ Kai's Scar\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el maquillaje\n\"PSZ Kai's Scar\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3250234",
