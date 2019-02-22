@@ -1873,7 +1873,7 @@
 		"jp_text": "フォルテエンブレム",
 		"tr_text": "Forte Emblem",
 		"jp_explain": "特定ステッカーの装着許可チケット。\n使用すると、新しいステッカーの\nフォルテエンブレムが選択可能。",
-		"tr_explain": "Unlocks the sticker\n\"Forte Emblem\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el emblema\n\"Forte Emblem\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3170302",

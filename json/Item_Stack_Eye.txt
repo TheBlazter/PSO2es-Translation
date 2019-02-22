@@ -1299,6 +1299,6 @@
 		"jp_text": "ハイライトなしＤ",
 		"tr_text": "No Highlights D",
 		"jp_explain": "チケットを使用すると、新しい瞳の\nハイライトなしＤが選択可能。",
-		"tr_explain": "Unlocks the eyes\n\"No Highlights D\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea los ojos\n\"No Highlights D\"\npara usar en el Estilista."
 	}
 ]
