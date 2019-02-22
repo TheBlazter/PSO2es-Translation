@@ -2,32 +2,32 @@
 	{
 		"assign": "0000",
 		"jp_text": "<color=#f0df60>＜前進と後退＞</color>\nバトル中に画面を上にスライドすると前に進み、\n画面を下にスライドすると後ろにバックします。\nピンチのときはバックして態勢を立て直しましょう。",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60><Advancing and Retreating></color>\nIf you slide up across the screen during a\nbattle, you will move forward. If you slide down,\nyou will move backward. If you're in a pinch,\nretreat and regain your footing."
 	},
 	{
 		"assign": "0001",
 		"jp_text": "<color=#f0df60>＜攻撃について＞</color>\nバトル中は、画面のどこをタッチしても\n攻撃することができます。\nエネミーをわざわざ狙ってタッチしなくても\n大丈夫ですよ。",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60><Attacking></color>\nDuring a battle, you can attack by tapping\nanywhere on the screen. You don't have to\ntap the enemy you want to target, so don't\nworry about your aim."
 	},
 	{
 		"assign": "0002",
 		"jp_text": "<color=#f0df60>＜敵の攻撃をかわそう＞</color>\nバトル中に画面を左にスライドすると左に移動、\n右にスライドすると右に移動することができます。\nエネミーの攻撃を左右に移動して、かわしましょう。",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60><Avoiding enemy attacks></color>\nDuring a battle, sliding across the screen to the left\nmakes you dodge left, and sliding to the right makes\nyou dodge right. Dodge left and right to avoid\nenemy attacks."
 	},
 	{
 		"assign": "0003",
 		"jp_text": "<color=#f0df60>＜ＨＰが減ったら回復しよう＞</color>\n敵に攻撃されてＨＰが減ったら\n「モノメイト」（回復薬）など、回復系のチップを\n使うと、ＨＰが回復しますよ。",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60><Recovering HP></color>\nIf you get hit by an enemy attack, you will lose HP.\nYou can recover your HP by using a recovery chip,\nsuch as \"Monomate\"."
 	},
 	{
 		"assign": "0004",
 		"jp_text": "<color=#f0df60>＜同行キャラクターのチップを使ってみよう＞</color>\n同行キャラクターのチップが、自分も使えるチップの場合\nタッチすると発動できますよ。\n自分が持っていない強力なチップも使えておトクです！",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60><Using Your Friend Partner's Chip></color>\nIf your Friend Partner has equipped a chip that you\ncan use, you can activate it any time by tapping it.\nYou can get access to powerful chips without\nhaving to acquire them yourself!"
 	},
 	{
 		"assign": "0005",
 		"jp_text": "<color=#f0df60>＜ＣＰを回復するテクニック＞</color>\nＣＰは時間とともに少しずつ増えていきますが\nエネミーに攻撃を命中させると、さらに増えるんです。\nＣＰをためて、チップをどんどん発動させましょう。",
-		"tr_text": "<color=#f0df60><Consejos para el jugador></color>\nPuedes recuperar tu CP ligeramente\natacando usando ataques normales.\nLos diferentes requisitos de CP \nvarian según el chip,\nasi que asegúrese de examinarlos todos."
+		"tr_text": "<color=#f0df60><CP Recovery Techniques></color>\nCP regenerates slowly over time, but if you hit an\nenemy with a normal attack, you will recover some\nCP immediately. Recover your CP and activate chips!"
 	},
 	{
 		"assign": "0006",
@@ -42,17 +42,17 @@
 	{
 		"assign": "0008",
 		"jp_text": "<color=#f0df60>＜チップの強化＞</color>\n余ったチップは、素材にして\nよく使うチップをどんどん強化していきましょう。\n属性値だけでなく、ＨＰやバトル開始時のＣＰも\n上昇していくんですよ。",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60><How To Grind Chips></color>\nYou can use your less frequently-used chips as raw\nmaterials to strengthen the chips you use more.\nStrengthening chips raises their element value,\nas well as the HP and initial CP they give you."
 	},
 	{
 		"assign": "0009",
 		"jp_text": "<color=#f0df60>＜戦闘不能になったら＞</color>\n戦闘不能になったときは、復活薬などで\nその場で復活することができますよ。\nエネミーのＨＰはそのままなので\n「あと少しで倒せそう」というときなどに、どうぞ。",
-		"tr_text": "<color=#f0df60><Cuando estas muerto></color>\nCuando eres derrotado, puede recuperarse\nde este estado utilizando Rappy Coins,\n AC o elementos de recuperacion\ncomo Scape Dolls."
+		"tr_text": "<color=#f0df60><When You Are Defeated></color>\nIf you are defeated, you can instantly recover\nby spending Rappy Coins, AC or using a recovery\nitem such as a Scape Doll. The enemy's HP will\nremain unchanged, so the best time to do this is\nif you think you can defeat them without dying again."
 	},
 	{
 		"assign": "0010",
 		"jp_text": "<color=#f0df60>＜チップの詳細情報＞</color>\nチップは、アイコンを長押しすることで\n詳細な情報を見ることができます。\n装備画面や、クエストのリザルト画面など\nチップが表示される場所で、試してみましょう。",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60><Detailed Chip Information></color>\nYou can view detailed information on a chip by\ntapping and holding on its icon. You can do this\nanywhere a chip is displayed, such as the Equip\nscreen and the Quest Results screen."
 	},
 	{
 		"assign": "0011",
@@ -62,92 +62,88 @@
 	{
 		"assign": "0012",
 		"jp_text": "<color=#f0df60>＜相手の動きをよく見よう＞</color>\nエネミーが攻撃にうつる前には\n何らかの予備動作があることが多いです。\n相手の動きをよくみて、うまくかわしましょう。",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60><Watch Enemy Movements></color>\nEnemies will often perform a particular action\nbefore they attack. Watch their movements\ncarefully to anticipate their attacks."
 	},
 	{
 		"assign": "0013",
 		"jp_text": "<color=#f0df60>＜チップスロットを使おう＞</color>\nチップスロットに、空きはありませんか？\nチップをたくさん装備して\nいろいろな状況に備えましょう。",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60><Use Your Chip Slots></color>\nDo you have empty chip slots?\nTry to equip as many chips as you can, to be\nprepared for a variety of situations."
 	},
 	{
 		"assign": "0014",
 		"jp_text": "<color=#f0df60>＜ＰＳＥでパワーアップ＞</color>\nフィールドで移動中、色がついているマスを選ぶと\nフォトンの力で攻撃力や防御力がアップする\n「ＰＳＥ」が発生します。うまく活用しましょう。",
-		"tr_text": "<color=#f0df60><PSE Power Up></color>\nAl jugar, igualar los colores puede aumentar\nel efecto photon del tipo seleccionado."
-	},
-	{
 		"assign": "0015",
-		"jp_text": "<color=#f0df60>＜ジャストアタック＞</color>\n攻撃を行った際に、キャラクターのまわりに\n赤い円が表示されます。\nこの円が小さくなって消える前に、タイミングよく\n画面をタッチすると、ダメージが大きくなりますよ。",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60><Just Attacks></color>\nWhen you attack, a red circle appears around your\ncharacter. If you tap the screen again before the\ncircle disappears, your attack will deal more damage."
 	},
 	{
 		"assign": "0016",
 		"jp_text": "<color=#f0df60>＜ボスの攻撃をかわせ＞</color>\nボスとのバトルの際に、画面にスライドを指示する\nサインが出ることがあります。\n急いで指示通りスライドしないと、ボスの強力な\n攻撃で大ダメージを受けてしまいますよ。",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60><Avoiding Boss Attacks></color>\nWhen fighting a boss, time may freeze and an icon\nmay appear on the screen telling you to slide.\nIf you do not slide in time, the boss will hit you\nwith a very powerful attack."
 	},
 	{
 		"assign": "0017",
 		"jp_text": "<color=#f0df60>＜スペシャルスロットを使おう＞</color>\nチップ装備画面の、いちばん左の黄色い枠を\n「スペシャルスロット」といいます。\nここに装備したチップは、アビリティの威力が\nアップするんですよ！",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60><Using The SP Slot></color>\nThe yellow frame on the left side of the Chip\nEquipment screen is called the \"SP Slot\". The\nchip you equip in this slot will have its ability\npowered up!"
 	},
 	{
 		"assign": "0018",
 		"jp_text": "<color=#f0df60>＜ユニットを装備しよう＞</color>\nユニットとは、わかりやすく言うと「防具」です。\nリア・アーム・レッグの３か所に装備できます。\n「サブ」というユニットは、３か所のどこにでも\n装備できるんですよ。",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60><Equipping Units></color>\nTo clarify, \"Units\" can also be thought of as\n\"Armor\". Rear, Arm and Leg units can only be\nequipped to the Rear, Arm or Leg slot respectively.\nSub units can be equipped to any slot."
 	},
 	{
 		"assign": "0019",
 		"jp_text": "<color=#f0df60>＜スコアについて＞</color>\nバトルを「はやく」「ダメージを少なく」\nクリアすると、いいスコアがもらえます。\nクエストをクリアしたときに合計スコアが高いと\nＳやＡの評価となり、報酬もよくなりますよ。",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60><Your Score></color>\nIf you clear battles quickly and without taking\ntoo much damage, the score you get from\nthem will be higher. If you earn a high score\non every battle, you will get an A or S rank for\nthe quest, which gives you an extra reward!"
 	},
 	{
 		"assign": "0020",
 		"jp_text": "<color=#f0df60>＜スコアボーナス＞</color>\nクエストクリア時に、スコアの合計数に応じて\nＳやＡの評価がもらえますが、それとは別に\nエリア（同じマップ）中のスコアの累計数に応じて\n「スコアボーナス」がもらえます。\nいい武器やチップをゲットするチャンス！",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60><Score Bonus></color>\nIn addition for the rewards for getting A and S\nranks on each individual quest, there are \"Score\nBonus\" rewards available for reaching certain\ntotal high scores for each area (block of quests).\nThese can be powerful weapons and chips!"
 	},
 	{
 		"assign": "0021",
 		"jp_text": "<color=#f0df60>＜お気に入り登録＞</color>\n大事なチップは、間違って売ったり\n強化の素材として使ったりしてしまわないように\n「お気に入り登録」をしておきましょう。\n装備選択画面から登録可能です。",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60><Favorite Registration></color>\nRegister important chips as \"Favorites\" to\navoid accidentally selling them, or using them\nas Grind material. You can register Favorites\nfrom the Equip screen."
 	},
 	{
 		"assign": "0022",
 		"jp_text": "<color=#f0df60>＜クラスについて＞</color>\nクラスは、メニューの「編成」から「クラス変更」で\n自由に変えることができます。\n強い武器やチップが手に入ったら、それらの扱いが\n得意なクラスになるのもいいかもしれませんね。",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60><Classes></color>\nYou can change your class at any time by\nselecting \"Change class\" from the\n\"Organize\" menu. If you find powerful\nweapons and chips, consider changing to a\nclass that can use them more effectively."
 	},
 	{
 		"assign": "0023",
 		"jp_text": "<color=#f0df60>＜アビリティレベル＞</color>\n同じ種類のチップを素材にして強化をすると\nチップのアビリティレベルがあがります。\nチップ発動に必要なＣＰが少なくなったり\nチップ効果発動の確率があがったりするんですよ。",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60><Ability Level></color>\nWhen you grind a chip with another copy of the\nsame chip, its \"ability level\" increases.\nFor Support chips, a higher ability level increases\nthe chip's activation chance, while for Active\nchips, it decreases the chip's CP cost to activate."
 	},
 	{
 		"assign": "0024",
 		"jp_text": "<color=#f0df60>＜ＰＳＥバースト＞</color>\nフィールド移動時にマスを選ぶと発生するＰＳＥ。\nこれが３段階まで重なると\n「ＰＳＥバースト」と言って、効果が劇的にアップ！\nうまくマスを選んでみましょう。",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60><PSE Burst></color>\nPSEs occur when you select colored spaces while\nmoving in the field. If you select three of the\nsame colour, a voice will say \"PSE Burst\",\nand the effect will dramatically increase!\nChoose your path carefully as you move."
 	},
 	{
 		"assign": "0025",
 		"jp_text": "<color=#f0df60>＜状態異常を治そう＞</color>\nエネミーの中には、毒などの状態異常攻撃をしてくる\n種類がいます。\n状態異常は、チップ「ソルアトマイザー（治療薬）」で\n治すことができますよ。",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60><Dealing With Status Effects></color>\nSome enemies can inflict various types of\nstatus effects, such as Poison. If you're\nafflicted by a status effect, you can remove\nit by using the chip \"Sol Atomizer\"."
 	},
 	{
 		"assign": "0026",
 		"jp_text": "<color=#f0df60>＜チップ解放＞</color>\n編成メニューで行える「チップ解放」。\nチップに秘められた能力を解放して引き出すことで\nチップの最大レベルがアップしますよ。\n解放に必要な素材を集めてみましょう。",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60><How To Release Chips></color>\nBy selecting \"Chip Release\" from the \"Organize\"\nmenu, you can draw out the hidden powers of\nchips, raising their maximum level and improving\ntheir abilities. Chip Releasing requires special\nmaterials, so do your best to collect them!"
 	},
 	{
 		"assign": "0027",
 		"jp_text": "<color=#f0df60>＜スペシャルクエスト＞</color>\nチップ解放の素材となるチップは\n日替わりで配信される\nスペシャルクエストで入手可能ですよ！",
-		"tr_text": "<color=#f0df60><Special Quests></color>\nPuede encontrar los materiales para las\nModificaciones de chips por hacer \nmisiones especiales!"
+		"tr_text": "<color=#f0df60><Special Quests></color>\nYou can find release material chips\nby doing Daily Quests! Find them\nunder Special Quests!"
 	},
 	{
 		"assign": "0028",
 		"jp_text": "<color=#f0df60>＜グラインダーで強化＞</color>\n編成メニューの「アイテム強化」では\n武器やユニットを強化することができるんです。\n強化には、グラインダーというアイテムが必要です。",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60><How To Grind Items></color>\nBy selecting \"Grind Items\" from the \"Organize\"\nmenu, you can enhance weapons and units.\nTo enhance weapons and units, you need an item\ncalled a \"Grinder\"."
 	},
 	{
 		"assign": "0029",
 		"jp_text": "<color=#f0df60>＜スコアボーナスのアイテム＞</color>\nクエストに出かける前のエリア選択画面で\nエリア名の横に、詳細ボタンがあります。\nここを押すと、スコアボーナスでもらえるアイテムが\n確認できるんですよ！",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60><Score Bonus Items></color>\nWhen you go to select a quest, each area\nhas a blue button on the left side. If you\npress this button, you can view the items\nthat you can earn from Score Bonus!"
 	},
 	{
 		"assign": "0030",
@@ -167,12 +163,12 @@
 	{
 		"assign": "0033",
 		"jp_text": "<color=#f0df60>＜セラフィのひとりごと１＞</color>\nもしプライベートで遊びに行けるのなら\n惑星ナベリウスで森林浴かなぁ……\nあっ、でも惑星リリーパの砂漠に沈む夕日を\n見に行くのも悪くないかも！",
-		"tr_text": "<color=#f0df60><Monologo de Seraphy #1></color>\nEn el planeta Naberius, hay un baйo privado\nen el bosque, ahh ... ¡La puesta de sol en el\ndesierto en Lillipa tampoco esta nada mal!"
+		"tr_text": "<color=#f0df60><Seraphy's Thoughts #1></color>\nOn planet Naberius, there's a\nprivate bath in the forest, ahhh....\nThe sunset in the desert on\nLillipa isn't too bad either!"
 	},
 	{
 		"assign": "0034",
 		"jp_text": "<color=#f0df60>＜セラフィのひとりごと２＞</color>\n『PSO2』では、エステというところがあって\n体型や髪型などを\n自由にカスタマイズできるんですって！\nいいなぁ……私も、もう少し細くなりたい……",
-		"tr_text": "<color=#f0df60><Monologo de Seraphy #2></color>\n\"PSO2\" ¡Hay un lugar llamado \"Salon\" que te permite\npersonalizar tu tipo de cabello y trajes!\n\nUhh.... Con eso yo podria ser mas delgada..."
+		"tr_text": "<color=#f0df60><Seraphy's Thoughts #2></color>\nIn PSO2, there's a place called \"Beauty Salon\" that\nallows you to customize your hair and body type!\nI, uhh... I wouldn't mind becoming a bit thinner..."
 	},
 	{
 		"assign": "0035",
@@ -207,22 +203,22 @@
 	{
 		"assign": "0041",
 		"jp_text": "<color=#f0df60>＜セラフィのひとりごと３＞</color>\n昔の父は、家族を大事にしてくれる\nやさしい人でしたが\n失踪する数年前から、ふさぎ込みがちになり\n自室で研究に没頭するようになってしまいました。",
-		"tr_text": "<color=#f0df60><Monologo de Seraphy #3></color>\nMi padre, fue amigable con nuestra familia\ny nuestra gente.\nEstaba tan inmerso en su investigacion,\nantes de su desaparicion hace unos aйos."
+		"tr_text": "<color=#f0df60><Seraphy's Thoughts #3></color>\nMy father was a kind person who loved his family.\nBut a few years before he disappeared, he\nturned his back on the world, and became absorbed\nin his research."
 	},
 	{
 		"assign": "0042",
 		"jp_text": "<color=#f0df60>＜セラフィのひとりごと４＞</color>\nいろんな惑星に探索に行けて\nアークスって、楽しそうですよね……\nあー、私もアークスになりたかったなぁ……",
-		"tr_text": "<color=#f0df60><Monologo de Seraphy #4></color>\nQueria ir a otros planetas como\n ARKS y divertirme...\n¿Por que queria convertirme en ARKS?"
+		"tr_text": "<color=#f0df60><Seraphy's Thoughts #4></color>\nWhen I heard that ARKS got to visit different\nplanets, I thought it sounded like fun...\nI always wanted to join ARKS some day..."
 	},
 	{
 		"assign": "0043",
 		"jp_text": "<color=#f0df60>＜アイテム強化について＞</color>\nグラインダーがあれば、武器やユニットを\n＋１０まで強化することができます。\n後半になると強化に失敗する確率が高くなるので\n注意してください。",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60><Item Grinding></color>\nBy using Grinders, you can enhance weapons\nand units up to a maximum grind value of +10.\nHowever, please note that as the grind value\ngets higher, so does the chance of failure when\ngrinding."
 	},
 	{
 		"assign": "0044",
 		"jp_text": "<color=#f0df60>＜ダーカーの弱点属性＞</color>\n蟲系ダーカーは炎と光、\n魚介系ダーカーは雷と光が弱点属性です。\nいずれのダーカーも、光属性は共通した弱点ですね。",
-		"tr_text": "<color=#f0df60><Debilidades de los Darker></color>\nLos Darkers son generalmente debiles\ncontra Fuego y Luz. Los Darkers acuaticos\nson debiles contra Lightning y Light. \nLa mayoria de los Darkers \nson debiles contra la luz."
+		"tr_text": "<color=#f0df60><Darker Weaknesses></color>\nInsect Darkers are generally weak against\nFire and Light, while aquatic Darkers\nare weak against Lightning and Light.\nMost Darkers are weak against Light."
 	},
 	{
 		"assign": "0045",
@@ -527,7 +523,7 @@
 	{
 		"assign": "0105",
 		"jp_text": "<color=#f0df60>＜ラッピーチップをゲットしよう＞</color>\nこのクエストにはラッピーが出現するようです。\n貴重なラッピーのチップを\nこの機会にたくさん入手しましょう。",
-		"tr_text": "<color=#f0df60>Consiguiendo Rappy Chips</color>\nEn Rappy Quest aparecen muchos rappies\ny encantadores rappy chips,\nintente obtener tantos como sea posible."
+		"tr_text": "<color=#f0df60><Getting Rappy Chips></color>\nIn this quest, a lot of Rappies will appear.\nGet as many valuable Rappy chips as you can!"
 	},
 	{
 		"assign": "0106",
@@ -577,12 +573,12 @@
 	{
 		"assign": "0115",
 		"jp_text": "<color=#f0df60>＜緊急クエストへの再出撃＞</color>\n緊急クエストは、一度で目標のエネミーを倒せなくても\n前回のバトルで与えたダメージはそのままで\nクエストに再挑戦できます。\n何度もチャレンジして、目標の撃破をめざしましょう！",
-		"tr_text": "<color=#f0df60><Emergency Quests></color>\nDuring an Emergency Quest, you can rechallenge\nthe same quest until the enemy in\nquestion is defeated or you have run out of OP.\nLet's do our best!"
+		"tr_text": "<color=#f0df60><Emergency Quests></color>\nDuring an Emergency Quest, you can rechallenge\nthe same quest until the target \nenemy is defeated or you have run out of OP.\nLet's do our best!"
 	},
 	{
 		"assign": "0116",
 		"jp_text": "<color=#f0df60>＜フレンドと協力しよう＞</color>\n緊急クエストで目標を討伐できなかった場合は、\nフレンドに救援要請を送ることができます。\nフレンドの力を結集して、強敵を撃破しましょう！",
-		"tr_text": "<color=#f0df60><Ayuda de amigo></color>\nSi te derrotan durante una Emergency Quest,\npuedes llamar para que te rescaten tus amigos.\n¡Cooperar es clave para derrotar al \npoderoso enemigo!"
+		"tr_text": "<color=#f0df60><Friend Help></color>\nIf you fail to defeat the enemy during an\nEmergency Quest, you may call for your\nfriends to rescue you. Cooperation is the key\nto defeating powerful enemies!"
 	},
 	{
 		"assign": "0117",
@@ -1152,47 +1148,47 @@
 	{
 		"assign": "0230",
 		"jp_text": "<color=#f0df60>＜エネミーの弱点属性を狙え！＞</color>\nこのブロックのエネミーは\n特定の属性を弱点としています。\n弱点を突くことができるよう\n十分に準備を整え挑んでください！",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60><Aim For Weakness Elements!></color>\nIn this block, all enemies share a weakness\nelement. Try to focus your equipment\naround targeting that weakness element!"
 	},
 	{
 		"assign": "0231",
 		"jp_text": "<color=#f0df60>＜エネミーの属性耐性に気を付けて！＞</color>\nこのブロックのエネミーは\n特定の属性に耐性を持ちます。\n耐性の隙を突くことができるよう\n十分に準備を整え挑んでください！",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60><Watch For Enemy Elemental Resistances!></color>Enemies in this block resist certain elements.\nTry to focus on different elements when\nyou choose your equipment."
 	},
 	{
 		"assign": "0232",
 		"jp_text": "<color=#f0df60>＜エネミーの攻撃耐性に気を付けて！＞</color>\nこのブロックのエネミーは「打撃」「射撃」「法撃」\n「必殺技」「法術」のいずれかに耐性を持ちます。\n耐性の隙を突くことができるよう\n十分に準備を整え挑んでください！",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60><Watch For Enemy Attack Resistances!></color>\nEnemies in this block resist S-ATK, R-ATK, T-ATK,\nPhoton Arts or Techniques. Try to focus on other\nattacks when you choose your equipment."
 	},
 	{
 		"assign": "0233",
 		"jp_text": "<color=#f0df60>＜エネミーの状態異常時を狙え！＞</color>\nこのブロックのエネミーは\n状態異常状態中に攻撃すると\n通常以上のダメージを与えることができます。\n状態異常を与えるチップを使ってみてください！",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60><Aim To Inflict Status Effects!></color>\nEnemies in this block will take more damage than\nusual when affected by status effects. Try using\na chip that lets you inflict status effects!"
 	},
 	{
 		"assign": "0234",
 		"jp_text": "<color=#f0df60>＜消費ＣＰ大幅カット！＞</color>\nこのブロックでは\nチップ発動時のＣＰの消費量が\n大幅に下がります！\nチップの連続発動が可能になりますので\nアクティブチップを使ってみてください！",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60><CP Consumption Reduced!></color>\nIn this block, the amount of CP you use to activate\nchips is greatly reduced! Take advantage of this by\nusing active chips more than you normally would!"
 	},
 	{
 		"assign": "0235",
 		"jp_text": "<color=#f0df60>＜ダメージボムで追加ボーナス！＞</color>\nこのブロックでは\nダメージボムチップが有効です！\nダメージボムチップは対象エネミーの\n残りＨＰに応じた割合ダメージを追加で与えます！\nダメージボムチップを使ってみてください！",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60><Damage Bomb Bonus Damage!></color>\nIn this block, [Damage Bomb] chips are boosted!\nIn addition to their normal damage, all [Damage Bomb]\nchips will deal bonus damage equal to a proportion\nof the enemy's remaining HP!\nTry using Damage Bomb chips!"
 	},
 	{
 		"assign": "0236",
 		"jp_text": "<color=#f0df60>＜プレイヤーに特殊な制限が発生＞</color>\nこのブロックでは「通常攻撃耐性」「ダメージ上限」\nなどプレイヤーに様々な制限が発動します。\n臨機応変に対応できるよう\n十分に準備を整え挑んでください！",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60><Special Player Restrictions></color>\nIn this block, you will be affected by a special\nrestriction, such as \"Normal attack damage\nresistance\" or \"Maximum limit on damage\".\nEquip yourself in a way that lets you respond\nflexibly to whatever comes your way!"
 	},
 	{
 		"assign": "0237",
 		"jp_text": "<color=#f0df60>＜エターナルジュエルとは？＞</color>\nブロックをクリアすると\n「エターナルジュエル」が手に入ります。\n交換ショップで、いろいろな景品と交換できますよ！\nエターナルジュエルは次回持越しが可能です！",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60><What Are Eternal Jewels?></color>\nWhen you clear a block, you can earn \"Eternal\nJewels\". You can exchange Eternal Jewels for\nvarious prizes in the Exchange Shop! When the\nEternal Tower event ends, your Eternal Jewels will\nbe carried over next time it appears!"
 	},
 	{
 		"assign": "0238",
 		"jp_text": "<color=#f0df60>＜ブロックのクリアタイム報酬を目指そう！＞</color>\nブロックをクリアすると\nクリアタイムに応じて\n各種クリアタイム報酬が手に入ります。\nブロックをできるだけ早くクリアして\nゴールド報酬を目指しましょう！",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60><Aim For Block Clear Time Rewards!></color>\nWhen you clear a block, the rewards you get vary\ndepending on your clear time. Clear blocks as fast\nas you can and aim for the Gold Time rewards!"
 	},
 	{
 		"assign": "0239",
@@ -1207,7 +1203,7 @@
 	{
 		"assign": "0241",
 		"jp_text": "<color=#f0df60>＜ボスのいるパネルを探せ！＞</color>\nこのブロックでは\nどこかにボスのいるパネルがあります。\nボスバトルをクリアして、確実に鍵を入手しましょう！",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60><Find The Boss Panel!></color>\nIn this block, there is a panel with a boss somewhere.\nClear the boss battle and secure the key!"
 	},
 	{
 		"assign": "0242",
