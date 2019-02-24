@@ -3533,6 +3533,8 @@
 		"tr_text": "Gas Mask B",
 		"jp_explain": "使用すると、新しいアクセサリーの\nガスマスクＢが選択可能。",
 		"tr_explain": "Desbloquea el accesorio\n\"Gas Mask B\"\npara usar en el Estilista."
+	},
+	{
 		"assign": "380527",
 		"tr_text": "Metal Wings",
 		"jp_explain": "使用すると、新しいアクセサリーの\nメタルウィングが選択可能。",
