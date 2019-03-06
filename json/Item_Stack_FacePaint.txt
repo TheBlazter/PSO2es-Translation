@@ -1496,5 +1496,19 @@
 		"tr_text": "Balanced Makeup",
 		"jp_explain": "チケットを使用すると、新しいメイクの\nメリハリメイクが選択可能。",
 		"tr_explain": "Desbloquea el maquillaje\n\"Balanced Makeup\"\npara usar en el Estilista."
+	},
+	{
+		"assign": "3250235",
+		"jp_text": "スミスメイクＢ",
+		"tr_text": "Smith Makeup B",
+		"jp_explain": "チケットを使用すると、新しいメイクの\nスミスメイクＢが選択可能。",
+		"tr_explain": "Desbloquea el maquillaje\n\"Smith Makeup B\"\npara usar en el Estilista."
+	},
+	{
+		"assign": "3250236",
+		"jp_text": "カブキケショウＢ",
+		"tr_text": "Kabuki Makeup B",
+		"jp_explain": "チケットを使用すると、新しいメイクの\nカブキケショウＢが選択可能。",
+		"tr_explain": "Desbloquea el maquillaje\n\"Kabuki Makeup B\"\npara usar en el Estilista."
 	}
 ]

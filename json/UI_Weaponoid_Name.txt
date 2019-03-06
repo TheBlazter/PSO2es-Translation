@@ -1346,7 +1346,7 @@
 	},
 	{
 		"assign": "91004",
-		"jp_text": "7422",
+		"jp_text": "ジョーゼフ[ＴＣＧ]",
 		"tr_text": ""
 	},
 	{
@@ -1401,67 +1401,72 @@
 	},
 	{
 		"assign": "264",
-		"jp_text": "7447",
-		"tr_text": ""
+		"jp_text": "スキアブレード",
+		"tr_text": "Skia Blade"
 	},
 	{
 		"assign": "90023",
-		"jp_text": "7449",
-		"tr_text": ""
+		"jp_text": "ブルーノ[ホワイトデー]",
+		"tr_text": "Bruno [White Day]"
 	},
 	{
 		"assign": "259",
-		"jp_text": "7451",
-		"tr_text": ""
+		"jp_text": "イミディエイトフェザー",
+		"tr_text": "Immediate Feather"
 	},
 	{
 		"assign": "91075",
-		"jp_text": "7455",
-		"tr_text": ""
+		"jp_text": "双子の情報屋 ティア[ＴＣＧ]",
+		"tr_text": "Information Broker Twin Tea [TCG]"
 	},
 	{
 		"assign": "279",
-		"jp_text": "7457",
-		"tr_text": ""
+		"jp_text": "アステユニコン",
+		"tr_text": "Aste Unicorn"
 	},
 	{
 		"assign": "265",
-		"jp_text": "7459",
-		"tr_text": ""
+		"jp_text": "ダブル＝カノン",
+		"tr_text": "Double Cannon"
 	},
 	{
 		"assign": "91050",
-		"jp_text": "7462",
-		"tr_text": ""
+		"jp_text": "ヒューイ[ＴＣＧ]",
+		"tr_text": "Huey [TCG]"
 	},
 	{
 		"assign": "269",
-		"jp_text": "7464",
-		"tr_text": ""
+		"jp_text": "ゼッシュウ",
+		"tr_text": "Zeshuu"
 	},
 	{
 		"assign": "295",
-		"jp_text": "7472",
-		"tr_text": ""
+		"jp_text": "スカルシュクター",
+		"tr_text": "Skull Schecter"
 	},
 	{
 		"assign": "91076",
-		"jp_text": "7474",
-		"tr_text": ""
+		"jp_text": "船上の歌姫 クーナ[ＴＣＧ]",
+		"tr_text": "Ship's Idol Quna [TCG]"
 	},
 	{
 		"assign": "178",
-		"jp_text": "7476",
-		"tr_text": ""
+		"jp_text": "バイオスローク",
+		"tr_text": "Bio Sloque"
 	},
 	{
 		"assign": "91025",
-		"jp_text": "7478",
-		"tr_text": ""
+		"jp_text": "フーリエ[ＴＣＧ]",
+		"tr_text": "Fourier [TCG]"
 	},
 	{
 		"assign": "180",
-		"jp_text": "7480",
-		"tr_text": ""
+		"jp_text": "バイオゼクト",
+		"tr_text": "Bio Zect"
+	},
+	{
+		"assign": "90029",
+		"jp_text": "ダークニクス アフタル",
+		"tr_text": "Darknix Akhtar"
 	}
 ]

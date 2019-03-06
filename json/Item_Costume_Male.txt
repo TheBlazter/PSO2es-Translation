@@ -1502,7 +1502,7 @@
 		"jp_text": "サマー・ラッピースーツ",
 		"tr_text": "Summer Rappy Suit",
 		"jp_explain": "ふわふわでかわいいラッピーの姿に\n虜になったメンバーが作り上げた服。\n充実した夏に向けて、完全装備済み。",
-		"tr_explain": ""
+		"tr_explain": "A costume made by someone who\nwas obssessed with Rappies. Comes\nfully kitted-out for summer."
 	},
 	{
 		"assign": "210247",
@@ -9356,6 +9356,55 @@
 		"jp_text": "ノーブルロングコート冬",
 		"tr_text": "Noble Long Coat Winter",
 		"jp_explain": "上質な生地で作られた服装。\nシックで上品なデザインが\nスマートな印象を与えてくれる。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2101539",
+		"jp_text": "リーンスーツ",
+		"tr_text": "",
+		"jp_explain": "リリーパ族に警戒されないように\n彼らを模して作られた着ぐるみの\nリーンタイプ。巻いた前髪がポイント。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2101540",
+		"jp_text": "八神庵・レプカ",
+		"tr_text": "Iori Yagami Repca",
+		"jp_explain": "八神流古武術の使い手で、草薙京の\nライバル、八神庵の服装を模した衣装。\n背中に描かれた「月輪」が特徴的。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2101541",
+		"jp_text": "八神庵・レプカ栗",
+		"tr_text": "Iori Yagami Repca Chestnut",
+		"jp_explain": "八神流古武術の使い手で、草薙京の\nライバル、八神庵の服装を模した衣装。\n背中に描かれた「月輪」が特徴的。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2101542",
+		"jp_text": "八神庵・レプカ雅",
+		"tr_text": "Iori Yagami Repca Elegant",
+		"jp_explain": "八神流古武術の使い手で、草薙京の\nライバル、八神庵の服装を模した衣装。\n背中に描かれた「月輪」が特徴的。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2101543",
+		"jp_text": "八神庵・レプカ夜",
+		"tr_text": "Iori Yagami Repca Night",
+		"jp_explain": "八神流古武術の使い手で、草薙京の\nライバル、八神庵の服装を模した衣装。\n背中に描かれた「月輪」が特徴的。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2101544",
+		"jp_text": "八神庵・レプカ雪",
+		"tr_text": "Iori Yagami Repca Snow",
+		"jp_explain": "八神流古武術の使い手で、草薙京の\nライバル、八神庵の服装を模した衣装。\n背中に描かれた「月輪」が特徴的。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2101545",
+		"jp_text": "八神庵・レプカ影",
+		"tr_text": "Iori Yagami Repca Shadow",
+		"jp_explain": "八神流古武術の使い手で、草薙京の\nライバル、八神庵の服装を模した衣装。\n背中に描かれた「月輪」が特徴的。",
 		"tr_explain": ""
 	}
 ]

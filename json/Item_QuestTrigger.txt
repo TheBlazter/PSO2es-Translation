@@ -345,15 +345,22 @@
 	{
 		"assign": "373052",
 		"jp_text": "惨劇を招く破滅トリガー",
-		"tr_text": "Tragic Trigger",
+		"tr_text": "T. Mision: Tragic",
 		"jp_explain": "惨劇を招く破滅の虚影を\nクエストカウンターから発生させる。\n<yellow>※消費後はいかなる理由においても\n本アイテムは返却されません。<c>",
 		"tr_explain": "[The Specter of Tragedy]\npodra elegirse en las Misiones.\n<yellow>※Este objeto no sera regresado\ndespues de su consumo.<c>"
 	},
 	{
 		"assign": "373053",
 		"jp_text": "チョコレート２０１９トリガー",
-		"tr_text": "Chocolate 2019 Trigger",
+		"tr_text": "T. Mision: Chocolate 2019",
 		"jp_explain": "チョコレートの行方２０１９を\nクエストカウンターから発生させる。\n<yellow>※消費後はいかなる理由においても\n本アイテムは返却されません。<c>",
 		"tr_explain": "[The Chocolate Way 2019]\npodra elegirse en las Misiones.\n<yellow>※Este objeto no sera regresado\ndespues de su consumo.<c>"
+	},
+	{
+		"assign": "373054",
+		"jp_text": "ホワイトデー２０１９トリガー",
+		"tr_text": "T. Mision: White Day 2019",
+		"jp_explain": "ホワイトデーは大わらわ２０１９を\nクエストカウンターから発生させる。\n<yellow>※消費後はいかなる理由においても\n本アイテムは返却されません。<c>",
+		"tr_explain": "[A Boisterous White Day 2019]\npodra elegirse en las Misiones.\n<yellow>※Este objeto no sera regresado\ndespues de su consumo.<c>"
 	}
 ]
