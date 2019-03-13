@@ -89,7 +89,7 @@
 		"tr_text": "Down Device / R-DEF",
 		"jp_explain": "エネルギーが満タンでも食べてしまう\nマグまっしぐらの成長調整フード。\n射撃防御支援能力が著しく低下する。",
 		"tr_explain": "Un inhibidor de crecimiento para\nel mag, aunque su energia esta llena.\nReduce el nivel de R-DEF."
-	
+	},
 	{
 		"assign": "314013",
 		"jp_text": "ダウンデバイス／法撃防御",
