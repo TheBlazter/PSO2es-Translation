@@ -3536,6 +3536,7 @@
 	},
 	{
 		"assign": "380527",
+		"jp_text": "メタルウィング",
 		"tr_text": "Metal Wings",
 		"jp_explain": "使用すると、新しいアクセサリーの\nメタルウィングが選択可能。",
 		"tr_explain": "Desbloquea el accesorio\n\"Metal Wings\"\npara usar en el Estilista."
@@ -12566,23 +12567,23 @@
 	{
 		"assign": "3801909",
 		"jp_text": "清雅学園制服リボン　青",
-		"tr_text": "Seiga Ac. Uniform Ribbon",
+		"tr_text": "Seiga Academy Uniform Ribbon",
 		"jp_explain": "使用すると、新しいアクセサリーの\n清雅学園制服リボン　青が選択可能。",
-		"tr_explain": "Desbloquea el accesorio\n\"Seiga Ac. Uniform Ribbon\"\npara usar en el Estilista."
+		"tr_explain": "Desbloquea el accesorio\n\"Seiga Academy Uniform Ribbon\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3801910",
 		"jp_text": "清雅学園制服リボン　赤",
-		"tr_text": "Red Seiga Ac. Ribbon",
+		"tr_text": "Red Seiga Academy Ribbon",
 		"jp_explain": "使用すると、新しいアクセサリーの\n清雅学園制服リボン　赤が選択可能。",
-		"tr_explain": "Desbloquea el accesorio\n\"Red Seiga Ac. Ribbon\"\npara usar en el Estilista."
+		"tr_explain": "Desbloquea el accesorio\n\"Red Seiga Academy Ribbon\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3801911",
 		"jp_text": "清雅学園制服リボン　緑",
-		"tr_text": "Green Seiga Ac. Ribbon",
+		"tr_text": "Green Seiga Academy Ribbon",
 		"jp_explain": "使用すると、新しいアクセサリーの\n清雅学園制服リボン　緑が選択可能。",
-		"tr_explain": "Desbloquea el accesorio\n\"Green Seiga Ac. Ribbon\"\npara usar en el Estilista."
+		"tr_explain": "Desbloquea el accesorio\n\"Green Seiga Academy Ribbon\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3801912",
@@ -13525,16 +13526,16 @@
 	{
 		"assign": "3802068",
 		"jp_text": "清雅学園制服ネクタイ　緑",
-		"tr_text": "Green Seiga Ac. Tie",
+		"tr_text": "Green Seiga Academy Tie",
 		"jp_explain": "使用すると、新しいアクセサリーの\n清雅学園制服ネクタイ　緑が選択可能。",
-		"tr_explain": "Desbloquea el accesorio\n\"Green Seiga Ac. Tie\"\npara usar en el Estilista."
+		"tr_explain": "Desbloquea el accesorio\n\"Green Seiga Academy Tie\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3802069",
 		"jp_text": "清雅学園制服ネクタイ　赤",
-		"tr_text": "Red Seiga Ac. Tie",
+		"tr_text": "Red Seiga Academy Tie",
 		"jp_explain": "使用すると、新しいアクセサリーの\n清雅学園制服ネクタイ　赤が選択可能。",
-		"tr_explain": "Desbloquea el accesorio\n\"Red Seiga Ac. Tie\"\npara usar en el Estilista."
+		"tr_explain": "Desbloquea el accesorio\n\"Red Seiga Academy Tie\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3802071",
@@ -21967,16 +21968,16 @@
 	{
 		"assign": "3803381",
 		"jp_text": "少女ハリエットの帽子",
-		"tr_text": "Young Harriet Hat",
+		"tr_text": "Young Harriet's Hat",
 		"jp_explain": "使用すると、新しいアクセサリーの\n少女ハリエットの帽子が選択可能。",
-		"tr_explain": "Desbloquea el accesorio\n\"Young Harriet Hat\"\npara usar en el Estilista."
+		"tr_explain": "Desbloquea el accesorio\n\"Young Harriet's Hat\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3803382",
 		"jp_text": "ハリエットの帽子",
-		"tr_text": "Harriet Hat",
+		"tr_text": "Harriet's Hat",
 		"jp_explain": "使用すると、新しいアクセサリーの\nハリエットの帽子が選択可能。",
-		"tr_explain": "Desbloquea el accesorio\n\"Harriet Hat\"\npara usar en el Estilista."
+		"tr_explain": "Desbloquea el accesorio\n\"Harriet's Hat\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3803383",
@@ -21988,9 +21989,9 @@
 	{
 		"assign": "3803384",
 		"jp_text": "ショルダージェット",
-		"tr_text": "Shoulder Jets",
+		"tr_text": "Shoulder Jet",
 		"jp_explain": "使用すると、新しいアクセサリーの\nショルダージェットが選択可能。",
-		"tr_explain": "Desbloquea el accesorio\n\"Shoulder Jets\"\npara usar en el Estilista."
+		"tr_explain": "Desbloquea el accesorio\n\"Shoulder Jet\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3803385",
@@ -22093,9 +22094,9 @@
 	{
 		"assign": "3803399",
 		"jp_text": "肩乗せインコ",
-		"tr_text": "Perched Parakeet",
+		"tr_text": "Shoulder Riding Parakeet",
 		"jp_explain": "使用すると、新しいアクセサリーの\n肩乗せインコが選択可能。",
-		"tr_explain": "Desbloquea el accesorio\n\"Perched Parakeet\"\npara usar en el Estilista."
+		"tr_explain": "Desbloquea el accesorio\n\"Shoulder Riding Parakeet\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3803403",
@@ -22205,51 +22206,51 @@
 	{
 		"assign": "3803418",
 		"jp_text": "ダークネスウィング",
-		"tr_text": "Darkness Wings",
+		"tr_text": "Darkness Wing",
 		"jp_explain": "使用すると、新しいアクセサリーの\nダークネスウィングが選択可能。",
-		"tr_explain": "Desbloquea el accesorio\n\"Darkness Wings\"\npara usar en el Estilista."
+		"tr_explain": "Desbloquea el accesorio\n\"Darkness Wing\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3803419",
 		"jp_text": "ダークネスウィング赤",
-		"tr_text": "Red Darkness Wings",
+		"tr_text": "Darkness Wing Red",
 		"jp_explain": "使用すると、新しいアクセサリーの\nダークネスウィング赤が選択可能。",
-		"tr_explain": "Desbloquea el accesorio\n\"Red Darkness Wings\"\npara usar en el Estilista."
+		"tr_explain": "Desbloquea el accesorio\n\"Darkness Wing Red\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3803420",
 		"jp_text": "ダークネスウィング青",
-		"tr_text": "Blue Darkness Wings",
+		"tr_text": "Darkness Wing Blue",
 		"jp_explain": "使用すると、新しいアクセサリーの\nダークネスウィング青が選択可能。",
-		"tr_explain": "Desbloquea el accesorio\n\"Blue Darkness Wings\"\npara usar en el Estilista."
+		"tr_explain": "Desbloquea el accesorio\n\"Darkness Wing Blue\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3803421",
 		"jp_text": "ダークネスウィング紫",
-		"tr_text": "Purple Darkness Wings",
+		"tr_text": "Darkness Wing Purple",
 		"jp_explain": "使用すると、新しいアクセサリーの\nダークネスウィング紫が選択可能。",
-		"tr_explain": "Desbloquea el accesorio\n\"Purple Darkness Wings\"\npara usar en el Estilista."
+		"tr_explain": "Desbloquea el accesorio\n\"Darkness Wing Purple\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3803422",
 		"jp_text": "レッグアーミーベルト黒",
-		"tr_text": "Black Leg Army Belt",
+		"tr_text": "Black Army Leg Belt",
 		"jp_explain": "使用すると、新しいアクセサリーの\nレッグアーミーベルト黒が選択可能。",
-		"tr_explain": "Desbloquea el accesorio\n\"Black Leg Army Belt\"\npara usar en el Estilista."
+		"tr_explain": "Desbloquea el accesorio\n\"Black Army Leg Belt\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3803423",
 		"jp_text": "レッグアーミーベルト緑",
-		"tr_text": "Green Leg Army Belt",
+		"tr_text": "Green Army Leg Belt",
 		"jp_explain": "使用すると、新しいアクセサリーの\nレッグアーミーベルト緑が選択可能。",
-		"tr_explain": "Desbloquea el accesorio\n\"Green Leg Army Belt\"\npara usar en el Estilista."
+		"tr_explain": "Desbloquea el accesorio\n\"Green Army Leg Belt\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3803424",
 		"jp_text": "レッグアーミーベルト茶",
-		"tr_text": "Brown Leg Army Belt",
+		"tr_text": "Brown Army Leg Belt",
 		"jp_explain": "使用すると、新しいアクセサリーの\nレッグアーミーベルト茶が選択可能。",
-		"tr_explain": "Desbloquea el accesorio\n\"Brown Leg Army Belt\"\npara usar en el Estilista."
+		"tr_explain": "Desbloquea el accesorio\n\"Brown Army Leg Belt\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3803425",
@@ -22261,16 +22262,16 @@
 	{
 		"assign": "3803426",
 		"jp_text": "背負い蒸気機関　金",
-		"tr_text": "Gold Rear Steam Engine",
+		"tr_text": "Gold Back-Mounted Engine",
 		"jp_explain": "使用すると、新しいアクセサリーの\n背負い蒸気機関　金が選択可能。",
-		"tr_explain": "Desbloquea el accesorio\n\"Gold Rear Steam Engine\"\npara usar en el Estilista."
+		"tr_explain": "Desbloquea el accesorio\n\"Gold Back-Mounted Engine\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3803427",
 		"jp_text": "背負い蒸気機関　黒",
-		"tr_text": "Black Rear Steam Engine",
+		"tr_text": "Silver Back-Mounted Engine",
 		"jp_explain": "使用すると、新しいアクセサリーの\n背負い蒸気機関　黒が選択可能。",
-		"tr_explain": "Desbloquea el accesorio\n\"Black Rear Steam Engine\"\npara usar en el Estilista."
+		"tr_explain": "Desbloquea el accesorio\n\"Silver Back-Mounted Engine\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3803428",
@@ -22842,16 +22843,16 @@
 	{
 		"assign": "3803536",
 		"jp_text": "サブアームソードＬ",
-		"tr_text": "Sub-Arm Sword L",
+		"tr_text": "Sub Arm Sword L",
 		"jp_explain": "使用すると、新しいアクセサリーの\nサブアームソードＬが選択可能。",
-		"tr_explain": "Desbloquea el accesorio\n\"Sub-Arm Sword L\"\npara usar en el Estilista."
+		"tr_explain": "Desbloquea el accesorio\n\"Sub Arm Sword L\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3803537",
 		"jp_text": "サブアームソードＲ",
-		"tr_text": "Sub-Arm Sword R",
+		"tr_text": "Sub Arm Sword R",
 		"jp_explain": "使用すると、新しいアクセサリーの\nサブアームソードＲが選択可能。",
-		"tr_explain": "Desbloquea el accesorio\n\"Sub-Arm Sword R\"\npara usar en el Estilista."
+		"tr_explain": "Desbloquea el accesorio\n\"Sub Arm Sword R\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3803538",
@@ -25609,7 +25610,7 @@
 		"jp_text": "花飾りポニーエクステ　青",
 		"tr_text": "Flowery Pony Extension Blue",
 		"jp_explain": "使用すると、新しいアクセサリーの\n花飾りポニーエクステ　青が選択可能。",
-		"tr_explain": "Desbloquea el accesorio\n\"Flowery Pony Extension Peach\"\npara usar en el Estilista."
+		"tr_explain": "Desbloquea el accesorio\n\"Flowery Pony Extension Blue\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3804005",
