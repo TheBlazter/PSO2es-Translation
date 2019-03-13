@@ -477,32 +477,32 @@
 	{
 		"assign": "No00310",
 		"jp_text": "アークス研修生男制服",
-		"tr_text": "ARKS Trainee M"
+		"tr_text": "ARKS Trainee Male Uniform"
 	},
 	{
 		"assign": "No00311",
 		"jp_text": "アークス研修生男制服　紅",
-		"tr_text": "ARKS Trainee M Crimson"
+		"tr_text": "ARKS Trainee Male Uniform Crimson"
 	},
 	{
 		"assign": "No00312",
 		"jp_text": "アークス研修生男制服　夜",
-		"tr_text": "ARKS Trainee M Night"
+		"tr_text": "ARKS Trainee Male Uniform Night"
 	},
 	{
 		"assign": "No00313",
 		"jp_text": "アークス研修生男制服　葉",
-		"tr_text": "ARKS Trainee M Leaf"
+		"tr_text": "ARKS Trainee Male Uniform Leaf"
 	},
 	{
 		"assign": "No00314",
 		"jp_text": "アークス研修生男制服　雅",
-		"tr_text": "ARKS Trainee M Elegance"
+		"tr_text": "ARKS Trainee Male Uniform Elegance"
 	},
 	{
 		"assign": "No00315",
 		"jp_text": "アークス研修生男制服　影",
-		"tr_text": "ARKS Trainee M Shadow"
+		"tr_text": "ARKS Trainee Male Uniform Shadow"
 	},
 	{
 		"assign": "No00190",
@@ -1542,32 +1542,32 @@
 	{
 		"assign": "No00660",
 		"jp_text": "アークスジャージーＭ",
-		"tr_text": "ARKS Polo M"
+		"tr_text": "ARKS Jersey M"
 	},
 	{
 		"assign": "No00661",
 		"jp_text": "アークスジャージーＭ影",
-		"tr_text": "ARKS Polo M Shadow"
+		"tr_text": "ARKS Jersey M Shadow"
 	},
 	{
 		"assign": "No00662",
 		"jp_text": "アークスジャージーＭ雪",
-		"tr_text": "ARKS Polo M Snow"
+		"tr_text": "ARKS Jersey M Snow"
 	},
 	{
 		"assign": "No00663",
 		"jp_text": "アークスジャージーＭ雅",
-		"tr_text": "ARKS Polo M Elegance"
+		"tr_text": "ARKS Jersey M Elegance"
 	},
 	{
 		"assign": "No00664",
 		"jp_text": "アークスジャージーＭ紅",
-		"tr_text": "ARKS Polo M Crimson"
+		"tr_text": "ARKS Jersey M Crimson"
 	},
 	{
 		"assign": "No00665",
 		"jp_text": "アークスジャージーＭ葉",
-		"tr_text": "ARKS Polo M Leaf"
+		"tr_text": "ARKS Jersey M Leaf"
 	},
 	{
 		"assign": "No00680",
@@ -2667,7 +2667,7 @@
 	{
 		"assign": "No01630",
 		"jp_text": "第一高校二科生男子制服",
-		"tr_text": "First HS Course 2 M"
+		"tr_text": "First High School Course 2 Male Uniform"
 	},
 	{
 		"assign": "No01570",
@@ -2912,42 +2912,42 @@
 	{
 		"assign": "No01958",
 		"jp_text": "星濱学園男子制服Ｃ",
-		"tr_text": "Star Coast Ac. M Uniform C"
+		"tr_text": "Star Coast Academy M Uniform C"
 	},
 	{
 		"assign": "No01800",
 		"jp_text": "穂群原学園男子制服",
-		"tr_text": "Men's Homurahara Ac. Uniform"
+		"tr_text": "Men's Homurahara Academy Uniform"
 	},
 	{
 		"assign": "No01770",
 		"jp_text": "アークス長ジャージーＭ",
-		"tr_text": "ARKS Long Polo M"
+		"tr_text": "ARKS Long Jersey M"
 	},
 	{
 		"assign": "No01771",
 		"jp_text": "アークス長ジャージーＭ影",
-		"tr_text": "ARKS Long Polo M Shadow"
+		"tr_text": "ARKS Long Jersey M Shadow"
 	},
 	{
 		"assign": "No01772",
 		"jp_text": "アークス長ジャージーＭ雪",
-		"tr_text": "ARKS Long Polo M Snow"
+		"tr_text": "ARKS Long Jersey M Snow"
 	},
 	{
 		"assign": "No01773",
 		"jp_text": "アークス長ジャージーＭ雅",
-		"tr_text": "ARKS Long Polo M Elegance"
+		"tr_text": "ARKS Long Jersey M Elegance"
 	},
 	{
 		"assign": "No01774",
 		"jp_text": "アークス長ジャージーＭ紅",
-		"tr_text": "ARKS Long Polo M Crimson"
+		"tr_text": "ARKS Long Jersey M Crimson"
 	},
 	{
 		"assign": "No01775",
 		"jp_text": "アークス長ジャージーＭ葉",
-		"tr_text": "ARKS Long Polo M Leaf"
+		"tr_text": "ARKS Long Jersey M Leaf"
 	},
 	{
 		"assign": "No02010",
@@ -6542,7 +6542,7 @@
 	{
 		"assign": "No04250",
 		"jp_text": "アークス長ジャージーＭ玄",
-		"tr_text": "ARKS Long Polo M Mysterious"
+		"tr_text": "ARKS Long Jersey M Mysterious"
 	},
 	{
 		"assign": "No04230",
@@ -11292,32 +11292,32 @@
 	{
 		"assign": "No10980",
 		"jp_text": "アークスジャージーＦ",
-		"tr_text": "ARKS Polo F"
+		"tr_text": "ARKS Jersey F"
 	},
 	{
 		"assign": "No10981",
 		"jp_text": "アークスジャージーＦ夜",
-		"tr_text": "ARKS Polo F Night"
+		"tr_text": "ARKS Jersey F Night"
 	},
 	{
 		"assign": "No10982",
 		"jp_text": "アークスジャージーＦ葉",
-		"tr_text": "ARKS Polo F Leaf"
+		"tr_text": "ARKS Jersey F Leaf"
 	},
 	{
 		"assign": "No10983",
 		"jp_text": "アークスジャージーＦ紅",
-		"tr_text": "ARKS Polo F Crimson"
+		"tr_text": "ARKS Jersey F Crimson"
 	},
 	{
 		"assign": "No10984",
 		"jp_text": "アークスジャージーＦ影",
-		"tr_text": "ARKS Polo F Shadow"
+		"tr_text": "ARKS Jersey F Shadow"
 	},
 	{
 		"assign": "No10985",
 		"jp_text": "アークスジャージーＦ雪",
-		"tr_text": "ARKS Polo F Snow"
+		"tr_text": "ARKS Jersey F Snow"
 	},
 	{
 		"assign": "No10990",
@@ -13112,12 +13112,12 @@
 	{
 		"assign": "No12100",
 		"jp_text": "第一高校一科生女子制服",
-		"tr_text": "First HS Course 1 F"
+		"tr_text": "First High School Course 1 F"
 	},
 	{
 		"assign": "No12110",
 		"jp_text": "第一高校一科生女子制服Ｂ",
-		"tr_text": "First HS Course 1 F B"
+		"tr_text": "First High School Course 1 Female Uniform B"
 	},
 	{
 		"assign": "No12260",
@@ -13597,7 +13597,7 @@
 	{
 		"assign": "No12758",
 		"jp_text": "星濱学園女子制服Ｃ",
-		"tr_text": "Star Coast Ac. F Uniform C"
+		"tr_text": "Star Coast Academy F Uniform C"
 	},
 	{
 		"assign": "No12580",
@@ -13607,32 +13607,32 @@
 	{
 		"assign": "No12460",
 		"jp_text": "アークス長ジャージーＦ",
-		"tr_text": "ARKS Long Polo F"
+		"tr_text": "ARKS Long Jersey F"
 	},
 	{
 		"assign": "No12461",
 		"jp_text": "アークス長ジャージーＦ夜",
-		"tr_text": "ARKS Long Polo F Night"
+		"tr_text": "ARKS Long Jersey F Night"
 	},
 	{
 		"assign": "No12462",
 		"jp_text": "アークス長ジャージーＦ葉",
-		"tr_text": "ARKS Long Polo F Leaf"
+		"tr_text": "ARKS Long Jersey F Leaf"
 	},
 	{
 		"assign": "No12463",
 		"jp_text": "アークス長ジャージーＦ紅",
-		"tr_text": "ARKS Long Polo F Crimson"
+		"tr_text": "ARKS Long Jersey F Crimson"
 	},
 	{
 		"assign": "No12464",
 		"jp_text": "アークス長ジャージーＦ影",
-		"tr_text": "ARKS Long Polo F Shadow"
+		"tr_text": "ARKS Long Jersey F Shadow"
 	},
 	{
 		"assign": "No12465",
 		"jp_text": "アークス長ジャージーＦ雪",
-		"tr_text": "ARKS Long Polo F Snow"
+		"tr_text": "ARKS Long Jersey F Snow"
 	},
 	{
 		"assign": "No12320",
@@ -14172,7 +14172,7 @@
 	{
 		"assign": "No12900",
 		"jp_text": "星濱学園女子制服",
-		"tr_text": "Star Coast Ac. F"
+		"tr_text": "Star Coast Academy F"
 	},
 	{
 		"assign": "No12910",
@@ -15327,7 +15327,7 @@
 	{
 		"assign": "No13330",
 		"jp_text": "穂群原学園女子制服Ｂ",
-		"tr_text": "Homurahara Ac. F Uniform B"
+		"tr_text": "Homurahara Academy F Uniform B"
 	},
 	{
 		"assign": "No13340",
@@ -16942,7 +16942,7 @@
 	{
 		"assign": "No14490",
 		"jp_text": "武偵高校アリア制服",
-		"tr_text": "Aria's Butei HS Uniform"
+		"tr_text": "Aria's Butei High School Uniform"
 	},
 	{
 		"assign": "No14491",
@@ -16957,7 +16957,7 @@
 	{
 		"assign": "No14720",
 		"jp_text": "武偵高校あかり制服",
-		"tr_text": "Akari's Butei HS Uniform"
+		"tr_text": "Akari's Butei High School Uniform"
 	},
 	{
 		"assign": "No14721",
@@ -18972,22 +18972,22 @@
 	{
 		"assign": "No15730",
 		"jp_text": "秀尽学園杏制服",
-		"tr_text": "Ann's Shujin Ac. Uniform"
+		"tr_text": "Ann's Shujin Academy Uniform"
 	},
 	{
 		"assign": "No15940",
 		"jp_text": "秀尽学園杏制服　雪",
-		"tr_text": "Ann's Shujin Ac. Uniform Snow"
+		"tr_text": "Ann's Shujin Academy Uniform Snow"
 	},
 	{
 		"assign": "No15941",
 		"jp_text": "秀尽学園杏制服　紅",
-		"tr_text": "Ann's Shujin Ac. Uniform Red"
+		"tr_text": "Ann's Shujin Academy Uniform Red"
 	},
 	{
 		"assign": "No15942",
 		"jp_text": "秀尽学園杏制服　夜",
-		"tr_text": "Ann's Shujin Ac. Uniform Night"
+		"tr_text": "Ann's Shujin Academy Uniform Night"
 	},
 	{
 		"assign": "No15840",
@@ -19867,7 +19867,7 @@
 	{
 		"assign": "No16540",
 		"jp_text": "アークス長ジャージーＦ玄",
-		"tr_text": "ARKS Long Polo F Mysterious"
+		"tr_text": "ARKS Long Jersey F Mysterious"
 	},
 	{
 		"assign": "No16220",
