@@ -4,28 +4,28 @@
 		"jp_explainShort": "ＨＰが劇的回復",
 		"tr_explainShort": "Dramatic HP recovery",
 		"jp_explainLong": "① ＨＰを劇的に回復する。\n[発動条件]バトル終了時",
-		"tr_explainLong": "Recupera HP dramaticamente\ndespues de cada batalla."
+		"tr_explainLong": "① Dramatically recovers HP.\n[Activation Trigger] End of battle"
 	},
 	{
 		"assign": "720",
 		"jp_explainShort": "ＨＰが劇的回復",
 		"tr_explainShort": "Dramatic HP recovery",
 		"jp_explainLong": "① ＨＰを劇的に回復する。\n[発動条件]バトル終了時",
-		"tr_explainLong": "Recupera HP dramaticamente\ndespues de cada batalla."
+		"tr_explainLong": "① Dramatically recovers HP.\n[Activation Trigger] End of battle"
 	},
 	{
 		"assign": "810",
 		"jp_explainShort": "攻撃力が大強化",
 		"tr_explainShort": "ATK increased",
 		"jp_explainLong": "① 攻撃力を大きく強化する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "JAs activa un efecto que otorga un\nATK Boost por un periodo de tiempo."
+		"tr_explainLong": "① Greatly increases ATK.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "820",
 		"jp_explainShort": "攻撃力が大強化",
 		"tr_explainShort": "ATK increased",
 		"jp_explainLong": "① 攻撃力を大きく強化する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "JAs activa un efecto que otorga un\nATK Boost por un periodo de tiempo."
+		"tr_explainLong": "① Greatly increases ATK.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "1010",
@@ -46,28 +46,28 @@
 		"jp_explainShort": "チップのＣＰ消費量が減少",
 		"tr_explainShort": "CP consumption decreased",
 		"jp_explainLong": "① 消費ＣＰを減少する。\n[発動条件]アクティブチップ発動時",
-		"tr_explainLong": "Reduce el consumo\nde CP de los chips que activas."
+		"tr_explainLong": "① Decreases CP consumption.\n[Activation Trigger] Activating an Active Chip"
 	},
 	{
 		"assign": "1220",
 		"jp_explainShort": "チップのＣＰ消費量が大減少",
 		"tr_explainShort": "CP consumption decreased",
 		"jp_explainLong": "① 消費ＣＰを減少する。\n[発動条件]アクティブチップ発動時",
-		"tr_explainLong": "Reduce enormemente el consumo\nde CP de los chips que activas."
+		"tr_explainLong": "① Decreases CP consumption.\n[Activation Trigger] Activating an Active Chip"
 	},
 	{
 		"assign": "1410",
 		"jp_explainShort": "ＨＰ１で耐えることがある",
 		"tr_explainShort": "Survive with 1 HP",
 		"jp_explainLong": "① ＨＰ１で耐えることがある。\n[発動条件]戦闘不能になるダメージを受けた時",
-		"tr_explainLong": "Otorga una oportunidad de soportar el daйo\nletal que de otro modo te incapacitaria,\ndejandote con 1 HP."
+		"tr_explainLong": "① Allows you to survive with 1 HP.\n[Activation Trigger] Taking lethal damage"
 	},
 	{
 		"assign": "1420",
 		"jp_explainShort": "ＨＰ１で耐えることがある",
 		"tr_explainShort": "Survive with 1 HP",
 		"jp_explainLong": "① ＨＰ１で耐えることがある。\n[発動条件]戦闘不能になるダメージを受けた時",
-		"tr_explainLong": "Otorga una oportunidad de soportar el daйo\nletal que de otro modo te incapacitaria,\ndejandote con 1 HP."
+		"tr_explainLong": "① Allows you to survive with 1 HP.\n[Activation Trigger] Taking lethal damage"
 	},
 	{
 		"assign": "1630",
@@ -2818,14 +2818,14 @@
 		"jp_explainShort": "ダメージ軽減＋風弱点時ダメージ劇的増加",
 		"tr_explainShort": "Dam. resist + Wind weakness boosted",
 		"jp_explainLong": "① 攻撃対象の敵が風属性弱点の場合に\n　　 与えるダメージを劇的に増加する。\n② 敵から受けるダメージを軽減する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "JA activa un efecto que activa un efecto que reduce\nel daйo recibido de los enemigos y en gran medida\naumenta el ataque contra enemigos debiles al viento.\n<color=yellow>[D-Frame]</color>"
+		"tr_explainLong": "① Dramatically boosts damage against enemies\n    that are weak to Wind.\n    <color=yellow>[D-Frame]</color>\n② Reduces damage taken from enemies.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31466",
 		"jp_explainShort": "ダメージ軽減＋風弱点時ダメージ絶大増加",
 		"tr_explainShort": "Dam. resist + Wind weakness boosted",
 		"jp_explainLong": "① 攻撃対象の敵が風属性弱点の場合に\n　　 与えるダメージを絶大に増加する。\n② 敵から受けるダメージを軽減する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "JA activa un efecto que activa un efecto que reduce\nel daйo recibido de los enemigos y en gran medida\naumenta el ataque contra enemigos debiles al viento.\n<color=yellow>[D-Frame]</color>"
+		"tr_explainLong": "① Immensely boosts damage against enemies\n    that are weak to Wind.\n    <color=yellow>[D-Frame]</color>\n② Reduces damage taken from enemies.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31467",
@@ -3140,7 +3140,7 @@
 		"jp_explainShort": "追加ダメージ＋雷弱点時ダメージ劇的増加",
 		"tr_explainShort": "Add. dam. + Lightning weakness boosted",
 		"jp_explainLong": "① 攻撃対象の敵が雷属性弱点の場合に\n　　 与えるダメージを劇的に増加する。\n② 敵に追加でダメージを与える。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "JA activa un efecto donde los ataques infligen\ndaйo suplementario y aumentan drasticamente\nel daйo hacia los enemigos debiles a Lightning.\n<color=yellow>[Chase+D-Frame]</color>"
+		"tr_explainLong": "① Dramatically boosts damage against enemies\n    that are weak to Lightning.\n    <color=yellow>[D-Frame]</color>\n② Deals additional damage to enemies.\n    <color=yellow>[Chase]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] Medium"
 	},
 	{
 		"assign": "31530",

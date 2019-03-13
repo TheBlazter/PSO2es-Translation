@@ -2,7 +2,7 @@
 	{
 		"assign": "0",
 		"jp_text": "<color=black>皆様、『PSO2es』にようこそ！\r\nクローズドβテストに\r\nご協力いただきありがとうございます。\r\nまずは、私の自己紹介から……</color>",
-		"tr_text": "<color=black>Todos sean bienvenidos, a PSO2es!\nEsta es un Beta Test Cerrado.\nGracias por tu ayuda!\nPero primero, me presento...</color>"
+		"tr_text": "<color=black>Welcome everyone, to PSO2es!\nThis is the closed beta test.\nThank you for your help!\nBut first, let me introduce myself...</color>"
 	},
 	{
 		"assign": "1",
@@ -72,7 +72,7 @@
 	{
 		"assign": "14",
 		"jp_text": "<color=black>……どうやら、まだダウンロードに\r\n時間がかかっている模様です。\r\n皆様には長い時間お待たせさせてしまい\r\n大変申し訳ありません。</color>",
-		"tr_text": "<color=black>...Aparentemente, la descarga esta\ntomando bastante tiempo. Lo siento.</color>"
+		"tr_text": "<color=black>...Apparently, the download is\ntaking a long time. Sorry.</color>"
 	},
 	{
 		"assign": "15",
