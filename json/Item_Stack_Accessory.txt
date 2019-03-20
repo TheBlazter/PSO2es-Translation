@@ -25944,9 +25944,9 @@
 	{
 		"assign": "3804052",
 		"jp_text": "Ｖラッピーマント",
-		"tr_text": "",
+		"tr_text": "V-Rappy Mantle",
 		"jp_explain": "使用すると、新しいアクセサリーの\nＶラッピーマントが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Desbloquea el accesorio\n\"V-Rappy Mantle\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3804053",
