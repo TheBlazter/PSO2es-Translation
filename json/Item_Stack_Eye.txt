@@ -1306,6 +1306,6 @@
 		"jp_text": "アフタルアイ",
 		"tr_text": "Akhtar Eyes",
 		"jp_explain": "チケットを使用すると、新しい瞳の\nアフタルアイが選択可能。",
-		"tr_explain": "Unlocks the eyes\n\"Akhtar Eyes\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea los ojos\n\"Akhtar Eyes\"\npara usar en el Estilista."
 	}
 ]

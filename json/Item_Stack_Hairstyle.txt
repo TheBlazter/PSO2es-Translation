@@ -4897,41 +4897,41 @@
 		"jp_text": "刈上げベリーショート",
 		"tr_text": "Close-Cropped Very Short",
 		"jp_explain": "チケットを使用すると、新しい髪型の\n刈上げベリーショートが選択可能。",
-		"tr_explain": "Unlocks the hairstyle\n\"Close-Cropped Very Short\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el peinado\n\"Close-Cropped Very Short\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3150843",
 		"jp_text": "アフタルヘアー１",
 		"tr_text": "Akhtar Hair 1",
 		"jp_explain": "チケットを使用すると、新しい髪型の\nアフタルヘアー１が選択可能。",
-		"tr_explain": "Unlocks the hairstyle\n\"Akhtar Hair 1\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el peinado\n\"Akhtar Hair 1\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3150844",
 		"jp_text": "ドリーミィヘアー",
 		"tr_text": "Dreamy Hair",
 		"jp_explain": "チケットを使用すると、新しい髪型の\nドリーミィヘアーが選択可能。",
-		"tr_explain": "Unlocks the hairstyle\n\"Dreamy Hair\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el peinado\n\"Dreamy Hair\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3150845",
 		"jp_text": "ラヴリィヘアー",
 		"tr_text": "Lovely Hair",
 		"jp_explain": "チケットを使用すると、新しい髪型の\nラヴリィヘアーが選択可能。",
-		"tr_explain": "Unlocks the hairstyle\n\"Lovely Hair\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el peinado\n\"Lovely Hair\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3150846",
 		"jp_text": "コープスフードＢ",
 		"tr_text": "Corpse Hood B",
 		"jp_explain": "チケットを使用すると、新しい髪型の\nコープスフードＢが選択可能。",
-		"tr_explain": "Unlocks the hairstyle\n\"Corpse Hood B\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el peinado\n\"Corpse Hood B\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3150865",
 		"jp_text": "アフタルヘアー２",
 		"tr_text": "Akhtar Hair 2",
 		"jp_explain": "チケットを使用すると、新しい髪型の\nアフタルヘアー２が選択可能。",
-		"tr_explain": "Unlocks the hairstyle\n\"Akhtar Hair 2\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el peinado\n\"Akhtar Hair 2\"\npara usar en el Estilista."
 	}
 ]
