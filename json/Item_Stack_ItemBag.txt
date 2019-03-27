@@ -42879,14 +42879,14 @@
 		"jp_text": "☆タクティカルベスト箱３",
 		"tr_text": "☆Tactical Vest Box 3",
 		"jp_explain": "以下のアイテムを獲得する。\n「タクティカルベスト[Ou]」\n「タクティカルスーツ紅[Ba]」\n「タクティカルアンダー紅[In]」他一種",
-		"tr_explain": "Al usarlo recibiras:\n[Tactical Vest [Ou]]\n[Tactical Suit Crimson [Ba]]\n[Tactical Under Crimson [In]] +1 mas"
+		"tr_explain": "Al usarlo recibiras:\n[Tactical Vest [Ou]]\n[Tactical Suit Crimson [Ba]]\n[Tactical U. Crimson [In]] +1 mas"
 	},
 	{
 		"assign": "33006339",
 		"jp_text": "☆タクティカルベスト箱４",
 		"tr_text": "☆Tactical Vest Box 4",
 		"jp_explain": "以下のアイテムを獲得する。\n「タクティカルベスト[Ou]」\n「タクティカルスーツ栗[Ba]」\n「タクティカルアンダー栗[In]」他一種",
-		"tr_explain": "Al usarlo recibiras:\n[Tactical Vest [Ou]]\n[Tactical Suit Chestnut [Ba]]\n[Tactical Under Chestnut [In]] +1 mas"
+		"tr_explain": "Al usarlo recibiras:\n[Tactical Vest [Ou]]\n[Tactical Suit Chestnut [Ba]]\n[Tactical U. Chestnut [In]] +1 mas"
 	},
 	{
 		"assign": "33006340",
@@ -42900,7 +42900,7 @@
 		"jp_text": "☆タクティカルベスト箱６",
 		"tr_text": "☆Tactical Vest Box 6",
 		"jp_explain": "以下のアイテムを獲得する。\n「タクティカルベスト[Ou]」\n「タクティカルスーツ影[Ba]」\n「タクティカルアンダー影[In]」他一種",
-		"tr_explain": "Al usarlo recibiras:\n[Tactical Vest [Ou]]\n[Tactical Suit Shadow [Ba]]\n[Tactical Under Shadow [In]] +1 mas"
+		"tr_explain": "Al usarlo recibiras:\n[Tactical Vest [Ou]]\n[Tactical Suit Shadow [Ba]]\n[Tactical U. Shadow [In]] +1 mas"
 	},
 	{
 		"assign": "33006342",
