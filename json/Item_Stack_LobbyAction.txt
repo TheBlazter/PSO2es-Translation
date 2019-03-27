@@ -3511,7 +3511,7 @@
 		"jp_text": "498「ＶＶクッション」",
 		"tr_text": "498 \"VV Cushion\"",
 		"jp_explain": "ロビアク『ＶＶクッション』\nを全キャラクターで使用可能になる。\n対応機能：ボタン派生",
-		"tr_explain": "Unlocks the new lobby action\n\"VV Cushion\".\nUse action buttons for extra actions."
+		"tr_explain": "Aprende una nueva accion de lobby\n\"VV Cushion\".\nUsa los botones para cambiar de pose."
 	},
 	{
 		"assign": "3230513",
