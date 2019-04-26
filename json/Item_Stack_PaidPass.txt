@@ -86,49 +86,49 @@
 	{
 		"assign": "321014",
 		"jp_text": "属性強化＋５％",
-		"tr_text": "Incremento de Atributo +5%",
+		"tr_text": "Attribute Enhance +5%",
 		"jp_explain": "属性強化用の強化補助素材。\n属性強化時に使用することで\n属性値を５％底上げする。",
 		"tr_explain": "Cuando estas mejorando el atributo.\nAumenta el atributo del arma un 5%."
 	},
 	{
 		"assign": "321015",
 		"jp_text": "属性変化（炎属性）",
-		"tr_text": "Cambio de atributo (Fuego)",
+		"tr_text": "Attribute Change (Fuego)",
 		"jp_explain": "属性強化用の強化変成素材。\n属性強化時に使用することで\n【炎】属性へと変化させる。",
 		"tr_explain": "Cuando estas mejorando el atributo.\nCambia el atributo del arma ha\n\"Fuego\"."
 	},
 	{
 		"assign": "321016",
 		"jp_text": "属性変化（氷属性）",
-		"tr_text": "Cambio de atributo (Hielo)",
+		"tr_text": "Attribute Change (Hielo)",
 		"jp_explain": "属性強化用の強化変成素材。\n属性強化時に使用することで\n【氷】属性へと変化させる。",
 		"tr_explain": "Cuando estas mejorando el atributo.\nCambia el atributo del arma ha\n\"Hielo\"."
 	},
 	{
 		"assign": "321017",
 		"jp_text": "属性変化（雷属性）",
-		"tr_text": "Cambio de atributo (Trueno)",
+		"tr_text": "Attribute Change (Trueno)",
 		"jp_explain": "属性強化用の強化変成素材。\n属性強化時に使用することで\n【雷】属性へと変化させる。",
 		"tr_explain": "Cuando estas mejorando el atributo.\nChanges weapon attribute\nto \"Trueno\"."
 	},
 	{
 		"assign": "321018",
 		"jp_text": "属性変化（風属性）",
-		"tr_text": "Cambio de atributo (Viento)",
+		"tr_text": "Attribute Change (Viento)",
 		"jp_explain": "属性強化用の強化変成素材。\n属性強化時に使用することで\n【風】属性へと変化させる。",
 		"tr_explain": "Cuando estas mejorando el atributo.\nCambia el atributo del arma ha\n\"Viento\"."
 	},
 	{
 		"assign": "321019",
 		"jp_text": "属性変化（光属性）",
-		"tr_text": "Cambio de atributo (Luz)",
+		"tr_text": "Attribute Change (Luz)",
 		"jp_explain": "属性強化用の強化変成素材。\n属性強化時に使用することで\n【光】属性へと変化させる。",
 		"tr_explain": "Cuando estas mejorando el atributo.\nCambia el atributo del arma ha\n\"Luz\"."
 	},
 	{
 		"assign": "321020",
 		"jp_text": "属性変化（闇属性）",
-		"tr_text": "Cambio de atributo (Oscuridad)",
+		"tr_text": "Attribute Change (Oscuridad)",
 		"jp_explain": "属性強化用の強化変成素材。\n属性強化時に使用することで\n【闇】属性へと変化させる。",
 		"tr_explain": "Cuando estas mejorando el atributo.\nCambia el atributo del arma ha\n\"Oscuridad\"."
 	},
@@ -156,35 +156,35 @@
 	{
 		"assign": "321024",
 		"jp_text": "特殊能力追加（打撃）",
-		"tr_text": "Habilidad Power Boost",
+		"tr_text": "Add Ability Power Boost",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【打撃】の特殊能力を追加する。",
 		"tr_explain": "Material usado al sintetizar habilidades.\nOtorga \"Power Boost\"\ncuando es usado en la sistesis."
 	},
 	{
 		"assign": "321025",
 		"jp_text": "特殊能力追加（射撃）",
-		"tr_text": "Habilidad Shoot Boost",
+		"tr_text": "Add Ability Shoot Boost",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【射撃】の特殊能力を追加する。",
 		"tr_explain": "Material usado al sintetizar habilidades.\nOtorga \"Shooting Boost\"\ncuando es usado en la sistesis."
 	},
 	{
 		"assign": "321026",
 		"jp_text": "特殊能力追加（法撃）",
-		"tr_text": "Habilidad Tech Boost",
+		"tr_text": "Add Ability Tech Boost",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【法撃】の特殊能力を追加する。",
 		"tr_explain": "Material usado al sintetizar habilidades.\nOtorga \"Technique Boost\"\ncuando es usado en la sistesis."
 	},
 	{
 		"assign": "321027",
 		"jp_text": "特殊能力追加（ＨＰ）",
-		"tr_text": "Habilidad Stamina Boost",
+		"tr_text": "Add Ability Stamina Boost",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【ＨＰ】の特殊能力を追加する。",
 		"tr_explain": "Material usado al sintetizar habilidades.\nOtorga \"Stamina Boost\"\ncuando es usado en la sistesis."
 	},
 	{
 		"assign": "321028",
 		"jp_text": "特殊能力追加（ＰＰ）",
-		"tr_text": "Habilidad Spirita Boost",
+		"tr_text": "Add Ability Spirita Boost",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【ＰＰ】の特殊能力を追加する。",
 		"tr_explain": "Material usado al sintetizar habilidades.\nOtorga \"Spirita Boost\"\ncuando es usado en la sistesis."
 	},
@@ -261,14 +261,14 @@
 	{
 		"assign": "321051",
 		"jp_text": "属性強化＋１０％",
-		"tr_text": "Incremento de Atributo +10%",
+		"tr_text": "Attribute Enhance +10%",
 		"jp_explain": "属性強化用の強化補助素材。\n属性強化時に使用することで\n属性値を１０％底上げする。",
 		"tr_explain": "Cuando estas mejorando el atributo.\nAumenta el atributo del arma un 10%."
 	},
 	{
 		"assign": "321054",
 		"jp_text": "能力追加成功率＋４０％",
-		"tr_text": "Ability Success Rate +40%",
+		"tr_text": " +40%",
 		"jp_explain": "特殊能力追加用の補助素材。\n特殊能力追加時に使用することで\n成功率を４０％上昇させる。",
 		"tr_explain": "Cuando agregas una Habilidad\na tu equipo.\nAumenta el chance de exito en 40%"
 	},
@@ -338,98 +338,98 @@
 	{
 		"assign": "321067",
 		"jp_text": "クラス追加（ハンター）",
-		"tr_text": "Aйadir Clase (Hunter)",
+		"tr_text": "Add Class (Hunter)",
 		"jp_explain": "武装エクステンド実行時に\nハンターのクラス追加が\n必ず発生するようになる。",
 		"tr_explain": "Aйade la clase \"Hunter\"\na un equipo cuando es extendido."
 	},
 	{
 		"assign": "321068",
 		"jp_text": "クラス追加（レンジャー）",
-		"tr_text": "Aйadir Clase (Ranger)",
+		"tr_text": "Add Class (Ranger)",
 		"jp_explain": "武装エクステンド実行時に\nレンジャーのクラス追加が\n必ず発生するようになる。",
 		"tr_explain": "Aйade la clase \"Ranger\"\na un equipo cuando es extendido."
 	},
 	{
 		"assign": "321069",
 		"jp_text": "クラス追加（フォース）",
-		"tr_text": "Aйadir Clase (Force)",
+		"tr_text": "Add Class (Force)",
 		"jp_explain": "武装エクステンド実行時に\nフォースのクラス追加が\n必ず発生するようになる。",
 		"tr_explain": "Aйade la clase \"Force\"\na un equipo cuando es extendido."
 	},
 	{
 		"assign": "321070",
 		"jp_text": "クラス追加（ファイター）",
-		"tr_text": "Aйadir Clase (Fighter)",
+		"tr_text": "Add Class (Fighter)",
 		"jp_explain": "武装エクステンド実行時に\nファイターのクラス追加が\n必ず発生するようになる。",
 		"tr_explain": "Aйade la clase \"Fighter\"\na un equipo cuando es extendido."
 	},
 	{
 		"assign": "321071",
 		"jp_text": "クラス追加（ガンナー）",
-		"tr_text": "Aйadir Clase (Gunner)",
+		"tr_text": "Add Class (Gunner)",
 		"jp_explain": "武装エクステンド実行時に\nガンナーのクラス追加が\n必ず発生するようになる。",
 		"tr_explain": "Aйade la clase \"Gunner\"\na un equipo cuando es extendido."
 	},
 	{
 		"assign": "321072",
 		"jp_text": "クラス追加（テクター）",
-		"tr_text": "Aйadir Clase (Techer)",
+		"tr_text": "Add Class (Techer)",
 		"jp_explain": "武装エクステンド実行時に\nテクターのクラス追加が\n必ず発生するようになる。",
 		"tr_explain": "Aйade la clase \"Techer\"\na un equipo cuando es extendido."
 	},
 	{
 		"assign": "321073",
 		"jp_text": "クラス追加（ブレイバー）",
-		"tr_text": "Aйadir Clase (Braver)",
+		"tr_text": "Add Class (Braver)",
 		"jp_explain": "武装エクステンド実行時に\nブレイバーのクラス追加が\n必ず発生するようになる。",
 		"tr_explain": "Aйade la clase \"Braver\"\na un equipo cuando es extendido."
 	},
 	{
 		"assign": "321074",
 		"jp_text": "装備条件変更（打撃）",
-		"tr_text": "Cambiar Requisito (S-ATK)",
+		"tr_text": "Equip. Condition Swap (S-ATK)",
 		"jp_explain": "武装エクステンド実行時に\n装備条件を打撃に\n変更する。",
 		"tr_explain": "Cambia el requisito de una pieza\nde equipo cuando es realizada una\nextension por S-ATK."
 	},
 	{
 		"assign": "321075",
 		"jp_text": "装備条件変更（射撃）",
-		"tr_text": "Cambiar Requisito (R-ATK)",
+		"tr_text": "Equip. Condition Swap (R-ATK)",
 		"jp_explain": "武装エクステンド実行時に\n装備条件を射撃に\n変更する。",
 		"tr_explain": "Cambia el requisito de una pieza\nde equipo cuando es realizada una\nextension por R-ATK."
 	},
 	{
 		"assign": "321076",
 		"jp_text": "装備条件変更（法撃）",
-		"tr_text": "Cambiar Requisito (T-ATK)",
+		"tr_text": "Equip. Condition Swap (T-ATK)",
 		"jp_explain": "武装エクステンド実行時に\n装備条件を法撃に\n変更する。",
 		"tr_explain": "Cambia el requisito de una pieza\nde equipo cuando es realizada una\nextension por T-ATK."
 	},
 	{
 		"assign": "321077",
 		"jp_text": "装備条件変更（技量）",
-		"tr_text": "Cambiar Requisito (DEX)",
+		"tr_text": "Equip. Condition Swap (DEX)",
 		"jp_explain": "武装エクステンド実行時に\n装備条件を技量に\n変更する。",
 		"tr_explain": "Cambia el requisito de una pieza\nde equipo cuando es realizada una\nextension por DEX."
 	},
 	{
 		"assign": "321078",
 		"jp_text": "装備条件変更（打撃防御）",
-		"tr_text": "Cambiar Requisito (S-DEF)",
+		"tr_text": "Equip. Condition Swap (S-DEF)",
 		"jp_explain": "武装エクステンド実行時に\n装備条件を打撃防御に\n変更する。",
 		"tr_explain": "Cambia el requisito de una pieza\nde equipo cuando es realizada una\nextension por S-DEF."
 	},
 	{
 		"assign": "321079",
 		"jp_text": "装備条件変更（射撃防御）",
-		"tr_text": "Cambiar Requisito (R-DEF)",
+		"tr_text": "Equip. Condition Swap (R-DEF)",
 		"jp_explain": "武装エクステンド実行時に\n装備条件を射撃防御に\n変更する。",
 		"tr_explain": "Cambia el requisito de una pieza\nde equipo cuando es realizada una\nextension por R-DEF."
 	},
 	{
 		"assign": "321080",
 		"jp_text": "装備条件変更（法撃防御）",
-		"tr_text": "Cambiar Requisito (T-DEF)",
+		"tr_text": "Equip. Condition Swap (T-DEF)",
 		"jp_explain": "武装エクステンド実行時に\n装備条件を法撃防御に\n変更する。",
 		"tr_explain": "Cambia el requisito de una pieza\nde equipo cuando es realizada una\nextension por T-DEF."
 	},
@@ -541,35 +541,35 @@
 	{
 		"assign": "3210114",
 		"jp_text": "クラス追加（バウンサー）",
-		"tr_text": "Aйadir Clase (Bouncer)",
+		"tr_text": "Add Class (Bouncer)",
 		"jp_explain": "武装エクステンド実行時に\nバウンサーのクラス追加が\n必ず発生するようになる。",
 		"tr_explain": "Aйade la clase \"Bouncer\"\na un equipo cuando es extendido."
 	},
 	{
 		"assign": "3210115",
 		"jp_text": "特殊能力追加（打撃＆ＰＰ）",
-		"tr_text": "Habilidad (Strike&PP)",
+		"tr_text": "Add Ability (Strike&PP)",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【打撃＆ＰＰ】の特殊能力を追加する。",
 		"tr_explain": "Material usado al sintetizar habilidades.\nOtorga \"Noble Power\"\ncuando es usado en la sistesis."
 	},
 	{
 		"assign": "3210116",
 		"jp_text": "特殊能力追加（射撃＆ＰＰ）",
-		"tr_text": "Habilidad (Shoot&PP)",
+		"tr_text": "Add Ability (Shoot&PP)",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【射撃＆ＰＰ】の特殊能力を追加する。",
 		"tr_explain": "Material usado al sintetizar habilidades.\nOtorga \"Noble Shot\" when\nused in Special Ability Synthesis."
 	},
 	{
 		"assign": "3210117",
 		"jp_text": "特殊能力追加（法撃＆ＰＰ）",
-		"tr_text": "Habilidad (Tech&PP)",
+		"tr_text": "Add Ability (Tech&PP)",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【法撃＆ＰＰ】の特殊能力を追加する。",
 		"tr_explain": "Material usado al sintetizar habilidades.\nOtorga \"Noble Technique\"\ncuando es usado en la sistesis."
 	},
 	{
 		"assign": "3210118",
 		"jp_text": "特殊能力追加（ＨＰ＆ＰＰ）",
-		"tr_text": "Habilidad (Stamina&PP)",
+		"tr_text": "Add Ability (Stamina&PP)",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【ＨＰ＆ＰＰ】の特殊能力を追加する。",
 		"tr_explain": "Material usado al sintetizar habilidades.\nOtorga \"Noble Stamina\"\ncuando es usado en la sistesis."
 	},
@@ -639,7 +639,7 @@
 	{
 		"assign": "3210139",
 		"jp_text": "クラス追加（サモナー）",
-		"tr_text": "Aйadir Clase (Summoner)",
+		"tr_text": "Add Class (Summoner)",
 		"jp_explain": "武装エクステンド実行時に\nサモナーのクラス追加が\n必ず発生するようになる。",
 		"tr_explain": "Aйade la clase \"Summoner\"\na un equipo cuando es extendido."
 	},
@@ -1066,35 +1066,35 @@
 	{
 		"assign": "3210205",
 		"jp_text": "特殊能力追加（攻撃総合）",
-		"tr_text": "Habilidad (Attack Fusion)",
+		"tr_text": "Add Ability (Attack Fusion)",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【攻撃総合】の特殊能力を追加する。",
 		"tr_explain": "Material usado al sintetizar habilidades.\nOtorga \"Offensive Boost\"\ncuando es usado en la sistesis."
 	},
 	{
 		"assign": "3210206",
 		"jp_text": "特殊能力追加（防御総合）",
-		"tr_text": "Habilidad (Def. Fusion)",
+		"tr_text": "Add Ability (Def. Fusion)",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【防御総合】の特殊能力を追加する。",
 		"tr_explain": "Material usado al sintetizar habilidades.\nOtorga \"Defense Boost\"\ncuando es usado en la sistesis."
 	},
 	{
 		"assign": "3210207",
 		"jp_text": "特殊能力追加（攻撃継承）",
-		"tr_text": "Habilidad (Attack Transfer)",
+		"tr_text": "Add Ability (Attack Transfer)",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【攻撃継承】の特殊能力を追加する。",
 		"tr_explain": "Material usado al sintetizar habilidades.\nOtorga \"Attack Receptor\"\ncuando es usado en la sistesis."
 	},
 	{
 		"assign": "3210208",
 		"jp_text": "特殊能力追加（防御継承）",
-		"tr_text": "Habilidad (Def. Transfer)",
+		"tr_text": "Add Ability (Def. Transfer)",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【防御継承】の特殊能力を追加する。",
 		"tr_explain": "Material usado al sintetizar habilidades.\nOtorga \"Guard Receptor\"\ncuando es usado en la sistesis."
 	},
 	{
 		"assign": "3210209",
 		"jp_text": "特殊能力追加（心身継承）",
-		"tr_text": "Habilidad (Mind&Body)",
+		"tr_text": "Add Ability (Mind&Body)",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【心身継承】の特殊能力を追加する。",
 		"tr_explain": "Material usado al sintetizar habilidades.\nOtorga \"Photon Receptor\"\ncuando es usado en la sistesis."
 	},
@@ -1171,49 +1171,49 @@
 	{
 		"assign": "3210220",
 		"jp_text": "特殊能力追加（ＧＲＭ）",
-		"tr_text": "Habilidad (GRM)",
+		"tr_text": "Add Ability (GRM)",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【ＧＲＭ】の特殊能力を追加する。",
 		"tr_explain": "Material usado al sintetizar habilidades.\nOtorga \"GRM Boost\" when\nused in Special Ability Synthesis."
 	},
 	{
 		"assign": "3210221",
 		"jp_text": "特殊能力追加（テノラ）",
-		"tr_text": "Habilidad (Tenora)",
+		"tr_text": "Add Ability (Tenora)",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【テノラ】の特殊能力を追加する。",
 		"tr_explain": "Material usado al sintetizar habilidades.\nOtorga \"Tenora Boost\"\ncuando es usado en la sistesis."
 	},
 	{
 		"assign": "3210222",
 		"jp_text": "特殊能力追加（ヨウメイ）",
-		"tr_text": "Habilidad (Yohmei)",
+		"tr_text": "Add Ability (Yohmei)",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【ヨウメイ】の特殊能力を追加する。",
 		"tr_explain": "Material usado al sintetizar habilidades.\nOtorga \"Yohmei Boost\"\ncuando es usado en la sistesis."
 	},
 	{
 		"assign": "3210223",
 		"jp_text": "特殊能力（打撃＆ＰＰ/２）",
-		"tr_text": "Habilidad (Strike&PP/2)",
+		"tr_text": "Add Ability (Strike&PP/2)",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【打撃＆ＰＰ/２】の特殊能力を追加する。",
 		"tr_explain": "Material usado al sintetizar habilidades.\nOtorga \"Elegant Power\"\ncuando es usado en la sistesis."
 	},
 	{
 		"assign": "3210224",
 		"jp_text": "特殊能力（射撃＆ＰＰ/２）",
-		"tr_text": "Habilidad (Shoot&PP/2)",
+		"tr_text": "Add Ability (Shoot&PP/2)",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【射撃＆ＰＰ/２】の特殊能力を追加する。",
 		"tr_explain": "Material usado al sintetizar habilidades.\nOtorga \"Elegant Shoot\"\ncuando es usado en la sistesis."
 	},
 	{
 		"assign": "3210225",
 		"jp_text": "特殊能力（法撃＆ＰＰ/２）",
-		"tr_text": "Habilidad (Tech&PP/2)",
+		"tr_text": "Add Ability (Tech&PP/2)",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【法撃＆ＰＰ/２】の特殊能力を追加する。",
 		"tr_explain": "Material usado al sintetizar habilidades.\nOtorga \"Elegant Technique\"\ncuando es usado en la sistesis."
 	},
 	{
 		"assign": "3210226",
 		"jp_text": "特殊能力（ＨＰ＆ＰＰ/２）",
-		"tr_text": "Habilidad (Stamina&PP/2)",
+		"tr_text": "Add Ability (Stamina&PP/2)",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【ＨＰ＆ＰＰ/２】の特殊能力を追加する。",
 		"tr_explain": "Material usado al sintetizar habilidades.\nOtorga \"Elegant Stamina\"\ncuando es usado en la sistesis."
 	},
@@ -1248,7 +1248,7 @@
 	{
 		"assign": "3210231",
 		"jp_text": "属性強化＋２％",
-		"tr_text": "Incremento de Atributo +2%",
+		"tr_text": "Attribute Enhance +2%",
 		"jp_explain": "属性強化用の強化補助素材。\n属性強化時に使用することで\n属性値を２％底上げする。",
 		"tr_explain": "Cuando estas mejorando el atributo.\nAumenta el atributo del arma un 2%."
 	},
@@ -1479,28 +1479,28 @@
 	{
 		"assign": "3210288",
 		"jp_text": "特殊能力（打撃＆ＰＰ/３）",
-		"tr_text": "Habilidad (Strike&PP/3)",
+		"tr_text": "Add Ability (Strike&PP/3)",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【打撃＆ＰＰ/３】の特殊能力を追加する。",
 		"tr_explain": "Material usado al sintetizar habilidades.\nOtorga \"Grace Power\"\ncuando se usa en Ability Synthesis."
 	},
 	{
 		"assign": "3210289",
 		"jp_text": "特殊能力（射撃＆ＰＰ/３）",
-		"tr_text": "Habilidad (Shoot&PP/3)",
+		"tr_text": "Add Ability (Shoot&PP/3)",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【射撃＆ＰＰ/３】の特殊能力を追加する。",
 		"tr_explain": "Material usado al sintetizar habilidades.\nOtorga \"Grace Shoot\"\ncuando se usa en Ability Synthesis."
 	},
 	{
 		"assign": "3210290",
 		"jp_text": "特殊能力（法撃＆ＰＰ/３）",
-		"tr_text": "Habilidad (Tech&PP/3)",
+		"tr_text": "Add Ability (Tech&PP/3)",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【法撃＆ＰＰ/３】の特殊能力を追加する。",
 		"tr_explain": "Material usado al sintetizar habilidades.\nOtorga \"Grace Tech\"\ncuando se usa en Ability Synthesis."
 	},
 	{
 		"assign": "3210291",
 		"jp_text": "特殊能力（ＨＰ＆ＰＰ/３）",
-		"tr_text": "Habilidad (Stamina&PP/3)",
+		"tr_text": "Add Ability (Stamina&PP/3)",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【ＨＰ＆ＰＰ/３】の特殊能力を追加する。",
 		"tr_explain": "Material usado al sintetizar habilidades.\nOtorga \"Grace Stamina\"\ncuando se usa en Ability Synthesis."
 	},
@@ -1537,21 +1537,21 @@
 		"jp_text": "Ｓ１追加：賭死の撃",
 		"tr_text": "S1 Add:Reckless Strike",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\nＳ１：賭死の撃を付与。",
-		"tr_explain": "Material used in SSA Synthesis.\nGrants \"S1:Reckless Strike\"\nwhen used in Ability Synthesis."
+		"tr_explain": "Material usado al sintetizar SSA.\nOtorga \"S1:Reckless Strike\"\ncuando se usa en Ability Synthesis."
 	},
 	{
 		"assign": "3210301",
 		"jp_text": "Ｓ１追加：錬成の志",
 		"tr_text": "S1 Add:Augment Intent",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\nＳ１：錬成の志を付与。",
-		"tr_explain": "Material used in SSA Synthesis.\nGrants \"S1:Augment Intent\"\nwhen used in Ability Synthesis."
+		"tr_explain": "Material usado al sintetizar SSA.\nOtorga \"S1:Augment Intent\"\ncuando se usa en Ability Synthesis."
 	},
 	{
 		"assign": "3210302",
 		"jp_text": "Ｓ１追加：失力の蝕",
 		"tr_text": "S1 Add:Eclipsing Decay",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\nＳ１：失力の蝕を付与。",
-		"tr_explain": "Material used in SSA Synthesis.\nGrants \"S1:Eclipsing Decay\"\nwhen used in Ability Synthesis."
+		"tr_explain": "Material usado al sintetizar SSA.\nOtorga \"S1:Eclipsing Decay\"\ncuando se usa en Ability Synthesis."
 	},
 	{
 		"assign": "3210303",
@@ -1663,14 +1663,14 @@
 		"jp_text": "Ｓ２追加：走者高揚",
 		"tr_text": "S2 Add:Runner's High",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\nＳ２：走者高揚を付与。",
-		"tr_explain": "Material used in SSA Synthesis.\nGrants \"S2:Runner's High\"\nwhen used in Ability Synthesis."
+		"tr_explain": "Material usado al sintetizar SSA.\nOtorga \"S2:Runner's High\"\ncuando se usa en Ability Synthesis."
 	},
 	{
 		"assign": "3210324",
 		"jp_text": "Ｓ２追加：技巧縮減",
 		"tr_text": "S2 Add:Skill Reduction",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\nＳ２：技巧縮減を付与。",
-		"tr_explain": "Material used in SSA Synthesis.\nGrants \"S2:Skill Reduction\"\nwhen used in Ability Synthesis."
+		"tr_explain": "Material usado al sintetizar SSA.\nOtorga \"S2:Skill Reduction\"\ncuando se usa en Ability Synthesis."
 	},
 	{
 		"assign": "3210330",
@@ -1740,28 +1740,28 @@
 		"jp_text": "Ｓ３追加：静心活与",
 		"tr_text": "S3 Add:Calming Exhilaration",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\nＳ３：静心活与を付与。",
-		"tr_explain": "Material used in SSA Synthesis.\nGrants \"S3:Calming Exhilaration\"\nwhen used in Ability Synthesis."
+		"tr_explain": "Material usado al sintetizar SSA.\nOtorga \"S3:Calming Exhilaration\"\ncuando se usa en Ability Synthesis."
 	},
 	{
 		"assign": "3210342",
 		"jp_text": "Ｓ３追加：撃流の備",
 		"tr_text": "S3 Add:Fortifying Strike",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\nＳ３：撃流の備を付与。",
-		"tr_explain": "Material used in SSA Synthesis.\nGrants \"S3:Fortifying Strike\"\nwhen used in Ability Synthesis."
+		"tr_explain": "Material usado al sintetizar SSA.\nOtorga \"S3:Fortifying Strike\"\ncuando se usa en Ability Synthesis."
 	},
 	{
 		"assign": "3210343",
 		"jp_text": "Ｓ３追加：撃流縮減",
 		"tr_text": "S3 Add:Curtailed Strike",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\nＳ３：撃流縮減を付与。",
-		"tr_explain": "Material used in SSA Synthesis.\nGrants \"S3:Curtailed Strike\"\nwhen used in Ability Synthesis."
+		"tr_explain": "Material usado al sintetizar SSA.\nOtorga \"S3:Curtailed Strike\"\ncuando se usa en Ability Synthesis."
 	},
 	{
 		"assign": "3210344",
 		"jp_text": "Ｓ３追加：撃流の巧",
 		"tr_text": "S3 Add:Wise Strike",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\nＳ３：撃流の巧を付与。",
-		"tr_explain": "Material used in SSA Synthesis.\nGrants \"S3:Wise Strike\"\nwhen used in Ability Synthesis."
+		"tr_explain": "Material usado al sintetizar SSA.\nOtorga \"S3:Wise Strike\"\ncuando se usa en Ability Synthesis."
 	},
 	{
 		"assign": "3210347",
@@ -1838,7 +1838,7 @@
 		"jp_text": "Ｓ４追加：六色の輝秤",
 		"tr_text": "S4 Add:Colored Spectrum",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\nＳ４：六色の輝秤を付与。",
-		"tr_explain": "Material used in SSA Synthesis.\nGrants \"S4:Colored Spectrum\"\nwhen used in Ability Synthesis."
+		"tr_explain": "Material usado al sintetizar SSA.\nOtorga \"S4:Colored Spectrum\"\ncuando se usa en Ability Synthesis."
 	},
 	{
 		"assign": "3210456",
@@ -1852,6 +1852,6 @@
 		"jp_text": "特殊能力（カタリスト継承）",
 		"tr_text": "Add Ability (Catalyst Receptor)",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【カタリストレセプター】を追加する。",
-		"tr_explain": "Material used in Special Ability\nSynthesis. Grants \"Catalyst Receptor\"\nwhen used in Ability Synthesis."
+		"tr_explain": "Material usado al sintetizar habilidades.\nOtorga \"Catalyst Receptor\"\ncuando se usa en Ability Synthesis."
 	}
 ]
