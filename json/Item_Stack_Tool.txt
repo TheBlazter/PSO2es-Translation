@@ -424,7 +424,7 @@
 		"jp_text": "レオンティーナ証書",
 		"tr_text": "Leontina Certificate",
 		"jp_explain": "条件を達成した者に与えられる証書。\nゲートエリアのレオンティーナに渡すと\n強力な★13武器などを入手できる。",
-		"tr_explain": "Un certificado entregado bajo\ncondiciones especiales. Entregalo a\nLeontina para recibir poderosas ★13 armas."
+		"tr_explain": "Un certificado entregado bajo\ncondiciones especiales. Entregalo a\nLeontina para recibir armas ★13."
 	},
 	{
 		"assign": "37071",
@@ -508,7 +508,7 @@
 		"jp_text": "レオンティーナ証書Ｂ",
 		"tr_text": "Leontina Certificate B",
 		"jp_explain": "条件を達成した者に与えられる証書。\nゲートエリアのレオンティーナに渡すと\n強力な★14武器などを入手できる。",
-		"tr_explain": "A certificate handed out under\nspecial conditions. Give it to\nLeontina for powerful ★14 items."
+		"tr_explain": "Un certificado entregado bajo\ncondiciones especiales. Entregalo a\nLeontina para recibir armas ★14."
 	},
 	{
 		"assign": "37085",
