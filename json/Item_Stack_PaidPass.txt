@@ -268,7 +268,7 @@
 	{
 		"assign": "321054",
 		"jp_text": "能力追加成功率＋４０％",
-		"tr_text": " +40%",
+		"tr_text": " Ability Success Rate +40%",
 		"jp_explain": "特殊能力追加用の補助素材。\n特殊能力追加時に使用することで\n成功率を４０％上昇させる。",
 		"tr_explain": "Cuando agregas una Habilidad\na tu equipo.\nAumenta el chance de exito en 40%"
 	},
