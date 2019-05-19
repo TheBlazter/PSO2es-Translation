@@ -3236,9 +3236,9 @@
 	{
 		"assign": "3230470",
 		"jp_text": "456「スイパラポーズ」",
-		"tr_text": "",
+		"tr_text": "456 \"Sweets Paradise Pose\"",
 		"jp_explain": "ロビアク『スイパラポーズ』\nを全キャラクターで使用可能になる。\n対応機能：ボタン派生",
-		"tr_explain": ""
+		"tr_explain": "Unlocks the new lobby action\n\"Sweets Paradise Pose\".\nUse action buttons for extra actions."
 	},
 	{
 		"assign": "3230473",
@@ -3565,9 +3565,9 @@
 	{
 		"assign": "3230520",
 		"jp_text": "506「登場」",
-		"tr_text": "506 \"Entrance\"",
+		"tr_text": "506 \"Arrival\"",
 		"jp_explain": "ロビアク『登場』\nを全キャラクターで使用可能になる。",
-		"tr_explain": "Unlocks the new lobby action\n\"Entrance\"."
+		"tr_explain": "Unlocks the new lobby action\n\"Arrival\"."
 	},
 	{
 		"assign": "3230521",
@@ -3579,22 +3579,22 @@
 	{
 		"assign": "3230524",
 		"jp_text": "510「このすば１」",
-		"tr_text": "",
+		"tr_text": "510 \"Konosuba 1\"",
 		"jp_explain": "ロビアク『このすば１』\nを全キャラクターで使用可能になる。\n対応機能：ボタン派生",
-		"tr_explain": ""
+		"tr_explain": "Unlocks the new lobby action\n\"Konosuba 1\"."
 	},
 	{
 		"assign": "3230525",
 		"jp_text": "511「このすば２」",
-		"tr_text": "",
+		"tr_text": "511 \"Konosuba 2\"",
 		"jp_explain": "ロビアク『このすば２』\nを全キャラクターで使用可能になる。",
-		"tr_explain": ""
+		"tr_explain": "Unlocks the new lobby action\n\"Konosuba 2\"."
 	},
 	{
 		"assign": "3230526",
 		"jp_text": "512「このすば３」",
-		"tr_text": "",
+		"tr_text": "512 \"Konosuba 3\"",
 		"jp_explain": "ロビアク『このすば３』\nを全キャラクターで使用可能になる。\n対応機能：リアクション",
-		"tr_explain": ""
+		"tr_explain": "Unlocks the new lobby action\n\"Konosuba 3\"."
 	}
 ]

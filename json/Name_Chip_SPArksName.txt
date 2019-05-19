@@ -2582,12 +2582,12 @@
 	{
 		"assign": "739",
 		"jp_text": "†コア†[メモリアル]",
-		"tr_text": "†Koa† [Memorial]"
+		"tr_text": "†Coa† [Memorial]"
 	},
 	{
 		"assign": "740",
 		"jp_text": "†コア†[Ｓメモリアル]",
-		"tr_text": "†Koa† [S Memorial]"
+		"tr_text": "†Coa† [S Memorial]"
 	},
 	{
 		"assign": "741",
@@ -5622,12 +5622,12 @@
 	{
 		"assign": "7499",
 		"jp_text": "探索者 アフィン[ＴＣＧ]",
-		"tr_text": "Explorer Afin [TCG]"
+		"tr_text": "Seeker Afin [TCG]"
 	},
 	{
 		"assign": "7500",
 		"jp_text": "探索者 アフィン[ＳＴＣＧ]",
-		"tr_text": "Explorer Afin [S TCG]"
+		"tr_text": "Seeker Afin [S TCG]"
 	},
 	{
 		"assign": "7501",

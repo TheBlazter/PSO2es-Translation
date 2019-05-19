@@ -247,9 +247,9 @@
 	{
 		"assign": "37038",
 		"jp_text": "Ｐｈエクスキューブ",
-		"tr_text": "",
+		"tr_text": "Ph Excube",
 		"jp_explain": "ファントムを極めし者に与えられる\n特殊な結晶体。提示することで\nさらなる力を得ることができる。",
-		"tr_explain": ""
+		"tr_explain": "A special crystal given to special\nPhantoms. By trading this item, more\npower can be obtained."
 	},
 	{
 		"assign": "37043",
@@ -417,7 +417,7 @@
 		"jp_text": "覇者の紋章",
 		"tr_text": "Conqueror's Crest",
 		"jp_explain": "様々な戦場で活躍したアークスの証。\n提示することで、ジグの持つ\n貴重なアイテムと交換ができる。",
-		"tr_explain": "Prueba de que participaste en\nbatallas con los ARKS. pueden ser\nintercambiadas por armas con Zieg."
+		"tr_explain": "Prueba de un ARKS que participo en\nmuchas grandes batallas. pueden ser\nintercambiadas por armas con Zieg."
 	},
 	{
 		"assign": "37070",
@@ -445,7 +445,7 @@
 		"jp_text": "王者の紋章",
 		"tr_text": "King's Crest",
 		"jp_explain": "様々な戦場で活躍したアークスの証。\n提示することで、ジグの持つ\n貴重なアイテムと交換ができる。",
-		"tr_explain": "Prueba de que participaste en\nbatallas con los ARKS. pueden ser\nintercambiadas por armas con Zieg."
+		"tr_explain": "Prueba de un ARKS que participo en\nmuchas grandes batallas. pueden ser\nintercambiadas por armas con Zieg."
 	},
 	{
 		"assign": "37074",
@@ -499,9 +499,9 @@
 	{
 		"assign": "37081",
 		"jp_text": "勇者の紋章",
-		"tr_text": "Hero Emblem",
+		"tr_text": "Hero's Crest",
 		"jp_explain": "様々な戦場で活躍したアークスの証。\n提示することで、ジグの持つ\n貴重なアイテムと交換ができる。",
-		"tr_explain": "Proof that one participated in\ngreat battles out of all ARKS. Can\ntrade this for items from Zieg."
+		"tr_explain": "Proof of an ARKS who took part in\nmany great battles. Can be traded\nto Zieg in exchange for items."
 	},
 	{
 		"assign": "37084",
