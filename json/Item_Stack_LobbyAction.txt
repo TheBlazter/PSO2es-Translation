@@ -177,23 +177,23 @@
 	{
 		"assign": "323025",
 		"jp_text": "26「ダンス３」",
-		"tr_text": "26 \"Baile 3\"",
+		"tr_text": "26 \"Dance 3\"",
 		"jp_explain": "ロビアク『ダンス３』\nを全キャラクターで使用可能になる。",
-		"tr_explain": "Aprende una nueva accion de lobby\n\"Baile 3\"."
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Dance 3\"."
 	},
 	{
 		"assign": "323026",
 		"jp_text": "27「ダンス４」",
-		"tr_text": "27 \"Baile 4\"",
+		"tr_text": "27 \"Dance 4\"",
 		"jp_explain": "ロビアク『ダンス４』\nを全キャラクターで使用可能になる。",
-		"tr_explain": "Aprende una nueva accion de lobby\n\"Baile 4\"."
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Dance 4\"."
 	},
 	{
 		"assign": "323027",
 		"jp_text": "28「ダンス５」",
-		"tr_text": "28 \"Baile 5\"",
+		"tr_text": "28 \"Dance 5\"",
 		"jp_explain": "ロビアク『ダンス５』\nを全キャラクターで使用可能になる。",
-		"tr_explain": "Aprende una nueva accion de lobby\n\"Baile 5\"."
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Dance 5\"."
 	},
 	{
 		"assign": "323028",
@@ -219,9 +219,9 @@
 	{
 		"assign": "323031",
 		"jp_text": "32「スペチャン５ダンス」",
-		"tr_text": "32 \"S. C. 5 Baile\"",
+		"tr_text": "32 \"S. C. 5 Dance\"",
 		"jp_explain": "ロビアク『スペチャン５ダンス』\nを全キャラクターで使用可能になる。",
-		"tr_explain": "Aprende una nueva accion de lobby\n\"S. C. 5 Baile\"."
+		"tr_explain": "Aprende una nueva accion de lobby\n\"S. C. 5 Dance\"."
 	},
 	{
 		"assign": "323032",
@@ -261,9 +261,9 @@
 	{
 		"assign": "323037",
 		"jp_text": "38「ダンス６」",
-		"tr_text": "38 \"Baile 6\"",
+		"tr_text": "38 \"Dance 6\"",
 		"jp_explain": "ロビアク『ダンス６』\nを全キャラクターで使用可能になる。",
-		"tr_explain": "Aprende una nueva accion de lobby\n\"Baile 6\"."
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Dance 6\"."
 	},
 	{
 		"assign": "323038",
@@ -289,16 +289,16 @@
 	{
 		"assign": "323041",
 		"jp_text": "42「ダンス７」",
-		"tr_text": "42 \"Baile 7\"",
+		"tr_text": "42 \"Dance 7\"",
 		"jp_explain": "ロビアク『ダンス７』\nを全キャラクターで使用可能になる。",
-		"tr_explain": "Aprende una nueva accion de lobby\n\"Baile 7\"."
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Dance 7\"."
 	},
 	{
 		"assign": "323042",
 		"jp_text": "43「ダンス８」",
-		"tr_text": "43 \"Baile 8\"",
+		"tr_text": "43 \"Dance 8\"",
 		"jp_explain": "ロビアク『ダンス８』\nを全キャラクターで使用可能になる。",
-		"tr_explain": "Aprende una nueva accion de lobby\n\"Baile 8\"."
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Dance 8\"."
 	},
 	{
 		"assign": "323043",
@@ -366,9 +366,9 @@
 	{
 		"assign": "323053",
 		"jp_text": "54「ダンス９」",
-		"tr_text": "54 \"Baile 9\"",
+		"tr_text": "54 \"Dance 9\"",
 		"jp_explain": "ロビアク『ダンス９』\nを全キャラクターで使用可能になる。",
-		"tr_explain": "Aprende una nueva accion de lobby\n\"Baile 9\"."
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Dance 9\"."
 	},
 	{
 		"assign": "323054",
@@ -387,9 +387,9 @@
 	{
 		"assign": "323056",
 		"jp_text": "57「ダンス１０」",
-		"tr_text": "57 \"Baile 10\"",
+		"tr_text": "57 \"Dance 10\"",
 		"jp_explain": "ロビアク『ダンス１０』\nを全キャラクターで使用可能になる。",
-		"tr_explain": "Aprende una nueva accion de lobby\n\"Baile 10\"."
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Dance 10\"."
 	},
 	{
 		"assign": "323057",
@@ -401,16 +401,16 @@
 	{
 		"assign": "323058",
 		"jp_text": "59「ダンス１１」",
-		"tr_text": "59 \"Baile 11\"",
+		"tr_text": "59 \"Dance 11\"",
 		"jp_explain": "ロビアク『ダンス１１』\nを全キャラクターで使用可能になる。",
-		"tr_explain": "Aprende una nueva accion de lobby\n\"Baile 11\"."
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Dance 11\"."
 	},
 	{
 		"assign": "323059",
 		"jp_text": "60「ダンス１２」",
-		"tr_text": "60 \"Baile 12\"",
+		"tr_text": "60 \"Dance 12\"",
 		"jp_explain": "ロビアク『ダンス１２』\nを全キャラクターで使用可能になる。",
-		"tr_explain": "Aprende una nueva accion de lobby\n\"Baile 12\"."
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Dance 12\"."
 	},
 	{
 		"assign": "323060",
@@ -555,16 +555,16 @@
 	{
 		"assign": "323080",
 		"jp_text": "69「ダンス１３」",
-		"tr_text": "69 \"Baile 13\"",
+		"tr_text": "69 \"Dance 13\"",
 		"jp_explain": "ロビアク『ダンス１３』\nを全キャラクターで使用可能になる。",
-		"tr_explain": "Aprende una nueva accion de lobby\n\"Baile 13\"."
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Dance 13\"."
 	},
 	{
 		"assign": "323081",
 		"jp_text": "70「ダンス１４」",
-		"tr_text": "70 \"Baile 14\"",
+		"tr_text": "70 \"Dance 14\"",
 		"jp_explain": "ロビアク『ダンス１４』\nを全キャラクターで使用可能になる。",
-		"tr_explain": "Aprende una nueva accion de lobby\n\"Baile 14\"."
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Dance 14\"."
 	},
 	{
 		"assign": "323082",
@@ -597,16 +597,16 @@
 	{
 		"assign": "323086",
 		"jp_text": "75「ダンス１５」",
-		"tr_text": "75 \"Baile 15\"",
+		"tr_text": "75 \"Dance 15\"",
 		"jp_explain": "ロビアク『ダンス１５』\nを全キャラクターで使用可能になる。",
-		"tr_explain": "Aprende una nueva accion de lobby\n\"Baile 15\"."
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Dance 15\"."
 	},
 	{
 		"assign": "323087",
 		"jp_text": "76「ダンス１６」",
-		"tr_text": "76 \"Baile 16\"",
+		"tr_text": "76 \"Dance 16\"",
 		"jp_explain": "ロビアク『ダンス１６』\nを全キャラクターで使用可能になる。",
-		"tr_explain": "Aprende una nueva accion de lobby\n\"Baile 16\"."
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Dance 16\"."
 	},
 	{
 		"assign": "323088",
@@ -632,9 +632,9 @@
 	{
 		"assign": "323091",
 		"jp_text": "80「ダンス１７」",
-		"tr_text": "80 \"Baile 17\"",
+		"tr_text": "80 \"Dance 17\"",
 		"jp_explain": "ロビアク『ダンス１７』\nを全キャラクターで使用可能になる。",
-		"tr_explain": "Aprende una nueva accion de lobby\n\"Baile 17\"."
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Dance 17\"."
 	},
 	{
 		"assign": "323092",
@@ -653,9 +653,9 @@
 	{
 		"assign": "323094",
 		"jp_text": "83「ダンス１８」",
-		"tr_text": "83 \"Baile 18\"",
+		"tr_text": "83 \"Dance 18\"",
 		"jp_explain": "ロビアク『ダンス１８』\nを全キャラクターで使用可能になる。",
-		"tr_explain": "Aprende una nueva accion de lobby\n\"Baile 18\"."
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Dance 18\"."
 	},
 	{
 		"assign": "323095",
@@ -723,9 +723,9 @@
 	{
 		"assign": "3230104",
 		"jp_text": "93「ダンス１９」",
-		"tr_text": "93 \"Baile 19\"",
+		"tr_text": "93 \"Dance 19\"",
 		"jp_explain": "ロビアク『ダンス１９』\nを全キャラクターで使用可能になる。",
-		"tr_explain": "Aprende una nueva accion de lobby\n\"Baile 19\"."
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Dance 19\"."
 	},
 	{
 		"assign": "3230105",
@@ -842,16 +842,16 @@
 	{
 		"assign": "3230121",
 		"jp_text": "110「ダンス２０」",
-		"tr_text": "110 \"Baile 20\"",
+		"tr_text": "110 \"Dance 20\"",
 		"jp_explain": "ロビアク『ダンス２０』\nを全キャラクターで使用可能になる。",
-		"tr_explain": "Aprende una nueva accion de lobby\n\"Baile 20\"."
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Dance 20\"."
 	},
 	{
 		"assign": "3230122",
 		"jp_text": "111「ダンス２１」",
-		"tr_text": "111 \"Baile 21\"",
+		"tr_text": "111 \"Dance 21\"",
 		"jp_explain": "ロビアク『ダンス２１』\nを全キャラクターで使用可能になる。",
-		"tr_explain": "Aprende una nueva accion de lobby\n\"Baile 21\"."
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Dance 21\"."
 	},
 	{
 		"assign": "3230123",
@@ -926,9 +926,9 @@
 	{
 		"assign": "3230133",
 		"jp_text": "122「ダンス２２」",
-		"tr_text": "122 \"Baile 22\"",
+		"tr_text": "122 \"Dance 22\"",
 		"jp_explain": "ロビアク『ダンス２２』\nを全キャラクターで使用可能になる。",
-		"tr_explain": "Aprende una nueva accion de lobby\n\"Baile 22\"."
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Dance 22\"."
 	},
 	{
 		"assign": "3230134",
@@ -940,9 +940,9 @@
 	{
 		"assign": "3230135",
 		"jp_text": "124「ダンス２３」",
-		"tr_text": "124 \"Baile 23\"",
+		"tr_text": "124 \"Dance 23\"",
 		"jp_explain": "ロビアク『ダンス２３』\nを全キャラクターで使用可能になる。",
-		"tr_explain": "Aprende una nueva accion de lobby\n\"Baile 23\"."
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Dance 23\"."
 	},
 	{
 		"assign": "3230136",
@@ -1003,23 +1003,23 @@
 	{
 		"assign": "3230144",
 		"jp_text": "133「ダンス２４」",
-		"tr_text": "133 \"Baile 24\"",
+		"tr_text": "133 \"Dance 24\"",
 		"jp_explain": "ロビアク『ダンス２４』\nを全キャラクターで使用可能になる。",
-		"tr_explain": "Aprende una nueva accion de lobby\n\"Baile 24\"."
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Dance 24\"."
 	},
 	{
 		"assign": "3230145",
 		"jp_text": "134「ダンス２５」",
-		"tr_text": "134 \"Baile 25\"",
+		"tr_text": "134 \"Dance 25\"",
 		"jp_explain": "ロビアク『ダンス２５』\nを全キャラクターで使用可能になる。",
-		"tr_explain": "Aprende una nueva accion de lobby\n\"Baile 25\"."
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Dance 25\"."
 	},
 	{
 		"assign": "3230146",
 		"jp_text": "135「ダンス２６」",
-		"tr_text": "135 \"Baile 26\"",
+		"tr_text": "135 \"Dance 26\"",
 		"jp_explain": "ロビアク『ダンス２６』\nを全キャラクターで使用可能になる。",
-		"tr_explain": "Aprende una nueva accion de lobby\n\"Baile 26\"."
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Dance 26\"."
 	},
 	{
 		"assign": "3230147",
@@ -1031,9 +1031,9 @@
 	{
 		"assign": "3230148",
 		"jp_text": "137「ダンス２７」",
-		"tr_text": "137 \"Baile 27\"",
+		"tr_text": "137 \"Dance 27\"",
 		"jp_explain": "ロビアク『ダンス２７』\nを全キャラクターで使用可能になる。",
-		"tr_explain": "Aprende una nueva accion de lobby\n\"Baile 27\"."
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Dance 27\"."
 	},
 	{
 		"assign": "3230149",
@@ -1066,9 +1066,9 @@
 	{
 		"assign": "3230153",
 		"jp_text": "142「ダンス２８」",
-		"tr_text": "142 \"Baile 28\"",
+		"tr_text": "142 \"Dance 28\"",
 		"jp_explain": "ロビアク『ダンス２８』\nを全キャラクターで使用可能になる。",
-		"tr_explain": "Aprende una nueva accion de lobby\n\"Baile 28\"."
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Dance 28\"."
 	},
 	{
 		"assign": "3230154",
@@ -1087,9 +1087,9 @@
 	{
 		"assign": "3230156",
 		"jp_text": "145「ダンス２９」",
-		"tr_text": "145 \"Baile 29\"",
+		"tr_text": "145 \"Dance 29\"",
 		"jp_explain": "ロビアク『ダンス２９』\nを全キャラクターで使用可能になる。",
-		"tr_explain": "Aprende una nueva accion de lobby\n\"Baile 29\"."
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Dance 29\"."
 	},
 	{
 		"assign": "3230157",
@@ -1101,9 +1101,9 @@
 	{
 		"assign": "3230158",
 		"jp_text": "147「ダンス３０」",
-		"tr_text": "147 \"Baile 30\"",
+		"tr_text": "147 \"Dance 30\"",
 		"jp_explain": "ロビアク『ダンス３０』\nを全キャラクターで使用可能になる。",
-		"tr_explain": "Aprende una nueva accion de lobby\n\"Baile 30\"."
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Dance 30\"."
 	},
 	{
 		"assign": "3230159",
@@ -1143,16 +1143,16 @@
 	{
 		"assign": "3230164",
 		"jp_text": "153「ダンス３１」",
-		"tr_text": "153 \"Baile 31\"",
+		"tr_text": "153 \"Dance 31\"",
 		"jp_explain": "ロビアク『ダンス３１』\nを全キャラクターで使用可能になる。",
-		"tr_explain": "Aprende una nueva accion de lobby\n\"Baile 31\"."
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Dance 31\"."
 	},
 	{
 		"assign": "3230165",
 		"jp_text": "154「ダンス３２」",
-		"tr_text": "154 \"Baile 32\"",
+		"tr_text": "154 \"Dance 32\"",
 		"jp_explain": "ロビアク『ダンス３２』\nを全キャラクターで使用可能になる。",
-		"tr_explain": "Aprende una nueva accion de lobby\n\"Baile 32\"."
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Dance 32\"."
 	},
 	{
 		"assign": "3230166",
@@ -1220,9 +1220,9 @@
 	{
 		"assign": "3230175",
 		"jp_text": "164「ダンス３３」",
-		"tr_text": "164 \"Baile 33\"",
+		"tr_text": "164 \"Dance 33\"",
 		"jp_explain": "ロビアク『ダンス３３』\nを全キャラクターで使用可能になる。",
-		"tr_explain": "Aprende una nueva accion de lobby\n\"Baile 33\"."
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Dance 33\"."
 	},
 	{
 		"assign": "3230176",
@@ -1339,9 +1339,9 @@
 	{
 		"assign": "3230192",
 		"jp_text": "181「ダンス３４」",
-		"tr_text": "181 \"Baile 34\"",
+		"tr_text": "181 \"Dance 34\"",
 		"jp_explain": "ロビアク『ダンス３４』\nを全キャラクターで使用可能になる。",
-		"tr_explain": "Aprende una nueva accion de lobby\n\"Baile 34\"."
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Dance 34\"."
 	},
 	{
 		"assign": "3230193",
@@ -1367,9 +1367,9 @@
 	{
 		"assign": "3230196",
 		"jp_text": "185「ダンス３５」",
-		"tr_text": "185 \"Baile 35\"",
+		"tr_text": "185 \"Dance 35\"",
 		"jp_explain": "ロビアク『ダンス３５』\nを全キャラクターで使用可能になる。",
-		"tr_explain": "Aprende una nueva accion de lobby\n\"Baile 35\"."
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Dance 35\"."
 	},
 	{
 		"assign": "3230197",
@@ -1430,9 +1430,9 @@
 	{
 		"assign": "3230206",
 		"jp_text": "194「ＡＲＫＳダンス」",
-		"tr_text": "194 \"Baile ARKS\"",
+		"tr_text": "194 \"Dance ARKS\"",
 		"jp_explain": "ロビアク『ＡＲＫＳダンス』\nを全キャラクターで使用可能になる。",
-		"tr_explain": "Aprende una nueva accion de lobby\n\"Baile ARKS\"."
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Dance ARKS\"."
 	},
 	{
 		"assign": "3230207",
@@ -1479,9 +1479,9 @@
 	{
 		"assign": "3230214",
 		"jp_text": "201「ダンス３６」",
-		"tr_text": "201 \"Baile 36\"",
+		"tr_text": "201 \"Dance 36\"",
 		"jp_explain": "ロビアク『ダンス３６』\nを全キャラクターで使用可能になる。",
-		"tr_explain": "Aprende una nueva accion de lobby\n\"Baile 36\"."
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Dance 36\"."
 	},
 	{
 		"assign": "3230215",
@@ -1514,9 +1514,9 @@
 	{
 		"assign": "3230219",
 		"jp_text": "206「ダンス３７」",
-		"tr_text": "206 \"Baile 37\"",
+		"tr_text": "206 \"Dance 37\"",
 		"jp_explain": "ロビアク『ダンス３７』\nを全キャラクターで使用可能になる。",
-		"tr_explain": "Aprende una nueva accion de lobby\n\"Baile 37\"."
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Dance 37\"."
 	},
 	{
 		"assign": "3230220",
@@ -1752,16 +1752,16 @@
 	{
 		"assign": "3230253",
 		"jp_text": "240「ヒューランダンス」",
-		"tr_text": "240 \"Hyur Baile\"",
+		"tr_text": "240 \"Hyur Dance\"",
 		"jp_explain": "ロビアク『ヒューランダンス』\nを全キャラクターで使用可能になる。",
-		"tr_explain": "Aprende una nueva accion de lobby\n\"Hyur Baile\"."
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Hyur Dance\"."
 	},
 	{
 		"assign": "3230254",
 		"jp_text": "241「ミコッテダンス」",
-		"tr_text": "241 \"Miqo'te Baile\"",
+		"tr_text": "241 \"Miqo'te Dance\"",
 		"jp_explain": "ロビアク『ミコッテダンス』\nを全キャラクターで使用可能になる。",
-		"tr_explain": "Aprende una nueva accion de lobby\n\"Miqo'te Baile\"."
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Miqo'te Dance\"."
 	},
 	{
 		"assign": "3230255",
@@ -1892,9 +1892,9 @@
 	{
 		"assign": "3230273",
 		"jp_text": "260「ダンス３８」",
-		"tr_text": "260 \"Baile 38\"",
+		"tr_text": "260 \"Dance 38\"",
 		"jp_explain": "ロビアク『ダンス３８』\nを全キャラクターで使用可能になる。",
-		"tr_explain": "Aprende una nueva accion de lobby\n\"Baile 38\"."
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Dance 38\"."
 	},
 	{
 		"assign": "3230274",
@@ -2011,9 +2011,9 @@
 	{
 		"assign": "3230290",
 		"jp_text": "277「ダンス３９」",
-		"tr_text": "277 \"Baile 39\"",
+		"tr_text": "277 \"Dance 39\"",
 		"jp_explain": "ロビアク『ダンス３９』\nを全キャラクターで使用可能になる。",
-		"tr_explain": "Aprende una nueva accion de lobby\n\"Baile 39\"."
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Dance 39\"."
 	},
 	{
 		"assign": "3230291",
@@ -2039,9 +2039,9 @@
 	{
 		"assign": "3230294",
 		"jp_text": "281「ダンス４０」",
-		"tr_text": "281 \"Baile 40\"",
+		"tr_text": "281 \"Dance 40\"",
 		"jp_explain": "ロビアク『ダンス４０』\nを全キャラクターで使用可能になる。",
-		"tr_explain": "Aprende una nueva accion de lobby\n\"Baile 40\"."
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Dance 40\"."
 	},
 	{
 		"assign": "3230295",
@@ -2053,16 +2053,16 @@
 	{
 		"assign": "3230296",
 		"jp_text": "283「ダンス４１」",
-		"tr_text": "283 \"Baile 41\"",
+		"tr_text": "283 \"Dance 41\"",
 		"jp_explain": "ロビアク『ダンス４１』\nを全キャラクターで使用可能になる。",
-		"tr_explain": "Aprende una nueva accion de lobby\n\"Baile 41\"."
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Dance 41\"."
 	},
 	{
 		"assign": "3230297",
 		"jp_text": "284「ダンス４２」",
-		"tr_text": "284 \"Baile 42\"",
+		"tr_text": "284 \"Dance 42\"",
 		"jp_explain": "ロビアク『ダンス４２』\nを全キャラクターで使用可能になる。",
-		"tr_explain": "Aprende una nueva accion de lobby\n\"Baile 42\"."
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Dance 42\"."
 	},
 	{
 		"assign": "3230298",
@@ -2081,9 +2081,9 @@
 	{
 		"assign": "3230300",
 		"jp_text": "287「ダンス４３」",
-		"tr_text": "287 \"Baile 43\"",
+		"tr_text": "287 \"Dance 43\"",
 		"jp_explain": "ロビアク『ダンス４３』\nを全キャラクターで使用可能になる。",
-		"tr_explain": "Aprende una nueva accion de lobby\n\"Baile 43\"."
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Dance 43\"."
 	},
 	{
 		"assign": "3230301",
@@ -2095,9 +2095,9 @@
 	{
 		"assign": "3230302",
 		"jp_text": "289「ダンス４４」",
-		"tr_text": "289 \"Baile 44\"",
+		"tr_text": "289 \"Dance 44\"",
 		"jp_explain": "ロビアク『ダンス４４』\nを全キャラクターで使用可能になる。",
-		"tr_explain": "Aprende una nueva accion de lobby\n\"Baile 44\"."
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Dance 44\"."
 	},
 	{
 		"assign": "3230303",
@@ -2151,9 +2151,9 @@
 	{
 		"assign": "3230310",
 		"jp_text": "297「ウィナーダンス」",
-		"tr_text": "297 \"Baile Winner\"",
+		"tr_text": "297 \"Dance Winner\"",
 		"jp_explain": "ロビアク『ウィナーダンス』\nを全キャラクターで使用可能になる。",
-		"tr_explain": "Aprende una nueva accion de lobby\n\"Baile Winner\"."
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Dance Winner\"."
 	},
 	{
 		"assign": "3230311",
@@ -2186,9 +2186,9 @@
 	{
 		"assign": "3230315",
 		"jp_text": "302「ダンス４５」",
-		"tr_text": "302 \"Baile 45\"",
+		"tr_text": "302 \"Dance 45\"",
 		"jp_explain": "ロビアク『ダンス４５』\nを全キャラクターで使用可能になる。",
-		"tr_explain": "Aprende una nueva accion de lobby\n\"Baile 45\"."
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Dance 45\"."
 	},
 	{
 		"assign": "3230316",
@@ -2291,9 +2291,9 @@
 	{
 		"assign": "3230330",
 		"jp_text": "317「ＡＲＫＳダンス２」",
-		"tr_text": "317 \"Baile ARKS 2\"",
+		"tr_text": "317 \"Dance ARKS 2\"",
 		"jp_explain": "ロビアク『ＡＲＫＳダンス２』\nを全キャラクターで使用可能になる。",
-		"tr_explain": "Aprende una nueva accion de lobby\n\"Baile ARKS 2\"."
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Dance ARKS 2\"."
 	},
 	{
 		"assign": "3230331",
@@ -2389,9 +2389,9 @@
 	{
 		"assign": "3230345",
 		"jp_text": "331「ポールダンス」",
-		"tr_text": "331 \"Pole Baile\"",
+		"tr_text": "331 \"Pole Dance\"",
 		"jp_explain": "ロビアク『ポールダンス』\nを全キャラクターで使用可能になる。\n対応機能：ボタン派生",
-		"tr_explain": "Aprende una nueva accion de lobby\n\"Pole Baile\".\nUsa los botones para cambiar de pose."
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Pole Dance\".\nUsa los botones para cambiar de pose."
 	},
 	{
 		"assign": "3230346",
@@ -2424,9 +2424,9 @@
 	{
 		"assign": "3230350",
 		"jp_text": "336「ダンス４６」",
-		"tr_text": "336 \"Baile 46\"",
+		"tr_text": "336 \"Dance 46\"",
 		"jp_explain": "ロビアク『ダンス４６』\nを全キャラクターで使用可能になる。",
-		"tr_explain": "Aprende una nueva accion de lobby\n\"Baile 46\"."
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Dance 46\"."
 	},
 	{
 		"assign": "3230351",
@@ -2529,9 +2529,9 @@
 	{
 		"assign": "3230365",
 		"jp_text": "351「ダンス４７」",
-		"tr_text": "351 \"Baile 47\"",
+		"tr_text": "351 \"Dance 47\"",
 		"jp_explain": "ロビアク『ダンス４７』\nを全キャラクターで使用可能になる。",
-		"tr_explain": "Aprende una nueva accion de lobby\n\"Baile 47\"."
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Dance 47\"."
 	},
 	{
 		"assign": "3230366",
@@ -2641,9 +2641,9 @@
 	{
 		"assign": "3230383",
 		"jp_text": "369「ウィナーダンス２」",
-		"tr_text": "369 \"Winner Baile 2\"",
+		"tr_text": "369 \"Winner Dance 2\"",
 		"jp_explain": "ロビアク『ウィナーダンス２』\nを全キャラクターで使用可能になる。",
-		"tr_explain": "Aprende una nueva accion de lobby\n\"Winner Baile 2\"."
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Winner Dance 2\"."
 	},
 	{
 		"assign": "3230384",
@@ -2669,9 +2669,9 @@
 	{
 		"assign": "3230387",
 		"jp_text": "373「ダンス４８」",
-		"tr_text": "373 \"Baile 48\"",
+		"tr_text": "373 \"Dance 48\"",
 		"jp_explain": "ロビアク『ダンス４８』\nを全キャラクターで使用可能になる。",
-		"tr_explain": "Aprende una nueva accion de lobby\n\"Baile 48\"."
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Dance 48\"."
 	},
 	{
 		"assign": "3230388",
@@ -2683,9 +2683,9 @@
 	{
 		"assign": "3230389",
 		"jp_text": "375「ダンス４９」",
-		"tr_text": "375 \"Baile 49\"",
+		"tr_text": "375 \"Dance 49\"",
 		"jp_explain": "ロビアク『ダンス４９』\nを全キャラクターで使用可能になる。",
-		"tr_explain": "Aprende una nueva accion de lobby\n\"Baile 49\"."
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Dance 49\"."
 	},
 	{
 		"assign": "3230390",
@@ -2704,9 +2704,9 @@
 	{
 		"assign": "3230392",
 		"jp_text": "378「ダンス５０」",
-		"tr_text": "378 \"Baile 50\"",
+		"tr_text": "378 \"Dance 50\"",
 		"jp_explain": "ロビアク『ダンス５０』\nを全キャラクターで使用可能になる。",
-		"tr_explain": "Aprende una nueva accion de lobby\n\"Baile 50\"."
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Dance 50\"."
 	},
 	{
 		"assign": "3230393",
@@ -2788,9 +2788,9 @@
 	{
 		"assign": "3230404",
 		"jp_text": "390「ダンス５１」",
-		"tr_text": "390 \"Baile 51\"",
+		"tr_text": "390 \"Dance 51\"",
 		"jp_explain": "ロビアク『ダンス５１』\nを全キャラクターで使用可能になる。",
-		"tr_explain": "Aprende una nueva accion de lobby\n\"Baile 51\"."
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Dance 51\"."
 	},
 	{
 		"assign": "3230405",
@@ -2977,9 +2977,9 @@
 	{
 		"assign": "3230433",
 		"jp_text": "419「ダンス５２」",
-		"tr_text": "419 \"Baile 52\"",
+		"tr_text": "419 \"Dance 52\"",
 		"jp_explain": "ロビアク『ダンス５２』\nを全キャラクターで使用可能になる。",
-		"tr_explain": "Aprende una nueva accion de lobby\n\"Baile 52\"."
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Dance 52\"."
 	},
 	{
 		"assign": "3230434",
@@ -3054,9 +3054,9 @@
 	{
 		"assign": "3230444",
 		"jp_text": "430「ダンス５３」",
-		"tr_text": "430 \"Baile 53\"",
+		"tr_text": "430 \"Dance 53\"",
 		"jp_explain": "ロビアク『ダンス５３』\nを全キャラクターで使用可能になる。",
-		"tr_explain": "Aprende una nueva accion de lobby\n\"Baile 53\"."
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Dance 53\"."
 	},
 	{
 		"assign": "3230445",
@@ -3238,7 +3238,7 @@
 		"jp_text": "456「スイパラポーズ」",
 		"tr_text": "456 \"Sweets Paradise Pose\"",
 		"jp_explain": "ロビアク『スイパラポーズ』\nを全キャラクターで使用可能になる。\n対応機能：ボタン派生",
-		"tr_explain": "Unlocks the new lobby action\n\"Sweets Paradise Pose\".\nUse action buttons for extra actions."
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Sweets Paradise Pose\".\nnUsa los botones para cambiar de pose."
 	},
 	{
 		"assign": "3230473",
@@ -3560,41 +3560,41 @@
 		"jp_text": "505「ファントムポーズ」",
 		"tr_text": "505 \"Phantom Pose\"",
 		"jp_explain": "ロビアク『ファントムポーズ』\nを全キャラクターで使用可能になる。",
-		"tr_explain": "Unlocks the new lobby action\n\"Phantom Pose\"."
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Phantom Pose\"."
 	},
 	{
 		"assign": "3230520",
 		"jp_text": "506「登場」",
 		"tr_text": "506 \"Arrival\"",
 		"jp_explain": "ロビアク『登場』\nを全キャラクターで使用可能になる。",
-		"tr_explain": "Unlocks the new lobby action\n\"Arrival\"."
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Arrival\"."
 	},
 	{
 		"assign": "3230521",
 		"jp_text": "507「斜めポーズ」",
 		"tr_text": "507 \"Lean Pose\"",
 		"jp_explain": "ロビアク『斜めポーズ』\nを全キャラクターで使用可能になる。",
-		"tr_explain": "Unlocks the new lobby action\n\"Lean Pose\"."
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Lean Pose\"."
 	},
 	{
 		"assign": "3230524",
 		"jp_text": "510「このすば１」",
 		"tr_text": "510 \"Konosuba 1\"",
 		"jp_explain": "ロビアク『このすば１』\nを全キャラクターで使用可能になる。\n対応機能：ボタン派生",
-		"tr_explain": "Unlocks the new lobby action\n\"Konosuba 1\"."
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Konosuba 1\"."
 	},
 	{
 		"assign": "3230525",
 		"jp_text": "511「このすば２」",
 		"tr_text": "511 \"Konosuba 2\"",
 		"jp_explain": "ロビアク『このすば２』\nを全キャラクターで使用可能になる。",
-		"tr_explain": "Unlocks the new lobby action\n\"Konosuba 2\"."
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Konosuba 2\"."
 	},
 	{
 		"assign": "3230526",
 		"jp_text": "512「このすば３」",
 		"tr_text": "512 \"Konosuba 3\"",
 		"jp_explain": "ロビアク『このすば３』\nを全キャラクターで使用可能になる。\n対応機能：リアクション",
-		"tr_explain": "Unlocks the new lobby action\n\"Konosuba 3\"."
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Konosuba 3\"."
 	}
 ]

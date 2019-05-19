@@ -480,7 +480,7 @@
 		"jp_text": "ウェポンズバッヂ２０１９",
 		"tr_text": "Weapons Badge 2019",
 		"jp_explain": "表面に特徴的な紋章、裏面に謎の年号が\n刻印されたバッヂ。提示することで\n様々なアイテムと交換可能。",
-		"tr_explain": "An emblem with an engraved design.\nA mysterious year is printed on the\nback. Can be traded for prizes."
+		"tr_explain": "Emblema con un diseйo grabado.\nEn su parte posterior tiene impreso\nuna misteriosa fecha.\nPuede ser cambiado por premios."
 	},
 	{
 		"assign": "37079",
@@ -501,7 +501,7 @@
 		"jp_text": "勇者の紋章",
 		"tr_text": "Hero's Crest",
 		"jp_explain": "様々な戦場で活躍したアークスの証。\n提示することで、ジグの持つ\n貴重なアイテムと交換ができる。",
-		"tr_explain": "Proof of an ARKS who took part in\nmany great battles. Can be traded\nto Zieg in exchange for items."
+		"tr_explain": "Prueba de un ARKS que participo en\nmuchas grandes batallas. pueden ser\nintercambiadas por armas con Zieg."
 	},
 	{
 		"assign": "37084",

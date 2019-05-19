@@ -93,42 +93,42 @@
 	{
 		"assign": "321015",
 		"jp_text": "属性変化（炎属性）",
-		"tr_text": "Attribute Change (Fuego)",
+		"tr_text": "Attribute Change (Fire)",
 		"jp_explain": "属性強化用の強化変成素材。\n属性強化時に使用することで\n【炎】属性へと変化させる。",
 		"tr_explain": "Cuando estas mejorando el atributo.\nCambia el atributo del arma ha\n\"Fuego\"."
 	},
 	{
 		"assign": "321016",
 		"jp_text": "属性変化（氷属性）",
-		"tr_text": "Attribute Change (Hielo)",
+		"tr_text": "Attribute Change (Ice)",
 		"jp_explain": "属性強化用の強化変成素材。\n属性強化時に使用することで\n【氷】属性へと変化させる。",
 		"tr_explain": "Cuando estas mejorando el atributo.\nCambia el atributo del arma ha\n\"Hielo\"."
 	},
 	{
 		"assign": "321017",
 		"jp_text": "属性変化（雷属性）",
-		"tr_text": "Attribute Change (Trueno)",
+		"tr_text": "Attribute Change (Lightning)",
 		"jp_explain": "属性強化用の強化変成素材。\n属性強化時に使用することで\n【雷】属性へと変化させる。",
 		"tr_explain": "Cuando estas mejorando el atributo.\nChanges weapon attribute\nto \"Trueno\"."
 	},
 	{
 		"assign": "321018",
 		"jp_text": "属性変化（風属性）",
-		"tr_text": "Attribute Change (Viento)",
+		"tr_text": "Attribute Change (Wind)",
 		"jp_explain": "属性強化用の強化変成素材。\n属性強化時に使用することで\n【風】属性へと変化させる。",
 		"tr_explain": "Cuando estas mejorando el atributo.\nCambia el atributo del arma ha\n\"Viento\"."
 	},
 	{
 		"assign": "321019",
 		"jp_text": "属性変化（光属性）",
-		"tr_text": "Attribute Change (Luz)",
+		"tr_text": "Attribute Change (Light)",
 		"jp_explain": "属性強化用の強化変成素材。\n属性強化時に使用することで\n【光】属性へと変化させる。",
 		"tr_explain": "Cuando estas mejorando el atributo.\nCambia el atributo del arma ha\n\"Luz\"."
 	},
 	{
 		"assign": "321020",
 		"jp_text": "属性変化（闇属性）",
-		"tr_text": "Attribute Change (Oscuridad)",
+		"tr_text": "Attribute Change (Dark)",
 		"jp_explain": "属性強化用の強化変成素材。\n属性強化時に使用することで\n【闇】属性へと変化させる。",
 		"tr_explain": "Cuando estas mejorando el atributo.\nCambia el atributo del arma ha\n\"Oscuridad\"."
 	},
