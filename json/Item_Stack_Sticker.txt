@@ -347,7 +347,11 @@
 		"jp_text": "フレッツ光ステッカー",
 		"tr_text": "Furettsu Hikari Sticker",
 		"jp_explain": "特定ステッカーの装着許可チケット。\n使用すると、新しいステッカーの\nフレッツ光が選択可能。",
+		"tr_explain": "Desbloquea el emblema\n\"Furettsu Hikari\"\npara usar en el Estilista."
+	},
+	{
 		"assign": "317061",
+		"jp_text": "オウガタイガーステッカーＢ",
 		"tr_text": "Ogre Tiger Sticker B",
 		"jp_explain": "特定ステッカーの装着許可チケット。\n使用すると、新しいステッカーの\nオウガタイガーＢが選択可能。",
 		"tr_explain": "Desbloquea el emblema\n\"Ogre Tiger B\"\npara usar en el Estilista."
