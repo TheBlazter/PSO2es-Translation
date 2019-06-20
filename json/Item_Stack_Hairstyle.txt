@@ -2613,7 +2613,7 @@
 	{
 		"assign": "3150427",
 		"jp_text": "ウィザードペタソス",
-		"tr_text": "Wizard’s Petasos",
+		"tr_text": "Wizard's Petasos",
 		"jp_explain": "チケットを使用すると、新しい髪型の\nウィザードペタソスが選択可能。",
 		"tr_explain": "Desbloquea el peinado\n\"Wizard’s Petasos\"\npara usar en el Estilista."
 	},
@@ -4636,9 +4636,9 @@
 	{
 		"assign": "3150801",
 		"jp_text": "初代ＫＫヘアー",
-		"tr_text": "First Gen KK Hair",
+		"tr_text": "First Gen CC Hair",
 		"jp_explain": "チケットを使用すると、新しい髪型の\n初代ＫＫヘアーが選択可能。",
-		"tr_explain": "Desbloquea el peinado\n\"First Gen KK Hair\"\npara usar en el Estilista."
+		"tr_explain": "Desbloquea el peinado\n\"First Gen CC Hair\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3150802",
@@ -5024,5 +5024,138 @@
 		"tr_text": "Akhtar Hair 2",
 		"jp_explain": "チケットを使用すると、新しい髪型の\nアフタルヘアー２が選択可能。",
 		"tr_explain": "Desbloquea el peinado\n\"Akhtar Hair 2\"\npara usar en el Estilista."
+	},
+	{
+		"assign": "3150866",
+		"jp_text": "斜め切りサイドテール",
+		"tr_text": "Slanted Bangs Side Tail",
+		"jp_explain": "チケットを使用すると、新しい髪型の\n斜め切りサイドテールが選択可能。",
+		"tr_explain": "Unlocks the hairstyle\n\"Slanted Bangs Side Tail\"\nfor use in the Beauty Salon."
+	},
+	{
+		"assign": "3150867",
+		"jp_text": "リトル三つ編みヘアー",
+		"tr_text": "Little Braided Hair",
+		"jp_explain": "チケットを使用すると、新しい髪型の\nリトル三つ編みヘアーが選択可能。",
+		"tr_explain": "Unlocks the hairstyle\n\"Little Braided Hair\"\nfor use in the Beauty Salon."
+	},
+	{
+		"assign": "3150868",
+		"jp_text": "オニツキミコンヘアー",
+		"tr_text": "Onitsukimikon Hair",
+		"jp_explain": "チケットを使用すると、新しい髪型の\nオニツキミコンヘアーが選択可能。",
+		"tr_explain": "Unlocks the hairstyle\n\"Onitsukimikon Hair\"\nfor use in the Beauty Salon."
+	},
+	{
+		"assign": "3150869",
+		"jp_text": "キャッシフフード",
+		"tr_text": "Catschief Hood",
+		"jp_explain": "チケットを使用すると、新しい髪型の\nキャッシフフードが選択可能。",
+		"tr_explain": "Unlocks the hairstyle\n\"Catschief Hood\"\nfor use in the Beauty Salon."
+	},
+	{
+		"assign": "3150870",
+		"jp_text": "モルフォルテシモヘアー",
+		"tr_text": "Morphortissimo Hair",
+		"jp_explain": "チケットを使用すると、新しい髪型の\nモルフォルテシモヘアーが選択可能。",
+		"tr_explain": "Unlocks the hairstyle\n\"Morphortissimo Hair\"\nfor use in the Beauty Salon."
+	},
+	{
+		"assign": "3150871",
+		"jp_text": "御剣冥夜ヘアー",
+		"tr_text": "Mitsurugi Meiya Hair",
+		"jp_explain": "チケットを使用すると、新しい髪型の\n御剣冥夜ヘアーが選択可能。",
+		"tr_explain": "Unlocks the hairstyle\n\"Mitsurugi Meiya Hair\"\nfor use in the Beauty Salon."
+	},
+	{
+		"assign": "3150872",
+		"jp_text": "ビターシムーンフードＢ",
+		"tr_text": "Bitter Simoom Hood B",
+		"jp_explain": "チケットを使用すると、新しい髪型の\nビターシムーンフードＢが選択可能。",
+		"tr_explain": "Unlocks the hairstyle\n\"Bitter Simoom Hood B\"\nfor use in the Beauty Salon."
+	},
+	{
+		"assign": "3150873",
+		"jp_text": "スイートシムーンフードＢ",
+		"tr_text": "Sweet Simoom Hood B",
+		"jp_explain": "チケットを使用すると、新しい髪型の\nスイートシムーンフードＢが選択可能。",
+		"tr_explain": "Unlocks the hairstyle\n\"Sweet Simoom Hood B\"\nfor use in the Beauty Salon."
+	},
+	{
+		"assign": "3150874",
+		"jp_text": "カースドフードＢ",
+		"tr_text": "Cursed Hood B",
+		"jp_explain": "チケットを使用すると、新しい髪型の\nカースドフードＢが選択可能。",
+		"tr_explain": "Unlocks the hairstyle\n\"Cursed Hood B\"\nfor use in the Beauty Salon."
+	},
+	{
+		"assign": "3150875",
+		"jp_text": "シャオヘアー２",
+		"tr_text": "",
+		"jp_explain": "チケットを使用すると、新しい髪型の\nシャオヘアー２が選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3150876",
+		"jp_text": "エルミルヘアーＧＶ",
+		"tr_text": "Elmir Hair GV",
+		"jp_explain": "チケットを使用すると、新しい髪型の\nエルミルヘアーＧＶが選択可能。",
+		"tr_explain": "Unlocks the hairstyle\n\"Elmir Hair GV\"\nfor use in the Beauty Salon."
+	},
+	{
+		"assign": "3150877",
+		"jp_text": "ハリエットヘアー５",
+		"tr_text": "Harriet Hair 5",
+		"jp_explain": "チケットを使用すると、新しい髪型の\nハリエットヘアー５が選択可能。",
+		"tr_explain": "Unlocks the hairstyle\n\"Harriet Hair 5\"\nfor use in the Beauty Salon."
+	},
+	{
+		"assign": "3150878",
+		"jp_text": "アシメロングウルフ",
+		"tr_text": "",
+		"jp_explain": "チケットを使用すると、新しい髪型の\nアシメロングウルフが選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3150879",
+		"jp_text": "アンニュイボブヘアーＧＶ",
+		"tr_text": "",
+		"jp_explain": "チケットを使用すると、新しい髪型の\nアンニュイボブヘアーＧＶが選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3150880",
+		"jp_text": "前分けハーフアップロング",
+		"tr_text": "",
+		"jp_explain": "チケットを使用すると、新しい髪型の\n前分けハーフアップロングが選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3150881",
+		"jp_text": "カラカズラヘアーＢ",
+		"tr_text": "",
+		"jp_explain": "チケットを使用すると、新しい髪型の\nカラカズラヘアーＢが選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3150882",
+		"jp_text": "トイフェルノンネフードＢ",
+		"tr_text": "",
+		"jp_explain": "チケットを使用すると、新しい髪型の\nトイフェルノンネフードＢが選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3150883",
+		"jp_text": "スキンヘッドロング",
+		"tr_text": "",
+		"jp_explain": "チケットを使用すると、新しい髪型の\nスキンヘッドロングが選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3150884",
+		"jp_text": "目隠しアシメショート",
+		"tr_text": "Asymmetric Short Bangs",
+		"jp_explain": "チケットを使用すると、新しい髪型の\n目隠しアシメショートが選択可能。",
+		"tr_explain": "Unlocks the hairstyle\n\"Asymmetric Short Bangs\"\nfor use in the Beauty Salon."
 	}
 ]

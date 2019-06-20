@@ -1030,6 +1030,16 @@
 		"tr_text": "Damage boost up"
 	},
 	{
+		"assign": "208",
+		"jp_text": "ダメージ量アップ",
+		"tr_text": "Damage boost up"
+	},
+	{
+		"assign": "209",
+		"jp_text": "ダメージ量アップ",
+		"tr_text": "Damage boost up"
+	},
+	{
 		"assign": "997",
 		"jp_text": "ダメージ量アップ",
 		"tr_text": "Damage boost up"

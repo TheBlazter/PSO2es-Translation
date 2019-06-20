@@ -609,6 +609,13 @@
 		"tr_explain": "A wand made with state-of-the-art\nbioengineering. Enhanced with a\nhigh-purity culture solution."
 	},
 	{
+		"assign": "1130125",
+		"jp_text": "ブラッドパイラス",
+		"tr_text": "Blood Pyrus",
+		"jp_explain": "最先端の生体工学を応用し開発された\n短杖。生細胞液の循環により赤味を帯び\nあらゆる状況下での機能低下を防ぐ。",
+		"tr_explain": ""
+	},
+	{
 		"assign": "1130126",
 		"jp_text": "グラスマカロ",
 		"tr_text": "Glass Macaro",
@@ -1122,9 +1129,9 @@
 	{
 		"assign": "1130298",
 		"jp_text": "宝剣バルムンク-NT",
-		"tr_text": "Precious Balmung-NT",
+		"tr_text": "Precious Sword Balmung-NT",
 		"jp_explain": "全身を貴重な宝石のみで構成した短杖。\nその構造上、もはや杖ではなく剣であり\n増幅された法力によって敵を両断する。",
-		"tr_explain": ""
+		"tr_explain": "A wand made entirely out of jewelry.\nAs a sword, it can split enemies in\ntwo with its amplified tech power."
 	},
 	{
 		"assign": "1130299",
@@ -1389,7 +1396,7 @@
 		"assign": "1130422",
 		"jp_text": "ディムウォンド",
 		"tr_text": "Dim Wand",
-		"jp_explain": "次世代の主力として開発された短杖。\n偶発的に禍々しい力を備え、設計以上の\n力を持つが、使用者への影響は未解析。",
+		"jp_explain": "次世代の主力として開発された短杖。\n偶発的に禍々しい力を備え、設計以上の\n力を持つが、使用者への影響は未知数。",
 		"tr_explain": ""
 	}
 ]

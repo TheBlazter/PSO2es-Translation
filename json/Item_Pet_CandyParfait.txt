@@ -1,1192 +1,1297 @@
 [
 	{
 		"assign": "33800",
-		"jp_text": "きあいパフェ",
+		"jp_text": "きあぁE��フェ",
 		"tr_text": "Bolster Parfait",
-		"jp_explain": "ペット用のキャンディー。\nペットとプレイヤーの距離が近いほど\n与えるダメージが上昇する。",
-		"tr_explain": "Un dulce para tu pet.\nWhen pet and player are within\na certain range, damage is increased."
+		"jp_explain": "ペット用のキャンチE��ー、Enペットとプレイヤーの距離が近いほど\n与えるダメージが上�Eする、E,
+		"tr_explain": "A candy for your pet.\nWhen pet and player are within\na certain range, damage is increased."
 	},
 	{
 		"assign": "33801",
-		"jp_text": "きあいパフェ＋１",
+		"jp_text": "きあぁE��フェ�E�！E,
 		"tr_text": "Bolster Parfait+1",
-		"jp_explain": "ペット用のキャンディー。\nペットとプレイヤーの距離が近いほど\n与えるダメージが上昇する。",
-		"tr_explain": "Un dulce para tu pet.\nWhen pet and player are within\na certain range, damage is increased."
+		"jp_explain": "ペット用のキャンチE��ー、Enペットとプレイヤーの距離が近いほど\n与えるダメージが上�Eする、E,
+		"tr_explain": "A candy for your pet.\nWhen pet and player are within\na certain range, damage is increased."
 	},
 	{
 		"assign": "33802",
-		"jp_text": "きあいパフェ＋２",
+		"jp_text": "きあぁE��フェ�E�！E,
 		"tr_text": "Bolster Parfait+2",
-		"jp_explain": "ペット用のキャンディー。\nペットとプレイヤーの距離が近いほど\n与えるダメージが上昇する。",
-		"tr_explain": "Un dulce para tu pet.\nWhen pet and player are within\na certain range, damage is increased."
+		"jp_explain": "ペット用のキャンチE��ー、Enペットとプレイヤーの距離が近いほど\n与えるダメージが上�Eする、E,
+		"tr_explain": "A candy for your pet.\nWhen pet and player are within\na certain range, damage is increased."
 	},
 	{
 		"assign": "33803",
-		"jp_text": "きあいパフェ＋３",
+		"jp_text": "きあぁE��フェ�E�！E,
 		"tr_text": "Bolster Parfait+3",
-		"jp_explain": "ペット用のキャンディー。\nペットとプレイヤーの距離が近いほど\n与えるダメージが上昇する。",
-		"tr_explain": "Un dulce para tu pet.\nWhen pet and player are within\na certain range, damage is increased."
+		"jp_explain": "ペット用のキャンチE��ー、Enペットとプレイヤーの距離が近いほど\n与えるダメージが上�Eする、E,
+		"tr_explain": "A candy for your pet.\nWhen pet and player are within\na certain range, damage is increased."
 	},
 	{
 		"assign": "33804",
-		"jp_text": "きあいパフェ＋４",
+		"jp_text": "きあぁE��フェ�E�！E,
 		"tr_text": "Bolster Parfait+4",
-		"jp_explain": "ペット用のキャンディー。\nペットとプレイヤーの距離が近いほど\n与えるダメージが上昇する。",
-		"tr_explain": "Un dulce para tu pet.\nWhen pet and player are within\na certain range, damage is increased."
+		"jp_explain": "ペット用のキャンチE��ー、Enペットとプレイヤーの距離が近いほど\n与えるダメージが上�Eする、E,
+		"tr_explain": "A candy for your pet.\nWhen pet and player are within\na certain range, damage is increased."
 	},
 	{
 		"assign": "33805",
 		"jp_text": "ぎゃくてんパフェ",
 		"tr_text": "Reversal Parfait",
-		"jp_explain": "ペット用のキャンディー。\nペットのＨＰが１／４以下の時\nダメージが上昇する。",
-		"tr_explain": "Un dulce para tu pet.\nWhen Pet HP is less than 1/4 of its\nmax HP, damage is increased by 6%."
+		"jp_explain": "ペット用のキャンチE��ー、Enペット�E�E��E�が１／４以下�E晁Enダメージが上�Eする、E,
+		"tr_explain": "A candy for your pet.\nWhen Pet HP is less than 1/4 of its\nmax HP, damage is increased by 6%."
 	},
 	{
 		"assign": "33806",
-		"jp_text": "ぎゃくてんパフェ＋１",
+		"jp_text": "ぎゃくてんパフェ�E�！E,
 		"tr_text": "Reversal Parfait+1",
-		"jp_explain": "ペット用のキャンディー。\nペットのＨＰが１／４以下の時\nダメージが上昇する。",
-		"tr_explain": "Un dulce para tu pet.\nWhen Pet HP is less than 1/4 of its\nmax HP, damage is increased by 6%."
+		"jp_explain": "ペット用のキャンチE��ー、Enペット�E�E��E�が１／４以下�E晁Enダメージが上�Eする、E,
+		"tr_explain": "A candy for your pet.\nWhen Pet HP is less than 1/4 of its\nmax HP, damage is increased by 6%."
 	},
 	{
 		"assign": "33807",
-		"jp_text": "ぎゃくてんパフェ＋２",
+		"jp_text": "ぎゃくてんパフェ�E�！E,
 		"tr_text": "Reversal Parfait+2",
-		"jp_explain": "ペット用のキャンディー。\nペットのＨＰが１／４以下の時\nダメージが上昇する。",
-		"tr_explain": "Un dulce para tu pet.\nWhen Pet HP is less than 1/4 of its\nmax HP, damage is increased by 6%."
+		"jp_explain": "ペット用のキャンチE��ー、Enペット�E�E��E�が１／４以下�E晁Enダメージが上�Eする、E,
+		"tr_explain": "A candy for your pet.\nWhen Pet HP is less than 1/4 of its\nmax HP, damage is increased by 6%."
 	},
 	{
 		"assign": "33808",
-		"jp_text": "ぎゃくてんパフェ＋３",
+		"jp_text": "ぎゃくてんパフェ�E�！E,
 		"tr_text": "Reversal Parfait+3",
-		"jp_explain": "ペット用のキャンディー。\nペットのＨＰが１／４以下の時\nダメージが上昇する。",
-		"tr_explain": "Un dulce para tu pet.\nWhen Pet HP is less than 1/4 of its\nmax HP, damage is increased by 6%."
+		"jp_explain": "ペット用のキャンチE��ー、Enペット�E�E��E�が１／４以下�E晁Enダメージが上�Eする、E,
+		"tr_explain": "A candy for your pet.\nWhen Pet HP is less than 1/4 of its\nmax HP, damage is increased by 6%."
 	},
 	{
 		"assign": "33809",
-		"jp_text": "ぎゃくてんパフェ＋４",
+		"jp_text": "ぎゃくてんパフェ�E�！E,
 		"tr_text": "Reversal Parfait+4",
-		"jp_explain": "ペット用のキャンディー。\nペットのＨＰが１／４以下の時\nダメージが上昇する。",
-		"tr_explain": "Un dulce para tu pet.\nWhen Pet HP is less than 1/4 of its\nmax HP, damage is increased by 6%."
+		"jp_explain": "ペット用のキャンチE��ー、Enペット�E�E��E�が１／４以下�E晁Enダメージが上�Eする、E,
+		"tr_explain": "A candy for your pet.\nWhen Pet HP is less than 1/4 of its\nmax HP, damage is increased by 6%."
 	},
 	{
 		"assign": "338010",
 		"jp_text": "はりきりパフェ",
 		"tr_text": "Spirited Parfait",
-		"jp_explain": "ペット用のキャンディー。\nペットの通常攻撃の\nダメージが上昇する。",
-		"tr_explain": "Un dulce para tu pet.\nIncreases damage of\nPet normal attacks by 40%."
+		"jp_explain": "ペット用のキャンチE��ー、Enペット�E通常攻撁E�E\nダメージが上�Eする、E,
+		"tr_explain": "A candy for your pet.\nIncreases damage of\nPet normal attacks by 40%."
 	},
 	{
 		"assign": "338011",
-		"jp_text": "はりきりパフェ＋１",
+		"jp_text": "はりきりパフェ�E�！E,
 		"tr_text": "Spirited Parfait+1",
-		"jp_explain": "ペット用のキャンディー。\nペットの通常攻撃の\nダメージが上昇する。",
-		"tr_explain": "Un dulce para tu pet.\nIncreases damage of\nPet normal attacks by 40%."
+		"jp_explain": "ペット用のキャンチE��ー、Enペット�E通常攻撁E�E\nダメージが上�Eする、E,
+		"tr_explain": "A candy for your pet.\nIncreases damage of\nPet normal attacks by 40%."
 	},
 	{
 		"assign": "338012",
-		"jp_text": "はりきりパフェ＋２",
+		"jp_text": "はりきりパフェ�E�！E,
 		"tr_text": "Spirited Parfait+2",
-		"jp_explain": "ペット用のキャンディー。\nペットの通常攻撃の\nダメージが上昇する。",
-		"tr_explain": "Un dulce para tu pet.\nIncreases damage of\nPet normal attacks by 40%."
+		"jp_explain": "ペット用のキャンチE��ー、Enペット�E通常攻撁E�E\nダメージが上�Eする、E,
+		"tr_explain": "A candy for your pet.\nIncreases damage of\nPet normal attacks by 40%."
 	},
 	{
 		"assign": "338013",
-		"jp_text": "はりきりパフェ＋３",
+		"jp_text": "はりきりパフェ�E�！E,
 		"tr_text": "Spirited Parfait+3",
-		"jp_explain": "ペット用のキャンディー。\nペットの通常攻撃の\nダメージが上昇する。",
-		"tr_explain": "Un dulce para tu pet.\nIncreases damage of\nPet normal attacks by 40%."
+		"jp_explain": "ペット用のキャンチE��ー、Enペット�E通常攻撁E�E\nダメージが上�Eする、E,
+		"tr_explain": "A candy for your pet.\nIncreases damage of\nPet normal attacks by 40%."
 	},
 	{
 		"assign": "338014",
-		"jp_text": "はりきりパフェ＋４",
+		"jp_text": "はりきりパフェ�E�！E,
 		"tr_text": "Spirited Parfait+4",
-		"jp_explain": "ペット用のキャンディー。\nペットの通常攻撃の\nダメージが上昇する。",
-		"tr_explain": "Un dulce para tu pet.\nIncreases damage of\nPet normal attacks by 40%."
+		"jp_explain": "ペット用のキャンチE��ー、Enペット�E通常攻撁E�E\nダメージが上�Eする、E,
+		"tr_explain": "A candy for your pet.\nIncreases damage of\nPet normal attacks by 40%."
 	},
 	{
 		"assign": "338015",
 		"jp_text": "ひっさつパフェ",
 		"tr_text": "Deadly Parfait",
-		"jp_explain": "ペット用のキャンディー。\nペットの攻撃のクリティカル時の\nダメージが上昇する。",
-		"tr_explain": "Un dulce para tu pet.\nIncreases damage of\nPet critical hits by 10%."
+		"jp_explain": "ペット用のキャンチE��ー、Enペット�E攻撁E�EクリチE��カル時�E\nダメージが上�Eする、E,
+		"tr_explain": "A candy for your pet.\nIncreases damage of\nPet critical hits by 10%."
 	},
 	{
 		"assign": "338016",
-		"jp_text": "ひっさつパフェ＋１",
+		"jp_text": "ひっさつパフェ�E�！E,
 		"tr_text": "Deadly Parfait+1",
-		"jp_explain": "ペット用のキャンディー。\nペットの攻撃のクリティカル時の\nダメージが上昇する。",
-		"tr_explain": "Un dulce para tu pet.\nIncreases damage of\nPet critical hits by 10%."
+		"jp_explain": "ペット用のキャンチE��ー、Enペット�E攻撁E�EクリチE��カル時�E\nダメージが上�Eする、E,
+		"tr_explain": "A candy for your pet.\nIncreases damage of\nPet critical hits by 10%."
 	},
 	{
 		"assign": "338017",
-		"jp_text": "ひっさつパフェ＋２",
+		"jp_text": "ひっさつパフェ�E�！E,
 		"tr_text": "Deadly Parfait+2",
-		"jp_explain": "ペット用のキャンディー。\nペットの攻撃のクリティカル時の\nダメージが上昇する。",
-		"tr_explain": "Un dulce para tu pet.\nIncreases damage of\nPet critical hits by 10%."
+		"jp_explain": "ペット用のキャンチE��ー、Enペット�E攻撁E�EクリチE��カル時�E\nダメージが上�Eする、E,
+		"tr_explain": "A candy for your pet.\nIncreases damage of\nPet critical hits by 10%."
 	},
 	{
 		"assign": "338018",
-		"jp_text": "ひっさつパフェ＋３",
+		"jp_text": "ひっさつパフェ�E�！E,
 		"tr_text": "Deadly Parfait+3",
-		"jp_explain": "ペット用のキャンディー。\nペットの攻撃のクリティカル時の\nダメージが上昇する。",
-		"tr_explain": "Un dulce para tu pet.\nIncreases damage of\nPet critical hits by 10%."
+		"jp_explain": "ペット用のキャンチE��ー、Enペット�E攻撁E�EクリチE��カル時�E\nダメージが上�Eする、E,
+		"tr_explain": "A candy for your pet.\nIncreases damage of\nPet critical hits by 10%."
 	},
 	{
 		"assign": "338019",
-		"jp_text": "ひっさつパフェ＋４",
+		"jp_text": "ひっさつパフェ�E�！E,
 		"tr_text": "Deadly Parfait+4",
-		"jp_explain": "ペット用のキャンディー。\nペットの攻撃のクリティカル時の\nダメージが上昇する。",
-		"tr_explain": "Un dulce para tu pet.\nIncreases damage of\nPet critical hits by 10%."
+		"jp_explain": "ペット用のキャンチE��ー、Enペット�E攻撁E�EクリチE��カル時�E\nダメージが上�Eする、E,
+		"tr_explain": "A candy for your pet.\nIncreases damage of\nPet critical hits by 10%."
 	},
 	{
 		"assign": "338020",
 		"jp_text": "ぴったりパフェ",
 		"tr_text": "Perfect Parfait",
-		"jp_explain": "ペット用のキャンディー。\nペットが弱点属性で攻撃した時の\nダメージが上昇する。",
-		"tr_explain": "Un dulce para tu pet.\nIncreases damage of Pet\nElemental Weakness hits by 7%."
+		"jp_explain": "ペット用のキャンチE��ー、Enペットが弱点属性で攻撁E��た時の\nダメージが上�Eする、E,
+		"tr_explain": "A candy for your pet.\nIncreases damage of Pet\nElemental Weakness hits by 7%."
 	},
 	{
 		"assign": "338021",
-		"jp_text": "ぴったりパフェ＋１",
+		"jp_text": "ぴったりパフェ�E�！E,
 		"tr_text": "Perfect Parfait+1",
-		"jp_explain": "ペット用のキャンディー。\nペットが弱点属性で攻撃した時の\nダメージが上昇する。",
-		"tr_explain": "Un dulce para tu pet.\nIncreases damage of Pet\nElemental Weakness hits by 7%."
+		"jp_explain": "ペット用のキャンチE��ー、Enペットが弱点属性で攻撁E��た時の\nダメージが上�Eする、E,
+		"tr_explain": "A candy for your pet.\nIncreases damage of Pet\nElemental Weakness hits by 7%."
 	},
 	{
 		"assign": "338022",
-		"jp_text": "ぴったりパフェ＋２",
+		"jp_text": "ぴったりパフェ�E�！E,
 		"tr_text": "Perfect Parfait+2",
-		"jp_explain": "ペット用のキャンディー。\nペットが弱点属性で攻撃した時の\nダメージが上昇する。",
-		"tr_explain": "Un dulce para tu pet.\nIncreases damage of Pet\nElemental Weakness hits by 7%."
+		"jp_explain": "ペット用のキャンチE��ー、Enペットが弱点属性で攻撁E��た時の\nダメージが上�Eする、E,
+		"tr_explain": "A candy for your pet.\nIncreases damage of Pet\nElemental Weakness hits by 7%."
 	},
 	{
 		"assign": "338023",
-		"jp_text": "ぴったりパフェ＋３",
+		"jp_text": "ぴったりパフェ�E�！E,
 		"tr_text": "Perfect Parfait+3",
-		"jp_explain": "ペット用のキャンディー。\nペットが弱点属性で攻撃した時の\nダメージが上昇する。",
-		"tr_explain": "Un dulce para tu pet.\nIncreases damage of Pet\nElemental Weakness hits by 7%."
+		"jp_explain": "ペット用のキャンチE��ー、Enペットが弱点属性で攻撁E��た時の\nダメージが上�Eする、E,
+		"tr_explain": "A candy for your pet.\nIncreases damage of Pet\nElemental Weakness hits by 7%."
 	},
 	{
 		"assign": "338024",
-		"jp_text": "ぴったりパフェ＋４",
+		"jp_text": "ぴったりパフェ�E�！E,
 		"tr_text": "Perfect Parfait+4",
-		"jp_explain": "ペット用のキャンディー。\nペットが弱点属性で攻撃した時の\nダメージが上昇する。",
-		"tr_explain": "Un dulce para tu pet.\nIncreases damage of Pet\nElemental Weakness hits by 7%."
+		"jp_explain": "ペット用のキャンチE��ー、Enペットが弱点属性で攻撁E��た時の\nダメージが上�Eする、E,
+		"tr_explain": "A candy for your pet.\nIncreases damage of Pet\nElemental Weakness hits by 7%."
 	},
 	{
 		"assign": "338030",
 		"jp_text": "メガトンパフェ",
 		"tr_text": "Megaton Parfait",
-		"jp_explain": "ペット用のキャンディー。\nペットが強敵に与える\nダメージが上昇する。",
-		"tr_explain": "Un dulce para tu pet.\nIncreases damage dealt\nto bosses by 9%."
+		"jp_explain": "ペット用のキャンチE��ー、Enペットが強敵に与える\nダメージが上�Eする、E,
+		"tr_explain": "A candy for your pet.\nIncreases damage dealt\nto bosses by 9%."
 	},
 	{
 		"assign": "338031",
-		"jp_text": "メガトンパフェ＋１",
+		"jp_text": "メガトンパフェ�E�！E,
 		"tr_text": "Megaton Parfait+1",
-		"jp_explain": "ペット用のキャンディー。\nペットが強敵に与える\nダメージが上昇する。",
-		"tr_explain": "Un dulce para tu pet.\nIncreases damage dealt\nto bosses by 9%."
+		"jp_explain": "ペット用のキャンチE��ー、Enペットが強敵に与える\nダメージが上�Eする、E,
+		"tr_explain": "A candy for your pet.\nIncreases damage dealt\nto bosses by 9%."
 	},
 	{
 		"assign": "338032",
-		"jp_text": "メガトンパフェ＋２",
+		"jp_text": "メガトンパフェ�E�！E,
 		"tr_text": "Megaton Parfait+2",
-		"jp_explain": "ペット用のキャンディー。\nペットが強敵に与える\nダメージが上昇する。",
-		"tr_explain": "Un dulce para tu pet.\nIncreases damage dealt\nto bosses by 9%."
+		"jp_explain": "ペット用のキャンチE��ー、Enペットが強敵に与える\nダメージが上�Eする、E,
+		"tr_explain": "A candy for your pet.\nIncreases damage dealt\nto bosses by 9%."
 	},
 	{
 		"assign": "338033",
-		"jp_text": "メガトンパフェ＋３",
+		"jp_text": "メガトンパフェ�E�！E,
 		"tr_text": "Megaton Parfait+3",
-		"jp_explain": "ペット用のキャンディー。\nペットが強敵に与える\nダメージが上昇する。",
-		"tr_explain": "Un dulce para tu pet.\nIncreases damage dealt\nto bosses by 9%."
+		"jp_explain": "ペット用のキャンチE��ー、Enペットが強敵に与える\nダメージが上�Eする、E,
+		"tr_explain": "A candy for your pet.\nIncreases damage dealt\nto bosses by 9%."
 	},
 	{
 		"assign": "338034",
-		"jp_text": "メガトンパフェ＋４",
+		"jp_text": "メガトンパフェ�E�！E,
 		"tr_text": "Megaton Parfait+4",
-		"jp_explain": "ペット用のキャンディー。\nペットが強敵に与える\nダメージが上昇する。",
-		"tr_explain": "Un dulce para tu pet.\nIncreases damage dealt\nto bosses by 9%."
+		"jp_explain": "ペット用のキャンチE��ー、Enペットが強敵に与える\nダメージが上�Eする、E,
+		"tr_explain": "A candy for your pet.\nIncreases damage dealt\nto bosses by 9%."
 	},
 	{
 		"assign": "338040",
 		"jp_text": "たっぷりパフェ",
 		"tr_text": "Complete Parfait",
-		"jp_explain": "ペット用のキャンディー。\nペットのＨＰが６０％以上の時に\n与えるダメージが増加する。",
-		"tr_explain": "Un dulce para tu pet. When Pet HP\nis 60% or higher, damage is increased\nby 5%."
+		"jp_explain": "ペット用のキャンチE��ー、Enペット�E�E��E�が６０！E��上�E時に\n与えるダメージが増加する、E,
+		"tr_explain": "A candy for your pet. When Pet HP\nis 60% or higher, damage is increased\nby 5%."
 	},
 	{
 		"assign": "338041",
-		"jp_text": "たっぷりパフェ＋１",
+		"jp_text": "たっぷりパフェ�E�！E,
 		"tr_text": "Complete Parfait+1",
-		"jp_explain": "ペット用のキャンディー。\nペットのＨＰが６０％以上の時に\n与えるダメージが増加する。",
-		"tr_explain": "Un dulce para tu pet. When Pet HP\nis 60% or higher, damage is increased\nby 5%."
+		"jp_explain": "ペット用のキャンチE��ー、Enペット�E�E��E�が６０！E��上�E時に\n与えるダメージが増加する、E,
+		"tr_explain": "A candy for your pet. When Pet HP\nis 60% or higher, damage is increased\nby 5%."
 	},
 	{
 		"assign": "338042",
-		"jp_text": "たっぷりパフェ＋２",
+		"jp_text": "たっぷりパフェ�E�！E,
 		"tr_text": "Complete Parfait+2",
-		"jp_explain": "ペット用のキャンディー。\nペットのＨＰが６０％以上の時に\n与えるダメージが増加する。",
-		"tr_explain": "Un dulce para tu pet. When Pet HP\nis 60% or higher, damage is increased\nby 5%."
+		"jp_explain": "ペット用のキャンチE��ー、Enペット�E�E��E�が６０！E��上�E時に\n与えるダメージが増加する、E,
+		"tr_explain": "A candy for your pet. When Pet HP\nis 60% or higher, damage is increased\nby 5%."
 	},
 	{
 		"assign": "338043",
-		"jp_text": "たっぷりパフェ＋３",
+		"jp_text": "たっぷりパフェ�E�！E,
 		"tr_text": "Complete Parfait+3",
-		"jp_explain": "ペット用のキャンディー。\nペットのＨＰが６０％以上の時に\n与えるダメージが増加する。",
-		"tr_explain": "Un dulce para tu pet. When Pet HP\nis 60% or higher, damage is increased\nby 5%."
+		"jp_explain": "ペット用のキャンチE��ー、Enペット�E�E��E�が６０！E��上�E時に\n与えるダメージが増加する、E,
+		"tr_explain": "A candy for your pet. When Pet HP\nis 60% or higher, damage is increased\nby 5%."
 	},
 	{
 		"assign": "338044",
-		"jp_text": "たっぷりパフェ＋４",
+		"jp_text": "たっぷりパフェ�E�！E,
 		"tr_text": "Complete Parfait+4",
-		"jp_explain": "ペット用のキャンディー。\nペットのＨＰが６０％以上の時に\n与えるダメージが増加する。",
-		"tr_explain": "Un dulce para tu pet. When Pet HP\nis 60% or higher, damage is increased\nby 5%."
+		"jp_explain": "ペット用のキャンチE��ー、Enペット�E�E��E�が６０！E��上�E時に\n与えるダメージが増加する、E,
+		"tr_explain": "A candy for your pet. When Pet HP\nis 60% or higher, damage is increased\nby 5%."
 	},
 	{
 		"assign": "338045",
-		"jp_text": "がむしゃらパフェ",
+		"jp_text": "が�Eしゃらパフェ",
 		"tr_text": "Daredevil Parfait",
-		"jp_explain": "ペット用のキャンディー。\nペットＰＡ使用時にＰＰ消費量が\n増加し威力が上昇する。",
-		"tr_explain": "Un dulce para tu pet. Increases Pet\nPA cost by 25% in exchange for 10%\nincreased damage."
+		"jp_explain": "ペット用のキャンチE��ー、EnペットＰ�E�使用時に�E��E�消費量が\n増加し威力が上�Eする、E,
+		"tr_explain": "A candy for your pet. Increases Pet\nPA cost by 25% in exchange for 10%\nincreased damage."
 	},
 	{
 		"assign": "338046",
-		"jp_text": "がむしゃらパフェ＋１",
+		"jp_text": "が�Eしゃらパフェ�E�！E,
 		"tr_text": "Daredevil Parfait+1",
-		"jp_explain": "ペット用のキャンディー。\nペットＰＡ使用時にＰＰ消費量が\n増加し威力が上昇する。",
-		"tr_explain": "Un dulce para tu pet. Increases Pet\nPA cost by 25% in exchange for 10%\nincreased damage."
+		"jp_explain": "ペット用のキャンチE��ー、EnペットＰ�E�使用時に�E��E�消費量が\n増加し威力が上�Eする、E,
+		"tr_explain": "A candy for your pet. Increases Pet\nPA cost by 25% in exchange for 10%\nincreased damage."
 	},
 	{
 		"assign": "338047",
-		"jp_text": "がむしゃらパフェ＋２",
+		"jp_text": "が�Eしゃらパフェ�E�！E,
 		"tr_text": "Daredevil Parfait+2",
-		"jp_explain": "ペット用のキャンディー。\nペットＰＡ使用時にＰＰ消費量が\n増加し威力が上昇する。",
-		"tr_explain": "Un dulce para tu pet. Increases Pet\nPA cost by 25% in exchange for 10%\nincreased damage."
+		"jp_explain": "ペット用のキャンチE��ー、EnペットＰ�E�使用時に�E��E�消費量が\n増加し威力が上�Eする、E,
+		"tr_explain": "A candy for your pet. Increases Pet\nPA cost by 25% in exchange for 10%\nincreased damage."
 	},
 	{
 		"assign": "338048",
-		"jp_text": "がむしゃらパフェ＋３",
+		"jp_text": "が�Eしゃらパフェ�E�！E,
 		"tr_text": "Daredevil Parfait+3",
-		"jp_explain": "ペット用のキャンディー。\nペットＰＡ使用時にＰＰ消費量が\n増加し威力が上昇する。",
-		"tr_explain": "Un dulce para tu pet. Increases Pet\nPA cost by 25% in exchange for 10%\nincreased damage."
+		"jp_explain": "ペット用のキャンチE��ー、EnペットＰ�E�使用時に�E��E�消費量が\n増加し威力が上�Eする、E,
+		"tr_explain": "A candy for your pet. Increases Pet\nPA cost by 25% in exchange for 10%\nincreased damage."
 	},
 	{
 		"assign": "338049",
-		"jp_text": "がむしゃらパフェ＋４",
+		"jp_text": "が�Eしゃらパフェ�E�！E,
 		"tr_text": "Daredevil Parfait+4",
-		"jp_explain": "ペット用のキャンディー。\nペットＰＡ使用時にＰＰ消費量が\n増加し威力が上昇する。",
-		"tr_explain": "Un dulce para tu pet. Increases Pet\nPA cost by 25% in exchange for 10%\nincreased damage."
+		"jp_explain": "ペット用のキャンチE��ー、EnペットＰ�E�使用時に�E��E�消費量が\n増加し威力が上�Eする、E,
+		"tr_explain": "A candy for your pet. Increases Pet\nPA cost by 25% in exchange for 10%\nincreased damage."
 	},
 	{
 		"assign": "338050",
 		"jp_text": "ブラストパフェ",
 		"tr_text": "Blast Parfait",
-		"jp_explain": "ペット用のキャンディー。\nフォトンブラストゲージに応じて\nペットの攻撃威力が変動する。",
-		"tr_explain": "Un dulce para tu pet.\nIncreases Pet damage in proportion\nto Photon Blast Gauge level."
+		"jp_explain": "ペット用のキャンチE��ー、Enフォトンブラストゲージに応じて\nペット�E攻撁E��力が変動する、E,
+		"tr_explain": "A candy for your pet.\nIncreases Pet damage in proportion\nto Photon Blast Gauge level."
 	},
 	{
 		"assign": "338051",
-		"jp_text": "ブラストパフェ＋１",
+		"jp_text": "ブラストパフェ�E�！E,
 		"tr_text": "Blast Parfait+1",
-		"jp_explain": "ペット用のキャンディー。\nフォトンブラストゲージに応じて\nペットの攻撃威力が変動する。",
-		"tr_explain": "Un dulce para tu pet.\nIncreases Pet damage in proportion\nto Photon Blast Gauge level."
+		"jp_explain": "ペット用のキャンチE��ー、Enフォトンブラストゲージに応じて\nペット�E攻撁E��力が変動する、E,
+		"tr_explain": "A candy for your pet.\nIncreases Pet damage in proportion\nto Photon Blast Gauge level."
 	},
 	{
 		"assign": "338052",
-		"jp_text": "ブラストパフェ＋２",
+		"jp_text": "ブラストパフェ�E�！E,
 		"tr_text": "Blast Parfait+2",
-		"jp_explain": "ペット用のキャンディー。\nフォトンブラストゲージに応じて\nペットの攻撃威力が変動する。",
-		"tr_explain": "Un dulce para tu pet.\nIncreases Pet damage in proportion\nto Photon Blast Gauge level."
+		"jp_explain": "ペット用のキャンチE��ー、Enフォトンブラストゲージに応じて\nペット�E攻撁E��力が変動する、E,
+		"tr_explain": "A candy for your pet.\nIncreases Pet damage in proportion\nto Photon Blast Gauge level."
 	},
 	{
 		"assign": "338053",
-		"jp_text": "ブラストパフェ＋３",
+		"jp_text": "ブラストパフェ�E�！E,
 		"tr_text": "Blast Parfait+3",
-		"jp_explain": "ペット用のキャンディー。\nフォトンブラストゲージに応じて\nペットの攻撃威力が変動する。",
-		"tr_explain": "Un dulce para tu pet.\nIncreases Pet damage in proportion\nto Photon Blast Gauge level."
+		"jp_explain": "ペット用のキャンチE��ー、Enフォトンブラストゲージに応じて\nペット�E攻撁E��力が変動する、E,
+		"tr_explain": "A candy for your pet.\nIncreases Pet damage in proportion\nto Photon Blast Gauge level."
 	},
 	{
 		"assign": "338054",
-		"jp_text": "ブラストパフェ＋４",
+		"jp_text": "ブラストパフェ�E�！E,
 		"tr_text": "Blast Parfait+4",
-		"jp_explain": "ペット用のキャンディー。\nフォトンブラストゲージに応じて\nペットの攻撃威力が変動する。",
-		"tr_explain": "Un dulce para tu pet.\nIncreases Pet damage in proportion\nto Photon Blast Gauge level."
+		"jp_explain": "ペット用のキャンチE��ー、Enフォトンブラストゲージに応じて\nペット�E攻撁E��力が変動する、E,
+		"tr_explain": "A candy for your pet.\nIncreases Pet damage in proportion\nto Photon Blast Gauge level."
 	},
 	{
 		"assign": "338090",
-		"jp_text": "アルティメットパフェ",
+		"jp_text": "アルチE��メチE��パフェ",
 		"tr_text": "Ultimate Parfait",
-		"jp_explain": "ペット用のキャンディー。\nペットが世壊種に与える\nダメージが上昇する。",
-		"tr_explain": "Un dulce para tu pet.\nBoost Pet damage\nagainst aberrations by 8%."
+		"jp_explain": "ペット用のキャンチE��ー、Enペットが世壊種に与える\nダメージが上�Eする、E,
+		"tr_explain": "A candy for your pet.\nBoost Pet damage\nagainst aberrations by 8%."
 	},
 	{
 		"assign": "338091",
-		"jp_text": "アルティメットパフェ＋１",
+		"jp_text": "アルチE��メチE��パフェ�E�！E,
 		"tr_text": "Ultimate Parfait+1",
-		"jp_explain": "ペット用のキャンディー。\nペットが世壊種に与える\nダメージが上昇する。",
-		"tr_explain": "Un dulce para tu pet.\nBoost Pet damage\nagainst aberrations by 8%."
+		"jp_explain": "ペット用のキャンチE��ー、Enペットが世壊種に与える\nダメージが上�Eする、E,
+		"tr_explain": "A candy for your pet.\nBoost Pet damage\nagainst aberrations by 8%."
 	},
 	{
 		"assign": "338092",
-		"jp_text": "アルティメットパフェ＋２",
+		"jp_text": "アルチE��メチE��パフェ�E�！E,
 		"tr_text": "Ultimate Parfait+2",
-		"jp_explain": "ペット用のキャンディー。\nペットが世壊種に与える\nダメージが上昇する。",
-		"tr_explain": "Un dulce para tu pet.\nBoost Pet damage\nagainst aberrations by 8%."
+		"jp_explain": "ペット用のキャンチE��ー、Enペットが世壊種に与える\nダメージが上�Eする、E,
+		"tr_explain": "A candy for your pet.\nBoost Pet damage\nagainst aberrations by 8%."
 	},
 	{
 		"assign": "338093",
-		"jp_text": "アルティメットパフェ＋３",
+		"jp_text": "アルチE��メチE��パフェ�E�！E,
 		"tr_text": "Ultimate Parfait+3",
-		"jp_explain": "ペット用のキャンディー。\nペットが世壊種に与える\nダメージが上昇する。",
-		"tr_explain": "Un dulce para tu pet.\nBoost Pet damage\nagainst aberrations by 8%."
+		"jp_explain": "ペット用のキャンチE��ー、Enペットが世壊種に与える\nダメージが上�Eする、E,
+		"tr_explain": "A candy for your pet.\nBoost Pet damage\nagainst aberrations by 8%."
 	},
 	{
 		"assign": "338094",
-		"jp_text": "アルティメットパフェ＋４",
+		"jp_text": "アルチE��メチE��パフェ�E�！E,
 		"tr_text": "Ultimate Parfait+4",
-		"jp_explain": "ペット用のキャンディー。\nペットが世壊種に与える\nダメージが上昇する。",
-		"tr_explain": "Un dulce para tu pet.\nBoost Pet damage\nagainst aberrations by 8%."
+		"jp_explain": "ペット用のキャンチE��ー、Enペットが世壊種に与える\nダメージが上�Eする、E,
+		"tr_explain": "A candy for your pet.\nBoost Pet damage\nagainst aberrations by 8%."
 	},
 	{
 		"assign": "338095",
 		"jp_text": "はらぺこパフェ",
 		"tr_text": "Starving Parfait",
-		"jp_explain": "ペット用のキャンディー。\nＰＰ低下時に敵に与える\nダメージが増加する。",
-		"tr_explain": "Un dulce para tu pet.\nPet Damage is increased by 7%,\nwhile PP is under 50%."
+		"jp_explain": "ペット用のキャンチE��ー、En�E��E�低下時に敵に与える\nダメージが増加する、E,
+		"tr_explain": "A candy for your pet.\nPet Damage is increased by 7%,\nwhile PP is under 50%."
 	},
 	{
 		"assign": "338096",
-		"jp_text": "はらぺこパフェ＋１",
+		"jp_text": "はらぺこパフェ�E�！E,
 		"tr_text": "Starving Parfait+1",
-		"jp_explain": "ペット用のキャンディー。\nＰＰ低下時に敵に与える\nダメージが増加する。",
-		"tr_explain": "Un dulce para tu pet.\nPet Damage is increased by 7%,\nwhile PP is under 50%."
+		"jp_explain": "ペット用のキャンチE��ー、En�E��E�低下時に敵に与える\nダメージが増加する、E,
+		"tr_explain": "A candy for your pet.\nPet Damage is increased by 7%,\nwhile PP is under 50%."
 	},
 	{
 		"assign": "338097",
-		"jp_text": "はらぺこパフェ＋２",
+		"jp_text": "はらぺこパフェ�E�！E,
 		"tr_text": "Starving Parfait+2",
-		"jp_explain": "ペット用のキャンディー。\nＰＰ低下時に敵に与える\nダメージが増加する。",
-		"tr_explain": "Un dulce para tu pet.\nPet Damage is increased by 7%,\nwhile PP is under 50%."
+		"jp_explain": "ペット用のキャンチE��ー、En�E��E�低下時に敵に与える\nダメージが増加する、E,
+		"tr_explain": "A candy for your pet.\nPet Damage is increased by 7%,\nwhile PP is under 50%."
 	},
 	{
 		"assign": "338098",
-		"jp_text": "はらぺこパフェ＋３",
+		"jp_text": "はらぺこパフェ�E�！E,
 		"tr_text": "Starving Parfait+3",
-		"jp_explain": "ペット用のキャンディー。\nＰＰ低下時に敵に与える\nダメージが増加する。",
-		"tr_explain": "Un dulce para tu pet.\nPet Damage is increased by 7%,\nwhile PP is under 50%."
+		"jp_explain": "ペット用のキャンチE��ー、En�E��E�低下時に敵に与える\nダメージが増加する、E,
+		"tr_explain": "A candy for your pet.\nPet Damage is increased by 7%,\nwhile PP is under 50%."
 	},
 	{
 		"assign": "338099",
-		"jp_text": "はらぺこパフェ＋４",
+		"jp_text": "はらぺこパフェ�E�！E,
 		"tr_text": "Starving Parfait+4",
-		"jp_explain": "ペット用のキャンディー。\nＰＰ低下時に敵に与える\nダメージが増加する。",
-		"tr_explain": "Un dulce para tu pet.\nPet Damage is increased by 7%,\nwhile PP is under 50%."
+		"jp_explain": "ペット用のキャンチE��ー、En�E��E�低下時に敵に与える\nダメージが増加する、E,
+		"tr_explain": "A candy for your pet.\nPet Damage is increased by 7%,\nwhile PP is under 50%."
 	},
 	{
 		"assign": "3380100",
 		"jp_text": "ぜいたくパフェ",
 		"tr_text": "Luxury Parfait",
-		"jp_explain": "ペット用のキャンディー。\nＰＰの回復速度と攻撃時の回復量が\n上がり、ＰＰの消費量を軽減する。",
-		"tr_explain": "Un dulce para tu pet.\nBoosts PP recovery speed by 30%.\nATK PP recovery boosted by 10%.\nReduces PP consumption by 5%."
+		"jp_explain": "ペット用のキャンチE��ー、En�E��E�の回復速度と攻撁E��の回復量が\n上がり、E���E�の消費量を軽減する、E,
+		"tr_explain": "A candy for your pet.\nBoosts PP recovery speed by 30%.\nATK PP recovery boosted by 10%.\nReduces PP consumption by 5%."
 	},
 	{
 		"assign": "3380101",
-		"jp_text": "ぜいたくパフェ＋１",
+		"jp_text": "ぜいたくパフェ�E�！E,
 		"tr_text": "Luxury Parfait+1",
-		"jp_explain": "ペット用のキャンディー。\nＰＰの回復速度と攻撃時の回復量が\n上がり、ＰＰの消費量を軽減する。",
-		"tr_explain": "Un dulce para tu pet.\nBoosts PP recovery speed by 30%.\nATK PP recovery boosted by 10%.\nReduces PP consumption by 5%."
+		"jp_explain": "ペット用のキャンチE��ー、En�E��E�の回復速度と攻撁E��の回復量が\n上がり、E���E�の消費量を軽減する、E,
+		"tr_explain": "A candy for your pet.\nBoosts PP recovery speed by 30%.\nATK PP recovery boosted by 10%.\nReduces PP consumption by 5%."
 	},
 	{
 		"assign": "3380102",
-		"jp_text": "ぜいたくパフェ＋２",
+		"jp_text": "ぜいたくパフェ�E�！E,
 		"tr_text": "Luxury Parfait+2",
-		"jp_explain": "ペット用のキャンディー。\nＰＰの回復速度と攻撃時の回復量が\n上がり、ＰＰの消費量を軽減する。",
-		"tr_explain": "Un dulce para tu pet.\nBoosts PP recovery speed by 30%.\nATK PP recovery boosted by 10%.\nReduces PP consumption by 5%."
+		"jp_explain": "ペット用のキャンチE��ー、En�E��E�の回復速度と攻撁E��の回復量が\n上がり、E���E�の消費量を軽減する、E,
+		"tr_explain": "A candy for your pet.\nBoosts PP recovery speed by 30%.\nATK PP recovery boosted by 10%.\nReduces PP consumption by 5%."
 	},
 	{
 		"assign": "3380103",
-		"jp_text": "ぜいたくパフェ＋３",
+		"jp_text": "ぜいたくパフェ�E�！E,
 		"tr_text": "Luxury Parfait+3",
-		"jp_explain": "ペット用のキャンディー。\nＰＰの回復速度と攻撃時の回復量が\n上がり、ＰＰの消費量を軽減する。",
-		"tr_explain": "Un dulce para tu pet.\nBoosts PP recovery speed by 30%.\nATK PP recovery boosted by 10%.\nReduces PP consumption by 5%."
+		"jp_explain": "ペット用のキャンチE��ー、En�E��E�の回復速度と攻撁E��の回復量が\n上がり、E���E�の消費量を軽減する、E,
+		"tr_explain": "A candy for your pet.\nBoosts PP recovery speed by 30%.\nATK PP recovery boosted by 10%.\nReduces PP consumption by 5%."
 	},
 	{
 		"assign": "3380104",
-		"jp_text": "ぜいたくパフェ＋４",
+		"jp_text": "ぜいたくパフェ�E�！E,
 		"tr_text": "Luxury Parfait+4",
-		"jp_explain": "ペット用のキャンディー。\nＰＰの回復速度と攻撃時の回復量が\n上がり、ＰＰの消費量を軽減する。",
-		"tr_explain": "Un dulce para tu pet.\nBoosts PP recovery speed by 30%.\nATK PP recovery boosted by 10%.\nReduces PP consumption by 5%."
+		"jp_explain": "ペット用のキャンチE��ー、En�E��E�の回復速度と攻撁E��の回復量が\n上がり、E���E�の消費量を軽減する、E,
+		"tr_explain": "A candy for your pet.\nBoosts PP recovery speed by 30%.\nATK PP recovery boosted by 10%.\nReduces PP consumption by 5%."
 	},
 	{
 		"assign": "3380105",
 		"jp_text": "みまもりパフェ",
 		"tr_text": "Vigilant Parfait",
-		"jp_explain": "ペット用のキャンディー。\nペットとプレイヤーの距離が遠いほど\n与えるダメージが上昇する。",
-		"tr_explain": "Un dulce para tu pet. The further\nyou and your pet are away from\neach other, damage increases."
+		"jp_explain": "ペット用のキャンチE��ー、Enペットとプレイヤーの距離が遠ぁE��ど\n与えるダメージが上�Eする、E,
+		"tr_explain": "A candy for your pet. The further\nyou and your pet are away from\neach other, damage increases."
 	},
 	{
 		"assign": "3380106",
-		"jp_text": "みまもりパフェ＋１",
+		"jp_text": "みまもりパフェ�E�！E,
 		"tr_text": "Vigilant Parfait+1",
-		"jp_explain": "ペット用のキャンディー。\nペットとプレイヤーの距離が遠いほど\n与えるダメージが上昇する。",
-		"tr_explain": "Un dulce para tu pet. The further\nyou and your pet are away from\neach other, damage increases."
+		"jp_explain": "ペット用のキャンチE��ー、Enペットとプレイヤーの距離が遠ぁE��ど\n与えるダメージが上�Eする、E,
+		"tr_explain": "A candy for your pet. The further\nyou and your pet are away from\neach other, damage increases."
 	},
 	{
 		"assign": "3380107",
-		"jp_text": "みまもりパフェ＋２",
+		"jp_text": "みまもりパフェ�E�！E,
 		"tr_text": "Vigilant Parfait+2",
-		"jp_explain": "ペット用のキャンディー。\nペットとプレイヤーの距離が遠いほど\n与えるダメージが上昇する。",
-		"tr_explain": "Un dulce para tu pet. The further\nyou and your pet are away from\neach other, damage increases."
+		"jp_explain": "ペット用のキャンチE��ー、Enペットとプレイヤーの距離が遠ぁE��ど\n与えるダメージが上�Eする、E,
+		"tr_explain": "A candy for your pet. The further\nyou and your pet are away from\neach other, damage increases."
 	},
 	{
 		"assign": "3380108",
-		"jp_text": "みまもりパフェ＋３",
+		"jp_text": "みまもりパフェ�E�！E,
 		"tr_text": "Vigilant Parfait+3",
-		"jp_explain": "ペット用のキャンディー。\nペットとプレイヤーの距離が遠いほど\n与えるダメージが上昇する。",
-		"tr_explain": "Un dulce para tu pet. The further\nyou and your pet are away from\neach other, damage increases."
+		"jp_explain": "ペット用のキャンチE��ー、Enペットとプレイヤーの距離が遠ぁE��ど\n与えるダメージが上�Eする、E,
+		"tr_explain": "A candy for your pet. The further\nyou and your pet are away from\neach other, damage increases."
 	},
 	{
 		"assign": "3380109",
-		"jp_text": "みまもりパフェ＋４",
+		"jp_text": "みまもりパフェ�E�！E,
 		"tr_text": "Vigilant Parfait+4",
-		"jp_explain": "ペット用のキャンディー。\nペットとプレイヤーの距離が遠いほど\n与えるダメージが上昇する。",
-		"tr_explain": "Un dulce para tu pet. The further\nyou and your pet are away from\neach other, damage increases."
+		"jp_explain": "ペット用のキャンチE��ー、Enペットとプレイヤーの距離が遠ぁE��ど\n与えるダメージが上�Eする、E,
+		"tr_explain": "A candy for your pet. The further\nyou and your pet are away from\neach other, damage increases."
 	},
 	{
 		"assign": "3380110",
-		"jp_text": "まんぷくパフェ",
+		"jp_text": "まん�Eくパフェ",
 		"tr_text": "Stuffed Parfait",
-		"jp_explain": "ペット用のキャンディー。\nＰＰが一定以上の時に敵に与える\nダメージが増加する。",
-		"tr_explain": "Un dulce para tu pet. Increases\npet damage when PP is above\na certain level."
+		"jp_explain": "ペット用のキャンチE��ー、En�E��E�が一定以上�E時に敵に与える\nダメージが増加する、E,
+		"tr_explain": "A candy for your pet. Increases\npet damage when PP is above\na certain level."
 	},
 	{
 		"assign": "3380111",
-		"jp_text": "まんぷくパフェ＋１",
+		"jp_text": "まん�Eくパフェ�E�！E,
 		"tr_text": "Stuffed Parfait+1",
-		"jp_explain": "ペット用のキャンディー。\nＰＰが一定以上の時に敵に与える\nダメージが増加する。",
-		"tr_explain": "Un dulce para tu pet. Increases\npet damage when PP is above\na certain level."
+		"jp_explain": "ペット用のキャンチE��ー、En�E��E�が一定以上�E時に敵に与える\nダメージが増加する、E,
+		"tr_explain": "A candy for your pet. Increases\npet damage when PP is above\na certain level."
 	},
 	{
 		"assign": "3380112",
-		"jp_text": "まんぷくパフェ＋２",
+		"jp_text": "まん�Eくパフェ�E�！E,
 		"tr_text": "Stuffed Parfait+2",
-		"jp_explain": "ペット用のキャンディー。\nＰＰが一定以上の時に敵に与える\nダメージが増加する。",
-		"tr_explain": "Un dulce para tu pet. Increases\npet damage when PP is above\na certain level."
+		"jp_explain": "ペット用のキャンチE��ー、En�E��E�が一定以上�E時に敵に与える\nダメージが増加する、E,
+		"tr_explain": "A candy for your pet. Increases\npet damage when PP is above\na certain level."
 	},
 	{
 		"assign": "3380113",
-		"jp_text": "まんぷくパフェ＋３",
+		"jp_text": "まん�Eくパフェ�E�！E,
 		"tr_text": "Stuffed Parfait+3",
-		"jp_explain": "ペット用のキャンディー。\nＰＰが一定以上の時に敵に与える\nダメージが増加する。",
-		"tr_explain": "Un dulce para tu pet. Increases\npet damage when PP is above\na certain level."
+		"jp_explain": "ペット用のキャンチE��ー、En�E��E�が一定以上�E時に敵に与える\nダメージが増加する、E,
+		"tr_explain": "A candy for your pet. Increases\npet damage when PP is above\na certain level."
 	},
 	{
 		"assign": "3380114",
-		"jp_text": "まんぷくパフェ＋４",
+		"jp_text": "まん�Eくパフェ�E�！E,
 		"tr_text": "Stuffed Parfait+4",
-		"jp_explain": "ペット用のキャンディー。\nＰＰが一定以上の時に敵に与える\nダメージが増加する。",
-		"tr_explain": "Un dulce para tu pet. Increases\npet damage when PP is above\na certain level."
+		"jp_explain": "ペット用のキャンチE��ー、En�E��E�が一定以上�E時に敵に与える\nダメージが増加する、E,
+		"tr_explain": "A candy for your pet. Increases\npet damage when PP is above\na certain level."
 	},
 	{
 		"assign": "3380115",
 		"jp_text": "げきからパフェ",
 		"tr_text": "Spicy Parfait",
-		"jp_explain": "ペット用のキャンディー。\nアルターエゴ発動中のペットの\n被ダメージと与ダメージが増加する。",
-		"tr_explain": "Un dulce para tu pet. Increases the\ndamage done by your pet and\nand damage taken during Alter Ego."
+		"jp_explain": "ペット用のキャンチE��ー、Enアルターエゴ発動中のペット�E\n被ダメージと与ダメージが増加する、E,
+		"tr_explain": "A candy for your pet. Increases the\ndamage done by your pet and\nand damage taken during Alter Ego."
 	},
 	{
 		"assign": "3380116",
-		"jp_text": "げきからパフェ＋１",
+		"jp_text": "げきからパフェ�E�！E,
 		"tr_text": "Spicy Parfait+1",
-		"jp_explain": "ペット用のキャンディー。\nアルターエゴ発動中のペットの\n被ダメージと与ダメージが増加する。",
-		"tr_explain": "Un dulce para tu pet. Increases the\ndamage done by your pet and\nand damage taken during Alter Ego."
+		"jp_explain": "ペット用のキャンチE��ー、Enアルターエゴ発動中のペット�E\n被ダメージと与ダメージが増加する、E,
+		"tr_explain": "A candy for your pet. Increases the\ndamage done by your pet and\nand damage taken during Alter Ego."
 	},
 	{
 		"assign": "3380117",
-		"jp_text": "げきからパフェ＋２",
+		"jp_text": "げきからパフェ�E�！E,
 		"tr_text": "Spicy Parfait+2",
-		"jp_explain": "ペット用のキャンディー。\nアルターエゴ発動中のペットの\n被ダメージと与ダメージが増加する。",
-		"tr_explain": "Un dulce para tu pet. Increases the\ndamage done by your pet and\nand damage taken during Alter Ego."
+		"jp_explain": "ペット用のキャンチE��ー、Enアルターエゴ発動中のペット�E\n被ダメージと与ダメージが増加する、E,
+		"tr_explain": "A candy for your pet. Increases the\ndamage done by your pet and\nand damage taken during Alter Ego."
 	},
 	{
 		"assign": "3380118",
-		"jp_text": "げきからパフェ＋３",
+		"jp_text": "げきからパフェ�E�！E,
 		"tr_text": "Spicy Parfait+3",
-		"jp_explain": "ペット用のキャンディー。\nアルターエゴ発動中のペットの\n被ダメージと与ダメージが増加する。",
-		"tr_explain": "Un dulce para tu pet. Increases the\ndamage done by your pet and\nand damage taken during Alter Ego."
+		"jp_explain": "ペット用のキャンチE��ー、Enアルターエゴ発動中のペット�E\n被ダメージと与ダメージが増加する、E,
+		"tr_explain": "A candy for your pet. Increases the\ndamage done by your pet and\nand damage taken during Alter Ego."
 	},
 	{
 		"assign": "3380119",
-		"jp_text": "げきからパフェ＋４",
+		"jp_text": "げきからパフェ�E�！E,
 		"tr_text": "Spicy Parfait+4",
-		"jp_explain": "ペット用のキャンディー。\nアルターエゴ発動中のペットの\n被ダメージと与ダメージが増加する。",
-		"tr_explain": "Un dulce para tu pet. Increases the\ndamage done by your pet and\nand damage taken during Alter Ego."
+		"jp_explain": "ペット用のキャンチE��ー、Enアルターエゴ発動中のペット�E\n被ダメージと与ダメージが増加する、E,
+		"tr_explain": "A candy for your pet. Increases the\ndamage done by your pet and\nand damage taken during Alter Ego."
 	},
 	{
 		"assign": "3380125",
-		"jp_text": "ぶいぶいパフェ",
+		"jp_text": "ぶぁE�EぁE��フェ",
 		"tr_text": "Grand Parfait",
-		"jp_explain": "ペット用のキャンディー。\n部位破壊可能箇所へのダメージが\n増加する。",
-		"tr_explain": "Un dulce para tu pet. Increases\nthe damage against breakables."
+		"jp_explain": "ペット用のキャンチE��ー、En部位破壊可能箁E��へのダメージが\n増加する、E,
+		"tr_explain": "A candy for your pet. Increases\nthe damage against breakables."
 	},
 	{
 		"assign": "3380126",
-		"jp_text": "ぶいぶいパフェ＋１",
+		"jp_text": "ぶぁE�EぁE��フェ�E�！E,
 		"tr_text": "Grand Parfait+1",
-		"jp_explain": "ペット用のキャンディー。\n部位破壊可能箇所へのダメージが\n増加する。",
-		"tr_explain": "Un dulce para tu pet. Increases\nthe damage against breakables."
+		"jp_explain": "ペット用のキャンチE��ー、En部位破壊可能箁E��へのダメージが\n増加する、E,
+		"tr_explain": "A candy for your pet. Increases\nthe damage against breakables."
 	},
 	{
 		"assign": "3380127",
-		"jp_text": "ぶいぶいパフェ＋２",
+		"jp_text": "ぶぁE�EぁE��フェ�E�！E,
 		"tr_text": "Grand Parfait+2",
-		"jp_explain": "ペット用のキャンディー。\n部位破壊可能箇所へのダメージが\n増加する。",
-		"tr_explain": "Un dulce para tu pet. Increases\nthe damage against breakables."
+		"jp_explain": "ペット用のキャンチE��ー、En部位破壊可能箁E��へのダメージが\n増加する、E,
+		"tr_explain": "A candy for your pet. Increases\nthe damage against breakables."
 	},
 	{
 		"assign": "3380128",
-		"jp_text": "ぶいぶいパフェ＋３",
+		"jp_text": "ぶぁE�EぁE��フェ�E�！E,
 		"tr_text": "Grand Parfait+3",
-		"jp_explain": "ペット用のキャンディー。\n部位破壊可能箇所へのダメージが\n増加する。",
-		"tr_explain": "Un dulce para tu pet. Increases\nthe damage against breakables."
+		"jp_explain": "ペット用のキャンチE��ー、En部位破壊可能箁E��へのダメージが\n増加する、E,
+		"tr_explain": "A candy for your pet. Increases\nthe damage against breakables."
 	},
 	{
 		"assign": "3380129",
-		"jp_text": "ぶいぶいパフェ＋４",
+		"jp_text": "ぶぁE�EぁE��フェ�E�！E,
 		"tr_text": "Grand Parfait+4",
-		"jp_explain": "ペット用のキャンディー。\n部位破壊可能箇所へのダメージが\n増加する。",
-		"tr_explain": "Un dulce para tu pet. Increases\nthe damage against breakables."
+		"jp_explain": "ペット用のキャンチE��ー、En部位破壊可能箁E��へのダメージが\n増加する、E,
+		"tr_explain": "A candy for your pet. Increases\nthe damage against breakables."
 	},
 	{
 		"assign": "3380130",
-		"jp_text": "どたばたパフェ",
+		"jp_text": "どた�Eたパフェ",
 		"tr_text": "Noisy Parfait",
-		"jp_explain": "ペット用のキャンディー。\n一定範囲内のエネミー数に\n応じて与ダメージが上昇。",
-		"tr_explain": "Un dulce para tu pet. Damage is\nincreased based on the number of\nenemies within range."
+		"jp_explain": "ペット用のキャンチE��ー、En一定篁E��冁E�Eエネミー数に\n応じて与ダメージが上�E、E,
+		"tr_explain": "A candy for your pet. Damage is\nincreased based on the number of\nenemies within range."
 	},
 	{
 		"assign": "3380131",
-		"jp_text": "どたばたパフェ＋１",
+		"jp_text": "どた�Eたパフェ�E�！E,
 		"tr_text": "Noisy Parfait+1",
-		"jp_explain": "ペット用のキャンディー。\n一定範囲内のエネミー数に\n応じて与ダメージが上昇。",
-		"tr_explain": "Un dulce para tu pet. Damage is\nincreased based on the number of\nenemies within range."
+		"jp_explain": "ペット用のキャンチE��ー、En一定篁E��冁E�Eエネミー数に\n応じて与ダメージが上�E、E,
+		"tr_explain": "A candy for your pet. Damage is\nincreased based on the number of\nenemies within range."
 	},
 	{
 		"assign": "3380132",
-		"jp_text": "どたばたパフェ＋２",
+		"jp_text": "どた�Eたパフェ�E�！E,
 		"tr_text": "Noisy Parfait+2",
-		"jp_explain": "ペット用のキャンディー。\n一定範囲内のエネミー数に\n応じて与ダメージが上昇。",
-		"tr_explain": "Un dulce para tu pet. Damage is\nincreased based on the number of\nenemies within range."
+		"jp_explain": "ペット用のキャンチE��ー、En一定篁E��冁E�Eエネミー数に\n応じて与ダメージが上�E、E,
+		"tr_explain": "A candy for your pet. Damage is\nincreased based on the number of\nenemies within range."
 	},
 	{
 		"assign": "3380133",
-		"jp_text": "どたばたパフェ＋３",
+		"jp_text": "どた�Eたパフェ�E�！E,
 		"tr_text": "Noisy Parfait+3",
-		"jp_explain": "ペット用のキャンディー。\n一定範囲内のエネミー数に\n応じて与ダメージが上昇。",
-		"tr_explain": "Un dulce para tu pet. Damage is\nincreased based on the number of\nenemies within range."
+		"jp_explain": "ペット用のキャンチE��ー、En一定篁E��冁E�Eエネミー数に\n応じて与ダメージが上�E、E,
+		"tr_explain": "A candy for your pet. Damage is\nincreased based on the number of\nenemies within range."
 	},
 	{
 		"assign": "3380134",
-		"jp_text": "どたばたパフェ＋４",
+		"jp_text": "どた�Eたパフェ�E�！E,
 		"tr_text": "Noisy Parfait+4",
-		"jp_explain": "ペット用のキャンディー。\n一定範囲内のエネミー数に\n応じて与ダメージが上昇。",
-		"tr_explain": "Un dulce para tu pet. Damage is\nincreased based on the number of\nenemies within range."
+		"jp_explain": "ペット用のキャンチE��ー、En一定篁E��冁E�Eエネミー数に\n応じて与ダメージが上�E、E,
+		"tr_explain": "A candy for your pet. Damage is\nincreased based on the number of\nenemies within range."
 	},
 	{
 		"assign": "3380135",
 		"jp_text": "ぐんぐんパフェ",
 		"tr_text": "Steady Parfait",
-		"jp_explain": "ペット用のキャンディー。\nエネミーを１体撃破毎に\n与ダメージが上昇。",
-		"tr_explain": "Un dulce para tu pet. Damage\nis increased per every enemy\nyou defeat."
+		"jp_explain": "ペット用のキャンチE��ー、Enエネミーを１体撃破毎に\n与ダメージが上�E、E,
+		"tr_explain": "A candy for your pet. Damage\nis increased per every enemy\nyou defeat."
 	},
 	{
 		"assign": "3380136",
-		"jp_text": "ぐんぐんパフェ＋１",
+		"jp_text": "ぐんぐんパフェ�E�！E,
 		"tr_text": "Steady Parfait+1",
-		"jp_explain": "ペット用のキャンディー。\nエネミーを１体撃破毎に\n与ダメージが上昇。",
-		"tr_explain": "Un dulce para tu pet. Damage\nis increased per every enemy\nyou defeat."
+		"jp_explain": "ペット用のキャンチE��ー、Enエネミーを１体撃破毎に\n与ダメージが上�E、E,
+		"tr_explain": "A candy for your pet. Damage\nis increased per every enemy\nyou defeat."
 	},
 	{
 		"assign": "3380137",
-		"jp_text": "ぐんぐんパフェ＋２",
+		"jp_text": "ぐんぐんパフェ�E�！E,
 		"tr_text": "Steady Parfait+2",
-		"jp_explain": "ペット用のキャンディー。\nエネミーを１体撃破毎に\n与ダメージが上昇。",
-		"tr_explain": "Un dulce para tu pet. Damage\nis increased per every enemy\nyou defeat."
+		"jp_explain": "ペット用のキャンチE��ー、Enエネミーを１体撃破毎に\n与ダメージが上�E、E,
+		"tr_explain": "A candy for your pet. Damage\nis increased per every enemy\nyou defeat."
 	},
 	{
 		"assign": "3380138",
-		"jp_text": "ぐんぐんパフェ＋３",
+		"jp_text": "ぐんぐんパフェ�E�！E,
 		"tr_text": "Steady Parfait+3",
-		"jp_explain": "ペット用のキャンディー。\nエネミーを１体撃破毎に\n与ダメージが上昇。",
-		"tr_explain": "Un dulce para tu pet. Damage\nis increased per every enemy\nyou defeat."
+		"jp_explain": "ペット用のキャンチE��ー、Enエネミーを１体撃破毎に\n与ダメージが上�E、E,
+		"tr_explain": "A candy for your pet. Damage\nis increased per every enemy\nyou defeat."
 	},
 	{
 		"assign": "3380139",
-		"jp_text": "ぐんぐんパフェ＋４",
+		"jp_text": "ぐんぐんパフェ�E�！E,
 		"tr_text": "Steady Parfait+4",
-		"jp_explain": "ペット用のキャンディー。\nエネミーを１体撃破毎に\n与ダメージが上昇。",
-		"tr_explain": "Un dulce para tu pet. Damage\nis increased per every enemy\nyou defeat."
+		"jp_explain": "ペット用のキャンチE��ー、Enエネミーを１体撃破毎に\n与ダメージが上�E、E,
+		"tr_explain": "A candy for your pet. Damage\nis increased per every enemy\nyou defeat."
 	},
 	{
 		"assign": "3380140",
-		"jp_text": "超たっぷりパフェ",
+		"jp_text": "趁E��っぷりパフェ",
 		"tr_text": "Super Complete Parfait",
-		"jp_explain": "ペット用のキャンディー。\nペットのＨＰが６０％以上の時に\n与えるダメージが増加する。",
-		"tr_explain": "Un dulce para tu pet. When Pet HP\nis 60% or higher, damage is increased."
+		"jp_explain": "ペット用のキャンチE��ー、Enペット�E�E��E�が６０！E��上�E時に\n与えるダメージが増加する、E,
+		"tr_explain": "A candy for your pet. When Pet HP\nis 60% or higher, damage is increased."
 	},
 	{
 		"assign": "3380141",
-		"jp_text": "超たっぷりパフェ＋１",
+		"jp_text": "趁E��っぷりパフェ�E�！E,
 		"tr_text": "Super Complete Parfait+1",
-		"jp_explain": "ペット用のキャンディー。\nペットのＨＰが６０％以上の時に\n与えるダメージが増加する。",
-		"tr_explain": "Un dulce para tu pet. When Pet HP\nis 60% or higher, damage is increased."
+		"jp_explain": "ペット用のキャンチE��ー、Enペット�E�E��E�が６０！E��上�E時に\n与えるダメージが増加する、E,
+		"tr_explain": "A candy for your pet. When Pet HP\nis 60% or higher, damage is increased."
 	},
 	{
 		"assign": "3380142",
-		"jp_text": "超たっぷりパフェ＋２",
+		"jp_text": "趁E��っぷりパフェ�E�！E,
 		"tr_text": "Super Complete Parfait+2",
-		"jp_explain": "ペット用のキャンディー。\nペットのＨＰが６０％以上の時に\n与えるダメージが増加する。",
-		"tr_explain": "Un dulce para tu pet. When Pet HP\nis 60% or higher, damage is increased."
+		"jp_explain": "ペット用のキャンチE��ー、Enペット�E�E��E�が６０！E��上�E時に\n与えるダメージが増加する、E,
+		"tr_explain": "A candy for your pet. When Pet HP\nis 60% or higher, damage is increased."
 	},
 	{
 		"assign": "3380143",
-		"jp_text": "超たっぷりパフェ＋３",
+		"jp_text": "趁E��っぷりパフェ�E�！E,
 		"tr_text": "Super Complete Parfait+3",
-		"jp_explain": "ペット用のキャンディー。\nペットのＨＰが６０％以上の時に\n与えるダメージが増加する。",
-		"tr_explain": "Un dulce para tu pet. When Pet HP\nis 60% or higher, damage is increased."
+		"jp_explain": "ペット用のキャンチE��ー、Enペット�E�E��E�が６０！E��上�E時に\n与えるダメージが増加する、E,
+		"tr_explain": "A candy for your pet. When Pet HP\nis 60% or higher, damage is increased."
 	},
 	{
 		"assign": "3380144",
-		"jp_text": "超たっぷりパフェ＋４",
+		"jp_text": "趁E��っぷりパフェ�E�！E,
 		"tr_text": "Super Complete Parfait+4",
-		"jp_explain": "ペット用のキャンディー。\nペットのＨＰが６０％以上の時に\n与えるダメージが増加する。",
-		"tr_explain": "Un dulce para tu pet. When Pet HP\nis 60% or higher, damage is increased."
+		"jp_explain": "ペット用のキャンチE��ー、Enペット�E�E��E�が６０！E��上�E時に\n与えるダメージが増加する、E,
+		"tr_explain": "A candy for your pet. When Pet HP\nis 60% or higher, damage is increased."
 	},
 	{
 		"assign": "3380145",
-		"jp_text": "超メガトンパフェ",
+		"jp_text": "趁E��ガトンパフェ",
 		"tr_text": "Super Megaton Parfait",
-		"jp_explain": "ペット用のキャンディー。\nペットが強敵に与える\nダメージが上昇する。",
-		"tr_explain": "Un dulce para tu pet.\nIncreases damage dealt\nto bosses by 12%."
+		"jp_explain": "ペット用のキャンチE��ー、Enペットが強敵に与える\nダメージが上�Eする、E,
+		"tr_explain": "A candy for your pet.\nIncreases damage dealt\nto bosses by 12%."
 	},
 	{
 		"assign": "3380146",
-		"jp_text": "超メガトンパフェ＋１",
+		"jp_text": "趁E��ガトンパフェ�E�！E,
 		"tr_text": "Super Megaton Parfait+1",
-		"jp_explain": "ペット用のキャンディー。\nペットが強敵に与える\nダメージが上昇する。",
-		"tr_explain": "Un dulce para tu pet.\nIncreases damage dealt\nto bosses by 12%."
+		"jp_explain": "ペット用のキャンチE��ー、Enペットが強敵に与える\nダメージが上�Eする、E,
+		"tr_explain": "A candy for your pet.\nIncreases damage dealt\nto bosses by 12%."
 	},
 	{
 		"assign": "3380147",
-		"jp_text": "超メガトンパフェ＋２",
+		"jp_text": "趁E��ガトンパフェ�E�！E,
 		"tr_text": "Super Megaton Parfait+2",
-		"jp_explain": "ペット用のキャンディー。\nペットが強敵に与える\nダメージが上昇する。",
-		"tr_explain": "Un dulce para tu pet.\nIncreases damage dealt\nto bosses by 12%."
+		"jp_explain": "ペット用のキャンチE��ー、Enペットが強敵に与える\nダメージが上�Eする、E,
+		"tr_explain": "A candy for your pet.\nIncreases damage dealt\nto bosses by 12%."
 	},
 	{
 		"assign": "3380148",
-		"jp_text": "超メガトンパフェ＋３",
+		"jp_text": "趁E��ガトンパフェ�E�！E,
 		"tr_text": "Super Megaton Parfait+3",
-		"jp_explain": "ペット用のキャンディー。\nペットが強敵に与える\nダメージが上昇する。",
-		"tr_explain": "Un dulce para tu pet.\nIncreases damage dealt\nto bosses by 12%."
+		"jp_explain": "ペット用のキャンチE��ー、Enペットが強敵に与える\nダメージが上�Eする、E,
+		"tr_explain": "A candy for your pet.\nIncreases damage dealt\nto bosses by 12%."
 	},
 	{
 		"assign": "3380149",
-		"jp_text": "超メガトンパフェ＋４",
+		"jp_text": "趁E��ガトンパフェ�E�！E,
 		"tr_text": "Super Megaton Parfait+4",
-		"jp_explain": "ペット用のキャンディー。\nペットが強敵に与える\nダメージが上昇する。",
-		"tr_explain": "Un dulce para tu pet.\nIncreases damage dealt\nto bosses by 12%."
+		"jp_explain": "ペット用のキャンチE��ー、Enペットが強敵に与える\nダメージが上�Eする、E,
+		"tr_explain": "A candy for your pet.\nIncreases damage dealt\nto bosses by 12%."
 	},
 	{
 		"assign": "3380150",
-		"jp_text": "超はらぺこパフェ",
+		"jp_text": "趁E�Eらぺこパフェ",
 		"tr_text": "Super Starving Parfait",
-		"jp_explain": "ペット用のキャンディー。\nＰＰ低下時に敵に与える\nダメージが増加する。",
-		"tr_explain": "Un dulce para tu pet.\nPet Damage is increased\nwhile PP is under a certain limit."
+		"jp_explain": "ペット用のキャンチE��ー、En�E��E�低下時に敵に与える\nダメージが増加する、E,
+		"tr_explain": "A candy for your pet.\nPet Damage is increased\nwhile PP is under a certain limit."
 	},
 	{
 		"assign": "3380151",
-		"jp_text": "超はらぺこパフェ＋１",
+		"jp_text": "趁E�Eらぺこパフェ�E�！E,
 		"tr_text": "Super Starving Parfait+1",
-		"jp_explain": "ペット用のキャンディー。\nＰＰ低下時に敵に与える\nダメージが増加する。",
-		"tr_explain": "Un dulce para tu pet.\nPet Damage is increased\nwhile PP is under a certain limit."
+		"jp_explain": "ペット用のキャンチE��ー、En�E��E�低下時に敵に与える\nダメージが増加する、E,
+		"tr_explain": "A candy for your pet.\nPet Damage is increased\nwhile PP is under a certain limit."
 	},
 	{
 		"assign": "3380152",
-		"jp_text": "超はらぺこパフェ＋２",
+		"jp_text": "趁E�Eらぺこパフェ�E�！E,
 		"tr_text": "Super Starving Parfait+2",
-		"jp_explain": "ペット用のキャンディー。\nＰＰ低下時に敵に与える\nダメージが増加する。",
-		"tr_explain": "Un dulce para tu pet.\nPet Damage is increased\nwhile PP is under a certain limit."
+		"jp_explain": "ペット用のキャンチE��ー、En�E��E�低下時に敵に与える\nダメージが増加する、E,
+		"tr_explain": "A candy for your pet.\nPet Damage is increased\nwhile PP is under a certain limit."
 	},
 	{
 		"assign": "3380153",
-		"jp_text": "超はらぺこパフェ＋３",
+		"jp_text": "趁E�Eらぺこパフェ�E�！E,
 		"tr_text": "Super Starving Parfait+3",
-		"jp_explain": "ペット用のキャンディー。\nＰＰ低下時に敵に与える\nダメージが増加する。",
-		"tr_explain": "Un dulce para tu pet.\nPet Damage is increased\nwhile PP is under a certain limit."
+		"jp_explain": "ペット用のキャンチE��ー、En�E��E�低下時に敵に与える\nダメージが増加する、E,
+		"tr_explain": "A candy for your pet.\nPet Damage is increased\nwhile PP is under a certain limit."
 	},
 	{
 		"assign": "3380154",
-		"jp_text": "超はらぺこパフェ＋４",
+		"jp_text": "趁E�Eらぺこパフェ�E�！E,
 		"tr_text": "Super Starving Parfait+4",
-		"jp_explain": "ペット用のキャンディー。\nＰＰ低下時に敵に与える\nダメージが増加する。",
-		"tr_explain": "Un dulce para tu pet.\nPet Damage is increased\nwhile PP is under a certain limit."
+		"jp_explain": "ペット用のキャンチE��ー、En�E��E�低下時に敵に与える\nダメージが増加する、E,
+		"tr_explain": "A candy for your pet.\nPet Damage is increased\nwhile PP is under a certain limit."
 	},
 	{
 		"assign": "3380155",
-		"jp_text": "超みまもりパフェ",
+		"jp_text": "趁E��まもりパフェ",
 		"tr_text": "Super Vigilant Parfait",
-		"jp_explain": "ペット用のキャンディー。\nペットとプレイヤーの距離が遠いほど\n与えるダメージが増加する。",
-		"tr_explain": "Un dulce para tu pet. The further\nyou and your pet are away from\neach other, damage increases."
+		"jp_explain": "ペット用のキャンチE��ー、Enペットとプレイヤーの距離が遠ぁE��ど\n与えるダメージが増加する、E,
+		"tr_explain": "A candy for your pet. The further\nyou and your pet are away from\neach other, damage increases."
 	},
 	{
 		"assign": "3380156",
-		"jp_text": "超みまもりパフェ＋１",
+		"jp_text": "趁E��まもりパフェ�E�！E,
 		"tr_text": "Super Vigilant Parfait+1",
-		"jp_explain": "ペット用のキャンディー。\nペットとプレイヤーの距離が遠いほど\n与えるダメージが増加する。",
-		"tr_explain": "Un dulce para tu pet. The further\nyou and your pet are away from\neach other, damage increases."
+		"jp_explain": "ペット用のキャンチE��ー、Enペットとプレイヤーの距離が遠ぁE��ど\n与えるダメージが増加する、E,
+		"tr_explain": "A candy for your pet. The further\nyou and your pet are away from\neach other, damage increases."
 	},
 	{
 		"assign": "3380157",
-		"jp_text": "超みまもりパフェ＋２",
+		"jp_text": "趁E��まもりパフェ�E�！E,
 		"tr_text": "Super Vigilant Parfait+2",
-		"jp_explain": "ペット用のキャンディー。\nペットとプレイヤーの距離が遠いほど\n与えるダメージが増加する。",
-		"tr_explain": "Un dulce para tu pet. The further\nyou and your pet are away from\neach other, damage increases."
+		"jp_explain": "ペット用のキャンチE��ー、Enペットとプレイヤーの距離が遠ぁE��ど\n与えるダメージが増加する、E,
+		"tr_explain": "A candy for your pet. The further\nyou and your pet are away from\neach other, damage increases."
 	},
 	{
 		"assign": "3380158",
-		"jp_text": "超みまもりパフェ＋３",
+		"jp_text": "趁E��まもりパフェ�E�！E,
 		"tr_text": "Super Vigilant Parfait+3",
-		"jp_explain": "ペット用のキャンディー。\nペットとプレイヤーの距離が遠いほど\n与えるダメージが増加する。",
-		"tr_explain": "Un dulce para tu pet. The further\nyou and your pet are away from\neach other, damage increases."
+		"jp_explain": "ペット用のキャンチE��ー、Enペットとプレイヤーの距離が遠ぁE��ど\n与えるダメージが増加する、E,
+		"tr_explain": "A candy for your pet. The further\nyou and your pet are away from\neach other, damage increases."
 	},
 	{
 		"assign": "3380159",
-		"jp_text": "超みまもりパフェ＋４",
+		"jp_text": "趁E��まもりパフェ�E�！E,
 		"tr_text": "Super Vigilant Parfait+4",
-		"jp_explain": "ペット用のキャンディー。\nペットとプレイヤーの距離が遠いほど\n与えるダメージが増加する。",
-		"tr_explain": "Un dulce para tu pet. The further\nyou and your pet are away from\neach other, damage increases."
+		"jp_explain": "ペット用のキャンチE��ー、Enペットとプレイヤーの距離が遠ぁE��ど\n与えるダメージが増加する、E,
+		"tr_explain": "A candy for your pet. The further\nyou and your pet are away from\neach other, damage increases."
 	},
 	{
 		"assign": "3380160",
 		"jp_text": "絶品たっぷりパフェ",
 		"tr_text": "Exquisite Complete Parfait",
-		"jp_explain": "ペット用のキャンディー。\nペットＨＰ半減の際、稀にＨＰ回復。\nペットＨＰ60％以上で与ダメージ上昇。",
-		"tr_explain": "Un dulce para tu pet. Boosts pet\ndamage at 60% HP or more. Rarely\nheals HP when pet is at 50% or less."
+		"jp_explain": "ペット用のキャンチE��ー、EnペットＨ�E�半減�E際、稀に�E��E�回復、EnペットＨ�E�60�E�E��上で与ダメージ上�E、E,
+		"tr_explain": "A candy for your pet. Boosts pet\ndamage at 60% HP or more. Rarely\nheals HP when pet is at 50% or less."
 	},
 	{
 		"assign": "3380161",
-		"jp_text": "絶品たっぷりパフェ＋１",
+		"jp_text": "絶品たっぷりパフェ�E�！E,
 		"tr_text": "Exquisite Complete Parfait+1",
-		"jp_explain": "ペット用のキャンディー。\nペットＨＰ半減の際、稀にＨＰ回復。\nペットＨＰ60％以上で与ダメージ上昇。",
-		"tr_explain": "Un dulce para tu pet. Boosts pet\ndamage at 60% HP or more. Rarely\nheals HP when pet is at 50% or less."
+		"jp_explain": "ペット用のキャンチE��ー、EnペットＨ�E�半減�E際、稀に�E��E�回復、EnペットＨ�E�60�E�E��上で与ダメージ上�E、E,
+		"tr_explain": "A candy for your pet. Boosts pet\ndamage at 60% HP or more. Rarely\nheals HP when pet is at 50% or less."
 	},
 	{
 		"assign": "3380162",
-		"jp_text": "絶品たっぷりパフェ＋２",
+		"jp_text": "絶品たっぷりパフェ�E�！E,
 		"tr_text": "Exquisite Complete Parfait+2",
-		"jp_explain": "ペット用のキャンディー。\nペットＨＰ半減の際、稀にＨＰ回復。\nペットＨＰ60％以上で与ダメージ上昇。",
-		"tr_explain": "Un dulce para tu pet. Boosts pet\ndamage at 60% HP or more. Rarely\nheals HP when pet is at 50% or less."
+		"jp_explain": "ペット用のキャンチE��ー、EnペットＨ�E�半減�E際、稀に�E��E�回復、EnペットＨ�E�60�E�E��上で与ダメージ上�E、E,
+		"tr_explain": "A candy for your pet. Boosts pet\ndamage at 60% HP or more. Rarely\nheals HP when pet is at 50% or less."
 	},
 	{
 		"assign": "3380163",
-		"jp_text": "絶品たっぷりパフェ＋３",
+		"jp_text": "絶品たっぷりパフェ�E�！E,
 		"tr_text": "Exquisite Complete Parfait+3",
-		"jp_explain": "ペット用のキャンディー。\nペットＨＰ半減の際、稀にＨＰ回復。\nペットＨＰ60％以上で与ダメージ上昇。",
-		"tr_explain": "Un dulce para tu pet. Boosts pet\ndamage at 60% HP or more. Rarely\nheals HP when pet is at 50% or less."
+		"jp_explain": "ペット用のキャンチE��ー、EnペットＨ�E�半減�E際、稀に�E��E�回復、EnペットＨ�E�60�E�E��上で与ダメージ上�E、E,
+		"tr_explain": "A candy for your pet. Boosts pet\ndamage at 60% HP or more. Rarely\nheals HP when pet is at 50% or less."
 	},
 	{
 		"assign": "3380164",
-		"jp_text": "絶品たっぷりパフェ＋４",
+		"jp_text": "絶品たっぷりパフェ�E�！E,
 		"tr_text": "Exquisite Complete Parfait+4",
-		"jp_explain": "ペット用のキャンディー。\nペットＨＰ半減の際、稀にＨＰ回復。\nペットＨＰ60％以上で与ダメージ上昇。",
-		"tr_explain": "Un dulce para tu pet. Boosts pet\ndamage at 60% HP or more. Rarely\nheals HP when pet is at 50% or less."
+		"jp_explain": "ペット用のキャンチE��ー、EnペットＨ�E�半減�E際、稀に�E��E�回復、EnペットＨ�E�60�E�E��上で与ダメージ上�E、E,
+		"tr_explain": "A candy for your pet. Boosts pet\ndamage at 60% HP or more. Rarely\nheals HP when pet is at 50% or less."
 	},
 	{
 		"assign": "3380165",
 		"jp_text": "絶品げきからパフェ",
 		"tr_text": "Exquisite Spicy Parfait",
-		"jp_explain": "ペット用のキャンディー。\nアルターエゴ発動中、消費ＰＰが減少し\n与ダメージ、被ダメージともに上昇。",
-		"tr_explain": "Un dulce para tu pet. Alter\nEgo PP consumption lowered.\nGives the effects of Spicy Parfait."
+		"jp_explain": "ペット用のキャンチE��ー、Enアルターエゴ発動中、消費�E��E�が減少し\n与ダメージ、被ダメージともに上�E、E,
+		"tr_explain": "A candy for your pet. Alter\nEgo PP consumption lowered.\nGives the effects of Spicy Parfait."
 	},
 	{
 		"assign": "3380166",
-		"jp_text": "絶品げきからパフェ＋１",
+		"jp_text": "絶品げきからパフェ�E�！E,
 		"tr_text": "Exquisite Spicy Parfait+1",
-		"jp_explain": "ペット用のキャンディー。\nアルターエゴ発動中、消費ＰＰが減少し\n与ダメージ、被ダメージともに上昇。",
-		"tr_explain": "Un dulce para tu pet. Alter\nEgo PP consumption lowered.\nGives the effects of Spicy Parfait."
+		"jp_explain": "ペット用のキャンチE��ー、Enアルターエゴ発動中、消費�E��E�が減少し\n与ダメージ、被ダメージともに上�E、E,
+		"tr_explain": "A candy for your pet. Alter\nEgo PP consumption lowered.\nGives the effects of Spicy Parfait."
 	},
 	{
 		"assign": "3380167",
-		"jp_text": "絶品げきからパフェ＋２",
+		"jp_text": "絶品げきからパフェ�E�！E,
 		"tr_text": "Exquisite Spicy Parfait+2",
-		"jp_explain": "ペット用のキャンディー。\nアルターエゴ発動中、消費ＰＰが減少し\n与ダメージ、被ダメージともに上昇。",
-		"tr_explain": "Un dulce para tu pet. Alter\nEgo PP consumption lowered.\nGives the effects of Spicy Parfait."
+		"jp_explain": "ペット用のキャンチE��ー、Enアルターエゴ発動中、消費�E��E�が減少し\n与ダメージ、被ダメージともに上�E、E,
+		"tr_explain": "A candy for your pet. Alter\nEgo PP consumption lowered.\nGives the effects of Spicy Parfait."
 	},
 	{
 		"assign": "3380168",
-		"jp_text": "絶品げきからパフェ＋３",
+		"jp_text": "絶品げきからパフェ�E�！E,
 		"tr_text": "Exquisite Spicy Parfait+3",
-		"jp_explain": "ペット用のキャンディー。\nアルターエゴ発動中、消費ＰＰが減少し\n与ダメージ、被ダメージともに上昇。",
-		"tr_explain": "Un dulce para tu pet. Alter\nEgo PP consumption lowered.\nGives the effects of Spicy Parfait."
+		"jp_explain": "ペット用のキャンチE��ー、Enアルターエゴ発動中、消費�E��E�が減少し\n与ダメージ、被ダメージともに上�E、E,
+		"tr_explain": "A candy for your pet. Alter\nEgo PP consumption lowered.\nGives the effects of Spicy Parfait."
 	},
 	{
 		"assign": "3380169",
-		"jp_text": "絶品げきからパフェ＋４",
+		"jp_text": "絶品げきからパフェ�E�！E,
 		"tr_text": "Exquisite Spicy Parfait+4",
-		"jp_explain": "ペット用のキャンディー。\nアルターエゴ発動中、消費ＰＰが減少し\n与ダメージ、被ダメージともに上昇。",
-		"tr_explain": "Un dulce para tu pet. Alter\nEgo PP consumption lowered.\nGives the effects of Spicy Parfait."
+		"jp_explain": "ペット用のキャンチE��ー、Enアルターエゴ発動中、消費�E��E�が減少し\n与ダメージ、被ダメージともに上�E、E,
+		"tr_explain": "A candy for your pet. Alter\nEgo PP consumption lowered.\nGives the effects of Spicy Parfait."
 	},
 	{
 		"assign": "3380170",
-		"jp_text": "絶品ぎゃくてんパフェ",
+		"jp_text": "絶品ぎめE��てんパフェ",
 		"tr_text": "Exquisite Reversal Parfait",
-		"jp_explain": "ペット用のキャンディー。\nペットが戦闘不能からの復帰時間短縮。\nペットＨＰ１／４以下の時、威力上昇。",
-		"tr_explain": "Un dulce para tu pet. Reduces the\ntime your pet spends at 0 HP. When\npet HP is 1/4, gain a damage boost."
+		"jp_explain": "ペット用のキャンチE��ー、Enペットが戦闘不�Eからの復帰時間短縮、EnペットＨ�E��E�／４以下�E時、威力上�E、E,
+		"tr_explain": "A candy for your pet. Reduces the\ntime your pet spends at 0 HP. When\npet HP is 1/4, gain a damage boost."
 	},
 	{
 		"assign": "3380171",
-		"jp_text": "絶品ぎゃくてんパフェ＋１",
+		"jp_text": "絶品ぎめE��てんパフェ�E�！E,
 		"tr_text": "Exquisite Reversal Parfait+1",
-		"jp_explain": "ペット用のキャンディー。\nペットが戦闘不能からの復帰時間短縮。\nペットＨＰ１／４以下の時、威力上昇。",
-		"tr_explain": "Un dulce para tu pet. Reduces the\ntime your pet spends at 0 HP. When\npet HP is 1/4, gain a damage boost."
+		"jp_explain": "ペット用のキャンチE��ー、Enペットが戦闘不�Eからの復帰時間短縮、EnペットＨ�E��E�／４以下�E時、威力上�E、E,
+		"tr_explain": "A candy for your pet. Reduces the\ntime your pet spends at 0 HP. When\npet HP is 1/4, gain a damage boost."
 	},
 	{
 		"assign": "3380172",
-		"jp_text": "絶品ぎゃくてんパフェ＋２",
+		"jp_text": "絶品ぎめE��てんパフェ�E�！E,
 		"tr_text": "Exquisite Reversal Parfait+2",
-		"jp_explain": "ペット用のキャンディー。\nペットが戦闘不能からの復帰時間短縮。\nペットＨＰ１／４以下の時、威力上昇。",
-		"tr_explain": "Un dulce para tu pet. Reduces the\ntime your pet spends at 0 HP. When\npet HP is 1/4, gain a damage boost."
+		"jp_explain": "ペット用のキャンチE��ー、Enペットが戦闘不�Eからの復帰時間短縮、EnペットＨ�E��E�／４以下�E時、威力上�E、E,
+		"tr_explain": "A candy for your pet. Reduces the\ntime your pet spends at 0 HP. When\npet HP is 1/4, gain a damage boost."
 	},
 	{
 		"assign": "3380173",
-		"jp_text": "絶品ぎゃくてんパフェ＋３",
+		"jp_text": "絶品ぎめE��てんパフェ�E�！E,
 		"tr_text": "Exquisite Reversal Parfait+3",
-		"jp_explain": "ペット用のキャンディー。\nペットが戦闘不能からの復帰時間短縮。\nペットＨＰ１／４以下の時、威力上昇。",
-		"tr_explain": "Un dulce para tu pet. Reduces the\ntime your pet spends at 0 HP. When\npet HP is 1/4, gain a damage boost."
+		"jp_explain": "ペット用のキャンチE��ー、Enペットが戦闘不�Eからの復帰時間短縮、EnペットＨ�E��E�／４以下�E時、威力上�E、E,
+		"tr_explain": "A candy for your pet. Reduces the\ntime your pet spends at 0 HP. When\npet HP is 1/4, gain a damage boost."
 	},
 	{
 		"assign": "3380174",
-		"jp_text": "絶品ぎゃくてんパフェ＋４",
-		"tr_text": "Exquisite Reversal Parfait+5",
-		"jp_explain": "ペット用のキャンディー。\nペットが戦闘不能からの復帰時間短縮。\nペットＨＰ１／４以下の時、威力上昇。",
-		"tr_explain": "Un dulce para tu pet. Reduces the\ntime your pet spends at 0 HP. When\npet HP is 1/4, gain a damage boost."
+		"jp_text": "絶品ぎめE��てんパフェ�E�！E,
+		"tr_text": "Exquisite Reversal Parfait+4",
+		"jp_explain": "ペット用のキャンチE��ー、Enペットが戦闘不�Eからの復帰時間短縮、EnペットＨ�E��E�／４以下�E時、威力上�E、E,
+		"tr_explain": "A candy for your pet. Reduces the\ntime your pet spends at 0 HP. When\npet HP is 1/4, gain a damage boost."
 	},
 	{
 		"assign": "3380180",
 		"jp_text": "絶品メガトンパフェ",
 		"tr_text": "Exquisite Megaton Parfait",
-		"jp_explain": "ペット用のキャンディー。\n強敵に対しペットの与ダメージが\n上昇し、被ダメージが減少。",
+		"jp_explain": "ペット用のキャンチE��ー、En強敵に対し�EチE��の与ダメージが\n上�Eし、被ダメージが減少、E,
 		"tr_explain": "Un dulce para tu pet. Reduces\ndamage taken from bosses and\nincreases damage dealt to bosses."
 	},
 	{
 		"assign": "3380181",
-		"jp_text": "絶品メガトンパフェ＋１",
+		"jp_text": "絶品メガトンパフェ�E�！E,
 		"tr_text": "Exquisite Megaton Parfait+1",
-		"jp_explain": "ペット用のキャンディー。\n強敵に対しペットの与ダメージが\n上昇し、被ダメージが減少。",
+		"jp_explain": "ペット用のキャンチE��ー、En強敵に対し�EチE��の与ダメージが\n上�Eし、被ダメージが減少、E,
 		"tr_explain": "Un dulce para tu pet. Reduces\ndamage taken from bosses and\nincreases damage dealt to bosses."
 	},
 	{
 		"assign": "3380182",
-		"jp_text": "絶品メガトンパフェ＋２",
+		"jp_text": "絶品メガトンパフェ�E�！E,
 		"tr_text": "Exquisite Megaton Parfait+2",
-		"jp_explain": "ペット用のキャンディー。\n強敵に対しペットの与ダメージが\n上昇し、被ダメージが減少。",
+		"jp_explain": "ペット用のキャンチE��ー、En強敵に対し�EチE��の与ダメージが\n上�Eし、被ダメージが減少、E,
 		"tr_explain": "Un dulce para tu pet. Reduces\ndamage taken from bosses and\nincreases damage dealt to bosses."
 	},
 	{
 		"assign": "3380183",
-		"jp_text": "絶品メガトンパフェ＋３",
+		"jp_text": "絶品メガトンパフェ�E�！E,
 		"tr_text": "Exquisite Megaton Parfait+3",
-		"jp_explain": "ペット用のキャンディー。\n強敵に対しペットの与ダメージが\n上昇し、被ダメージが減少。",
+		"jp_explain": "ペット用のキャンチE��ー、En強敵に対し�EチE��の与ダメージが\n上�Eし、被ダメージが減少、E,
 		"tr_explain": "Un dulce para tu pet. Reduces\ndamage taken from bosses and\nincreases damage dealt to bosses."
 	},
 	{
 		"assign": "3380184",
-		"jp_text": "絶品メガトンパフェ＋４",
+		"jp_text": "絶品メガトンパフェ�E�！E,
 		"tr_text": "Exquisite Megaton Parfait+4",
-		"jp_explain": "ペット用のキャンディー。\n強敵に対しペットの与ダメージが\n上昇し、被ダメージが減少。",
+		"jp_explain": "ペット用のキャンチE��ー、En強敵に対し�EチE��の与ダメージが\n上�Eし、被ダメージが減少、E,
 		"tr_explain": "Un dulce para tu pet. Reduces\ndamage taken from bosses and\nincreases damage dealt to bosses."
 	},
 	{
+		"assign": "3380185",
+		"jp_text": "絶品ぐんぐんパフェ",
+		"tr_text": "Exquisite Steady Parfait",
+		"jp_explain": "ペット用のキャンチE��ー、Enペット�E攻撁E��エネミーを倒すと\n�E��E�回復、撃破ごとに威力上�E、E,
+		"tr_explain": "A candy for your pet. Damage is\nincreased & HP is recovered per\nenemy that you defeat."
+	},
+	{
+		"assign": "3380186",
+		"jp_text": "絶品ぐんぐんパフェ�E�！E,
+		"tr_text": "Exquisite Steady Parfait+1",
+		"jp_explain": "ペット用のキャンチE��ー、Enペット�E攻撁E��エネミーを倒すと\n�E��E�回復、撃破ごとに威力上�E、E,
+		"tr_explain": "A candy for your pet. Damage is\nincreased & HP is recovered per\nenemy that you defeat."
+	},
+	{
+		"assign": "3380187",
+		"jp_text": "絶品ぐんぐんパフェ�E�！E,
+		"tr_text": "Exquisite Steady Parfait+2",
+		"jp_explain": "ペット用のキャンチE��ー、Enペット�E攻撁E��エネミーを倒すと\n�E��E�回復、撃破ごとに威力上�E、E,
+		"tr_explain": "A candy for your pet. Damage is\nincreased & HP is recovered per\nenemy that you defeat."
+	},
+	{
+		"assign": "3380188",
+		"jp_text": "絶品ぐんぐんパフェ�E�！E,
+		"tr_text": "Exquisite Steady Parfait+3",
+		"jp_explain": "ペット用のキャンチE��ー、Enペット�E攻撁E��エネミーを倒すと\n�E��E�回復、撃破ごとに威力上�E、E,
+		"tr_explain": "A candy for your pet. Damage is\nincreased & HP is recovered per\nenemy that you defeat."
+	},
+	{
+		"assign": "3380189",
+		"jp_text": "絶品ぐんぐんパフェ�E�！E,
+		"tr_text": "Exquisite Steady Parfait+4",
+		"jp_explain": "ペット用のキャンチE��ー、Enペット�E攻撁E��エネミーを倒すと\n�E��E�回復、撃破ごとに威力上�E、E,
+		"tr_explain": "A candy for your pet. Damage is\nincreased & HP is recovered per\nenemy that you defeat."
+	},
+	{
+		"assign": "3380190",
+		"jp_text": "絶品まん�Eくパフェ",
+		"tr_text": "Exquisite Stuffed Parfait",
+		"jp_explain": "ペット用のキャンチE��ー、En�E��E�が一定以上�E時に威力上�E、Enアルターエゴ時、消費�E��E�減少、E,
+		"tr_explain": "A candy for your pet. Boosts pet\ndamage when PP is above a certain\nlevel. Alter Ego PP usage is reduced."
+	},
+	{
+		"assign": "3380191",
+		"jp_text": "絶品まん�Eくパフェ�E�！E,
+		"tr_text": "Exquisite Stuffed Parfait+1",
+		"jp_explain": "ペット用のキャンチE��ー、En�E��E�が一定以上�E時に威力上�E、Enアルターエゴ時、消費�E��E�減少、E,
+		"tr_explain": "A candy for your pet. Boosts pet\ndamage when PP is above a certain\nlevel. Alter Ego PP usage is reduced."
+	},
+	{
+		"assign": "3380192",
+		"jp_text": "絶品まん�Eくパフェ�E�！E,
+		"tr_text": "Exquisite Stuffed Parfait+2",
+		"jp_explain": "ペット用のキャンチE��ー、En�E��E�が一定以上�E時に威力上�E、Enアルターエゴ時、消費�E��E�減少、E,
+		"tr_explain": "A candy for your pet. Boosts pet\ndamage when PP is above a certain\nlevel. Alter Ego PP usage is reduced."
+	},
+	{
+		"assign": "3380193",
+		"jp_text": "絶品まん�Eくパフェ�E�！E,
+		"tr_text": "Exquisite Stuffed Parfait+3",
+		"jp_explain": "ペット用のキャンチE��ー、En�E��E�が一定以上�E時に威力上�E、Enアルターエゴ時、消費�E��E�減少、E,
+		"tr_explain": "A candy for your pet. Boosts pet\ndamage when PP is above a certain\nlevel. Alter Ego PP usage is reduced."
+	},
+	{
+		"assign": "3380194",
+		"jp_text": "絶品まん�Eくパフェ�E�！E,
+		"tr_text": "Exquisite Stuffed Parfait+4",
+		"jp_explain": "ペット用のキャンチE��ー、En�E��E�が一定以上�E時に威力上�E、Enアルターエゴ時、消費�E��E�減少、E,
+		"tr_explain": "A candy for your pet. Boosts pet\ndamage when PP is above a certain\nlevel. Alter Ego PP usage is reduced."
+	},
+	{
 		"assign": "3380205",
-		"jp_text": "超がむしゃらパフェ",
+		"jp_text": "趁E��むしゃらパフェ",
 		"tr_text": "Super Daredevil Parfait",
-		"jp_explain": "ペット用のキャンディー。\nペットＰＡ使用時にＰＰ消費量が\n増加し威力が上昇する。",
-		"tr_explain": "Un dulce para tu pet. Increases Pet\nPA cost in exchange for\nincreased damage."
+		"jp_explain": "ペット用のキャンチE��ー、EnペットＰ�E�使用時に�E��E�消費量が\n増加し威力が上�Eする、E,
+		"tr_explain": "A candy for your pet. Increases Pet\nPA cost in exchange for\nincreased damage."
 	},
 	{
 		"assign": "3380206",
-		"jp_text": "超がむしゃらパフェ＋１",
+		"jp_text": "趁E��むしゃらパフェ�E�！E,
 		"tr_text": "Super Daredevil Parfait+1",
-		"jp_explain": "ペット用のキャンディー。\nペットＰＡ使用時にＰＰ消費量が\n増加し威力が上昇する。",
-		"tr_explain": "Un dulce para tu pet. Increases Pet\nPA cost in exchange for\nincreased damage."
+		"jp_explain": "ペット用のキャンチE��ー、EnペットＰ�E�使用時に�E��E�消費量が\n増加し威力が上�Eする、E,
+		"tr_explain": "A candy for your pet. Increases Pet\nPA cost in exchange for\nincreased damage."
 	},
 	{
 		"assign": "3380207",
-		"jp_text": "超がむしゃらパフェ＋２",
+		"jp_text": "趁E��むしゃらパフェ�E�！E,
 		"tr_text": "Super Daredevil Parfait+2",
-		"jp_explain": "ペット用のキャンディー。\nペットＰＡ使用時にＰＰ消費量が\n増加し威力が上昇する。",
-		"tr_explain": "Un dulce para tu pet. Increases Pet\nPA cost in exchange for\nincreased damage."
+		"jp_explain": "ペット用のキャンチE��ー、EnペットＰ�E�使用時に�E��E�消費量が\n増加し威力が上�Eする、E,
+		"tr_explain": "A candy for your pet. Increases Pet\nPA cost in exchange for\nincreased damage."
 	},
 	{
 		"assign": "3380208",
-		"jp_text": "超がむしゃらパフェ＋３",
+		"jp_text": "趁E��むしゃらパフェ�E�！E,
 		"tr_text": "Super Daredevil Parfait+3",
-		"jp_explain": "ペット用のキャンディー。\nペットＰＡ使用時にＰＰ消費量が\n増加し威力が上昇する。",
-		"tr_explain": "Un dulce para tu pet. Increases Pet\nPA cost in exchange for\nincreased damage."
+		"jp_explain": "ペット用のキャンチE��ー、EnペットＰ�E�使用時に�E��E�消費量が\n増加し威力が上�Eする、E,
+		"tr_explain": "A candy for your pet. Increases Pet\nPA cost in exchange for\nincreased damage."
 	},
 	{
 		"assign": "3380209",
-		"jp_text": "超がむしゃらパフェ＋４",
+		"jp_text": "趁E��むしゃらパフェ�E�！E,
 		"tr_text": "Super Daredevil Parfait+4",
-		"jp_explain": "ペット用のキャンディー。\nペットＰＡ使用時にＰＰ消費量が\n増加し威力が上昇する。",
-		"tr_explain": "Un dulce para tu pet. Increases Pet\nPA cost in exchange for\nincreased damage."
+		"jp_explain": "ペット用のキャンチE��ー、EnペットＰ�E�使用時に�E��E�消費量が\n増加し威力が上�Eする、E,
+		"tr_explain": "A candy for your pet. Increases Pet\nPA cost in exchange for\nincreased damage."
 	},
 	{
 		"assign": "3380210",
-		"jp_text": "超ぜいたくパフェ",
+		"jp_text": "趁E��ぁE��くパフェ",
 		"tr_text": "Super Luxury Parfait",
-		"jp_explain": "ペット用のキャンディー。\nＰＰの回復速度と攻撃時の回復量が\n上がり、ＰＰの消費量を軽減する。",
-		"tr_explain": "Un dulce para tu pet.\nBoosts PP and ATK PP recovery speed.\nReduces PP consumption."
+		"jp_explain": "ペット用のキャンチE��ー、En�E��E�の回復速度と攻撁E��の回復量が\n上がり、E���E�の消費量を軽減する、E,
+		"tr_explain": "A candy for your pet.\nBoosts PP and ATK PP recovery speed.\nReduces PP consumption."
 	},
 	{
 		"assign": "3380211",
-		"jp_text": "超ぜいたくパフェ＋１",
+		"jp_text": "趁E��ぁE��くパフェ�E�！E,
 		"tr_text": "Super Luxury Parfait+1",
-		"jp_explain": "ペット用のキャンディー。\nＰＰの回復速度と攻撃時の回復量が\n上がり、ＰＰの消費量を軽減する。",
-		"tr_explain": "Un dulce para tu pet.\nBoosts PP and ATK PP recovery speed.\nReduces PP consumption."
+		"jp_explain": "ペット用のキャンチE��ー、En�E��E�の回復速度と攻撁E��の回復量が\n上がり、E���E�の消費量を軽減する、E,
+		"tr_explain": "A candy for your pet.\nBoosts PP and ATK PP recovery speed.\nReduces PP consumption."
 	},
 	{
 		"assign": "3380212",
-		"jp_text": "超ぜいたくパフェ＋２",
+		"jp_text": "趁E��ぁE��くパフェ�E�！E,
 		"tr_text": "Super Luxury Parfait+2",
-		"jp_explain": "ペット用のキャンディー。\nＰＰの回復速度と攻撃時の回復量が\n上がり、ＰＰの消費量を軽減する。",
-		"tr_explain": "Un dulce para tu pet.\nBoosts PP and ATK PP recovery speed.\nReduces PP consumption."
+		"jp_explain": "ペット用のキャンチE��ー、En�E��E�の回復速度と攻撁E��の回復量が\n上がり、E���E�の消費量を軽減する、E,
+		"tr_explain": "A candy for your pet.\nBoosts PP and ATK PP recovery speed.\nReduces PP consumption."
 	},
 	{
 		"assign": "3380213",
-		"jp_text": "超ぜいたくパフェ＋３",
+		"jp_text": "趁E��ぁE��くパフェ�E�！E,
 		"tr_text": "Super Luxury Parfait+3",
-		"jp_explain": "ペット用のキャンディー。\nＰＰの回復速度と攻撃時の回復量が\n上がり、ＰＰの消費量を軽減する。",
-		"tr_explain": "Un dulce para tu pet.\nBoosts PP and ATK PP recovery speed.\nReduces PP consumption."
+		"jp_explain": "ペット用のキャンチE��ー、En�E��E�の回復速度と攻撁E��の回復量が\n上がり、E���E�の消費量を軽減する、E,
+		"tr_explain": "A candy for your pet.\nBoosts PP and ATK PP recovery speed.\nReduces PP consumption."
 	},
 	{
 		"assign": "3380214",
-		"jp_text": "超ぜいたくパフェ＋４",
+		"jp_text": "趁E��ぁE��くパフェ�E�！E,
 		"tr_text": "Super Luxury Parfait+4",
-		"jp_explain": "ペット用のキャンディー。\nＰＰの回復速度と攻撃時の回復量が\n上がり、ＰＰの消費量を軽減する。",
-		"tr_explain": "Un dulce para tu pet.\nBoosts PP and ATK PP recovery speed.\nReduces PP consumption."
+		"jp_explain": "ペット用のキャンチE��ー、En�E��E�の回復速度と攻撁E��の回復量が\n上がり、E���E�の消費量を軽減する、E,
+		"tr_explain": "A candy for your pet.\nBoosts PP and ATK PP recovery speed.\nReduces PP consumption."
 	},
 	{
 		"assign": "3380215",
-		"jp_text": "ひかりとやみのパフェ",
+		"jp_text": "ひかりとめE��のパフェ",
 		"tr_text": "Light & Dark Parfait",
-		"jp_explain": "ペット用のキャンディー。\n弱点属性が光、闇、ペット属性のうち\nどれかと一致時、威力上昇しＨＰ回復。",
-		"tr_explain": "Un dulce para tu pet. Recover HP\nand gain a power boost if weak\nelement or pet is Dark or Light."
+		"jp_explain": "ペット用のキャンチE��ー、En弱点属性が�E、E��、�EチE��属性のぁE��\nどれかと一致時、威力上�EしＨ�E�回復、E,
+		"tr_explain": "A candy for your pet. Recover HP\nand gain a power boost if weak\nelement or pet is Dark or Light."
 	},
 	{
 		"assign": "3380216",
-		"jp_text": "ひかりとやみのパフェ＋１",
+		"jp_text": "ひかりとめE��のパフェ�E�！E,
 		"tr_text": "Light & Dark Parfait+1",
-		"jp_explain": "ペット用のキャンディー。\n弱点属性が光、闇、ペット属性のうち\nどれかと一致時、威力上昇しＨＰ回復。",
-		"tr_explain": "Un dulce para tu pet. Recover HP\nand gain a power boost if weak\nelement or pet is Dark or Light."
+		"jp_explain": "ペット用のキャンチE��ー、En弱点属性が�E、E��、�EチE��属性のぁE��\nどれかと一致時、威力上�EしＨ�E�回復、E,
+		"tr_explain": "A candy for your pet. Recover HP\nand gain a power boost if weak\nelement or pet is Dark or Light."
 	},
 	{
 		"assign": "3380217",
-		"jp_text": "ひかりとやみのパフェ＋２",
+		"jp_text": "ひかりとめE��のパフェ�E�！E,
 		"tr_text": "Light & Dark Parfait+2",
-		"jp_explain": "ペット用のキャンディー。\n弱点属性が光、闇、ペット属性のうち\nどれかと一致時、威力上昇しＨＰ回復。",
-		"tr_explain": "Un dulce para tu pet. Recover HP\nand gain a power boost if weak\nelement or pet is Dark or Light."
+		"jp_explain": "ペット用のキャンチE��ー、En弱点属性が�E、E��、�EチE��属性のぁE��\nどれかと一致時、威力上�EしＨ�E�回復、E,
+		"tr_explain": "A candy for your pet. Recover HP\nand gain a power boost if weak\nelement or pet is Dark or Light."
 	},
 	{
 		"assign": "3380218",
-		"jp_text": "ひかりとやみのパフェ＋３",
+		"jp_text": "ひかりとめE��のパフェ�E�！E,
 		"tr_text": "Light & Dark Parfait+3",
-		"jp_explain": "ペット用のキャンディー。\n弱点属性が光、闇、ペット属性のうち\nどれかと一致時、威力上昇しＨＰ回復。",
-		"tr_explain": "Un dulce para tu pet. Recover HP\nand gain a power boost if weak\nelement or pet is Dark or Light."
+		"jp_explain": "ペット用のキャンチE��ー、En弱点属性が�E、E��、�EチE��属性のぁE��\nどれかと一致時、威力上�EしＨ�E�回復、E,
+		"tr_explain": "A candy for your pet. Recover HP\nand gain a power boost if weak\nelement or pet is Dark or Light."
 	},
 	{
 		"assign": "3380219",
-		"jp_text": "ひかりとやみのパフェ＋４",
+		"jp_text": "ひかりとめE��のパフェ�E�！E,
 		"tr_text": "Light & Dark Parfait+4",
-		"jp_explain": "ペット用のキャンディー。\n弱点属性が光、闇、ペット属性のうち\nどれかと一致時、威力上昇しＨＰ回復。",
-		"tr_explain": "Un dulce para tu pet. Recover HP\nand gain a power boost if weak\nelement or pet is Dark or Light."
+		"jp_explain": "ペット用のキャンチE��ー、En弱点属性が�E、E��、�EチE��属性のぁE��\nどれかと一致時、威力上�EしＨ�E�回復、E,
+		"tr_explain": "A candy for your pet. Recover HP\nand gain a power boost if weak\nelement or pet is Dark or Light."
 	},
 	{
 		"assign": "3380220",
-		"jp_text": "ほのおとこおりのパフェ",
+		"jp_text": "ほのおとこおり�Eパフェ",
 		"tr_text": "Fire & Ice Parfait",
-		"jp_explain": "ペット用のキャンディー。\n弱点属性が炎、氷、ペット属性のうち\nどれかと一致時、威力上昇しＨＰ回復。",
-		"tr_explain": "Un dulce para tu pet. Recover HP\nand gain a power boost if weak\nelement or pet is Fire or Ice."
+		"jp_explain": "ペット用のキャンチE��ー、En弱点属性が炎、氷、�EチE��属性のぁE��\nどれかと一致時、威力上�EしＨ�E�回復、E,
+		"tr_explain": "A candy for your pet. Recover HP\nand gain a power boost if weak\nelement or pet is Fire or Ice."
 	},
 	{
 		"assign": "3380221",
-		"jp_text": "ほのおとこおりのパフェ＋１",
+		"jp_text": "ほのおとこおり�Eパフェ�E�！E,
 		"tr_text": "Fire & Ice Parfait+1",
-		"jp_explain": "ペット用のキャンディー。\n弱点属性が炎、氷、ペット属性のうち\nどれかと一致時、威力上昇しＨＰ回復。",
-		"tr_explain": "Un dulce para tu pet. Recover HP\nand gain a power boost if weak\nelement or pet is Fire or Ice."
+		"jp_explain": "ペット用のキャンチE��ー、En弱点属性が炎、氷、�EチE��属性のぁE��\nどれかと一致時、威力上�EしＨ�E�回復、E,
+		"tr_explain": "A candy for your pet. Recover HP\nand gain a power boost if weak\nelement or pet is Fire or Ice."
 	},
 	{
 		"assign": "3380222",
-		"jp_text": "ほのおとこおりのパフェ＋２",
+		"jp_text": "ほのおとこおり�Eパフェ�E�！E,
 		"tr_text": "Fire & Ice Parfait+2",
-		"jp_explain": "ペット用のキャンディー。\n弱点属性が炎、氷、ペット属性のうち\nどれかと一致時、威力上昇しＨＰ回復。",
-		"tr_explain": "Un dulce para tu pet. Recover HP\nand gain a power boost if weak\nelement or pet is Fire or Ice."
+		"jp_explain": "ペット用のキャンチE��ー、En弱点属性が炎、氷、�EチE��属性のぁE��\nどれかと一致時、威力上�EしＨ�E�回復、E,
+		"tr_explain": "A candy for your pet. Recover HP\nand gain a power boost if weak\nelement or pet is Fire or Ice."
 	},
 	{
 		"assign": "3380223",
-		"jp_text": "ほのおとこおりのパフェ＋３",
+		"jp_text": "ほのおとこおり�Eパフェ�E�！E,
 		"tr_text": "Fire & Ice Parfait+3",
-		"jp_explain": "ペット用のキャンディー。\n弱点属性が炎、氷、ペット属性のうち\nどれかと一致時、威力上昇しＨＰ回復。",
-		"tr_explain": "Un dulce para tu pet. Recover HP\nand gain a power boost if weak\nelement or pet is Fire or Ice."
+		"jp_explain": "ペット用のキャンチE��ー、En弱点属性が炎、氷、�EチE��属性のぁE��\nどれかと一致時、威力上�EしＨ�E�回復、E,
+		"tr_explain": "A candy for your pet. Recover HP\nand gain a power boost if weak\nelement or pet is Fire or Ice."
 	},
 	{
 		"assign": "3380224",
-		"jp_text": "ほのおとこおりのパフェ＋４",
+		"jp_text": "ほのおとこおり�Eパフェ�E�！E,
 		"tr_text": "Fire & Ice Parfait+4",
-		"jp_explain": "ペット用のキャンディー。\n弱点属性が炎、氷、ペット属性のうち\nどれかと一致時、威力上昇しＨＰ回復。",
-		"tr_explain": "Un dulce para tu pet. Recover HP\nand gain a power boost if weak\nelement or pet is Fire or Ice."
+		"jp_explain": "ペット用のキャンチE��ー、En弱点属性が炎、氷、�EチE��属性のぁE��\nどれかと一致時、威力上�EしＨ�E�回復、E,
+		"tr_explain": "A candy for your pet. Recover HP\nand gain a power boost if weak\nelement or pet is Fire or Ice."
 	},
 	{
 		"assign": "3380225",
 		"jp_text": "かみなりとかぜのパフェ",
 		"tr_text": "Wind & Lightning Parfait",
-		"jp_explain": "ペット用のキャンディー。\n弱点属性が雷、風、ペット属性のうち\nどれかと一致時、威力上昇しＨＰ回復。",
-		"tr_explain": "Un dulce para tu pet. Recover HP\nand gain a power boost if weak\nelement or pet is Wind or Lightning."
+		"jp_explain": "ペット用のキャンチE��ー、En弱点属性が雷、E��、�EチE��属性のぁE��\nどれかと一致時、威力上�EしＨ�E�回復、E,
+		"tr_explain": "A candy for your pet. Recover HP\nand gain a power boost if weak\nelement or pet is Wind or Lightning."
 	},
 	{
 		"assign": "3380226",
-		"jp_text": "かみなりとかぜのパフェ＋１",
+		"jp_text": "かみなりとかぜのパフェ�E�！E,
 		"tr_text": "Wind & Lightning Parfait+1",
-		"jp_explain": "ペット用のキャンディー。\n弱点属性が雷、風、ペット属性のうち\nどれかと一致時、威力上昇しＨＰ回復。",
-		"tr_explain": "Un dulce para tu pet. Recover HP\nand gain a power boost if weak\nelement or pet is Wind or Lightning."
+		"jp_explain": "ペット用のキャンチE��ー、En弱点属性が雷、E��、�EチE��属性のぁE��\nどれかと一致時、威力上�EしＨ�E�回復、E,
+		"tr_explain": "A candy for your pet. Recover HP\nand gain a power boost if weak\nelement or pet is Wind or Lightning."
 	},
 	{
 		"assign": "3380227",
-		"jp_text": "かみなりとかぜのパフェ＋２",
+		"jp_text": "かみなりとかぜのパフェ�E�！E,
 		"tr_text": "Wind & Lightning Parfait+2",
-		"jp_explain": "ペット用のキャンディー。\n弱点属性が雷、風、ペット属性のうち\nどれかと一致時、威力上昇しＨＰ回復。",
-		"tr_explain": "Un dulce para tu pet. Recover HP\nand gain a power boost if weak\nelement or pet is Wind or Lightning."
+		"jp_explain": "ペット用のキャンチE��ー、En弱点属性が雷、E��、�EチE��属性のぁE��\nどれかと一致時、威力上�EしＨ�E�回復、E,
+		"tr_explain": "A candy for your pet. Recover HP\nand gain a power boost if weak\nelement or pet is Wind or Lightning."
 	},
 	{
 		"assign": "3380228",
-		"jp_text": "かみなりとかぜのパフェ＋３",
+		"jp_text": "かみなりとかぜのパフェ�E�！E,
 		"tr_text": "Wind & Lightning Parfait+3",
-		"jp_explain": "ペット用のキャンディー。\n弱点属性が雷、風、ペット属性のうち\nどれかと一致時、威力上昇しＨＰ回復。",
-		"tr_explain": "Un dulce para tu pet. Recover HP\nand gain a power boost if weak\nelement or pet is Wind or Lightning."
+		"jp_explain": "ペット用のキャンチE��ー、En弱点属性が雷、E��、�EチE��属性のぁE��\nどれかと一致時、威力上�EしＨ�E�回復、E,
+		"tr_explain": "A candy for your pet. Recover HP\nand gain a power boost if weak\nelement or pet is Wind or Lightning."
 	},
 	{
 		"assign": "3380229",
-		"jp_text": "かみなりとかぜのパフェ＋４",
+		"jp_text": "かみなりとかぜのパフェ�E�！E,
 		"tr_text": "Wind & Lightning Parfait+4",
-		"jp_explain": "ペット用のキャンディー。\n弱点属性が雷、風、ペット属性のうち\nどれかと一致時、威力上昇しＨＰ回復。",
-		"tr_explain": "Un dulce para tu pet. Recover HP\nand gain a power boost if weak\nelement or pet is Wind or Lightning."
+		"jp_explain": "ペット用のキャンチE��ー、En弱点属性が雷、E��、�EチE��属性のぁE��\nどれかと一致時、威力上�EしＨ�E�回復、E,
+		"tr_explain": "A candy for your pet. Recover HP\nand gain a power boost if weak\nelement or pet is Wind or Lightning."
 	},
 	{
 		"assign": "3380230",
 		"jp_text": "かけひきパフェ",
 		"tr_text": "Tactics Parfait",
-		"jp_explain": "ペット用のキャンディー。\nペットと抜刀時のプレイヤー被ダメージが\n上昇するが、ペットの与ダメージも上昇。",
-		"tr_explain": "A Candy for your pet. Boosts pet\ndamage, but you and pet take more\ndamage when your weapon is drawn."
+		"jp_explain": "ペット用のキャンチE��ー、Enペットと抜�E時�Eプレイヤー被ダメージが\n上�Eするが、�EチE��の与ダメージも上�E、E,
+		"tr_explain": "A candy for your pet. Boosts pet\ndamage, but you and pet take more\ndamage when your weapon is drawn."
 	},
 	{
 		"assign": "3380231",
-		"jp_text": "かけひきパフェ＋１",
+		"jp_text": "かけひきパフェ�E�！E,
 		"tr_text": "Tactics Parfait+1",
-		"jp_explain": "ペット用のキャンディー。\nペットと抜刀時のプレイヤー被ダメージが\n上昇するが、ペットの与ダメージも上昇。",
-		"tr_explain": "A Candy for your pet. Boosts pet\ndamage, but you and pet take more\ndamage when your weapon is drawn."
+		"jp_explain": "ペット用のキャンチE��ー、Enペットと抜�E時�Eプレイヤー被ダメージが\n上�Eするが、�EチE��の与ダメージも上�E、E,
+		"tr_explain": "A candy for your pet. Boosts pet\ndamage, but you and pet take more\ndamage when your weapon is drawn."
 	},
 	{
 		"assign": "3380232",
-		"jp_text": "かけひきパフェ＋２",
+		"jp_text": "かけひきパフェ�E�！E,
 		"tr_text": "Tactics Parfait+2",
-		"jp_explain": "ペット用のキャンディー。\nペットと抜刀時のプレイヤー被ダメージが\n上昇するが、ペットの与ダメージも上昇。",
-		"tr_explain": "A Candy for your pet. Boosts pet\ndamage, but you and pet take more\ndamage when your weapon is drawn."
+		"jp_explain": "ペット用のキャンチE��ー、Enペットと抜�E時�Eプレイヤー被ダメージが\n上�Eするが、�EチE��の与ダメージも上�E、E,
+		"tr_explain": "A candy for your pet. Boosts pet\ndamage, but you and pet take more\ndamage when your weapon is drawn."
 	},
 	{
 		"assign": "3380233",
-		"jp_text": "かけひきパフェ＋３",
+		"jp_text": "かけひきパフェ�E�！E,
 		"tr_text": "Tactics Parfait+3",
-		"jp_explain": "ペット用のキャンディー。\nペットと抜刀時のプレイヤー被ダメージが\n上昇するが、ペットの与ダメージも上昇。",
-		"tr_explain": "A Candy for your pet. Boosts pet\ndamage, but you and pet take more\ndamage when your weapon is drawn."
+		"jp_explain": "ペット用のキャンチE��ー、Enペットと抜�E時�Eプレイヤー被ダメージが\n上�Eするが、�EチE��の与ダメージも上�E、E,
+		"tr_explain": "A candy for your pet. Boosts pet\ndamage, but you and pet take more\ndamage when your weapon is drawn."
 	},
 	{
 		"assign": "3380234",
-		"jp_text": "かけひきパフェ＋４",
+		"jp_text": "かけひきパフェ�E�！E,
 		"tr_text": "Tactics Parfait+4",
-		"jp_explain": "ペット用のキャンディー。\nペットと抜刀時のプレイヤー被ダメージが\n上昇するが、ペットの与ダメージも上昇。",
-		"tr_explain": "A Candy for your pet. Boosts pet\ndamage, but you and pet take more\ndamage when your weapon is drawn."
+		"jp_explain": "ペット用のキャンチE��ー、Enペットと抜�E時�Eプレイヤー被ダメージが\n上�Eするが、�EチE��の与ダメージも上�E、E,
+		"tr_explain": "A candy for your pet. Boosts pet\ndamage, but you and pet take more\ndamage when your weapon is drawn."
 	},
 	{
 		"assign": "3380240",
 		"jp_text": "絶品へんしんパフェ",
 		"tr_text": "Exquisite Transform Parfait",
-		"jp_explain": "ペット用のキャンディー。\nダークブラストゲージの上昇率\nゲージ量でのペット威力が増加。",
-		"tr_explain": "Un dulce para tu pet. Pet damage is\nincreased based on the Dark Blast\nGauge."
+		"jp_explain": "ペット用のキャンチE��ー、Enダークブラストゲージの上�E率\nゲージ量でのペット威力が増加、E,
+		"tr_explain": "A candy for your pet. Pet damage is\nincreased based on the Dark Blast\nGauge."
 	},
 	{
 		"assign": "3380241",
-		"jp_text": "絶品へんしんパフェ＋１",
+		"jp_text": "絶品へんしんパフェ�E�！E,
 		"tr_text": "Exquisite Transform Parfait+1",
-		"jp_explain": "ペット用のキャンディー。\nダークブラストゲージの上昇率\nゲージ量でのペット威力が増加。",
-		"tr_explain": "Un dulce para tu pet. Pet damage is\nincreased based on the Dark Blast\nGauge."
+		"jp_explain": "ペット用のキャンチE��ー、Enダークブラストゲージの上�E率\nゲージ量でのペット威力が増加、E,
+		"tr_explain": "A candy for your pet. Pet damage is\nincreased based on the Dark Blast\nGauge."
 	},
 	{
 		"assign": "3380242",
-		"jp_text": "絶品へんしんパフェ＋２",
+		"jp_text": "絶品へんしんパフェ�E�！E,
 		"tr_text": "Exquisite Transform Parfait+2",
-		"jp_explain": "ペット用のキャンディー。\nダークブラストゲージの上昇率\nゲージ量でのペット威力が増加。",
-		"tr_explain": "Un dulce para tu pet. Pet damage is\nincreased based on the Dark Blast\nGauge."
+		"jp_explain": "ペット用のキャンチE��ー、Enダークブラストゲージの上�E率\nゲージ量でのペット威力が増加、E,
+		"tr_explain": "A candy for your pet. Pet damage is\nincreased based on the Dark Blast\nGauge."
 	},
 	{
 		"assign": "3380243",
-		"jp_text": "絶品へんしんパフェ＋３",
+		"jp_text": "絶品へんしんパフェ�E�！E,
 		"tr_text": "Exquisite Transform Parfait+3",
-		"jp_explain": "ペット用のキャンディー。\nダークブラストゲージの上昇率\nゲージ量でのペット威力が増加。",
-		"tr_explain": "Un dulce para tu pet. Pet damage is\nincreased based on the Dark Blast\nGauge."
+		"jp_explain": "ペット用のキャンチE��ー、Enダークブラストゲージの上�E率\nゲージ量でのペット威力が増加、E,
+		"tr_explain": "A candy for your pet. Pet damage is\nincreased based on the Dark Blast\nGauge."
 	},
 	{
 		"assign": "3380244",
-		"jp_text": "絶品へんしんパフェ＋４",
+		"jp_text": "絶品へんしんパフェ�E�！E,
 		"tr_text": "Exquisite Transform Parfait+4",
-		"jp_explain": "ペット用のキャンディー。\nダークブラストゲージの上昇率\nゲージ量でのペット威力が増加。",
-		"tr_explain": "Un dulce para tu pet. Pet damage is\nincreased based on the Dark Blast\nGauge."
+		"jp_explain": "ペット用のキャンチE��ー、Enダークブラストゲージの上�E率\nゲージ量でのペット威力が増加、E,
+		"tr_explain": "A candy for your pet. Pet damage is\nincreased based on the Dark Blast\nGauge."
 	},
 	{
 		"assign": "3380245",
-		"jp_text": "超きあいパフェ",
+		"jp_text": "趁E��あいパフェ",
 		"tr_text": "Super Bolster Parfait",
-		"jp_explain": "ペット用のキャンディー。\nペットとプレイヤーの距離が近いほど\n与えるダメージが上昇する。",
-		"tr_explain": "Un dulce para tu pet.\nWhen pet and player are within\na certain range, damage is increased."
+		"jp_explain": "ペット用のキャンチE��ー、Enペットとプレイヤーの距離が近いほど\n与えるダメージが上�Eする、E,
+		"tr_explain": "A candy for your pet.\nWhen pet and player are within\na certain range, damage is increased."
 	},
 	{
 		"assign": "3380246",
-		"jp_text": "超きあいパフェ＋１",
+		"jp_text": "趁E��あいパフェ�E�！E,
 		"tr_text": "Super Bolster Parfait+1",
-		"jp_explain": "ペット用のキャンディー。\nペットとプレイヤーの距離が近いほど\n与えるダメージが上昇する。",
-		"tr_explain": "Un dulce para tu pet.\nWhen pet and player are within\na certain range, damage is increased."
+		"jp_explain": "ペット用のキャンチE��ー、Enペットとプレイヤーの距離が近いほど\n与えるダメージが上�Eする、E,
+		"tr_explain": "A candy for your pet.\nWhen pet and player are within\na certain range, damage is increased."
 	},
 	{
 		"assign": "3380247",
-		"jp_text": "超きあいパフェ＋２",
+		"jp_text": "趁E��あいパフェ�E�！E,
 		"tr_text": "Super Bolster Parfait+2",
-		"jp_explain": "ペット用のキャンディー。\nペットとプレイヤーの距離が近いほど\n与えるダメージが上昇する。",
-		"tr_explain": "Un dulce para tu pet.\nWhen pet and player are within\na certain range, damage is increased."
+		"jp_explain": "ペット用のキャンチE��ー、Enペットとプレイヤーの距離が近いほど\n与えるダメージが上�Eする、E,
+		"tr_explain": "A candy for your pet.\nWhen pet and player are within\na certain range, damage is increased."
 	},
 	{
 		"assign": "3380248",
-		"jp_text": "超きあいパフェ＋３",
+		"jp_text": "趁E��あいパフェ�E�！E,
 		"tr_text": "Super Bolster Parfait+3",
-		"jp_explain": "ペット用のキャンディー。\nペットとプレイヤーの距離が近いほど\n与えるダメージが上昇する。",
-		"tr_explain": "Un dulce para tu pet.\nWhen pet and player are within\na certain range, damage is increased."
+		"jp_explain": "ペット用のキャンチE��ー、Enペットとプレイヤーの距離が近いほど\n与えるダメージが上�Eする、E,
+		"tr_explain": "A candy for your pet.\nWhen pet and player are within\na certain range, damage is increased."
 	},
 	{
 		"assign": "3380249",
-		"jp_text": "超きあいパフェ＋４",
+		"jp_text": "趁E��あいパフェ�E�！E,
 		"tr_text": "Super Bolster Parfait+4",
-		"jp_explain": "ペット用のキャンディー。\nペットとプレイヤーの距離が近いほど\n与えるダメージが上昇する。",
-		"tr_explain": "Un dulce para tu pet.\nWhen pet and player are within\na certain range, damage is increased."
+		"jp_explain": "ペット用のキャンチE��ー、Enペットとプレイヤーの距離が近いほど\n与えるダメージが上�Eする、E,
+		"tr_explain": "A candy for your pet.\nWhen pet and player are within\na certain range, damage is increased."
+	},
+	{
+		"assign": "3380250",
+		"jp_text": "どきどきパフェ",
+		"tr_text": "Doki Doki Parfait",
+		"jp_explain": "ペット用のキャンチE��ー、En与ダメージが上�Eするが、�EチE��\n戦闘不�E時�E復帰時間が増加、E,
+		"tr_explain": ""
+	},
+	{
+		"assign": "3380251",
+		"jp_text": "どきどきパフェ�E�！E,
+		"tr_text": "Doki Doki Parfait+1",
+		"jp_explain": "ペット用のキャンチE��ー、En与ダメージが上�Eするが、�EチE��\n戦闘不�E時�E復帰時間が増加、E,
+		"tr_explain": ""
+	},
+	{
+		"assign": "3380252",
+		"jp_text": "どきどきパフェ�E�！E,
+		"tr_text": "Doki Doki Parfait+2",
+		"jp_explain": "ペット用のキャンチE��ー、En与ダメージが上�Eするが、�EチE��\n戦闘不�E時�E復帰時間が増加、E,
+		"tr_explain": ""
+	},
+	{
+		"assign": "3380253",
+		"jp_text": "どきどきパフェ�E�！E,
+		"tr_text": "Doki Doki Parfait+3",
+		"jp_explain": "ペット用のキャンチE��ー、En与ダメージが上�Eするが、�EチE��\n戦闘不�E時�E復帰時間が増加、E,
+		"tr_explain": ""
+	},
+	{
+		"assign": "3380254",
+		"jp_text": "どきどきパフェ�E�！E,
+		"tr_text": "Doki Doki Parfait+4",
+		"jp_explain": "ペット用のキャンチE��ー、En与ダメージが上�Eするが、�EチE��\n戦闘不�E時�E復帰時間が増加、E,
+		"tr_explain": ""
 	}
 ]

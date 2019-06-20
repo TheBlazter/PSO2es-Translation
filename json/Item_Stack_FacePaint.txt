@@ -842,16 +842,16 @@
 	{
 		"assign": "3250124",
 		"jp_text": "ミコッテＭ・フェイス",
-		"tr_text": "Miqo’te M Face",
+		"tr_text": "Miqo'te M Face",
 		"jp_explain": "チケットを使用すると、新しいメイクの\nミコッテＭ・フェイスが選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Desbloquea el maquillaje\n\"Miqo’te M Face\"\npara usar en el Estilista."
+		"tr_explain": "Unlocks the male-only makeup\n\"Miqo'te M Face\"\nfor use in the Beauty Salon."
 	},
 	{
 		"assign": "3250125",
 		"jp_text": "ミコッテＦ・フェイス",
-		"tr_text": "Miqo’te F Face",
+		"tr_text": "Miqo'te F Face",
 		"jp_explain": "チケットを使用すると、新しいメイクの\nミコッテＦ・フェイスが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Desbloquea el maquillaje\n\"Miqo’te F Face\"\npara usar en el Estilista."
+		"tr_explain": "Unlocks the female-only makeup\n\"Miqo'te F Face\"\nfor use in the Beauty Salon."
 	},
 	{
 		"assign": "3250126",
@@ -1510,5 +1510,12 @@
 		"tr_text": "Kabuki Makeup B",
 		"jp_explain": "チケットを使用すると、新しいメイクの\nカブキケショウＢが選択可能。",
 		"tr_explain": "Desbloquea el maquillaje\n\"Kabuki Makeup B\"\npara usar en el Estilista."
+	},
+	{
+		"assign": "3250237",
+		"jp_text": "侵食メイク",
+		"tr_text": "Corruption Makeup",
+		"jp_explain": "チケットを使用すると、新しいメイクの\n侵食メイクが選択可能。",
+		"tr_explain": "Unlocks the makeup\n\"Corruption Makeup\"\nfor use in the Beauty Salon."
 	}
 ]

@@ -137,7 +137,7 @@
 		"jp_text": "＊終刀・創世",
 		"tr_text": "＊Tsukuriyo",
 		"jp_explain": "創世器「終刀・創世」を模して作られた\n抜剣型武器迷彩。刀匠ジグが生みだした\n宇宙を創りし色の刀身をもつ。",
-		"tr_explain": ""
+		"tr_explain": "Weapon camo of the Genesis Weapon\n\"Tsukuriyo\". Forged by Zieg, its blade\ncreates a whole new world."
 	},
 	{
 		"assign": "1014021",
@@ -284,6 +284,20 @@
 		"jp_text": "＊アルテミス＆レイピア",
 		"tr_text": "＊Artemis & Rapier",
 		"jp_explain": "上級者向けの高級武器迷彩。\n軽量かつ高出力のリアクターを\n装備し、すさまじい性能を持つ。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1014044",
+		"jp_text": "＊日本帝国標準兵装",
+		"tr_text": "＊Imperial Army Std. Equipment",
+		"jp_explain": "日本帝国の代表的な標準兵装を模した\n武器迷彩。戦術機が様々な戦闘状況に\n対応できるように用意された。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1014045",
+		"jp_text": "＊皆琉神威",
+		"tr_text": "＊Minaru Kamui",
+		"jp_explain": "御剣冥夜が愛用する御剣家の宝刀を\n模した抜剣型武器迷彩。無現鬼道流剣術\n免許皆伝の彼女の気高さを宿している。",
 		"tr_explain": ""
 	},
 	{

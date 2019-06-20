@@ -417,7 +417,7 @@
 		"jp_text": "ライトニングエスパーダ",
 		"tr_text": "Lightning Espada",
 		"jp_explain": "真に強き者が手にした時、金色に輝くと\nいわれる大剣。この剣を手にした者の力は\n枯渇することなく溢れ続けるという。",
-		"tr_explain": "A sword said to glow gold when held\nby the truly strong. Those who hold\nit gain inexhaustible power."
+		"tr_explain": "A sword said to glow gold when held\nby the truly strong. Those who wield\nit gain inexhaustible power."
 	},
 	{
 		"assign": "11063",
@@ -572,6 +572,13 @@
 		"tr_text": "Live Glion",
 		"jp_explain": "最先端の生体工学を応用し開発された\n大剣。高純度培養液の働きで自己再生が\n可能な棘刃は切れ味が鈍ることがない。",
 		"tr_explain": "A sword made with state-of-the-art\nbioengineering. Enhanced with a\nhigh-purity culture solution."
+	},
+	{
+		"assign": "110119",
+		"jp_text": "ブラッドグリオン",
+		"tr_text": "Blood Glion",
+		"jp_explain": "最先端の生体工学を応用し開発された\n大剣。生細胞液の循環効果で熱放出し\n金属疲労による刃こぼれを防ぐ。",
+		"tr_explain": ""
 	},
 	{
 		"assign": "110120",
@@ -1075,7 +1082,7 @@
 		"jp_text": "クルセイドロア-NT",
 		"tr_text": "Crusade Lore-NT",
 		"jp_explain": "神秘的な雰囲気を漂わせる大剣。\n冷たくも美しい、研ぎ澄まされた\nフォトンで加護されている。",
-		"tr_explain": ""
+		"tr_explain": "A sword with a mysterious air about\nit. Its beautiful, finely honed photons\ngrant the wielder divine protection."
 	},
 	{
 		"assign": "110295",
@@ -1418,7 +1425,7 @@
 		"jp_text": "ライトニングエスパーダ-NT",
 		"tr_text": "Lightning Espada-NT",
 		"jp_explain": "真に強き者が手にした時、金色に輝くと\nいわれる大剣。この剣を手にした者の力は\n枯渇することなく溢れ続けるという。",
-		"tr_explain": ""
+		"tr_explain": "A sword said to glow gold when held\nby the truly strong. Those who wield\nit gain inexhaustible power."
 	},
 	{
 		"assign": "110416",
@@ -1428,10 +1435,17 @@
 		"tr_explain": "A sword harboring the power of a\nPhoton Blast. It slices through the\nenemy with piercing strength."
 	},
 	{
+		"assign": "110421",
+		"jp_text": "オブリサナヴフト",
+		"tr_text": "Oblisana Wuft",
+		"jp_explain": "高圧化フォトン気流の噴出力を利用し\n瞬時に変形する大剣。重さをまるで\n感じさせない次世代の超軽量化を実現。",
+		"tr_explain": ""
+	},
+	{
 		"assign": "110428",
 		"jp_text": "ディムソード",
 		"tr_text": "Dim Sword",
-		"jp_explain": "次世代の主力として開発された大剣。\n偶発的に禍々しい力を備え、設計以上の\n力を持つが、使用者への影響は未解析。",
+		"jp_explain": "次世代の主力として開発された大剣。\n偶発的に禍々しい力を備え、設計以上の\n力を持つが、使用者への影響は未知数。",
 		"tr_explain": ""
 	},
 	{
@@ -1439,7 +1453,7 @@
 		"jp_text": "スペース・ツナ-NT",
 		"tr_text": "Space Tuna-NT",
 		"jp_explain": "海洋生物の模型を作っていたはずが\nどこで間違ったのか大剣になった。",
-		"tr_explain": ""
+		"tr_explain": "A model of a marine lifeform that\nwas mistakenly made into a sword."
 	},
 	{
 		"assign": "110430",
@@ -1447,5 +1461,12 @@
 		"tr_text": "Rose Saber-NT",
 		"jp_explain": "家事をするメイドが好んで使う大剣。\n控え目で落ち着いたデザインながら\n主人を敬う情熱を赤いバラで表現した。",
 		"tr_explain": ""
+	},
+	{
+		"assign": "110441",
+		"jp_text": "エリュシオーヌ-NT",
+		"tr_text": "Ely-Sion-NT",
+		"jp_explain": "有史上において数多の伝説を持つ大剣。\n惑星さえも切り裂くほどの威力が\n秘められているという。",
+		"tr_explain": "A sword that appears in legends\nthroughout history. It is said to hold\nenough power to cut a planet in two."
 	}
 ]
