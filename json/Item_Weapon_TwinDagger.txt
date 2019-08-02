@@ -214,7 +214,7 @@
 		"jp_text": "ラヴィス＝ブレイド",
 		"tr_text": "Lavis Blade",
 		"jp_explain": "不思議な力を秘めた謎の双小剣。\n他の追随を許さない一線を画した\n破壊力を保持している。",
-		"tr_explain": ""
+		"tr_explain": "Twin daggers bearing a mysterious\npower. Their destructive strength\nsets them apart from other weapons."
 	},
 	{
 		"assign": "14031",
@@ -700,6 +700,13 @@
 		"tr_explain": ""
 	},
 	{
+		"assign": "140152",
+		"jp_text": "シノノメセンガ",
+		"tr_text": "Shinonome Senga",
+		"jp_explain": "華やかさと機能面を両立した双小剣。\n闇夜を思わせる漆黒の刃は\n闇にまぎれて対象を刈り取る。",
+		"tr_explain": ""
+	},
+	{
 		"assign": "140153",
 		"jp_text": "ネメシスダガー",
 		"tr_text": "Nemesis Daggers",
@@ -1134,6 +1141,13 @@
 		"tr_explain": ""
 	},
 	{
+		"assign": "140289",
+		"jp_text": "ノヴェルツインダガー",
+		"tr_text": "Novel Dagger",
+		"jp_explain": "新技術により開発された双小剣。\n次期主力を担う武器として作られた。\n硬い鞘のようなもので覆われている。",
+		"tr_explain": ""
+	},
+	{
 		"assign": "140293",
 		"jp_text": "バトルＴダガーＬｖ１",
 		"tr_text": "Battle T. Dagger Lv1",
@@ -1334,7 +1348,7 @@
 		"jp_text": "ラヴィス＝ブレイド-NT",
 		"tr_text": "Lavis Blade-NT",
 		"jp_explain": "不思議な力を秘めた謎の双小剣。\n他の追随を許さない一線を画した\n破壊力を保持している。",
-		"tr_explain": ""
+		"tr_explain": "Twin daggers bearing a mysterious\npower. Their destructive strength\nsets them apart from other weapons."
 	},
 	{
 		"assign": "140334",

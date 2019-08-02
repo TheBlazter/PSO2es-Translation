@@ -1607,7 +1607,7 @@
 		"jp_text": "エクストレセプター",
 		"tr_text": "Extreceptor",
 		"jp_explain": "アルター、フリクト系と\n特定の特殊能力継承率を\n大幅に上昇　全+10",
-		"tr_explain": "Boosts Flict/Alter-type\nability transfer rates.\nAll +10"
+		"tr_explain": "Boosts Flict, Alter and\ncertain other special\nability transfer rates.\nAll +10"
 	},
 	{
 		"assign": "230",
@@ -2514,7 +2514,7 @@
 	},
 	{
 		"assign": "359",
-		"jp_text": "べルージュ・グレア",
+		"jp_text": "ベルージュ・グレア",
 		"tr_text": "Veluge Gaze",
 		"jp_explain": "射撃+30 打防+20\n射防+40 法防+20",
 		"tr_explain": "R-ATK +30 S-DEF +20\nR-DEF +40 T-DEF +20"

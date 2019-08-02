@@ -9648,28 +9648,28 @@
 	{
 		"assign": "2101583",
 		"jp_text": "ポップ・ラ・ソーサリーＭ春",
-		"tr_text": "",
+		"tr_text": "Pop La Sorcery M Spring",
 		"jp_explain": "デザイナーケルト姫が作った衣装。\nペットのポップルとサリィがモチーフで\nアクティブでキュートなデザイン。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "2101584",
 		"jp_text": "ポップ・ラ・ソーサリーＭ冬",
-		"tr_text": "",
+		"tr_text": "Pop La Sorcery M Winter",
 		"jp_explain": "デザイナーケルト姫が作った衣装。\nペットのポップルとサリィがモチーフで\nアクティブでキュートなデザイン。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "2101585",
 		"jp_text": "カラカズラ玄",
-		"tr_text": "",
+		"tr_text": "Karakazura Mysterious",
 		"jp_explain": "デザイナーRyoが作った衣装。\n和を意識したデザインで、肩当てや\n腰についた毛皮などが特徴。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "2101586",
 		"jp_text": "カラカズラ紅",
-		"tr_text": "",
+		"tr_text": "Karakazura Crimson",
 		"jp_explain": "デザイナーRyoが作った衣装。\n和を意識したデザインで、肩当てや\n腰についた毛皮などが特徴。",
 		"tr_explain": ""
 	},
@@ -9685,6 +9685,41 @@
 		"jp_text": "カースドコートＭ冬",
 		"tr_text": "Cursed Coat M Winter",
 		"jp_explain": "まじないの世界に精通する者が着用する\nという衣装。全身を覆うデザインは\n体格が隠せるよう意図されている。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2101589",
+		"jp_text": "ケロロ軍曹スーツ",
+		"tr_text": "",
+		"jp_explain": "あの輝かしきケロン人、ケロロ軍曹に\nなりきることができる、全身スーツ。\n我輩、がんばるであります！",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2101590",
+		"jp_text": "サマー・ラッピースーツ・ミニ",
+		"tr_text": "",
+		"jp_explain": "ふわふわでかわいいラッピーの姿に\n虜になったメンバーが作り上げた服。\n充実した夏に向けて、完全装備済み。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2101591",
+		"jp_text": "ジンヴェバオリ・ミニ",
+		"tr_text": "Jinve Baori Mini",
+		"jp_explain": "風通しのいい、涼しげな服装。\nその古風なたたずまいは\n真夏の夜祭にうってつけ！",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2101592",
+		"jp_text": "ジンヴェバオリ・ミニ栗",
+		"tr_text": "Jinve Baori Mini Chestnut",
+		"jp_explain": "風通しのいい、涼しげな服装。\nその古風なたたずまいは\n真夏の夜祭にうってつけ！",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2101593",
+		"jp_text": "ジンヴェバオリ・ミニ雪",
+		"tr_text": "Jinve Baori Mini Snow",
+		"jp_explain": "風通しのいい、涼しげな服装。\nその古風なたたずまいは\n真夏の夜祭にうってつけ！",
 		"tr_explain": ""
 	}
 ]

@@ -240,9 +240,9 @@
 	{
 		"assign": "323034",
 		"jp_text": "35「掲げる」",
-		"tr_text": "35 \"Hoist\"",
+		"tr_text": "35 \"Raise Flag\"",
 		"jp_explain": "ロビアク『掲げる』\nを全キャラクターで使用可能になる。",
-		"tr_explain": "Aprende una nueva accion de lobby\n\"Hoist\"."
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Raise Flag\"."
 	},
 	{
 		"assign": "323035",
@@ -2622,7 +2622,7 @@
 		"jp_text": "366「魔術書を構える」",
 		"tr_text": "366 \"Magic Book Pose\"",
 		"jp_explain": "ロビアク『魔術書を構える』\nを全キャラクターで使用可能になる。",
-		"tr_explain": "Unlocks the new lobby action\n\"Magic Book Pose\"."
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Magic Book Pose\"."
 	},
 	{
 		"assign": "3230381",
@@ -3446,9 +3446,9 @@
 	{
 		"assign": "3230502",
 		"jp_text": "488「シャオポーズ」",
-		"tr_text": "",
+		"tr_text": "488 \"Xiao Pose\"",
 		"jp_explain": "ロビアク『シャオポーズ』\nを全キャラクターで使用可能になる。\n対応機能：ボタン派生",
-		"tr_explain": ""
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Xiao Pose\".\nUsa los botones para cambiar de pose."
 	},
 	{
 		"assign": "3230503",
@@ -3544,23 +3544,23 @@
 	{
 		"assign": "3230516",
 		"jp_text": "502「関東名物」",
-		"tr_text": "",
+		"tr_text": "502 \"Kanto Specialty\"",
 		"jp_explain": "ロビアク『関東名物』\nを全キャラクターで使用可能になる。\n対応機能：ボタン派生",
-		"tr_explain": ""
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Kanto Specialty\".\nUsa los botones para cambiar de pose."
 	},
 	{
 		"assign": "3230517",
 		"jp_text": "503「名古屋名物」",
-		"tr_text": "",
+		"tr_text": "503 \"Nagoya Specialty\"",
 		"jp_explain": "ロビアク『名古屋名物』\nを全キャラクターで使用可能になる。\n対応機能：ボタン派生",
-		"tr_explain": ""
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Nagoya Specialty\".\nUsa los botones para cambiar de pose."
 	},
 	{
 		"assign": "3230518",
 		"jp_text": "504「札幌名物」",
-		"tr_text": "",
+		"tr_text": "504 \"Sapporo Specialty\"",
 		"jp_explain": "ロビアク『札幌名物』\nを全キャラクターで使用可能になる。\n対応機能：ボタン派生",
-		"tr_explain": ""
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Sapporo Specialty\".\nUsa los botones para cambiar de pose."
 	},
 	{
 		"assign": "3230519",
@@ -3588,21 +3588,21 @@
 		"jp_text": "508「ダダをこねる」",
 		"tr_text": "508 \"Tantrum\"",
 		"jp_explain": "ロビアク『ダダをこねる』\nを全キャラクターで使用可能になる。\n対応機能：ボタン派生",
-		"tr_explain": "Unlocks the new lobby action\n\"Tantrum\".\nUse action buttons for extra actions."
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Tantrum\".\nUsa los botones para cambiar de pose."
 	},
 	{
 		"assign": "3230523",
 		"jp_text": "509「カタナポーズ」",
 		"tr_text": "509 \"Katana Pose\"",
-		"jp_explain": "ロビアク『カタナポーズ』\nを全キャラクターで使用可能になる。\n対応機能：ボタン派生／武器装備反映",
-		"tr_explain": "Unlocks the new lobby action\n\"Katana Pose\".\nShows equipment & has extra actions."
+		"jp_explain": "ロビアク『カタナポーズ』\nを全キャラクターで使用可能になる。\n対応機能：ボタン派生／武器装備反映\n<yellow>“PS Vita”では武器装備の反映不可<c>",
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Katana Pose\".\nShows equipment, has extra actions.\n<yellow>Doesn't show equipment on PS Vita<c>"
 	},
 	{
 		"assign": "3230524",
 		"jp_text": "510「このすば１」",
 		"tr_text": "510 \"Konosuba 1\"",
 		"jp_explain": "ロビアク『このすば１』\nを全キャラクターで使用可能になる。\n対応機能：ボタン派生",
-		"tr_explain": "Unlocks the new lobby action\n\"Konosuba 1\".\nUse action buttons for extra actions."
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Konosuba 1\".\nUsa los botones para cambiar de pose."
 	},
 	{
 		"assign": "3230525",
@@ -3616,83 +3616,209 @@
 		"jp_text": "512「このすば３」",
 		"tr_text": "512 \"Konosuba 3\"",
 		"jp_explain": "ロビアク『このすば３』\nを全キャラクターで使用可能になる。\n対応機能：リアクション",
-		"tr_explain": "Unlocks the new lobby action\n\"Konosuba 3\".\nReaction has extra actions."
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Konosuba 3\".\nReaction has extra actions."
 	},
 	{
 		"assign": "3230527",
 		"jp_text": "513「福岡名物」",
-		"tr_text": "",
+		"tr_text": "513 \"Fukuoka Specialty\"",
 		"jp_explain": "ロビアク『福岡名物』\nを全キャラクターで使用可能になる。\n対応機能：ボタン派生",
-		"tr_explain": ""
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Fukuoka Specialty\".\nUsa los botones para cambiar de pose."
 	},
 	{
 		"assign": "3230528",
 		"jp_text": "514「勝利ポーズ３」",
 		"tr_text": "514 \"Victory Pose 3\"",
 		"jp_explain": "ロビアク『勝利ポーズ３』\nを全キャラクターで使用可能になる。",
-		"tr_explain": "Unlocks the new lobby action\n\"Victory Pose 3\"."
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Victory Pose 3\"."
 	},
 	{
 		"assign": "3230529",
 		"jp_text": "515「飛行ポーズ」",
 		"tr_text": "515 \"Flying Pose\"",
 		"jp_explain": "ロビアク『飛行ポーズ』\nを全キャラクターで使用可能になる。\n対応機能：ボタン派生",
-		"tr_explain": "Unlocks the new lobby action\n\"Flying Pose\".\nUse action buttons for extra actions."
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Flying Pose\".\nUsa los botones para cambiar de pose."
 	},
 	{
 		"assign": "3230530",
 		"jp_text": "516「気を高める」",
 		"tr_text": "516 \"Raise Ki\"",
 		"jp_explain": "ロビアク『気を高める』\nを全キャラクターで使用可能になる。\n対応機能：リアクション",
-		"tr_explain": "Unlocks the new lobby action\n\"Raise Ki\".\nReaction has extra actions."
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Raise Ki\".\nReaction has extra actions."
 	},
 	{
 		"assign": "3230531",
 		"jp_text": "517「倒れる演技」",
 		"tr_text": "517 \"Falling Act\"",
 		"jp_explain": "ロビアク『倒れる演技』\nを全キャラクターで使用可能になる。",
-		"tr_explain": "Unlocks the new lobby action\n\"Falling Act\"."
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Falling Act\"."
 	},
 	{
 		"assign": "3230532",
 		"jp_text": "518「レギアスポーズ」",
 		"tr_text": "518 \"Regius Pose\"",
-		"jp_explain": "ロビアク『レギアスポーズ』\nを全キャラクターで使用可能になる。\n対応機能：ボタン派生／武器装備反映",
-		"tr_explain": "Unlocks the new lobby action\n\"Regius Pose\".\nShows equipment & has extra actions."
+		"jp_explain": "ロビアク『レギアスポーズ』\nを全キャラクターで使用可能になる。\n対応機能：ボタン派生／武器装備反映\n<yellow>“PS Vita”では武器装備の反映不可<c>",
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Regius Pose\".\nShows equipment, has extra actions.\n<yellow>Doesn't show equipment on PS Vita<c>"
 	},
 	{
 		"assign": "3230533",
 		"jp_text": "519「マリアポーズ」",
 		"tr_text": "519 \"Maria Pose\"",
-		"jp_explain": "ロビアク『マリアポーズ』\nを全キャラクターで使用可能になる。\n対応機能：ボタン派生／武器装備反映",
-		"tr_explain": "Unlocks the new lobby action\n\"Maria Pose\".\nShows equipment & has extra actions."
+		"jp_explain": "ロビアク『マリアポーズ』\nを全キャラクターで使用可能になる。\n対応機能：ボタン派生／武器装備反映\n<yellow>“PS Vita”では武器装備の反映不可<c>",
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Maria Pose\".\nShows equipment, has extra actions.\n<yellow>Doesn't show equipment on PS Vita<c>"
 	},
 	{
 		"assign": "3230534",
 		"jp_text": "520「ハリエットポーズ」",
 		"tr_text": "520 \"Harriet Pose\"",
 		"jp_explain": "ロビアク『ハリエットポーズ』\nを全キャラクターで使用可能になる。\n対応機能：ボタン派生",
-		"tr_explain": "Unlocks the new lobby action\n\"Harriet Pose\".\nUse action buttons for extra actions."
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Harriet Pose\".\nUsa los botones para cambiar de pose."
 	},
 	{
 		"assign": "3230535",
 		"jp_text": "521「Ｓラコニウムソード」",
 		"tr_text": "521 \"S Laconium Sword\"",
 		"jp_explain": "ロビアク『Ｓラコニウムソード』\nを全キャラクターで使用可能になる。",
-		"tr_explain": "Unlocks the new lobby action\n\"S Laconium Sword\"."
+		"tr_explain": "Aprende una nueva accion de lobby\n\"S Laconium Sword\"."
 	},
 	{
 		"assign": "3230536",
 		"jp_text": "522「雨が降る」",
-		"tr_text": "",
+		"tr_text": "522 \"Rainfall\"",
 		"jp_explain": "ロビアク『雨が降る』\nを全キャラクターで使用可能になる。",
-		"tr_explain": ""
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Rainfall\"."
 	},
 	{
 		"assign": "3230537",
 		"jp_text": "523「Ａライフルポーズ」",
+		"tr_text": "523 \"Assault Rifle Pose\"",
+		"jp_explain": "ロビアク『Ａライフルポーズ』\nを全キャラクターで使用可能になる。\n対応機能：ボタン派生／武器装備反映\n<yellow>“PS Vita”では武器装備の反映不可<c>",
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Assault Rifle Pose\".\nShows equipment, has extra actions.\n<yellow>Doesn't show equipment on PS Vita<c>"
+	},
+	{
+		"assign": "3230538",
+		"jp_text": "524「神戸名物」",
+		"tr_text": "524 \"Kobe Specialty\"",
+		"jp_explain": "ロビアク『神戸名物』\nを全キャラクターで使用可能になる。\n対応機能：ボタン派生",
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Kobe Specialty\".\nUsa los botones para cambiar de pose."
+	},
+	{
+		"assign": "3230539",
+		"jp_text": "525「メリーゴーランド」",
+		"tr_text": "525 \"Merry-go-round\"",
+		"jp_explain": "ロビアク『メリーゴーランド』\nを全キャラクターで使用可能になる。",
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Merry-go-round\"."
+	},
+	{
+		"assign": "3230540",
+		"jp_text": "526「地団駄２」",
+		"tr_text": "526 \"Frustrated 2\"",
+		"jp_explain": "ロビアク『地団駄２』\nを全キャラクターで使用可能になる。",
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Frustrated 2\"."
+	},
+	{
+		"assign": "3230541",
+		"jp_text": "527「変身ポーズ１」",
+		"tr_text": "527 \"Transformation Pose 1\"",
+		"jp_explain": "ロビアク『変身ポーズ１』\nを全キャラクターで使用可能になる。",
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Transformation Pose 1\"."
+	},
+	{
+		"assign": "3230542",
+		"jp_text": "528「ハンドベル・ド」",
+		"tr_text": "528 \"Hand Bell Do\"",
+		"jp_explain": "ロビアク『ハンドベル・ド』\nを全キャラクターで使用可能になる。\n対応機能：ボタン派生",
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Hand Bell Do\".\nUsa los botones para cambiar de pose."
+	},
+	{
+		"assign": "3230543",
+		"jp_text": "529「ハンドベル・レ」",
+		"tr_text": "529 \"Hand Bell Re\"",
+		"jp_explain": "ロビアク『ハンドベル・レ』\nを全キャラクターで使用可能になる。\n対応機能：ボタン派生",
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Hand Bell Re\".\nUsa los botones para cambiar de pose."
+	},
+	{
+		"assign": "3230544",
+		"jp_text": "530「ハンドベル・ミ」",
+		"tr_text": "530 \"Hand Bell Mi\"",
+		"jp_explain": "ロビアク『ハンドベル・ミ』\nを全キャラクターで使用可能になる。\n対応機能：ボタン派生",
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Hand Bell Mi\".\nUsa los botones para cambiar de pose."
+	},
+	{
+		"assign": "3230545",
+		"jp_text": "531「ハンドベル・ファ」",
+		"tr_text": "531 \"Hand Bell Fa\"",
+		"jp_explain": "ロビアク『ハンドベル・ファ』\nを全キャラクターで使用可能になる。\n対応機能：ボタン派生",
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Hand Bell Fa\".\nUsa los botones para cambiar de pose."
+	},
+	{
+		"assign": "3230546",
+		"jp_text": "532「ハンドベル・ソ」",
+		"tr_text": "532 \"Hand Bell So\"",
+		"jp_explain": "ロビアク『ハンドベル・ソ』\nを全キャラクターで使用可能になる。\n対応機能：ボタン派生",
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Hand Bell So\".\nUsa los botones para cambiar de pose."
+	},
+	{
+		"assign": "3230547",
+		"jp_text": "533「ハンドベル・ラ」",
+		"tr_text": "533 \"Hand Bell La\"",
+		"jp_explain": "ロビアク『ハンドベル・ラ』\nを全キャラクターで使用可能になる。\n対応機能：ボタン派生",
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Hand Bell La\".\nUsa los botones para cambiar de pose."
+	},
+	{
+		"assign": "3230548",
+		"jp_text": "534「ハンドベル・シ」",
+		"tr_text": "534 \"Hand Bell Ti\"",
+		"jp_explain": "ロビアク『ハンドベル・シ』\nを全キャラクターで使用可能になる。\n対応機能：ボタン派生",
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Hand Bell Ti\".\nUsa los botones para cambiar de pose."
+	},
+	{
+		"assign": "3230549",
+		"jp_text": "535「Ｔマシンガンポーズ」",
+		"tr_text": "535 \"T Machine Gun Pose\"",
+		"jp_explain": "ロビアク『Ｔマシンガンポーズ』\nを全キャラクターで使用可能になる。\n対応機能：ボタン派生／武器装備反映\n<yellow>“PS Vita”では武器装備の反映不可<c>",
+		"tr_explain": "Aprende una nueva accion de lobby\n\"T Machine Gun Pose\".\nShows equipment, has extra actions.\n<yellow>Doesn't show equipment on PS Vita<c>"
+	},
+	{
+		"assign": "3230550",
+		"jp_text": "536「ダンス５８」",
+		"tr_text": "536 \"Dance 58\"",
+		"jp_explain": "ロビアク『ダンス５８』\nを全キャラクターで使用可能になる。",
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Dance 58\"."
+	},
+	{
+		"assign": "3230551",
+		"jp_text": "537「ローソン看板」",
+		"tr_text": "537 \"Lawson Sign\"",
+		"jp_explain": "ロビアク『ローソン看板』\nを全キャラクターで使用可能になる。\n対応機能：ボタン派生",
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Lawson Sign\".\nUsa los botones para cambiar de pose."
+	},
+	{
+		"assign": "3230552",
+		"jp_text": "538「バナナボート」",
 		"tr_text": "",
-		"jp_explain": "ロビアク『Ａライフルポーズ』\nを全キャラクターで使用可能になる。\n対応機能：ボタン派生／武器装備反映",
+		"jp_explain": "ロビアク『バナナボート』\nを全キャラクターで使用可能になる。\n対応機能：ボタン派生",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3230553",
+		"jp_text": "539「キック３」",
+		"tr_text": "",
+		"jp_explain": "ロビアク『キック３』\nを全キャラクターで使用可能になる。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3230554",
+		"jp_text": "540「変身ポーズ２」",
+		"tr_text": "540 \"Transformation Pose 2\"",
+		"jp_explain": "ロビアク『変身ポーズ２』\nを全キャラクターで使用可能になる。",
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Transformation Pose 2\"."
+	},
+	{
+		"assign": "3230555",
+		"jp_text": "541「ストラトスポーズ」",
+		"tr_text": "",
+		"jp_explain": "ロビアク『ストラトスポーズ』\nを全キャラクターで使用可能になる。\n対応機能：ボタン派生／武器装備反映\n<yellow>“PS Vita”では武器装備の反映不可<c>",
 		"tr_explain": ""
 	}
 ]

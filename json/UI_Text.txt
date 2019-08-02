@@ -157,7 +157,7 @@
 	{
 		"assign": "acshop_dialog_b_00",
 		"jp_text": "ラッピーメダルか<%AC>を消費して\nチップパックを拡張しますか？\n\nパックサイズ（<%current_pack_size>）→<color=red>（<%after_pack_size>）</color>\n※チップパックは<%max_pack_size>まで拡張できます。\n\n必要ラッピーメダル：<%consume_rappy_coin>枚\n所持ラッピーメダル：<%current_rappy_coin>\n\n必要<%AC>：<%consume_AC>\n所持<%AC>：<%current_AC>",
-		"tr_text": "This will extend\nyour Chip Storage.\n\nChip Storage（<%current_pack_size>）→<color=red>（<%after_pack_size>）</color>\n※Can extend to a Maximum of <%max_pack_size>.\n\nRappy Coins needed：<%consume_rappy_coin>枚\nRappy Coins owned：<%current_rappy_coin>枚\n\nAC needed：<%consume_AC>\nAC owned：<%current_AC>"
+		"tr_text": "This will extend\nyour Chip Storage.\n\nChip Storage（<%current_pack_size>）→<color=red>（<%after_pack_size>）</color>\n※Can extend to a Maximum of <%max_pack_size>.\n\nRappy medals needed: <%consume_rappy_coin>\nRappy medals owned: <%current_rappy_coin>\n\nAC needed: <%consume_AC>\nAC owned: <%current_AC>"
 	},
 	{
 		"assign": "acshop_dialog_t_01",
@@ -197,7 +197,7 @@
 	{
 		"assign": "acshop_dialog_b_04",
 		"jp_text": "ラッピーメダルか<%AC>を消費して\n行動力を回復しますか？\n\n行動力（<%current_drive>）→<color=red>（<%after_drive>）</color>\n\n必要ラッピーメダル：<%consume_rappy_coin>枚\n所持ラッピーメダル：<%current_rappy_coin>\n\n必要<%AC>：<%consume_AC>\n所持<%AC>：<%current_AC>",
-		"tr_text": "This will restore\nyour Drive points.\n\nDrive（<%current_drive>）→<color=red>（<%after_drive>）</color>\n\nRappy Coins needed：<%consume_rappy_coin>枚\nRappy Coins owned：<%current_rappy_coin>枚\n\nAC needed：<%consume_AC>\nAC owned：<%current_AC>"
+		"tr_text": "This will restore\nyour Drive points.\n\nDrive（<%current_drive>）→<color=red>（<%after_drive>）</color>\n\nRappy medals needed: <%consume_rappy_coin>\nRappy medals owned: <%current_rappy_coin>\n\nAC needed: <%consume_AC>\nAC owned: <%current_AC>"
 	},
 	{
 		"assign": "acshop_dialog_t_05",
@@ -237,7 +237,7 @@
 	{
 		"assign": "acshop_dialog_b_08",
 		"jp_text": "所持<%AC>が不足しています。\n<%AC>をチャージしますか？\n\n必要<%AC>：<%consume_AC>\n所持<%AC>：<%current_AC>",
-		"tr_text": "Not enough <%AC>.\nDo you want to buy more AC？\n\n<%AC> needed：<%consume_AC>\n<%AC> owned：<%current_AC>"
+		"tr_text": "Not enough <%AC>.\nDo you want to buy more AC？\n\n<%AC> needed: <%consume_AC>\n<%AC> owned: <%current_AC>"
 	},
 	{
 		"assign": "acshop_dialog_t_09",
@@ -277,7 +277,7 @@
 	{
 		"assign": "acshop_dialog_b_12",
 		"jp_text": "<%item_name>を1枚購入します。\nよろしいですか？\n\n所持数：<%item_name>×<%current_num>\n\n必要<%AC>：<%consume_AC>\n所持<%AC>：<%current_AC>",
-		"tr_text": "Purchasing <%item_name>\nConfirm？\n\nCurrently hold：<%item_name>×<%current_num>\n\nAC needed：<%consume_AC>\nAC owned：<%current_AC>"
+		"tr_text": "Purchasing <%item_name>\nConfirm？\n\nCurrently hold：<%item_name>×<%current_num>\n\nAC needed: <%consume_AC>\nAC owned: <%current_AC>"
 	},
 	{
 		"assign": "acshop_dialog_t_13",
@@ -2197,7 +2197,7 @@
 	{
 		"assign": "labo_dialog_b_07",
 		"jp_text": "チップを解放させると\nチップレベルは１に初期化されます。\nチップを解放させますか？",
-		"tr_text": "If you release the chip,\nits level will reset to 1.\nDo you want to Release?"
+		"tr_text": "If you release the chip,\nits level will reset to 1.\nDo you want to release?"
 	},
 	{
 		"assign": "labo_dialog_t_08",
@@ -2216,8 +2216,8 @@
 	},
 	{
 		"assign": "labo_dialog_b_23",
-		"jp_text": "解放対象のチップのレベルが\n上限に達していないため、\n解放することができません。",
-		"tr_text": "Cannot Release this Chip.\nIt has not reached its\nmaximum Chip Level."
+		"jp_text": "解放対象のチップのレベルが\n最大レベルに達していないため\n解放することができません。",
+		"tr_text": "This chip has not reached its maximum\nlevel, and so cannot be released."
 	},
 	{
 		"assign": "labo_dialog_t_24",
@@ -2227,7 +2227,7 @@
 	{
 		"assign": "labo_dialog_b_24",
 		"jp_text": "お気に入りに登録しているチップが\n素材として選択されています。\nチップ解放を実行しますか？",
-		"tr_text": "A Chip in your Favorites\nhas been selected as material.\nAre you sure you want to Continue?"
+		"tr_text": "A Chip in your Favorites\nhas been selected as material.\nAre you sure you want to continue?"
 	},
 	{
 		"assign": "labo_dialog_t_26",
@@ -2236,8 +2236,8 @@
 	},
 	{
 		"assign": "labo_dialog_b_26",
-		"jp_text": "解放に必要な素材チップが足りません。",
-		"tr_text": "Cannot release. Not enough material."
+		"jp_text": "素材チップが不足しているため\n解放することができません。",
+		"tr_text": "Insufficient material chips\nto release this chip."
 	},
 	{
 		"assign": "labo_chip_awake_select",
@@ -3517,7 +3517,7 @@
 	{
 		"assign": "myshop_dialog_b_00",
 		"jp_text": "購入しようとしているアイテムの一部に\n★10以上のアイテムが含まれています。\n\n購入するには以下のアイテムが必要となります。\n消費して購入します。\n\nよろしいですか？\n\n<%NEEDITEM>　<%NEED>（所持：<%HAVE>）",
-		"tr_text": "The Item you're trying to buy is a ★10 or higher.\nUnits&Weapons will need an exchange pass.\n\n<%NEEDITEM>　<color=red><%NEED>（Owned： <%HAVE>）</color>"
+		"tr_text": "The Item you're trying to buy is a ★10 or higher.\nUnits&Weapons will need an exchange pass.\n\n<%NEEDITEM>　<color=red><%NEED>（owned: <%HAVE>）</color>"
 	},
 	{
 		"assign": "myshop_dialog_t_01",
@@ -3527,7 +3527,7 @@
 	{
 		"assign": "myshop_dialog_b_01",
 		"jp_text": "購入しようとしているアイテムの一部に\n★10以上のアイテムが含まれていますが、\n以下のアイテムが不足しているため\n購入することができません。\n\n<%NEEDITEM>　<color=red><%NEED>（所持：<%HAVE>）</color>",
-		"tr_text": "The Item you're trying to buy is a ★10 or higher.\nUnits&Weapons will need an exchange pass.\n\n<%NEEDITEM>　<color=red><%NEED>（Owned： <%HAVE>）</color>"
+		"tr_text": "The Item you're trying to buy is a ★10 or higher.\nUnits&Weapons will need an exchange pass.\n\n<%NEEDITEM>　<color=red><%NEED>（owned: <%HAVE>）</color>"
 	},
 	{
 		"assign": "myshop_dialog_t_02",
@@ -3597,7 +3597,7 @@
 	{
 		"assign": "myshop_dialog_b_08",
 		"jp_text": "購入には「ＰＳＯ２ｅｓマイショップ利用券」またはラッピーメダルが必要です。\n利用券がない場合、<%AC>で利用券を購入できます。\n\n必要ＰＳＯ２ｅｓマイショップ利用券：<%NEEDTICKET>\n所持ＰＳＯ２ｅｓマイショップ利用券：<%HAVETICKET>\n\n必要ラッピーメダル：<%NEEDMEDAL>\n所持ラッピーメダル：<%HAVEMEDAL>",
-		"tr_text": "「PSO2es MyShop Voucher」 or Rappy Coins required to buy.\nIf you don't have a voucher, you can buy one with <%AC>.\n\nNeeded Vouchers： <%NEEDTICKET>\nOwned: <%HAVETICKET>\n\nRappy Coins Needed: <%NEEDMEDAL>\nOwned: <%HAVEMEDAL>"
+		"tr_text": "「PSO2es MyShop Voucher」 or Rappy medals required to buy.\nIf you don't have a voucher, you can buy one with <%AC>.\n\nVouchers needed： <%NEEDTICKET>\nVouchers owned: <%HAVETICKET>\n\nRappy medals needed: <%NEEDMEDAL>\nRappy medals owned: <%HAVEMEDAL>"
 	},
 	{
 		"assign": "myshop_dialog_b_08_1",
@@ -3612,7 +3612,7 @@
 	{
 		"assign": "myshop_dialog_b_08_medal",
 		"jp_text": "ラッピーメダル",
-		"tr_text": "Rappy Coin"
+		"tr_text": "Rappy Medal"
 	},
 	{
 		"assign": "myshop_dialog_b_08_back",
@@ -3647,7 +3647,7 @@
 	{
 		"assign": "myshop_dialog_b_11",
 		"jp_text": "出品には「ＰＳＯ２ｅｓマイショップ利用券」またはラッピーメダルが必要です。\n利用券がない場合、<%AC>で利用券を購入できます。\n<color=#f0df60>※出品によって消費した利用券またはラッピーメダルは\n取り下げ時に戻りませんのでご注意ください。\n※出品した商品は、長期間が経過した場合、公式サイトで事前告知のうえ\n『PSO2』の運営倉庫に取り下げられることがあります。\nその場合も消費した利用券またはラッピーメダルは戻りません。</color>\n\n必要ＰＳＯ２ｅｓマイショップ利用券：<%NEEDTICKET>\n所持ＰＳＯ２ｅｓマイショップ利用券：<%HAVETICKET>\n\n必要ラッピーメダル：<%NEEDMEDAL>\n所持ラッピーメダル：<%HAVEMEDAL>",
-		"tr_text": "A PSO2es MyShop Voucher or Rappy Coin is needed to sell.\nIf you do not own a MyShop voucher,\nyou can buy one with <%AC>.\n<color=#f0df60>※Using a ticket or Rappy Coin will be used\nimmediately during selling and will not be returned if\nnothing was sold.</color>\n\nNeeded Shop Vouchers:<%NEEDTICKET>\nOwned:<%HAVETICKET>\n\nNeeded Rappy Coin(s):<%NEEDMEDAL>\nOwned:<%HAVEMEDAL>"
+		"tr_text": "A PSO2es MyShop Voucher or Rappy medal is needed to sell.\nIf you do not own a MyShop voucher,\nyou can buy one with <%AC>.\n<color=#f0df60>※Using a ticket or Rappy medal will be used\nimmediately during selling and will not be returned if\nnothing was sold.</color>\n\nNeeded Shop Vouchers:<%NEEDTICKET>\nOwned:<%HAVETICKET>\n\nNeeded Rappy medal(s):<%NEEDMEDAL>\nOwned:<%HAVEMEDAL>"
 	},
 	{
 		"assign": "myshop_dialog_t_12",
@@ -5236,8 +5236,8 @@
 	},
 	{
 		"assign": "linkage_exp_dialog_b_02",
-		"jp_text": "配分設定を保存しました。\nこの設定は、次回のプレイから適用されます。",
-		"tr_text": "Allocation settings saved.\nThese settings will be applied the next time\nyou play."
+		"jp_text": "配分設定を保存しました。\nこの設定は、次回のプレイから適用されます。\n\n※設定中のクラスが蓄積上限に達した場合\n　　超過分は配分可能な項目へ自動配分されます。",
+		"tr_text": "Allocation settings saved.\nThese settings will be applied the next time\nyou play.\n\n※If a target class has reached its\nmaximum linked EXP, excess EXP will be\nevenly distributed among all other classes."
 	},
 	{
 		"assign": "linkage_exp_dialog_t_03",
@@ -5350,6 +5350,11 @@
 		"tr_text": "<color=#f0df60>The story of the mysterious girl, Akhtar, and the ancient civilization of planet Lillipa. Clear an area with full marks on Normal to unlock its EX difficulty version.</color>"
 	},
 	{
+		"assign": "questcounter_guide_11",
+		"jp_text": "<color=#f0df60>『PSO2es』をより楽しむために役立つ知識を、ストーリー形式で知ることができます。</color>",
+		"tr_text": "<color=#f0df60>Information about how to enjoy PSO2es more, presented in the form of a story.</color>"
+	},
+	{
 		"assign": "quest_counter_header_Season2",
 		"jp_text": "ストーリークエスト",
 		"tr_text": "Story Quest"
@@ -5367,7 +5372,7 @@
 	{
 		"assign": "quest_counter_story_bonus_medal",
 		"jp_text": "ラッピーメダル　1枚",
-		"tr_text": "Rappy Coin 1st Sheet"
+		"tr_text": "Rappy medal 1st Sheet"
 	},
 	{
 		"assign": "quest_counter_story_bonus_info",
@@ -5660,6 +5665,11 @@
 		"tr_text": "Story Quest"
 	},
 	{
+		"assign": "quest_counter_header_tutorial",
+		"jp_text": "チュートリアルクエスト",
+		"tr_text": "Tutorial Quest"
+	},
+	{
 		"assign": "quest_counter_stage_other",
 		"jp_text": "<%stage>＋他",
 		"tr_text": "<%stage>＋"
@@ -5850,6 +5860,21 @@
 		"tr_text": "This will use an \"Extra Hard Trigger\".\nBy using multiple triggers, you\ncan fight a stronger enemy.\n\n※Triggers will be used when starting the quest.\n\n<color=#ffff00>Owned Triggers：{0}</color>\nHow many triggers do you want to use?"
 	},
 	{
+		"assign": "window_help_LM41",
+		"jp_text": "wh_57_01,\n「チュートリアルクエスト」は、あらかじめ用意された\nキャラクターと装備パレットを使って、クエストに挑みます。\n編成を行う必要はありませんので、気軽に挑戦してみてください。,",
+		"tr_text": ""
+	},
+	{
+		"assign": "quest_counter_tutorial_quest_subtitle_common",
+		"jp_text": "quest_counter_tutorial_quest_subtitle_common",
+		"tr_text": ""
+	},
+	{
+		"assign": "quest_counter_tutorial_quest_subtitle_00",
+		"jp_text": "<color=#00bfff>教えて！　セラフィさん</color>",
+		"tr_text": ""
+	},
+	{
 		"assign": "reward_dialog_title",
 		"jp_text": "緊急クエスト報酬",
 		"tr_text": "Quest Rewards"
@@ -5952,7 +5977,7 @@
 	{
 		"assign": "reward_rappy_get",
 		"jp_text": "緊急クエストのクエストエリアをクリアしました！\nラッピーメダルを<%num>枚獲得しました。",
-		"tr_text": "Cleared the quest area of the EQ!\nYou are awarded <%num> Rappy Coin(s)."
+		"tr_text": "Cleared the quest area of the EQ!\nYou are awarded <%num> Rappy medal(s)."
 	},
 	{
 		"assign": "reward_caption_bonus",
@@ -6267,7 +6292,7 @@
 	{
 		"assign": "scratch_message_01",
 		"jp_text": "現在キャンペーン中！\n<color=#f0df60>ラッピーメダル {0} 枚</color>をプレゼント！",
-		"tr_text": "During the current campaign!\n<color=#f0df60>Rappy Coins {0}</color> and Free!"
+		"tr_text": "During the current campaign!\n<color=#f0df60>Rappy medals {0}</color> and Free!"
 	},
 	{
 		"assign": "scratch_dialog_t_07",
@@ -6317,7 +6342,7 @@
 	{
 		"assign": "scratch_dialog_b_11",
 		"jp_text": "ラッピーメダル{0}枚で\n{1}を{2}回引きます。\nよろしいですか？\n現在の所持ラッピーメダル：{3}枚\n",
-		"tr_text": "Rappy Coins required: {0}\nPerforming {2}x {1}, is that OK?\nRappy Coins owned: {3}"
+		"tr_text": "Rappy medals required: {0}\nPerforming {2}x {1}, is that OK?\nRappy medals owned: {3}"
 	},
 	{
 		"assign": "scratch_message_02",
@@ -6327,7 +6352,7 @@
 	{
 		"assign": "scratch_message_03",
 		"jp_text": "ラッピーメダル{0}枚を獲得しました！",
-		"tr_text": "Rappy Coins: {0}!"
+		"tr_text": "Rappy medals: {0}!"
 	},
 	{
 		"assign": "scratch_message_04",
@@ -6462,7 +6487,7 @@
 	{
 		"assign": "quest_dialog_b_00",
 		"jp_text": "ラッピーメダルを<%consume_rappy_coin>枚使用して\n復活しますか？\n\n（現在の所持数：<%current_rappy_coin>枚）",
-		"tr_text": "Use <%consume_rappy_coin> Rappy Coins\nto revive yourself？\n\n（ Rappy Coins owned： <%current_rappy_coin> ）"
+		"tr_text": "Use <%consume_rappy_coin> Rappy medals\nto revive yourself？\n\n(Rappy medals owned: <%current_rappy_coin>)"
 	},
 	{
 		"assign": "quest_dialog_t_01",
@@ -6487,7 +6512,7 @@
 	{
 		"assign": "quest_dialog_b_03",
 		"jp_text": "ラッピーメダルか復活薬を消費して復活しますか？\nリタイアするとクエスト中に得たアイテム、経験値等がすべて失われます。\n\n<color=#ffff00>復活薬か<%AC>を使って復活するとすべてのPSEがMAX状態で復活します。\nMAX状態は、このバトルをクリアすると元に戻ります。</color>\nラッピーメダルでの復活ではPSEのMAX効果はありません。\n\n必要復活薬：<%consume_scape_doll_es>個\n所持復活薬：<%current_scape_doll_es>\n\n必要ラッピーメダル：<%consume_rappy_coin>枚\n所持ラッピーメダル：<%current_rappy_coin>　　　※復活するとHPとCPが全回復します。",
-		"tr_text": "Revive with a Rappy Coin or revive using a Scape Doll?\nIf you select retire, items gained from the current quest will be lost.\n\n<color=#ffff00>When restored with <%AC> or a Scape Doll, your PSEs will be\nrestored to their MAX state until after the battle ends.</color>\nOnly CP and HP will be recovered if using Rappy Coins.\n\nRequired Scape Dolls: <%consume_scape_doll_es>\nScape Dolls owned: <%current_scape_doll_es>\n\nRequired Rappy Coins: <%consume_rappy_coin>\nRappy Coins owned: <%current_rappy_coin>"
+		"tr_text": "Revive with a Rappy medal or revive using a Scape Doll?\nIf you select retire, items gained from the current quest will be lost.\n\n<color=#ffff00>When restored with <%AC> or a Scape Doll, your PSEs will be\nrestored to their MAX state until after the battle ends.</color>\nOnly CP and HP will be recovered if using Rappy medals.\n\nRequired Scape Dolls: <%consume_scape_doll_es>\nScape Dolls owned: <%current_scape_doll_es>\n\nRappy medals needed: <%consume_rappy_coin>\nRappy medals owned: <%current_rappy_coin>"
 	},
 	{
 		"assign": "quest_dialog_b_03_retire",
@@ -6527,7 +6552,7 @@
 	{
 		"assign": "quest_line_03",
 		"jp_text": "ラッピーメダルを<%coins>枚入手しました",
-		"tr_text": "Received <%coins> Rappy Coins."
+		"tr_text": "Received <%coins> Rappy medals."
 	},
 	{
 		"assign": "quest_line_04",
@@ -8527,7 +8552,7 @@
 	{
 		"assign": "barmoney_rappycoin",
 		"jp_text": "ラッピーメダル",
-		"tr_text": "Rappy Coins"
+		"tr_text": "Rappy Medals"
 	},
 	{
 		"assign": "barmoney_meseta",
@@ -8927,7 +8952,7 @@
 	{
 		"assign": "dict_rappy_medal",
 		"jp_text": "ラッピーメダル",
-		"tr_text": "Rappy Coin"
+		"tr_text": "Rappy Medal"
 	},
 	{
 		"assign": "dict_meseta",
@@ -9397,7 +9422,7 @@
 	{
 		"assign": "loginbonus_rappycoin",
 		"jp_text": "<%rappy>ラッピーメダル",
-		"tr_text": "<%rappy> Rappy Coins"
+		"tr_text": "<%rappy> Rappy medals"
 	},
 	{
 		"assign": "loginbonus_expticket",
@@ -9602,7 +9627,7 @@
 	{
 		"assign": "menu_charainfo_label_rappycoin",
 		"jp_text": "ラッピーメダル",
-		"tr_text": "Rappy Coins"
+		"tr_text": "Rappy Medals"
 	},
 	{
 		"assign": "menu_charainfo_label_oprecovery",
@@ -10307,7 +10332,7 @@
 	{
 		"assign": "quest_counter_rappy_coin",
 		"jp_text": "行動力が不足しているためクエストに出発できません。\nラッピーメダルか<%AC>を消費して行動力を回復しますか？\n\n出発に必要な行動力：(<%consume_drive>)\n行動力（<%current_drive>）→<color=red>（<%after_drive>）</color>\n\n必要ラッピーメダル：<%consume_rappy_coin>枚\n所持ラッピーメダル：<%current_rappy_coin>\n\n必要<%AC>：<%consume_AC>\n所持<%AC>：<%current_AC>",
-		"tr_text": "You don't have enough Drive for this stage.\nYou can refil with <%AC> or Rappy Coins. Is that OK?\n\nNeeded Drive:(<%consume_drive>)→<color=red>（<%after_drive>）</color>\n\nCoins Needed: <%consume_rappy_coin>\nHave: <%current_rappy_coin>\n\nHave <%AC>: <%consume_AC>\nCurrent: <%current_AC>"
+		"tr_text": "You don't have enough Drive for this stage.\nYou can refil with <%AC> or Rappy medals. Is that OK?\n\nNeeded Drive: (<%consume_drive>)→<color=red>（<%after_drive>）</color>\n\nRappy medals needed: <%consume_rappy_coin>\nRappy medals owned: <%current_rappy_coin>\n\n<%AC> needed: <%consume_AC>\n<%AC> owned: <%current_AC>"
 	},
 	{
 		"assign": "quest_counter_drive_lack",
@@ -12007,7 +12032,7 @@
 	{
 		"assign": "wh_20_01",
 		"jp_text": "「ｅｓスクラッチ」では、レアなチップを入手することができます。\n購入には「<%AC>」、またはゲーム中に無料で手に入る\n「ラッピーメダル」を使用します。",
-		"tr_text": "「es Scratch」 With es Scratch, you can obtain rare chips.\nYou can try this out using 「<%AC>」\nor by using 「Rappy Coins」."
+		"tr_text": "「es Scratch」 With es Scratch, you can obtain rare chips.\nYou can try this out using 「<%AC>」\nor by using 「Rappy medals」."
 	},
 	{
 		"assign": "wh_20_04",
@@ -12222,7 +12247,7 @@
 	{
 		"assign": "wh_29_03",
 		"jp_text": "プレミアムセットが有効でない状態では「アイテムの購入」時に\n「PSO2esマイショップ利用券」または「ラッピーメダル」が必要となります。\n利用券は<%AC>ショップで購入ができます。",
-		"tr_text": "When not premium, the purchase of items will\nrequire a PSO2es MyShop Voucher or a Rappy Coin.\nVouchers can be purchased from the <%AC> Shop."
+		"tr_text": "When not premium, the purchase of items will\nrequire a PSO2es MyShop Voucher or a Rappy medal.\nVouchers can be purchased from the <%AC> Shop."
 	},
 	{
 		"assign": "wh_29_04",
@@ -14367,7 +14392,7 @@
 	{
 		"assign": "sns_dialog_1_b",
 		"jp_text": "SNSと連動してプレゼントをもらおう♪\n\nTwitterと連動すると\nラッピーメダルを5枚プレゼント!!",
-		"tr_text": "By using SNS (Social Networking Service),\nyou can get free gifts!♪\n\nWhen you link your Twitter,\nyou'll receive 5 Rappy Coins!"
+		"tr_text": "By using SNS (Social Networking Service),\nyou can get free gifts!♪\n\nWhen you link your Twitter,\nyou'll receive 5 Rappy medals!"
 	},
 	{
 		"assign": "sns_dialog_1_button",
@@ -15312,7 +15337,7 @@
 	{
 		"assign": "raid_scratch_kingrappy_medal",
 		"jp_text": "キングラッピーメダル",
-		"tr_text": "King Rappy Coin"
+		"tr_text": "King Rappy Medal"
 	},
 	{
 		"assign": "raid_scratch_kingrappy_medal_count",
@@ -16441,7 +16466,7 @@
 	},
 	{
 		"assign": "pet_acgive_window_body",
-		"jp_text": "ペットの合成可能数が不足しています。\n\n{0}<%AC>を消費して\n合成可能数を全回復させます。\nよろしいですか？\n\n<color=#f0df60>※合成可能数が回復するのは\n　現在選択中のペットのみです。</color>\n\r\n必要<%AC>：{1}\r\n所持<%AC>：{2}\n",
+		"jp_text": "ペットの合成可能数が不足しています。\n\n{0}<%AC>を消費して\n合成可能数を全回復させます。\nよろしいですか？\n\n<color=#f0df60>※合成可能数が回復するのは\n　現在選択中のペットのみです。</color>\n\r\n必要<%AC>：{1}\r\n所持<%AC>：{2}",
 		"tr_text": "By consuming {0}<%AC>\nYou can recover your synthesis uses.\nIs that ok?\n\nNeeded <%AC>: {1}\nHave: {2} <%AC>"
 	},
 	{
@@ -16496,8 +16521,8 @@
 	},
 	{
 		"assign": "pet_recovery_dialog_no",
-		"jp_text": "キャンセル",
-		"tr_text": "Cancel"
+		"jp_text": "戻る",
+		"tr_text": "Return"
 	},
 	{
 		"assign": "pet_recovery_window_title",
@@ -17458,6 +17483,21 @@
 		"assign": "lookback_series4_chapter_1",
 		"jp_text": "第１章　セイガーズ誕生",
 		"tr_text": ""
+	},
+	{
+		"assign": "lookback_maintitle_15",
+		"jp_text": "チュートリアルクエスト",
+		"tr_text": "Tutorial Quest"
+	},
+	{
+		"assign": "lookback_maintext_15",
+		"jp_text": "チュートリアルクエストの物語を\n振り返ります。",
+		"tr_text": "Look back over the Tutorial Quest story."
+	},
+	{
+		"assign": "lookback_tutorial_chapter_1",
+		"jp_text": "パレット編成で強くなろう！",
+		"tr_text": "Build a Strong Palette!"
 	},
 	{
 		"assign": "menu_menu_lookback",
@@ -18931,8 +18971,8 @@
 	},
 	{
 		"assign": "scratch_pickup_select_fix_text",
-		"jp_text": "選択した確定スクラッチになります。よろしいですか？",
-		"tr_text": "This will start the select scratch. Is this OK?"
+		"jp_text": "確定スクラッチには次のチップが入ります。よろしいですか？",
+		"tr_text": ""
 	},
 	{
 		"assign": "scratch_pickup_select_fix_rarity",
@@ -18942,7 +18982,37 @@
 	{
 		"assign": "scratch_pickup_select_fix_return",
 		"jp_text": "戻る",
-		"tr_text": "Back"
+		"tr_text": ""
+	},
+	{
+		"assign": "scratch_pickup_reset_start_title",
+		"jp_text": "封入スクラッチのリセット",
+		"tr_text": ""
+	},
+	{
+		"assign": "scratch_pickup_reset_start_body",
+		"jp_text": "これまでのチップ獲得状況をリセットして\n封入するチップを選びなおしますか？\n\n<color=yellow>※リセットをすると\n　　前の獲得状況に戻すことはできなくなります。</color>",
+		"tr_text": ""
+	},
+	{
+		"assign": "scratch_pickup_reset_button",
+		"jp_text": "選びなおす",
+		"tr_text": ""
+	},
+	{
+		"assign": "scratch_pickup_reset_no",
+		"jp_text": "キャンセル",
+		"tr_text": "Cancel"
+	},
+	{
+		"assign": "scratch_pickup_reset_finish_title",
+		"jp_text": "封入スクラッチのリセット",
+		"tr_text": ""
+	},
+	{
+		"assign": "scratch_pickup_reset_finish_body",
+		"jp_text": "確定スクラッチの内容をリセットしました。\n封入するチップを選びなおしてください。",
+		"tr_text": ""
 	},
 	{
 		"assign": "ItemDetail_accessory_message",
@@ -19077,6 +19147,16 @@
 	{
 		"assign": "quest_clear_reward_dialog_body_5024104",
 		"jp_text": "ブレイブ　オブ　セイガーズ\n第1章 第4話「オラクル戦隊セイガーズ」\nクリアおめでとうございます！\n以下のクリア報酬をプレゼントいたしました。\n受け取りボックスをご確認ください。",
+		"tr_text": ""
+	},
+	{
+		"assign": "quest_clear_reward_dialog_title_6244004",
+		"jp_text": "ストーリークエスト Season3　5章4-4",
+		"tr_text": ""
+	},
+	{
+		"assign": "quest_clear_reward_dialog_body_6244004",
+		"jp_text": "Season3　5章4-4「いつかと誓った、あの空を信じて」\nクリアおめでとうございます！\n以下のクリア報酬をプレゼントいたしました。\n受け取りボックスをご確認ください。",
 		"tr_text": ""
 	},
 	{
@@ -19922,7 +20002,7 @@
 	{
 		"assign": "chip_details_awake_none_skill",
 		"jp_text": "未習得",
-		"tr_text": ""
+		"tr_text": "Lv. -"
 	},
 	{
 		"assign": "wh_38_01",
@@ -20862,7 +20942,7 @@
 	{
 		"assign": "stack_chip_window_return",
 		"jp_text": "戻る",
-		"tr_text": ""
+		"tr_text": "Return"
 	},
 	{
 		"assign": "stack_chip_window_addition",
@@ -21502,7 +21582,7 @@
 	{
 		"assign": "raid_dps_return_button",
 		"jp_text": "戻る",
-		"tr_text": "Return"
+		"tr_text": ""
 	},
 	{
 		"assign": "raid_event_current_button",
@@ -21711,8 +21791,8 @@
 	},
 	{
 		"assign": "chip_awake_dialog_b_shortage_meseta",
-		"jp_text": "メセタが不足しているため\nチップ特装ができません。",
-		"tr_text": "Insufficient Meseta to specialize this chip."
+		"jp_text": "メセタが不足しているため\nチップ特装をすることができません。",
+		"tr_text": ""
 	},
 	{
 		"assign": "chip_awake_skill_dialog_t_shortage_meseta",
@@ -21721,8 +21801,8 @@
 	},
 	{
 		"assign": "chip_awake_skill_dialog_b_shortage_meseta",
-		"jp_text": "メセタが不足しているため\n特装プラグを強化をすることができません。",
-		"tr_text": "Insufficient Meseta to Plug-In to this chip."
+		"jp_text": "メセタが不足しているため\nプラグ強化をすることができません。",
+		"tr_text": ""
 	},
 	{
 		"assign": "chip_awake_dialog_t_shortage_chiplv",
@@ -21731,8 +21811,8 @@
 	},
 	{
 		"assign": "chip_awake_dialog_b_shortage_chiplv",
-		"jp_text": "選択されたチップは最大レベルに達していないため\nチップ特装をすることができません。",
-		"tr_text": "This chip cannot be specialized as\nit has not reached its maximum level."
+		"jp_text": "特装対象のチップのレベルが\n最大レベルに達していないため\nチップ特装をすることができません。",
+		"tr_text": ""
 	},
 	{
 		"assign": "chip_awake_skill_dialog_t_shortage_chiplv",
@@ -21751,8 +21831,8 @@
 	},
 	{
 		"assign": "chip_awake_dialog_b_shortage_materialchip",
-		"jp_text": "チップ特装に必要な素材チップが足りません。",
-		"tr_text": "Insufficient materials to specialize this chip."
+		"jp_text": "素材チップが不足しているため\nチップ特装をすることができません。",
+		"tr_text": ""
 	},
 	{
 		"assign": "chip_awake_skill_dialog_t_shortage_materialchip",
@@ -21761,8 +21841,8 @@
 	},
 	{
 		"assign": "chip_awake_skill_dialog_b_shortage_materialchip",
-		"jp_text": "プラグ強化に必要な素材チップが足りません。",
-		"tr_text": "Insufficient materials to Plug-In to this chip."
+		"jp_text": "素材チップが不足しているため\nプラグ強化をすることができません。",
+		"tr_text": ""
 	},
 	{
 		"assign": "chip_awake_dialog_t_decide",
@@ -21771,8 +21851,8 @@
 	},
 	{
 		"assign": "chip_awake_dialog_b_decide",
-		"jp_text": "<color=yellow>使用する素材チップに★７以上のものが含まれています。</color>\n次の素材チップとメセタを消費して、チップ特装を実行します。\nよろしいですか？",
-		"tr_text": "<color=yellow>One or more of the materials has a rarity of ★７+ stars.</color>\nThese will be lost upon use.\nAre you sure?"
+		"jp_text": "次の素材チップとメセタを消費して、チップ特装を実行します。\nよろしいですか？",
+		"tr_text": ""
 	},
 	{
 		"assign": "chip_awake_dialog_b_decide_t_material",
@@ -21816,8 +21896,8 @@
 	},
 	{
 		"assign": "chip_awake_skill_dialog_b_decide",
-		"jp_text": "<color=yellow>使用する素材チップに★７以上のものが含まれています。</color>\n次の素材チップとメセタを消費して、プラグ強化を実行します。\nよろしいですか？",
-		"tr_text": "<color=yellow>One or more of the materials\nhas a rarity of ★７+ stars.</color>\nThese will be lost upon use.\nAre you sure?"
+		"jp_text": "次の素材チップとメセタを消費して、プラグ強化を実行します。\nよろしいですか？",
+		"tr_text": ""
 	},
 	{
 		"assign": "chip_awake_skill_dialog_b_decide_t_material",
@@ -21826,7 +21906,7 @@
 	},
 	{
 		"assign": "chip_awake_skill_dialog_b_decide_t_details",
-		"jp_text": "特装効果",
+		"jp_text": "プラグ強化効果",
 		"tr_text": ""
 	},
 	{
@@ -21917,6 +21997,11 @@
 	{
 		"assign": "window_help_LM40",
 		"jp_text": "wh_54_01,\n「プラグ」には、レベルを上げることで効果がアップするものがあります。\nレベルを上げるためには、専用の素材チップが必要です。\n素材チップは、様々なクエストで入手できます。,",
+		"tr_text": ""
+	},
+	{
+		"assign": "chip_awake_dialog_w_rarematerial",
+		"jp_text": "<color=yellow>使用する素材チップに★７以上のものが含まれています。</color>",
 		"tr_text": ""
 	}
 ]

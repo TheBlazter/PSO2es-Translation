@@ -16788,84 +16788,84 @@
 	{
 		"assign": "2202655",
 		"jp_text": "ブレイズプレイヤー",
-		"tr_text": "",
+		"tr_text": "Blaze Prayer",
 		"jp_explain": "デザイナーKanataEFCが作った衣装。\n祈祷時に着用する礼装とされており\n人と火の神の共生を象徴している。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "2202656",
 		"jp_text": "ブレイズプレイヤー影",
-		"tr_text": "",
+		"tr_text": "Blaze Prayer Shadow",
 		"jp_explain": "デザイナーKanataEFCが作った衣装。\n祈祷時に着用する礼装とされており\n人と火の神の共生を象徴している。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "2202657",
 		"jp_text": "ブレイズプレイヤー紅",
-		"tr_text": "",
+		"tr_text": "Blaze Prayer Crimson",
 		"jp_explain": "デザイナーKanataEFCが作った衣装。\n祈祷時に着用する礼装とされており\n人と火の神の共生を象徴している。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "2202658",
 		"jp_text": "ブレイズプレイヤー陽",
-		"tr_text": "",
+		"tr_text": "Blaze Prayer Sun",
 		"jp_explain": "デザイナーKanataEFCが作った衣装。\n祈祷時に着用する礼装とされており\n人と火の神の共生を象徴している。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "2202659",
 		"jp_text": "ブレイズプレイヤー夜",
-		"tr_text": "",
+		"tr_text": "Blaze Prayer Night",
 		"jp_explain": "デザイナーKanataEFCが作った衣装。\n祈祷時に着用する礼装とされており\n人と火の神の共生を象徴している。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "2202660",
 		"jp_text": "ブレイズプレイヤー雅",
-		"tr_text": "",
+		"tr_text": "Blaze Prayer Elegant",
 		"jp_explain": "デザイナーKanataEFCが作った衣装。\n祈祷時に着用する礼装とされており\n人と火の神の共生を象徴している。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "2202661",
 		"jp_text": "ヒヨリユキアメ",
-		"tr_text": "",
+		"tr_text": "Hiyori Yukiame",
 		"jp_explain": "デザイナーしたののが作った衣装。\n手まり飴や綿あめをモチーフとしており\n特徴的な色彩やもこもこの裾が可愛い。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "2202662",
 		"jp_text": "ヒヨリユキアメ桜",
-		"tr_text": "",
+		"tr_text": "Hiyori Yukiame Sakura",
 		"jp_explain": "デザイナーしたののが作った衣装。\n手まり飴や綿あめをモチーフとしており\n特徴的な色彩やもこもこの裾が可愛い。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "2202663",
 		"jp_text": "ヒヨリユキアメ雅",
-		"tr_text": "",
+		"tr_text": "Hiyori Yukiame Elegant",
 		"jp_explain": "デザイナーしたののが作った衣装。\n手まり飴や綿あめをモチーフとしており\n特徴的な色彩やもこもこの裾が可愛い。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "2202664",
 		"jp_text": "ヒヨリユキアメ影",
-		"tr_text": "",
+		"tr_text": "Hiyori Yukiame Shadow",
 		"jp_explain": "デザイナーしたののが作った衣装。\n手まり飴や綿あめをモチーフとしており\n特徴的な色彩やもこもこの裾が可愛い。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "2202665",
 		"jp_text": "ヒヨリユキアメ紅",
-		"tr_text": "",
+		"tr_text": "Hiyori Yukiame Crimson",
 		"jp_explain": "デザイナーしたののが作った衣装。\n手まり飴や綿あめをモチーフとしており\n特徴的な色彩やもこもこの裾が可愛い。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "2202666",
 		"jp_text": "ヒヨリユキアメ陽",
-		"tr_text": "",
+		"tr_text": "Hiyori Yukiame Sun",
 		"jp_explain": "デザイナーしたののが作った衣装。\n手まり飴や綿あめをモチーフとしており\n特徴的な色彩やもこもこの裾が可愛い。",
 		"tr_explain": ""
 	},
@@ -17040,43 +17040,148 @@
 	{
 		"assign": "2202691",
 		"jp_text": "ポップ・ラ・ソーサリーＦ春",
-		"tr_text": "",
+		"tr_text": "Pop La Sorcery F Spring",
 		"jp_explain": "デザイナーケルト姫が作った衣装。\nペットのポップルとサリィがモチーフで\nアクティブでキュートなデザイン。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "2202692",
 		"jp_text": "ポップ・ラ・ソーサリーＦ冬",
-		"tr_text": "",
+		"tr_text": "Pop La Sorcery F Winter",
 		"jp_explain": "デザイナーケルト姫が作った衣装。\nペットのポップルとサリィがモチーフで\nアクティブでキュートなデザイン。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "2202693",
 		"jp_text": "セイクリッド・メサイア玄",
-		"tr_text": "",
+		"tr_text": "Sacred Messiah Mysterious",
 		"jp_explain": "デザイナー鹿が作った衣装。\nフォトンを効率よく取り込み、余分は\n腰のガジェットから排出する仕組み。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "2202694",
 		"jp_text": "セイクリッド・メサイア茜",
-		"tr_text": "",
+		"tr_text": "Sacred Messiah Madder",
 		"jp_explain": "デザイナー鹿が作った衣装。\nフォトンを効率よく取り込み、余分は\n腰のガジェットから排出する仕組み。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "2202695",
 		"jp_text": "トイフェルノンネ玄",
-		"tr_text": "",
+		"tr_text": "Teufel Nonne Mysterious",
 		"jp_explain": "デザイナー里々時が作った衣装。\n地獄で祈りを捧げるシスターを\nイメージし、デザインされた。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "2202696",
 		"jp_text": "トイフェルノンネ冬",
-		"tr_text": "",
+		"tr_text": "Teufel Nonne Winter",
 		"jp_explain": "デザイナー里々時が作った衣装。\n地獄で祈りを捧げるシスターを\nイメージし、デザインされた。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2202697",
+		"jp_text": "小悪魔風メイドドレス",
+		"tr_text": "Devilish Maid Dress",
+		"jp_explain": "小悪魔な乙女のためのメイド服。\nコウモリの羽と、尖ったふたつの尻尾。\nおかえりなさいませ、ご主人様。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2202698",
+		"jp_text": "小悪魔風メイドドレス桜",
+		"tr_text": "Devilish Maid Dress Sakura",
+		"jp_explain": "小悪魔な乙女のためのメイド服。\nコウモリの羽と、尖ったふたつの尻尾。\nおかえりなさいませ、ご主人様。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2202699",
+		"jp_text": "小悪魔風メイドドレス紅",
+		"tr_text": "Devilish Maid Dress Crimson",
+		"jp_explain": "小悪魔な乙女のためのメイド服。\nコウモリの羽と、尖ったふたつの尻尾。\nおかえりなさいませ、ご主人様。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2202700",
+		"jp_text": "小悪魔風メイドドレス夜",
+		"tr_text": "Devilish Maid Dress Night",
+		"jp_explain": "小悪魔な乙女のためのメイド服。\nコウモリの羽と、尖ったふたつの尻尾。\nおかえりなさいませ、ご主人様。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2202701",
+		"jp_text": "小悪魔風メイドドレス陽",
+		"tr_text": "Devilish Maid Dress Sun",
+		"jp_explain": "小悪魔な乙女のためのメイド服。\nコウモリの羽と、尖ったふたつの尻尾。\nおかえりなさいませ、ご主人様。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2202702",
+		"jp_text": "小悪魔風メイドドレス葉",
+		"tr_text": "Devilish Maid Dress Leaf",
+		"jp_explain": "小悪魔な乙女のためのメイド服。\nコウモリの羽と、尖ったふたつの尻尾。\nおかえりなさいませ、ご主人様。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2202703",
+		"jp_text": "エアリーサマードレス・ミニ",
+		"tr_text": "Airy Summer Dress Mini",
+		"jp_explain": "薄く柔らかい生地で製作された服装。\n細かく入った花の刺繍や、胸元の宝石が\n清楚で可憐な印象を与える。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2202704",
+		"jp_text": "エアリーサマードレス・ミニ影",
+		"tr_text": "Airy Summer Dress Mini Shadow",
+		"jp_explain": "薄く柔らかい生地で製作された服装。\n細かく入った花の刺繍や、胸元の宝石が\n清楚で可憐な印象を与える。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2202705",
+		"jp_text": "エアリーサマードレス・ミニ紅",
+		"tr_text": "Airy Summer Dress Mini Crimson",
+		"jp_explain": "薄く柔らかい生地で製作された服装。\n細かく入った花の刺繍や、胸元の宝石が\n清楚で可憐な印象を与える。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2202706",
+		"jp_text": "アネット水着Ｂ",
+		"tr_text": "",
+		"jp_explain": "アークスの少女アネットの\n水着姿を模した服装。\nリゾート風。日焼け対策はバッチリ。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2202707",
+		"jp_text": "アネット水着Ｂ桜",
+		"tr_text": "",
+		"jp_explain": "アークスの少女アネットの\n水着姿を模した服装。\nリゾート風。日焼け対策はバッチリ。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2202708",
+		"jp_text": "アネット水着Ｂ雪",
+		"tr_text": "",
+		"jp_explain": "アークスの少女アネットの\n水着姿を模した服装。\nリゾート風。日焼け対策はバッチリ。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2202709",
+		"jp_text": "アネット水着Ｂ影",
+		"tr_text": "",
+		"jp_explain": "アークスの少女アネットの\n水着姿を模した服装。\nリゾート風。日焼け対策はバッチリ。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2202710",
+		"jp_text": "アネット水着Ｂ海",
+		"tr_text": "",
+		"jp_explain": "アークスの少女アネットの\n水着姿を模した服装。\nリゾート風。日焼け対策はバッチリ。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2202711",
+		"jp_text": "アネット水着Ｂ陽",
+		"tr_text": "",
+		"jp_explain": "アークスの少女アネットの\n水着姿を模した服装。\nリゾート風。日焼け対策はバッチリ。",
 		"tr_explain": ""
 	}
 ]

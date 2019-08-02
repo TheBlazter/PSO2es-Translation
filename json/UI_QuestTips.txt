@@ -942,7 +942,7 @@
 	{
 		"assign": "0188",
 		"jp_text": "<color=#f0df60>＜バリアを破壊しよう＞</color>\n敵側のウェポノイドが発動する支援効果は\n発動後しばらくすると、破壊できるようになります。\n必殺技や法術で手早く破壊しましょう！",
-		"tr_text": ""
+		"tr_text": "<color=#f0df60><Destroying a Barrier></color>\nThe barrier created by the enemy\nWeaponoid becomes vulnerable to\ndamage every so often.\nIn those moments, use your PAs and\nTechniques to shatter it!"
 	},
 	{
 		"assign": "0189",
@@ -1377,6 +1377,26 @@
 	{
 		"assign": "0275",
 		"jp_text": "<color=#f0df60>＜プラグレベルに合わせた素材を集めよう！②＞</color>\n特装したばかりのチップのプラグ強化には\nクエスト「プラグ開発資材調達任務・基本」で\n入手できる素材チップが必要になります。\nたくさん集めて、いつでも強化できるように\n準備しておきましょう！",
+		"tr_text": ""
+	},
+	{
+		"assign": "0276",
+		"jp_text": "<color=#f0df60>＜チップ特装の素材を集めよう！＞</color>\nこのクエストをプレイすると\n「チップ特装」に必要な素材が\n手に入ることがあるようです。\nチップ特装素材を集めて、チップをさらに強化しましょう！",
+		"tr_text": ""
+	},
+	{
+		"assign": "0277",
+		"jp_text": "<color=#f0df60>＜プラグ強化の素材を集めよう！＞</color>\nこのクエストをプレイすると\n「プラグ強化」に必要な素材が\n手に入ることがあるようです。\nプラグ強化素材を集めて、チップをさらに強化しましょう！",
+		"tr_text": ""
+	},
+	{
+		"assign": "0278",
+		"jp_text": "<color=#f0df60>＜チップ特装・プラグ強化の素材を集めよう！＞</color>\nこのクエストをプレイすると\n「チップ特装」や「プラグ強化」に必要な\n素材が手に入ることがあるようです。\nたくさん素材を集めて、チップをさらに強化しましょう！",
+		"tr_text": ""
+	},
+	{
+		"assign": "0279",
+		"jp_text": "<color=#f0df60>＜特別なチップを手に入れよう！＞</color>\nこのクエストでは\n獲得スコアのパーフェクトクリアで\n特別なチップが手に入るみたいですよ。\nぜひゲットしてくださいね！",
 		"tr_text": ""
 	}
 ]

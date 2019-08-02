@@ -965,6 +965,26 @@
 		"tr_text": ""
 	},
 	{
+		"assign": "62430",
+		"jp_text": "5-3　闇に捧げる歌",
+		"tr_text": ""
+	},
+	{
+		"assign": "62431",
+		"jp_text": "5-3　闇に捧げる歌",
+		"tr_text": ""
+	},
+	{
+		"assign": "62440",
+		"jp_text": "5-4　来たるべき世界",
+		"tr_text": ""
+	},
+	{
+		"assign": "62441",
+		"jp_text": "5-4　来たるべき世界",
+		"tr_text": ""
+	},
+	{
 		"assign": "40010",
 		"jp_text": "",
 		"tr_text": ""
@@ -1165,6 +1185,41 @@
 		"tr_text": "Grinder Search"
 	},
 	{
+		"assign": "40053",
+		"jp_text": "闇属性素材の収集",
+		"tr_text": "Dark Material Search"
+	},
+	{
+		"assign": "40054",
+		"jp_text": "炎属性素材の収集",
+		"tr_text": "Fire Material Search"
+	},
+	{
+		"assign": "40055",
+		"jp_text": "強化素材の収集",
+		"tr_text": "Grinder Search"
+	},
+	{
+		"assign": "40056",
+		"jp_text": "風属性素材の収集",
+		"tr_text": "Wind Material Search"
+	},
+	{
+		"assign": "40057",
+		"jp_text": "雷属性素材の収集",
+		"tr_text": "Lightning Mat. Search"
+	},
+	{
+		"assign": "40058",
+		"jp_text": "氷属性素材の収集",
+		"tr_text": "Ice Material Search"
+	},
+	{
+		"assign": "40059",
+		"jp_text": "光属性素材の収集",
+		"tr_text": "Light Material Search"
+	},
+	{
 		"assign": "40100",
 		"jp_text": "共闘者たちの集い",
 		"tr_text": "Assembly of Forces"
@@ -1197,17 +1252,17 @@
 	{
 		"assign": "40203",
 		"jp_text": "1周年記念任務・前編",
-		"tr_text": ""
+		"tr_text": "1st Anniversary - Part 1"
 	},
 	{
 		"assign": "40204",
 		"jp_text": "1周年記念任務・後編",
-		"tr_text": ""
+		"tr_text": "1st Anniversary - Part 2"
 	},
 	{
 		"assign": "40205",
 		"jp_text": "1周年記念任務・後編",
-		"tr_text": ""
+		"tr_text": "1st Anniversary - Part 3"
 	},
 	{
 		"assign": "40206",
@@ -1217,7 +1272,7 @@
 	{
 		"assign": "40171",
 		"jp_text": "特別任務「レコードハント」",
-		"tr_text": ""
+		"tr_text": "Special Mission \"Record Hunt\""
 	},
 	{
 		"assign": "40178",
@@ -1232,7 +1287,7 @@
 	{
 		"assign": "40180",
 		"jp_text": "バレンタイン極秘任務",
-		"tr_text": ""
+		"tr_text": "Valentine Secret Mission"
 	},
 	{
 		"assign": "40181",
@@ -1520,11 +1575,6 @@
 		"tr_text": "Fresh Green Festa"
 	},
 	{
-		"assign": "45008",
-		"jp_text": "－",
-		"tr_text": ""
-	},
-	{
 		"assign": "45009",
 		"jp_text": "５周年だよ、全員集合！",
 		"tr_text": "5th Anniversary, All Set!"
@@ -1543,6 +1593,21 @@
 		"assign": "40438",
 		"jp_text": "特装プラグ新規開発協力",
 		"tr_text": "Plug-In Development"
+	},
+	{
+		"assign": "40439",
+		"jp_text": "アークス集中訓練４",
+		"tr_text": "ARKS Intensive Training 4"
+	},
+	{
+		"assign": "45010",
+		"jp_text": "ドキドキ！ 水着で大混乱!!・前編",
+		"tr_text": "Heart-Pounding Swimsuits! Part 1"
+	},
+	{
+		"assign": "45011",
+		"jp_text": "ドキドキ！ 水着で大混乱!!・後編",
+		"tr_text": "Heart-Pounding Swimsuits! Part 2"
 	},
 	{
 		"assign": "40301",
@@ -1603,6 +1668,11 @@
 		"assign": "40312",
 		"jp_text": "雷の激化への道・射法",
 		"tr_text": "Lightning Intensification R/T"
+	},
+	{
+		"assign": "49900",
+		"jp_text": "パレット編成で強くなろう！",
+		"tr_text": "Build a Strong Palette!"
 	},
 	{
 		"assign": "50010",
@@ -2187,22 +2257,22 @@
 	{
 		"assign": "70004",
 		"jp_text": "はじめてできた、仲間",
-		"tr_text": ""
+		"tr_text": "My First Friend"
 	},
 	{
 		"assign": "70005",
 		"jp_text": "アネットはインテリア",
-		"tr_text": ""
+		"tr_text": "Annette the Gent"
 	},
 	{
 		"assign": "70006",
 		"jp_text": "ブルーノはピンチ",
-		"tr_text": ""
+		"tr_text": "Bruno in Trouble"
 	},
 	{
 		"assign": "70007",
 		"jp_text": "オレの日記",
-		"tr_text": ""
+		"tr_text": "My Diary"
 	},
 	{
 		"assign": "70008",
@@ -2427,22 +2497,22 @@
 	{
 		"assign": "70052",
 		"jp_text": "人見知りなウェポノイド",
-		"tr_text": ""
+		"tr_text": "An Awkward Weaponoid"
 	},
 	{
 		"assign": "70053",
 		"jp_text": "赤きサソリのしっぽ",
-		"tr_text": ""
+		"tr_text": "The Red Scorpion's Tail"
 	},
 	{
 		"assign": "70054",
 		"jp_text": "ランチャーを愛する者",
-		"tr_text": ""
+		"tr_text": "One Who Loves Launchers"
 	},
 	{
 		"assign": "70055",
 		"jp_text": "あこがれの人",
-		"tr_text": ""
+		"tr_text": "Someone I've Admired"
 	},
 	{
 		"assign": "70056",
@@ -2487,7 +2557,7 @@
 	{
 		"assign": "70064",
 		"jp_text": "地獄のマッサージ",
-		"tr_text": "Hell of a Massage"
+		"tr_text": "Massage from Hell"
 	},
 	{
 		"assign": "70065",
@@ -2497,12 +2567,12 @@
 	{
 		"assign": "70066",
 		"jp_text": "悩める電撃娘",
-		"tr_text": "Harried Blitz Little Girl"
+		"tr_text": "Troubled Lightning Girl"
 	},
 	{
 		"assign": "70067",
 		"jp_text": "練習の成果",
-		"tr_text": "Practice Results"
+		"tr_text": "The Results of Practice"
 	},
 	{
 		"assign": "70068",
@@ -5326,22 +5396,22 @@
 	},
 	{
 		"assign": "70632",
-		"jp_text": "-",
+		"jp_text": "ダチのために！",
 		"tr_text": ""
 	},
 	{
 		"assign": "70633",
-		"jp_text": "-",
+		"jp_text": "ダチの契り！",
 		"tr_text": ""
 	},
 	{
 		"assign": "70634",
-		"jp_text": "-",
+		"jp_text": "なにがあっても！",
 		"tr_text": ""
 	},
 	{
 		"assign": "70635",
-		"jp_text": "-",
+		"jp_text": "みんなで一緒に！",
 		"tr_text": ""
 	},
 	{
@@ -5586,22 +5656,22 @@
 	},
 	{
 		"assign": "70684",
-		"jp_text": "-",
+		"jp_text": "ぶつかるふたり",
 		"tr_text": ""
 	},
 	{
 		"assign": "70685",
-		"jp_text": "-",
+		"jp_text": "指揮官の務め",
 		"tr_text": ""
 	},
 	{
 		"assign": "70686",
-		"jp_text": "-",
+		"jp_text": "危機を超えて",
 		"tr_text": ""
 	},
 	{
 		"assign": "70687",
-		"jp_text": "-",
+		"jp_text": "最高の指揮官",
 		"tr_text": ""
 	},
 	{
@@ -6606,22 +6676,22 @@
 	},
 	{
 		"assign": "70888",
-		"jp_text": "-",
+		"jp_text": "イイ男、見つけた！",
 		"tr_text": ""
 	},
 	{
 		"assign": "70889",
-		"jp_text": "-",
+		"jp_text": "惚れっぽい彼女",
 		"tr_text": ""
 	},
 	{
 		"assign": "70890",
-		"jp_text": "-",
+		"jp_text": "恋は花火のように",
 		"tr_text": ""
 	},
 	{
 		"assign": "70891",
-		"jp_text": "-",
+		"jp_text": "いつもそばにいてくれた",
 		"tr_text": ""
 	},
 	{
@@ -9546,22 +9616,22 @@
 	},
 	{
 		"assign": "71185",
-		"jp_text": "-",
+		"jp_text": "彦星、天の川から来たる",
 		"tr_text": ""
 	},
 	{
 		"assign": "71186",
-		"jp_text": "-",
+		"jp_text": "願いを叶えよう",
 		"tr_text": ""
 	},
 	{
 		"assign": "71187",
-		"jp_text": "-",
+		"jp_text": "短冊大集結",
 		"tr_text": ""
 	},
 	{
 		"assign": "71188",
-		"jp_text": "-",
+		"jp_text": "星に願いを",
 		"tr_text": ""
 	},
 	{
@@ -9586,63 +9656,63 @@
 	},
 	{
 		"assign": "71193",
-		"jp_text": "-",
+		"jp_text": "アフタルと夏休み",
 		"tr_text": ""
 	},
 	{
 		"assign": "71194",
-		"jp_text": "-",
+		"jp_text": "アフタルと海の家",
 		"tr_text": ""
 	},
 	{
 		"assign": "71195",
-		"jp_text": "-",
+		"jp_text": "アフタルと浮き輪",
 		"tr_text": ""
 	},
 	{
 		"assign": "71196",
-		"jp_text": "-",
+		"jp_text": "アフタルと夏の思い出",
 		"tr_text": ""
 	},
 	{
 		"assign": "71197",
-		"jp_text": "-",
+		"jp_text": "ダーカー因子補充任務？",
 		"tr_text": ""
 	},
 	{
 		"assign": "71198",
-		"jp_text": "-",
+		"jp_text": "任務は任務、休暇は休暇",
 		"tr_text": ""
 	},
 	{
 		"assign": "71199",
-		"jp_text": "-",
+		"jp_text": "サーフィンと七色の貝殻",
 		"tr_text": ""
 	},
 	{
 		"assign": "71200",
-		"jp_text": "-",
+		"jp_text": "想いと願い",
 		"tr_text": ""
 	},
 	{
 		"assign": "71201",
-		"jp_text": "-",
-		"tr_text": ""
+		"jp_text": "渚の再会！",
+		"tr_text": "A Shoreline Reunion!"
 	},
 	{
 		"assign": "71202",
-		"jp_text": "-",
-		"tr_text": ""
+		"jp_text": "ビーチバレーで訓練！",
+		"tr_text": "Beach Volleyball Training!"
 	},
 	{
 		"assign": "71203",
-		"jp_text": "-",
-		"tr_text": ""
+		"jp_text": "サバイバル訓練！",
+		"tr_text": "Survival Training!"
 	},
 	{
 		"assign": "71204",
-		"jp_text": "-",
-		"tr_text": ""
+		"jp_text": "ヤスミノコフたちの夏",
+		"tr_text": "Summer of Yasminkovs"
 	},
 	{
 		"assign": "71205",

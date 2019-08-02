@@ -8253,6 +8253,13 @@
 		"tr_explain": "Desbloquea el accesorio\n\"Arkuma Balloon\"\npara usar en el Estilista."
 	},
 	{
+		"assign": "3801283",
+		"jp_text": "アークマヘアアクセ",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいアクセサリーの\nアークマヘアアクセが選択可能。",
+		"tr_explain": ""
+	},
+	{
 		"assign": "3801284",
 		"jp_text": "アークマポシェット",
 		"tr_text": "Arkuma Pochette",
@@ -26665,9 +26672,9 @@
 	{
 		"assign": "3804162",
 		"jp_text": "フォトンバタフライ白",
-		"tr_text": "",
+		"tr_text": "Photon Butterflies White",
 		"jp_explain": "使用すると、新しいアクセサリーの\nフォトンバタフライ白が選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Unlocks the accessory\n\"Photon Butterflies White\"\nfor use in the Beauty Salon."
 	},
 	{
 		"assign": "3804163",
@@ -26679,37 +26686,37 @@
 	{
 		"assign": "3804164",
 		"jp_text": "グラスラージュゴーグルＢ",
-		"tr_text": "",
+		"tr_text": "Grassoulage Goggles B",
 		"jp_explain": "使用すると、新しいアクセサリーの\nグラスラージュゴーグルＢが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Unlocks the accessory\n\"Grassoulage Goggles B\"\nfor use in the Beauty Salon."
 	},
 	{
 		"assign": "3804165",
 		"jp_text": "カラカズライヤリングＢ",
-		"tr_text": "",
+		"tr_text": "Karakazura Earrings B",
 		"jp_explain": "使用すると、新しいアクセサリーの\nカラカズライヤリングＢが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Unlocks the accessory\n\"Karakazura Earrings B\"\nfor use in the Beauty Salon."
 	},
 	{
 		"assign": "3804166",
 		"jp_text": "ポップ・ラ・フードＢ",
-		"tr_text": "",
+		"tr_text": "Pop La Hood B",
 		"jp_explain": "使用すると、新しいアクセサリーの\nポップ・ラ・フードＢが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Unlocks the accessory\n\"Pop La Hood B\"\nfor use in the Beauty Salon."
 	},
 	{
 		"assign": "3804167",
 		"jp_text": "ポップ・ラ・マフラーＢ",
-		"tr_text": "",
+		"tr_text": "Pop La Scarf B",
 		"jp_explain": "使用すると、新しいアクセサリーの\nポップ・ラ・マフラーＢが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Unlocks the accessory\n\"Pop La Scarf B\"\nfor use in the Beauty Salon."
 	},
 	{
 		"assign": "3804168",
 		"jp_text": "ポップ・ラ・リボンＢ",
-		"tr_text": "",
+		"tr_text": "Pop La Ribbon B",
 		"jp_explain": "使用すると、新しいアクセサリーの\nポップ・ラ・リボンＢが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Unlocks the accessory\n\"Pop La Ribbon B\"\nfor use in the Beauty Salon."
 	},
 	{
 		"assign": "3804169",
@@ -26798,9 +26805,9 @@
 	{
 		"assign": "3804181",
 		"jp_text": "ポニテ帽子",
-		"tr_text": "",
+		"tr_text": "Ponytail Hat",
 		"jp_explain": "使用すると、新しいアクセサリーの\nポニテ帽子が選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Unlocks the accessory\n\"Ponytail Hat\"\nfor use in the Beauty Salon."
 	},
 	{
 		"assign": "3804182",
@@ -26826,9 +26833,9 @@
 	{
 		"assign": "3804185",
 		"jp_text": "ブレイシーズアニマリボン",
-		"tr_text": "",
+		"tr_text": "Braces Anima Ribbon",
 		"jp_explain": "使用すると、新しいアクセサリーの\nブレイシーズアニマリボンが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Unlocks the accessory\n\"Braces Anima Ribbon\"\nfor use in the Beauty Salon."
 	},
 	{
 		"assign": "3804186",
@@ -26847,30 +26854,30 @@
 	{
 		"assign": "3804188",
 		"jp_text": "ブランマーメイドアクセ",
-		"tr_text": "",
+		"tr_text": "Blanc Mermaid Accessory",
 		"jp_explain": "使用すると、新しいアクセサリーの\nブランマーメイドアクセが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Unlocks the accessory\n\"Blanc Mermaid Accessory\"\nfor use in the Beauty Salon."
 	},
 	{
 		"assign": "3804189",
 		"jp_text": "ブレイズＰアクセ",
-		"tr_text": "",
+		"tr_text": "Blaze P Accessory",
 		"jp_explain": "使用すると、新しいアクセサリーの\nブレイズＰアクセが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Unlocks the accessory\n\"Blaze P Accessory\"\nfor use in the Beauty Salon."
 	},
 	{
 		"assign": "3804190",
 		"jp_text": "ヒヨリユキアメリボン",
-		"tr_text": "",
+		"tr_text": "Hiyori Yukiame Ribbon",
 		"jp_explain": "使用すると、新しいアクセサリーの\nヒヨリユキアメリボンが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Unlocks the accessory\n\"Hiyori Yukiame Ribbon\"\nfor use in the Beauty Salon."
 	},
 	{
 		"assign": "3804191",
 		"jp_text": "ヒヨリユキアメピアス",
-		"tr_text": "",
+		"tr_text": "Hiyori Yukiame Earrings",
 		"jp_explain": "使用すると、新しいアクセサリーの\nヒヨリユキアメピアスが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Unlocks the accessory\n\"Hiyori Yukiame Earrings\"\nfor use in the Beauty Salon."
 	},
 	{
 		"assign": "3804192",
@@ -26917,30 +26924,30 @@
 	{
 		"assign": "3804198",
 		"jp_text": "３０４８シールド　紺",
-		"tr_text": "",
+		"tr_text": "3048 Shield Blue",
 		"jp_explain": "使用すると、新しいアクセサリーの\n３０４８シールド　紺が選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Unlocks the accessory\n\"3048 Shield Blue\"\nfor use in the Beauty Salon."
 	},
 	{
 		"assign": "3804199",
 		"jp_text": "３０４８シールド　緑",
-		"tr_text": "",
+		"tr_text": "3048 Shield Green",
 		"jp_explain": "使用すると、新しいアクセサリーの\n３０４８シールド　緑が選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Unlocks the accessory\n\"3048 Shield Green\"\nfor use in the Beauty Salon."
 	},
 	{
 		"assign": "3804200",
 		"jp_text": "３０４８シールド　水",
-		"tr_text": "",
+		"tr_text": "3048 Shield Aqua",
 		"jp_explain": "使用すると、新しいアクセサリーの\n３０４８シールド　水が選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Unlocks the accessory\n\"3048 Shield Aqua\"\nfor use in the Beauty Salon."
 	},
 	{
 		"assign": "3804201",
 		"jp_text": "３０４８シールド　赤",
-		"tr_text": "",
+		"tr_text": "3048 Shield Red",
 		"jp_explain": "使用すると、新しいアクセサリーの\n３０４８シールド　赤が選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Unlocks the accessory\n\"3048 Shield Red\"\nfor use in the Beauty Salon."
 	},
 	{
 		"assign": "3804202",
@@ -26959,58 +26966,58 @@
 	{
 		"assign": "3804204",
 		"jp_text": "デュアルアイＡ　緑",
-		"tr_text": "",
+		"tr_text": "Dual Eyes A Green",
 		"jp_explain": "使用すると、新しいアクセサリーの\nデュアルアイＡ　緑が選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Unlocks the accessory\n\"Dual Eyes A Green\"\nfor use in the Beauty Salon."
 	},
 	{
 		"assign": "3804205",
 		"jp_text": "デュアルアイＡ　赤",
-		"tr_text": "",
+		"tr_text": "Dual Eyes A Red",
 		"jp_explain": "使用すると、新しいアクセサリーの\nデュアルアイＡ　赤が選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Unlocks the accessory\n\"Dual Eyes A Red\"\nfor use in the Beauty Salon."
 	},
 	{
 		"assign": "3804206",
 		"jp_text": "デュアルアイＡ　黄",
-		"tr_text": "",
+		"tr_text": "Dual Eyes A Yellow",
 		"jp_explain": "使用すると、新しいアクセサリーの\nデュアルアイＡ　黄が選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Unlocks the accessory\n\"Dual Eyes A Yellow\"\nfor use in the Beauty Salon."
 	},
 	{
 		"assign": "3804207",
 		"jp_text": "デュアルアイＢ　緑",
-		"tr_text": "",
+		"tr_text": "Dual Eyes B Green",
 		"jp_explain": "使用すると、新しいアクセサリーの\nデュアルアイＢ　緑が選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Unlocks the accessory\n\"Dual Eyes B Green\"\nfor use in the Beauty Salon."
 	},
 	{
 		"assign": "3804208",
 		"jp_text": "デュアルアイＢ　赤",
-		"tr_text": "",
+		"tr_text": "Dual Eyes B Red",
 		"jp_explain": "使用すると、新しいアクセサリーの\nデュアルアイＢ　赤が選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Unlocks the accessory\n\"Dual Eyes B Red\"\nfor use in the Beauty Salon."
 	},
 	{
 		"assign": "3804209",
 		"jp_text": "デュアルアイＢ　黄",
-		"tr_text": "",
+		"tr_text": "Dual Eyes B Yellow",
 		"jp_explain": "使用すると、新しいアクセサリーの\nデュアルアイＢ　黄が選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Unlocks the accessory\n\"Dual Eyes B Yellow\"\nfor use in the Beauty Salon."
 	},
 	{
 		"assign": "3804210",
 		"jp_text": "ハンドウィング",
-		"tr_text": "",
+		"tr_text": "Hand Wings",
 		"jp_explain": "使用すると、新しいアクセサリーの\nハンドウィングが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Unlocks the accessory\n\"Hand Wings\"\nfor use in the Beauty Salon."
 	},
 	{
 		"assign": "3804211",
 		"jp_text": "ハンドウィング　黒",
-		"tr_text": "",
+		"tr_text": "Hand Wings Black",
 		"jp_explain": "使用すると、新しいアクセサリーの\nハンドウィング　黒が選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Unlocks the accessory\n\"Hand Wings Black\"\nfor use in the Beauty Salon."
 	},
 	{
 		"assign": "3804212",
@@ -27029,16 +27036,16 @@
 	{
 		"assign": "3804214",
 		"jp_text": "オニの柔角　桃",
-		"tr_text": "",
+		"tr_text": "Oni Soft Horns Peach",
 		"jp_explain": "使用すると、新しいアクセサリーの\nオニの柔角　桃が選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Unlocks the accessory\n\"Oni Soft Horns Peach\"\nfor use in the Beauty Salon."
 	},
 	{
 		"assign": "3804215",
 		"jp_text": "オニの柔角　黒",
-		"tr_text": "",
+		"tr_text": "Oni Soft Horns Black",
 		"jp_explain": "使用すると、新しいアクセサリーの\nオニの柔角　黒が選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Unlocks the accessory\n\"Oni Soft Horns Black\"\nfor use in the Beauty Salon."
 	},
 	{
 		"assign": "3804216",
@@ -27078,23 +27085,23 @@
 	{
 		"assign": "3804221",
 		"jp_text": "盛りまつげ",
-		"tr_text": "",
+		"tr_text": "Peak Eyelashes",
 		"jp_explain": "使用すると、新しいアクセサリーの\n盛りまつげが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Unlocks the accessory\n\"Peak Eyelashes\"\nfor use in the Beauty Salon."
 	},
 	{
 		"assign": "3804222",
 		"jp_text": "スカルウィング",
-		"tr_text": "",
+		"tr_text": "Skull Wings",
 		"jp_explain": "使用すると、新しいアクセサリーの\nスカルウィングが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Unlocks the accessory\n\"Skull Wings\"\nfor use in the Beauty Salon."
 	},
 	{
 		"assign": "3804223",
 		"jp_text": "ぐるぐるアイ",
-		"tr_text": "",
+		"tr_text": "Whirling Eyes",
 		"jp_explain": "使用すると、新しいアクセサリーの\nぐるぐるアイが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Unlocks the accessory\n\"Whirling Eyes\"\nfor use in the Beauty Salon."
 	},
 	{
 		"assign": "3804224",
@@ -27162,9 +27169,9 @@
 	{
 		"assign": "3804233",
 		"jp_text": "仙人ひげ",
-		"tr_text": "",
+		"tr_text": "Hermit Beard",
 		"jp_explain": "使用すると、新しいアクセサリーの\n仙人ひげが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Unlocks the accessory\n\"Hermit Beard\"\nfor use in the Beauty Salon."
 	},
 	{
 		"assign": "3804234",
@@ -27183,9 +27190,9 @@
 	{
 		"assign": "3804236",
 		"jp_text": "ブレイシーズアニマイヤー",
-		"tr_text": "",
+		"tr_text": "Braces Anima Ears",
 		"jp_explain": "使用すると、新しいアクセサリーの\nブレイシーズアニマイヤーが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Unlocks the accessory\n\"Braces Anima Ears\"\nfor use in the Beauty Salon."
 	},
 	{
 		"assign": "3804237",
@@ -27204,16 +27211,16 @@
 	{
 		"assign": "3804239",
 		"jp_text": "リリーパ長靴",
-		"tr_text": "",
+		"tr_text": "Lillipa Boots",
 		"jp_explain": "使用すると、新しいアクセサリーの\nリリーパ長靴が選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Unlocks the accessory\n\"Lillipa Boots\"\nfor use in the Beauty Salon."
 	},
 	{
 		"assign": "3804240",
 		"jp_text": "ラッピー長靴",
-		"tr_text": "",
+		"tr_text": "Rappy Boots",
 		"jp_explain": "使用すると、新しいアクセサリーの\nラッピー長靴が選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Unlocks the accessory\n\"Rappy Boots\"\nfor use in the Beauty Salon."
 	},
 	{
 		"assign": "3804241",
@@ -27284,6 +27291,510 @@
 		"tr_text": "Anfang Headgear B",
 		"jp_explain": "使用すると、新しいアクセサリーの\nアンファングヘッドギアＢが選択可能。",
 		"tr_explain": "Unlocks the accessory\n\"Anfang Headgear B\"\nfor use in the Beauty Salon."
+	},
+	{
+		"assign": "3804252",
+		"jp_text": "ゴシックヘッドドレスＢ",
+		"tr_text": "Gothic Headdress B",
+		"jp_explain": "使用すると、新しいアクセサリーの\nゴシックヘッドドレスＢが選択可能。",
+		"tr_explain": "Unlocks the accessory\n\"Gothic Headdress B\"\nfor use in the Beauty Salon."
+	},
+	{
+		"assign": "3804253",
+		"jp_text": "フレアパレオＢ",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいアクセサリーの\nフレアパレオＢが選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3804254",
+		"jp_text": "ビキニパレオＢ",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいアクセサリーの\nビキニパレオＢが選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3804255",
+		"jp_text": "マラッドハットＣ",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいアクセサリーの\nマラッドハットＣが選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3804256",
+		"jp_text": "マリーヌハットＣ",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいアクセサリーの\nマリーヌハットＣが選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3804257",
+		"jp_text": "シュレッガーのマントＢ",
+		"tr_text": "Schlegger Cloak B",
+		"jp_explain": "使用すると、新しいアクセサリーの\nシュレッガーのマントＢが選択可能。",
+		"tr_explain": "Unlocks the accessory\n\"Schlegger Cloak B\"\nfor use in the Beauty Salon."
+	},
+	{
+		"assign": "3804258",
+		"jp_text": "シュレッガーの肩あてＢ",
+		"tr_text": "Schlegger Pauldrons B",
+		"jp_explain": "使用すると、新しいアクセサリーの\nシュレッガーの肩あてＢが選択可能。",
+		"tr_explain": "Unlocks the accessory\n\"Schlegger Pauldrons B\"\nfor use in the Beauty Salon."
+	},
+	{
+		"assign": "3804259",
+		"jp_text": "エルミルの帽子Ｂ",
+		"tr_text": "Elmir Hat B",
+		"jp_explain": "使用すると、新しいアクセサリーの\nエルミルの帽子Ｂが選択可能。",
+		"tr_explain": "Unlocks the accessory\n\"Elmir Hat B\"\nfor use in the Beauty Salon."
+	},
+	{
+		"assign": "3804260",
+		"jp_text": "エルミルのペンダントＢ",
+		"tr_text": "Elmir Pendant B",
+		"jp_explain": "使用すると、新しいアクセサリーの\nエルミルのペンダントＢが選択可能。",
+		"tr_explain": "Unlocks the accessory\n\"Elmir Pendant B\"\nfor use in the Beauty Salon."
+	},
+	{
+		"assign": "3804261",
+		"jp_text": "わんダフルリュックＢ　白",
+		"tr_text": "Pawsome Rucksack B White",
+		"jp_explain": "使用すると、新しいアクセサリーの\nわんダフルリュックＢ　白が選択可能。",
+		"tr_explain": "Unlocks the accessory\n\"Pawsome Rucksack B White\"\nfor use in the Beauty Salon."
+	},
+	{
+		"assign": "3804262",
+		"jp_text": "神王の髪飾りＢ",
+		"tr_text": "Regent Hair Ornament B",
+		"jp_explain": "使用すると、新しいアクセサリーの\n神王の髪飾りＢが選択可能。",
+		"tr_explain": "Unlocks the accessory\n\"Regent Hair Ornament B\"\nfor use in the Beauty Salon."
+	},
+	{
+		"assign": "3804263",
+		"jp_text": "神王のピアスＢ",
+		"tr_text": "Regent Earrings B",
+		"jp_explain": "使用すると、新しいアクセサリーの\n神王のピアスＢが選択可能。",
+		"tr_explain": "Unlocks the accessory\n\"Regent Earrings B\"\nfor use in the Beauty Salon."
+	},
+	{
+		"assign": "3804264",
+		"jp_text": "エピティナチョーカーＢ",
+		"tr_text": "Epitina Choker B",
+		"jp_explain": "使用すると、新しいアクセサリーの\nエピティナチョーカーＢが選択可能。",
+		"tr_explain": "Unlocks the accessory\n\"Epitina Choker B\"\nfor use in the Beauty Salon."
+	},
+	{
+		"assign": "3804265",
+		"jp_text": "エピリアチェーンＢ",
+		"tr_text": "Epiria Chains B",
+		"jp_explain": "使用すると、新しいアクセサリーの\nエピリアチェーンＢが選択可能。",
+		"tr_explain": "Unlocks the accessory\n\"Epiria Chains B\"\nfor use in the Beauty Salon."
+	},
+	{
+		"assign": "3804266",
+		"jp_text": "リアガンホルスターＢ",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいアクセサリーの\nリアガンホルスターＢが選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3804267",
+		"jp_text": "ハナヤギヘアアクセＢ",
+		"tr_text": "Hanayagi Hair Accessory B",
+		"jp_explain": "使用すると、新しいアクセサリーの\nハナヤギヘアアクセＢが選択可能。",
+		"tr_explain": "Unlocks the accessory\n\"Hanayagi Hair Accessory B\"\nfor use in the Beauty Salon."
+	},
+	{
+		"assign": "3804268",
+		"jp_text": "ハナヤギフラワーＢ",
+		"tr_text": "Hanayagi Flower B",
+		"jp_explain": "使用すると、新しいアクセサリーの\nハナヤギフラワーＢが選択可能。",
+		"tr_explain": "Unlocks the accessory\n\"Hanayagi Flower B\"\nfor use in the Beauty Salon."
+	},
+	{
+		"assign": "3804269",
+		"jp_text": "ハナヤギピアスＢ",
+		"tr_text": "Hanayagi Earrings B",
+		"jp_explain": "使用すると、新しいアクセサリーの\nハナヤギピアスＢが選択可能。",
+		"tr_explain": "Unlocks the accessory\n\"Hanayagi Earrings B\"\nfor use in the Beauty Salon."
+	},
+	{
+		"assign": "3804270",
+		"jp_text": "ダウスタラニスヘッドギアＢ",
+		"tr_text": "Daustarnis Headgear B",
+		"jp_explain": "使用すると、新しいアクセサリーの\nダウスタラニスヘッドギアＢが選択可能。",
+		"tr_explain": "Unlocks the accessory\n\"Daustarnis Headgear B\"\nfor use in the Beauty Salon."
+	},
+	{
+		"assign": "3804271",
+		"jp_text": "エスクリダオンマスクＢ",
+		"tr_text": "Escuridaon Mask B",
+		"jp_explain": "使用すると、新しいアクセサリーの\nエスクリダオンマスクＢが選択可能。",
+		"tr_explain": "Unlocks the accessory\n\"Escuridaon Mask B\"\nfor use in the Beauty Salon."
+	},
+	{
+		"assign": "3804272",
+		"jp_text": "六芒均衡ペンダントＢ",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいアクセサリーの\n六芒均衡ペンダントＢが選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3804273",
+		"jp_text": "プラズマシールドＢ",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいアクセサリーの\nプラズマシールドＢが選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3804274",
+		"jp_text": "集中線エフェクトＢ",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいアクセサリーの\n集中線エフェクトＢが選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3804275",
+		"jp_text": "プライヤーアーム",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいアクセサリーの\nプライヤーアームが選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3804276",
+		"jp_text": "ウェストバーニア",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいアクセサリーの\nウェストバーニアが選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3804277",
+		"jp_text": "ヘンネスヘッドドレス",
+		"tr_text": "Hennes Headdress",
+		"jp_explain": "使用すると、新しいアクセサリーの\nヘンネスヘッドドレスが選択可能。",
+		"tr_explain": "Unlocks the accessory\n\"Hennes Headdress\"\nfor use in the Beauty Salon."
+	},
+	{
+		"assign": "3804278",
+		"jp_text": "ヘンネスリボン",
+		"tr_text": "Hennes Ribbon",
+		"jp_explain": "使用すると、新しいアクセサリーの\nヘンネスリボンが選択可能。",
+		"tr_explain": "Unlocks the accessory\n\"Hennes Ribbon\"\nfor use in the Beauty Salon."
+	},
+	{
+		"assign": "3804279",
+		"jp_text": "小悪魔風メイドブリム",
+		"tr_text": "Devilish Maid Brim",
+		"jp_explain": "使用すると、新しいアクセサリーの\n小悪魔風メイドブリムが選択可能。",
+		"tr_explain": "Unlocks the accessory\n\"Devilish Maid Brim\"\nfor use in the Beauty Salon."
+	},
+	{
+		"assign": "3804280",
+		"jp_text": "イクシーダホーン",
+		"tr_text": "Exceeder Horns",
+		"jp_explain": "使用すると、新しいアクセサリーの\nイクシーダホーンが選択可能。",
+		"tr_explain": "Unlocks the accessory\n\"Exceeder Horns\"\nfor use in the Beauty Salon."
+	},
+	{
+		"assign": "3804281",
+		"jp_text": "アマルティホーン",
+		"tr_text": "Amalty Horns",
+		"jp_explain": "使用すると、新しいアクセサリーの\nアマルティホーンが選択可能。",
+		"tr_explain": "Unlocks the accessory\n\"Amalty Horns\"\nfor use in the Beauty Salon."
+	},
+	{
+		"assign": "3804282",
+		"jp_text": "アマルティウィング",
+		"tr_text": "Amalty Wings",
+		"jp_explain": "使用すると、新しいアクセサリーの\nアマルティウィングが選択可能。",
+		"tr_explain": "Unlocks the accessory\n\"Amalty Wings\"\nfor use in the Beauty Salon."
+	},
+	{
+		"assign": "3804283",
+		"jp_text": "ショルダーフィン",
+		"tr_text": "Shoulder Fins",
+		"jp_explain": "使用すると、新しいアクセサリーの\nショルダーフィンが選択可能。",
+		"tr_explain": "Unlocks the accessory\n\"Shoulder Fins\"\nfor use in the Beauty Salon."
+	},
+	{
+		"assign": "3804284",
+		"jp_text": "ホーンエクステ　黒",
+		"tr_text": "Horn Extensions Black",
+		"jp_explain": "使用すると、新しいアクセサリーの\nホーンエクステ　黒が選択可能。",
+		"tr_explain": "Unlocks the accessory\n\"Horn Extensions Black\"\nfor use in the Beauty Salon."
+	},
+	{
+		"assign": "3804285",
+		"jp_text": "ホーンエクステ　赤",
+		"tr_text": "Horn Extensions Red",
+		"jp_explain": "使用すると、新しいアクセサリーの\nホーンエクステ　赤が選択可能。",
+		"tr_explain": "Unlocks the accessory\n\"Horn Extensions Red\"\nfor use in the Beauty Salon."
+	},
+	{
+		"assign": "3804286",
+		"jp_text": "ホーンエクステ　白",
+		"tr_text": "Horn Extensions White",
+		"jp_explain": "使用すると、新しいアクセサリーの\nホーンエクステ　白が選択可能。",
+		"tr_explain": "Unlocks the accessory\n\"Horn Extensions White\"\nfor use in the Beauty Salon."
+	},
+	{
+		"assign": "3804287",
+		"jp_text": "レッグウィング　青",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいアクセサリーの\nレッグウィング　青が選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3804288",
+		"jp_text": "レッグウィング　黄",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいアクセサリーの\nレッグウィング　黄が選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3804289",
+		"jp_text": "レッグウィング　白",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいアクセサリーの\nレッグウィング　白が選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3804290",
+		"jp_text": "レッグウィング　桃",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいアクセサリーの\nレッグウィング　桃が選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3804291",
+		"jp_text": "ムジンオオダスキ",
+		"tr_text": "Mujin Odasuki",
+		"jp_explain": "使用すると、新しいアクセサリーの\nムジンオオダスキが選択可能。",
+		"tr_explain": "Unlocks the accessory\n\"Mujin Odasuki\"\nfor use in the Beauty Salon."
+	},
+	{
+		"assign": "3804292",
+		"jp_text": "カレイリボン",
+		"tr_text": "Karei Ribbon",
+		"jp_explain": "使用すると、新しいアクセサリーの\nカレイリボンが選択可能。",
+		"tr_explain": "Unlocks the accessory\n\"Karei Ribbon\"\nfor use in the Beauty Salon."
+	},
+	{
+		"assign": "3804293",
+		"jp_text": "シャムス背中飾り",
+		"tr_text": "Shams Back Decoration",
+		"jp_explain": "使用すると、新しいアクセサリーの\nシャムス背中飾りが選択可能。",
+		"tr_explain": "Unlocks the accessory\n\"Shams Back Decoration\"\nfor use in the Beauty Salon."
+	},
+	{
+		"assign": "3804294",
+		"jp_text": "シャムス髪飾り",
+		"tr_text": "Shams Hair Ornament",
+		"jp_explain": "使用すると、新しいアクセサリーの\nシャムス髪飾りが選択可能。",
+		"tr_explain": "Unlocks the accessory\n\"Shams Hair Ornament\"\nfor use in the Beauty Salon."
+	},
+	{
+		"assign": "3804295",
+		"jp_text": "カムラ髪飾り",
+		"tr_text": "Kamla Hair Ornament",
+		"jp_explain": "使用すると、新しいアクセサリーの\nカムラ髪飾りが選択可能。",
+		"tr_explain": "Unlocks the accessory\n\"Kamla Hair Ornament\"\nfor use in the Beauty Salon."
+	},
+	{
+		"assign": "3804296",
+		"jp_text": "カムラ背中飾り",
+		"tr_text": "Kamla Back Decoration",
+		"jp_explain": "使用すると、新しいアクセサリーの\nカムラ背中飾りが選択可能。",
+		"tr_explain": "Unlocks the accessory\n\"Kamla Back Decoration\"\nfor use in the Beauty Salon."
+	},
+	{
+		"assign": "3804297",
+		"jp_text": "渚のラッピーハット",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいアクセサリーの\n渚のラッピーハットが選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3804298",
+		"jp_text": "ブレードアンテナ",
+		"tr_text": "Blade Antenna",
+		"jp_explain": "使用すると、新しいアクセサリーの\nブレードアンテナが選択可能。",
+		"tr_explain": "Unlocks the accessory\n\"Blade Antenna\"\nfor use in the Beauty Salon."
+	},
+	{
+		"assign": "3804299",
+		"jp_text": "アルカーノリボン",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいアクセサリーの\nアルカーノリボンが選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3804300",
+		"jp_text": "アルカーノウェストリボン",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいアクセサリーの\nアルカーノウェストリボンが選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3804301",
+		"jp_text": "セクシーメイドブリム",
+		"tr_text": "Sexy Maid Brim",
+		"jp_explain": "使用すると、新しいアクセサリーの\nセクシーメイドブリムが選択可能。",
+		"tr_explain": "Unlocks the accessory\n\"Sexy Maid Brim\"\nfor use in the Beauty Salon."
+	},
+	{
+		"assign": "3804302",
+		"jp_text": "とんぼ玉イヤリング　赤",
+		"tr_text": "Glass Bead Earrings Red",
+		"jp_explain": "使用すると、新しいアクセサリーの\nとんぼ玉イヤリング　赤が選択可能。",
+		"tr_explain": "Unlocks the accessory\n\"Glass Bead Earrings Red\"\nfor use in the Beauty Salon."
+	},
+	{
+		"assign": "3804303",
+		"jp_text": "とんぼ玉イヤリング　青",
+		"tr_text": "Glass Bead Earrings Blue",
+		"jp_explain": "使用すると、新しいアクセサリーの\nとんぼ玉イヤリング　青が選択可能。",
+		"tr_explain": "Unlocks the accessory\n\"Glass Bead Earrings Blue\"\nfor use in the Beauty Salon."
+	},
+	{
+		"assign": "3804304",
+		"jp_text": "南国風カチューシャ　黒",
+		"tr_text": "Southern Headband Black",
+		"jp_explain": "使用すると、新しいアクセサリーの\n南国風カチューシャ　黒が選択可能。",
+		"tr_explain": "Unlocks the accessory\n\"Southern Headband Black\"\nfor use in the Beauty Salon."
+	},
+	{
+		"assign": "3804305",
+		"jp_text": "南国風カチューシャ　白",
+		"tr_text": "Southern Headband White",
+		"jp_explain": "使用すると、新しいアクセサリーの\n南国風カチューシャ　白が選択可能。",
+		"tr_explain": "Unlocks the accessory\n\"Southern Headband White\"\nfor use in the Beauty Salon."
+	},
+	{
+		"assign": "3804306",
+		"jp_text": "南国風カチューシャ　紺",
+		"tr_text": "Southern Headband Blue",
+		"jp_explain": "使用すると、新しいアクセサリーの\n南国風カチューシャ　紺が選択可能。",
+		"tr_explain": "Unlocks the accessory\n\"Southern Headband Blue\"\nfor use in the Beauty Salon."
+	},
+	{
+		"assign": "3804307",
+		"jp_text": "ハリエットマスコット",
+		"tr_text": "Harriet Mascot",
+		"jp_explain": "使用すると、新しいアクセサリーの\nハリエットマスコットが選択可能。",
+		"tr_explain": "Unlocks the accessory\n\"Harriet Mascot\"\nfor use in the Beauty Salon."
+	},
+	{
+		"assign": "3804308",
+		"jp_text": "アリサマスコット",
+		"tr_text": "Alisa Mascot",
+		"jp_explain": "使用すると、新しいアクセサリーの\nアリサマスコットが選択可能。",
+		"tr_explain": "Unlocks the accessory\n\"Alisa Mascot\"\nfor use in the Beauty Salon."
+	},
+	{
+		"assign": "3804309",
+		"jp_text": "ディアモスウィング",
+		"tr_text": "Diamos Wings",
+		"jp_explain": "使用すると、新しいアクセサリーの\nディアモスウィングが選択可能。",
+		"tr_explain": "Unlocks the accessory\n\"Diamos Wings\"\nfor use in the Beauty Salon."
+	},
+	{
+		"assign": "3804310",
+		"jp_text": "ディアモスホーン",
+		"tr_text": "Diamos Horns",
+		"jp_explain": "使用すると、新しいアクセサリーの\nディアモスホーンが選択可能。",
+		"tr_explain": "Unlocks the accessory\n\"Diamos Horns\"\nfor use in the Beauty Salon."
+	},
+	{
+		"assign": "3804311",
+		"jp_text": "ディアモステイル",
+		"tr_text": "Diamos Tail",
+		"jp_explain": "使用すると、新しいアクセサリーの\nディアモステイルが選択可能。",
+		"tr_explain": "Unlocks the accessory\n\"Diamos Tail\"\nfor use in the Beauty Salon."
+	},
+	{
+		"assign": "3804312",
+		"jp_text": "オメガコカトリスヘッド",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいアクセサリーの\nオメガコカトリスヘッドが選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3804313",
+		"jp_text": "シャークヘッド",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいアクセサリーの\nシャークヘッドが選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3804314",
+		"jp_text": "ジェネのハイビスカス",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいアクセサリーの\nジェネのハイビスカスが選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3804315",
+		"jp_text": "アネットの麦わら帽子",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいアクセサリーの\nアネットの麦わら帽子が選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3804316",
+		"jp_text": "ブルージーレクイエム角２",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいアクセサリーの\nブルージーレクイエム角２が選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3804317",
+		"jp_text": "フライングソーサー",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいアクセサリーの\nフライングソーサーが選択可能。\n<yellow>※サイズ調整はできません。<c>",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3804318",
+		"jp_text": "アンカーイヤリング　金",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいアクセサリーの\nアンカーイヤリング　金が選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3804319",
+		"jp_text": "アンカーイヤリング　銀",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいアクセサリーの\nアンカーイヤリング　銀が選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3804320",
+		"jp_text": "アンカーイヤリング　黒",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいアクセサリーの\nアンカーイヤリング　黒が選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3804321",
+		"jp_text": "メカニカルヒヅメ",
+		"tr_text": "Mechanical Hooves",
+		"jp_explain": "使用すると、新しいアクセサリーの\nメカニカルヒヅメが選択可能。",
+		"tr_explain": "Unlocks the accessory\n\"Mechanical Hooves\"\nfor use in the Beauty Salon."
+	},
+	{
+		"assign": "3804322",
+		"jp_text": "内巻き襟足エクステ",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいアクセサリーの\n内巻き襟足エクステが選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3804323",
+		"jp_text": "ブラスターバレル",
+		"tr_text": "Blaster Barrels",
+		"jp_explain": "使用すると、新しいアクセサリーの\nブラスターバレルが選択可能。",
+		"tr_explain": "Unlocks the accessory\n\"Blaster Barrels\"\nfor use in the Beauty Salon."
 	},
 	{
 		"assign": "3804325",

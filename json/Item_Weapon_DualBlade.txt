@@ -350,6 +350,13 @@
 		"tr_explain": ""
 	},
 	{
+		"assign": "117079",
+		"jp_text": "テスグライス",
+		"tr_text": "Tesgurais",
+		"jp_explain": "幾何学的なデザインが目を引く飛翔剣。\n美しいオレンジ色の刃は、非常に強靭で\nあらゆる敵を断ち切ることができる。",
+		"tr_explain": ""
+	},
+	{
 		"assign": "117081",
 		"jp_text": "ソルリシェル",
 		"tr_text": "Sol Rishell",
@@ -413,6 +420,13 @@
 		"tr_explain": ""
 	},
 	{
+		"assign": "1170108",
+		"jp_text": "シノノメレイセン",
+		"tr_text": "Shinonome Reisen",
+		"jp_explain": "華やかな複数の刃が特徴的な飛翔剣。\n刃全てが非常に優れた業物であり\n対象を無残に八つ裂きにする。",
+		"tr_explain": ""
+	},
+	{
 		"assign": "1170109",
 		"jp_text": "バイオリブジール",
 		"tr_text": "Bio Ribzeal",
@@ -466,7 +480,7 @@
 		"jp_text": "ニレンオロチ",
 		"tr_text": "Twin Orochi",
 		"jp_explain": "稀代の名匠ドウセツが鍛えし飛翔剣。\n芸術の域に達している美しき刀身は\n幾星霜の時を経ても衰えることはない。",
-		"tr_explain": ""
+		"tr_explain": "Dual blades forged by the master\ncraftsman Dosetsu. Despite their long\nhistory, they have never worn out."
 	},
 	{
 		"assign": "1170120",
@@ -487,7 +501,7 @@
 		"jp_text": "ニレンアギト",
 		"tr_text": "Twin Agito",
 		"jp_explain": "オロチアギト誕生後に打たれた飛翔剣。\n数多く打たれた習作のうちの二振りだが\n刀身は錆で覆われてしまっている。",
-		"tr_explain": ""
+		"tr_explain": "Dual blades based on Orochiagito.\nBeing the second such replica, their\nblades are now completely rusted."
 	},
 	{
 		"assign": "1170123",
@@ -830,7 +844,7 @@
 		"jp_text": "ニレンアギト-NT",
 		"tr_text": "Twin Agito-NT",
 		"jp_explain": "オロチアギト誕生後に打たれた飛翔剣。\n数多く打たれた習作のうちの二振りだが\n刀身は錆で覆われてしまっている。",
-		"tr_explain": ""
+		"tr_explain": "Dual blades based on Orochiagito.\nBeing the second such replica, their\nblades are now completely rusted."
 	},
 	{
 		"assign": "1170245",
@@ -977,6 +991,13 @@
 		"jp_text": "アトラスレヒト・イクス",
 		"tr_text": "Atlas Slecht Ex",
 		"jp_explain": "過去に戦場となった地域から発掘された\n飛翔剣。紅き宝珠はフォトンを吸い\n全て無に帰す蒼き光の力を覚醒させる。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1170294",
+		"jp_text": "ノヴェルＤブレード",
+		"tr_text": "Novel Dual Blade",
+		"jp_explain": "新技術により開発された飛翔剣。\n次期主力を担う武器として作られた。\n硬い鞘のような物で覆われている。",
 		"tr_explain": ""
 	},
 	{

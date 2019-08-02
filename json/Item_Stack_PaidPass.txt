@@ -961,28 +961,28 @@
 	{
 		"assign": "3210189",
 		"jp_text": "強化大成功確率＋２０％",
-		"tr_text": "Great Success Grind Rate +20%",
+		"tr_text": "Great Grind Success +20%",
 		"jp_explain": "新世武器用の強化補助素材。\n強化時に使用することで\n大成功確率を２０％上昇させる。",
 		"tr_explain": "Material usado en Armas NT.\nIncrementa el chance de mejora\npotenciada en 20%."
 	},
 	{
 		"assign": "3210190",
 		"jp_text": "強化大成功確率＋３０％",
-		"tr_text": "Great Success Grind Rate +30%",
+		"tr_text": "Great Grind Success +30%",
 		"jp_explain": "新世武器用の強化補助素材。\n強化時に使用することで\n大成功確率を３０％上昇させる。",
 		"tr_explain": "Material usado en Armas NT.\nIncrementa el chance de mejora\npotenciada en 30%."
 	},
 	{
 		"assign": "3210192",
 		"jp_text": "強化大成功確率＋５０％",
-		"tr_text": "Great Success Grind Rate +50%",
+		"tr_text": "Great Grind Success +50%",
 		"jp_explain": "新世武器用の強化補助素材。\n強化時に使用することで\n大成功確率を５０％上昇させる。",
 		"tr_explain": "Material usado en Armas NT.\nIncrementa el chance de mejora\npotenciada en 50%."
 	},
 	{
 		"assign": "3210193",
 		"jp_text": "強化大成功（１００％）",
-		"tr_text": "Great Success Grind Rate (100%)",
+		"tr_text": "Great Grind Success (100%)",
 		"jp_explain": "新世武器用の強化補助素材。\n強化時に使用することで\n確実に大成功を発生させる。",
 		"tr_explain": "Material usado en Armas NT.\nIncrementa el chance de mejora\npotenciada en 100%."
 	},
@@ -1446,7 +1446,7 @@
 		"jp_text": "エステ利用パスＳ",
 		"tr_text": "Salon Pass S",
 		"jp_explain": "エステカウンターの機能利用パス。\nサポートパートナーにも使用可能。\n利用するたびにパスは消費される。 ",
-		"tr_explain": "Allows you to use restricted options\nin the Beauty Salon.Ticket is used\nafter saving changes."
+		"tr_explain": "Allows you to use restricted options\nin the Beauty Salon. Ticket is used\nafter saving changes."
 	},
 	{
 		"assign": "3210279",
@@ -1890,6 +1890,20 @@
 		"tr_explain": "Material usado al sintetizar SSA.\nOtorga \"S4:Colored Spectrum\"\ncuando se usa en Ability Synthesis."
 	},
 	{
+		"assign": "3210363",
+		"jp_text": "Ｓ１追加：戦友の加護",
+		"tr_text": "S1 Add:Collaborator Liberator",
+		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\nＳ１：戦友の加護を付与。",
+		"tr_explain": "Material used in SSA Synthesis.\nGrants \"S1:Collaborator Liberator\"\nwhen used in Ability Synthesis."
+	},
+	{
+		"assign": "3210364",
+		"jp_text": "Ｓ４追加：累加追撃",
+		"tr_text": "S4 Add:Raising Pursuit",
+		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\nＳ４：累加追撃を付与。",
+		"tr_explain": "Material used in SSA Synthesis.\nGrants \"S4:Raising Pursuit\"\nwhen used in Ability Synthesis."
+	},
+	{
 		"assign": "3210456",
 		"jp_text": "特殊能力（マーク継承）",
 		"tr_text": "Add Ability (Mark Receptor)",
@@ -1972,5 +1986,26 @@
 		"tr_text": "S3 Add:Brilliant Ruin",
 		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\nＳ３：滅域輝与を付与。",
 		"tr_explain": "Material used in SSA Synthesis.\nGrants \"S3:Brilliant Ruin\"\nwhen used in Ability Synthesis."
+	},
+	{
+		"assign": "3210492",
+		"jp_text": "特殊能力（センテンスＰ）",
+		"tr_text": "Add Ability (Sentence P)",
+		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【センテンス・パワー】を追加。",
+		"tr_explain": "Material used in Special Ability\nSynthesis. Grants \"Sentence Power\"\nwhen used in Ability Synthesis."
+	},
+	{
+		"assign": "3210493",
+		"jp_text": "特殊能力（センテンスＳ）",
+		"tr_text": "Add Ability (Sentence S)",
+		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【センテンス・シュート】を追加。",
+		"tr_explain": "Material used in Special Ability\nSynthesis. Grants \"Sentence Shoot\"\nwhen used in Ability Synthesis."
+	},
+	{
+		"assign": "3210494",
+		"jp_text": "特殊能力（センテンスＴ）",
+		"tr_text": "Add Ability (Sentence T)",
+		"jp_explain": "特殊能力合成用の能力付与素材。\n特殊能力合成時に使用することで\n【センテンス・テクニック】を追加。",
+		"tr_explain": "Material used in Special Ability\nSynthesis. Grants \"Sentence\nTechnique\" when used."
 	}
 ]

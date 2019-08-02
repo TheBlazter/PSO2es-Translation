@@ -242,14 +242,14 @@
 		"jp_text": "オロチアギト",
 		"tr_text": "Orochiagito",
 		"jp_explain": "稀代の名匠ドウセツが鍛えし伝説の抜剣。\nその刀身は幾星霜を経てもなお衰えず、\nもはや芸術の域に達している。",
-		"tr_explain": ""
+		"tr_explain": "A katana forged by the master\ncraftsman Dosetsu. Despite its long\nhistory, its blade has never worn out."
 	},
 	{
 		"assign": "114041",
 		"jp_text": "アギト",
 		"tr_text": "Agito",
 		"jp_explain": "刀身が完全に錆び付いてしまった抜剣。\n名刀オロチアギト誕生以降、\n数多く打たれた習作のうちの一つ。",
-		"tr_explain": ""
+		"tr_explain": "A katana whose blade has completely\nrusted. This is but one of many\nreplicas of the legendary Orochiagito."
 	},
 	{
 		"assign": "114042",
@@ -571,6 +571,13 @@
 		"jp_text": "フブキキザン",
 		"tr_text": "Fubuki Kizan",
 		"jp_explain": "鎬地と鞘が桜模様で彩られた抜剣。\n刃の描く曲線が正確に対象を捉え\n舞い散る花びらすら切り裂くという。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1140129",
+		"jp_text": "シノノメキザン",
+		"tr_text": "Shinonome Kizan",
+		"jp_explain": "鎬地と鞘が桜模様で彩られた抜剣。\n闇夜で振るうと、対象の目には\n桜吹雪が舞っているように映る。",
 		"tr_explain": ""
 	},
 	{
@@ -1103,6 +1110,13 @@
 		"jp_text": "アトラバルア・イクス",
 		"tr_text": "Atlas Varua Ex",
 		"jp_explain": "過去に戦場となった地域から発掘された\n抜剣。碧羅の如き緑の光は目を醒ました。\nその光は戦いの中で輝きを発する。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "1140296",
+		"jp_text": "ノヴェルカタナ",
+		"tr_text": "Novel Katana",
+		"jp_explain": "新技術により開発された抜剣。\n次期主力を担う武器として作られた。\n硬い鞘のような物で覆われている。",
 		"tr_explain": ""
 	},
 	{

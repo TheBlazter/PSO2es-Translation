@@ -402,42 +402,42 @@
 	{
 		"title_id": 11,
 		"jp_title": "人見知りなウェポノイド　前編",
-		"tr_title": ""
+		"tr_title": "An Awkward Weaponoid - Part 1"
 	},
 	{
 		"title_id": 11,
 		"jp_title": "人見知りなウェポノイド　後編",
-		"tr_title": ""
+		"tr_title": "An Awkward Weaponoid - Part 2"
 	},
 	{
 		"title_id": 11,
 		"jp_title": "赤きサソリのしっぽ　前編",
-		"tr_title": ""
+		"tr_title": "The Red Scorpion's Tail - Part 1"
 	},
 	{
 		"title_id": 11,
 		"jp_title": "赤きサソリのしっぽ　後編",
-		"tr_title": ""
+		"tr_title": "The Red Scorpion's Tail - Part 2"
 	},
 	{
 		"title_id": 11,
 		"jp_title": "ランチャーを愛する者　前編",
-		"tr_title": ""
+		"tr_title": "One Who Loves Launchers - Part 1"
 	},
 	{
 		"title_id": 11,
 		"jp_title": "ランチャーを愛する者　後編",
-		"tr_title": ""
+		"tr_title": "One Who Loves Launchers - Part 2"
 	},
 	{
 		"title_id": 11,
 		"jp_title": "あこがれの人　前編",
-		"tr_title": ""
+		"tr_title": "Someone I've Admired - Part 1"
 	},
 	{
 		"title_id": 11,
 		"jp_title": "あこがれの人　後編",
-		"tr_title": ""
+		"tr_title": "Someone I've Admired - Part 2"
 	},
 	{
 		"title_id": 12,
@@ -522,42 +522,42 @@
 	{
 		"title_id": 14,
 		"jp_title": "地獄のマッサージ　前編",
-		"tr_title": ""
+		"tr_title": "Massage from Hell - Part 1"
 	},
 	{
 		"title_id": 14,
 		"jp_title": "地獄のマッサージ　後編",
-		"tr_title": ""
+		"tr_title": "Massage from Hell - Part 2"
 	},
 	{
 		"title_id": 14,
 		"jp_title": "改善か改悪か　前編",
-		"tr_title": "For Better or for Worse -  Part 1"
+		"tr_title": "For Better or for Worse - Part 1"
 	},
 	{
 		"title_id": 14,
 		"jp_title": "改善か改悪か　後編",
-		"tr_title": "For Better or for Worse -  Part 2"
+		"tr_title": "For Better or for Worse - Part 2"
 	},
 	{
 		"title_id": 14,
 		"jp_title": "悩める電撃娘　前編",
-		"tr_title": ""
+		"tr_title": "Troubled Lightning Girl - Part 1"
 	},
 	{
 		"title_id": 14,
 		"jp_title": "悩める電撃娘　後編",
-		"tr_title": ""
+		"tr_title": "Troubled Lightning Girl - Part 2"
 	},
 	{
 		"title_id": 14,
 		"jp_title": "練習の成果　前編",
-		"tr_title": ""
+		"tr_title": "The Results of Practice - Part 1"
 	},
 	{
 		"title_id": 14,
 		"jp_title": "練習の成果　後編",
-		"tr_title": ""
+		"tr_title": "The Results of Practice - Part 2"
 	},
 	{
 		"title_id": 15,
@@ -5000,6 +5000,46 @@
 		"tr_title": ""
 	},
 	{
+		"title_id": 156,
+		"jp_title": "ダチのために！　前編",
+		"tr_title": ""
+	},
+	{
+		"title_id": 156,
+		"jp_title": "ダチのために！　後編",
+		"tr_title": ""
+	},
+	{
+		"title_id": 156,
+		"jp_title": "ダチの契り！　前編",
+		"tr_title": ""
+	},
+	{
+		"title_id": 156,
+		"jp_title": "ダチの契り！　後編",
+		"tr_title": ""
+	},
+	{
+		"title_id": 156,
+		"jp_title": "なにがあっても！　前編",
+		"tr_title": ""
+	},
+	{
+		"title_id": 156,
+		"jp_title": "なにがあっても！　後編",
+		"tr_title": ""
+	},
+	{
+		"title_id": 156,
+		"jp_title": "みんなで一緒に！　前編",
+		"tr_title": ""
+	},
+	{
+		"title_id": 156,
+		"jp_title": "みんなで一緒に！　後編",
+		"tr_title": ""
+	},
+	{
 		"title_id": 158,
 		"jp_title": "やあやあ、我こそは！　前編",
 		"tr_title": ""
@@ -5077,6 +5117,46 @@
 	{
 		"title_id": 166,
 		"jp_title": "メイド隊、参る　後編",
+		"tr_title": ""
+	},
+	{
+		"title_id": 169,
+		"jp_title": "ぶつかるふたり　前編",
+		"tr_title": ""
+	},
+	{
+		"title_id": 169,
+		"jp_title": "ぶつかるふたり　後編",
+		"tr_title": ""
+	},
+	{
+		"title_id": 169,
+		"jp_title": "指揮官の務め　前編",
+		"tr_title": ""
+	},
+	{
+		"title_id": 169,
+		"jp_title": "指揮官の務め　後編",
+		"tr_title": ""
+	},
+	{
+		"title_id": 169,
+		"jp_title": "危機を超えて　前編",
+		"tr_title": ""
+	},
+	{
+		"title_id": 169,
+		"jp_title": "危機を超えて　後編",
+		"tr_title": ""
+	},
+	{
+		"title_id": 169,
+		"jp_title": "最高の指揮官　前編",
+		"tr_title": ""
+	},
+	{
+		"title_id": 169,
+		"jp_title": "最高の指揮官　後編",
 		"tr_title": ""
 	},
 	{
@@ -5920,6 +6000,46 @@
 		"tr_title": ""
 	},
 	{
+		"title_id": 220,
+		"jp_title": "イイ男、見つけた！　前編",
+		"tr_title": ""
+	},
+	{
+		"title_id": 220,
+		"jp_title": "イイ男、見つけた！　後編",
+		"tr_title": ""
+	},
+	{
+		"title_id": 220,
+		"jp_title": "惚れっぽい彼女　前編",
+		"tr_title": ""
+	},
+	{
+		"title_id": 220,
+		"jp_title": "惚れっぽい彼女　後編",
+		"tr_title": ""
+	},
+	{
+		"title_id": 220,
+		"jp_title": "恋は花火のように　前編",
+		"tr_title": ""
+	},
+	{
+		"title_id": 220,
+		"jp_title": "恋は花火のように　後編",
+		"tr_title": ""
+	},
+	{
+		"title_id": 220,
+		"jp_title": "いつもそばにいてくれた　前編",
+		"tr_title": ""
+	},
+	{
+		"title_id": 220,
+		"jp_title": "いつもそばにいてくれた　後編",
+		"tr_title": ""
+	},
+	{
 		"title_id": 222,
 		"jp_title": "再び与えられた命　前編",
 		"tr_title": ""
@@ -6287,42 +6407,42 @@
 	{
 		"title_id": 80001,
 		"jp_title": "はじめてできた、仲間　前編",
-		"tr_title": ""
+		"tr_title": "My First Friend - Part 1"
 	},
 	{
 		"title_id": 80001,
 		"jp_title": "はじめてできた、仲間　後編",
-		"tr_title": ""
+		"tr_title": "My First Friend - Part 2"
 	},
 	{
 		"title_id": 80001,
 		"jp_title": "アネットはインテリア　前編",
-		"tr_title": ""
+		"tr_title": "Annette the Gent - Part 1"
 	},
 	{
 		"title_id": 80001,
 		"jp_title": "アネットはインテリア　後編",
-		"tr_title": ""
+		"tr_title": "Annette the Gent - Part 2"
 	},
 	{
 		"title_id": 80001,
 		"jp_title": "ブルーノはピンチ　前編",
-		"tr_title": ""
+		"tr_title": "Bruno in Trouble - Part 1"
 	},
 	{
 		"title_id": 80001,
 		"jp_title": "ブルーノはピンチ　後編",
-		"tr_title": ""
+		"tr_title": "Bruno in Trouble - Part 2"
 	},
 	{
 		"title_id": 80001,
 		"jp_title": "オレの日記　前編",
-		"tr_title": ""
+		"tr_title": "My Diary - Part 1"
 	},
 	{
 		"title_id": 80001,
 		"jp_title": "オレの日記　後編",
-		"tr_title": ""
+		"tr_title": "My Diary - Part 2"
 	},
 	{
 		"title_id": 80002,
@@ -6926,42 +7046,42 @@
 	},
 	{
 		"title_id": 80021,
-		"jp_title": "エルデトロス[七夕]",
+		"jp_title": "彦星、天の川から来たる　前編",
 		"tr_title": ""
 	},
 	{
 		"title_id": 80021,
-		"jp_title": "エルデトロス[七夕]",
+		"jp_title": "彦星、天の川から来たる　後編",
 		"tr_title": ""
 	},
 	{
 		"title_id": 80021,
-		"jp_title": "エルデトロス[七夕]",
+		"jp_title": "願いを叶えよう　前編",
 		"tr_title": ""
 	},
 	{
 		"title_id": 80021,
-		"jp_title": "エルデトロス[七夕]",
+		"jp_title": "願いを叶えよう　後編",
 		"tr_title": ""
 	},
 	{
 		"title_id": 80021,
-		"jp_title": "エルデトロス[七夕]",
+		"jp_title": "短冊大集結　前編",
 		"tr_title": ""
 	},
 	{
 		"title_id": 80021,
-		"jp_title": "エルデトロス[七夕]",
+		"jp_title": "短冊大集結　後編",
 		"tr_title": ""
 	},
 	{
 		"title_id": 80021,
-		"jp_title": "エルデトロス[七夕]",
+		"jp_title": "星に願いを　前編",
 		"tr_title": ""
 	},
 	{
 		"title_id": 80021,
-		"jp_title": "エルデトロス[七夕]",
+		"jp_title": "星に願いを　後編",
 		"tr_title": ""
 	},
 	{
@@ -7003,6 +7123,46 @@
 		"title_id": 80022,
 		"jp_title": "ウェディング大作戦　後編",
 		"tr_title": ""
+	},
+	{
+		"title_id": 80023,
+		"jp_title": "渚の再会！　前編",
+		"tr_title": "A Shoreline Reunion! - Part 1"
+	},
+	{
+		"title_id": 80023,
+		"jp_title": "渚の再会！　後編",
+		"tr_title": "A Shoreline Reunion! - Part 2"
+	},
+	{
+		"title_id": 80023,
+		"jp_title": "ビーチバレーで訓練！　前編",
+		"tr_title": "Beach Volleyball Training! - Part 1"
+	},
+	{
+		"title_id": 80023,
+		"jp_title": "ビーチバレーで訓練！　後編",
+		"tr_title": "Beach Volleyball Training! - Part 2"
+	},
+	{
+		"title_id": 80023,
+		"jp_title": "サバイバル訓練！　前編",
+		"tr_title": "Survival Training! - Part 1"
+	},
+	{
+		"title_id": 80023,
+		"jp_title": "サバイバル訓練！　後編",
+		"tr_title": "Survival Training! - Part 2"
+	},
+	{
+		"title_id": 80023,
+		"jp_title": "ヤスミノコフたちの夏　前編",
+		"tr_title": "Summer of Yasminkovs - Part 1"
+	},
+	{
+		"title_id": 80023,
+		"jp_title": "ヤスミノコフたちの夏　後編",
+		"tr_title": "Summer of Yasminkovs - Part 2"
 	},
 	{
 		"title_id": 90000,
@@ -7522,6 +7682,86 @@
 	{
 		"title_id": 90023,
 		"jp_title": "ふたりだけの秘密　後編",
+		"tr_title": ""
+	},
+	{
+		"title_id": 90034,
+		"jp_title": "アフタルと夏休み　前編",
+		"tr_title": ""
+	},
+	{
+		"title_id": 90034,
+		"jp_title": "アフタルと夏休み　後編",
+		"tr_title": ""
+	},
+	{
+		"title_id": 90034,
+		"jp_title": "アフタルと海の家　前編",
+		"tr_title": ""
+	},
+	{
+		"title_id": 90034,
+		"jp_title": "アフタルと海の家　後編",
+		"tr_title": ""
+	},
+	{
+		"title_id": 90034,
+		"jp_title": "アフタルと浮き輪　前編",
+		"tr_title": ""
+	},
+	{
+		"title_id": 90034,
+		"jp_title": "アフタルと浮き輪　後編",
+		"tr_title": ""
+	},
+	{
+		"title_id": 90034,
+		"jp_title": "アフタルと夏の思い出　前編",
+		"tr_title": ""
+	},
+	{
+		"title_id": 90034,
+		"jp_title": "アフタルと夏の思い出　後編",
+		"tr_title": ""
+	},
+	{
+		"title_id": 90035,
+		"jp_title": "ダーカー因子補充任務？　前編",
+		"tr_title": ""
+	},
+	{
+		"title_id": 90035,
+		"jp_title": "ダーカー因子補充任務？　後編",
+		"tr_title": ""
+	},
+	{
+		"title_id": 90035,
+		"jp_title": "任務は任務、休暇は休暇　前編",
+		"tr_title": ""
+	},
+	{
+		"title_id": 90035,
+		"jp_title": "任務は任務、休暇は休暇　後編",
+		"tr_title": ""
+	},
+	{
+		"title_id": 90035,
+		"jp_title": "サーフィンと七色の貝殻　前編",
+		"tr_title": ""
+	},
+	{
+		"title_id": 90035,
+		"jp_title": "サーフィンと七色の貝殻　後編",
+		"tr_title": ""
+	},
+	{
+		"title_id": 90035,
+		"jp_title": "想いと願い　前編",
+		"tr_title": ""
+	},
+	{
+		"title_id": 90035,
+		"jp_title": "想いと願い　後編",
 		"tr_title": ""
 	}
 ]
