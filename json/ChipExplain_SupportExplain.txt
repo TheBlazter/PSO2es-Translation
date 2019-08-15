@@ -4309,14 +4309,14 @@
 		"jp_explainShort": "攻撃力増加＋必殺技・法術使用毎に大増加",
 		"tr_explainShort": "",
 		"jp_explainLong": "① 攻撃力を増加する。\n② 必殺技・法術を使用するごとに\n　　 威力を大きく増加する。（最大時：超絶）\n[発動条件]ジャストアタック成功時\n[効果時間]長い時間",
-		"tr_explainLong": "①  Boosts damage by 30%.\n     <color=yellow>[E-Frame]</color>\n②  Boosts damage by ??% each time you use a PA or\n     Tech.\n     (Maximum boost: ???%)\n     <color=yellow>[L-Frame]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 30 seconds"
+		"tr_explainLong": "①  Boosts damage by 30%.\n     <color=yellow>[E-Frame]</color>\n②  Boosts damage by 42% each time you use a PA\n     or Tech.\n     (Maximum boost: 210%)\n<color=yellow>SP: </color>Boosts damage by 44% each time you use a PA\n     or Tech.\n     (Maximum boost: 220%)\n     <color=yellow>[L-Frame]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 30 seconds"
 	},
 	{
 		"assign": "31771",
 		"jp_explainShort": "攻撃力増加＋必殺技・法術使用毎に大増加",
 		"tr_explainShort": "",
 		"jp_explainLong": "① 攻撃力を増加する。\n② 必殺技・法術を使用するごとに\n　　 威力を大きく増加する。（最大時：超絶）\n[発動条件]ジャストアタック成功時\n[効果時間]長い時間",
-		"tr_explainLong": "①  Boosts damage by 30%.\n     <color=yellow>[E-Frame]</color>\n②  Boosts damage by 45% each time you use a PA or\n     Tech.\n     (Maximum boost: 225%)\n     <color=yellow>[L-Frame]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] ?? seconds"
+		"tr_explainLong": "①  Boosts damage by 30%.\n     <color=yellow>[E-Frame]</color>\n②  Boosts damage by 46% each time you use a PA\n     or Tech.\n     (Maximum boost: 230%)\n<color=yellow>SP: </color>Boosts damage by 48% each time you use a PA\n     or Tech.\n     (Maximum boost: 240%)\n     <color=yellow>[L-Frame]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 35 seconds"
 	},
 	{
 		"assign": "31774",
@@ -5429,14 +5429,14 @@
 		"jp_explainShort": "エーデル・アーロ",
 		"tr_explainShort": "",
 		"jp_explainLong": "① 必殺技・法術チップが光属性の場合は\n　　 威力を劇的に増加する。\n② 敵に追加でダメージを与える。\n③ 消費ＣＰを減少する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts Light PAs and Techs\n     by 80%.\n<color=yellow>SP: </color>Boosts Fire, Lightning and Wind PAs and Techs\n     by 85%.\n     <color=yellow>[K-Frame]</color>\n②  Deals an additional 30% damage to enemies.\n     <color=yellow>[Chase]</color>\n③  Reduces CP consumption by 20%.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts Light PAs and Techs by 80%.\n<color=yellow>SP: </color>Boosts Light PAs and Techs\n     by 85%.\n     <color=yellow>[K-Frame]</color>\n②  Deals an additional 30% damage to enemies.\n     <color=yellow>[Chase]</color>\n③  Reduces CP consumption by 20%.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "32020",
 		"jp_explainShort": "エーデル・アーロ（解放後）",
 		"tr_explainShort": "",
 		"jp_explainLong": "① 必殺技・法術チップが光属性の場合は\n　　 威力を劇的に増加する。\n② 敵に追加でダメージを与える。\n③ 消費ＣＰを減少する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts Light PAs and Techs\n     by 90%.\n<color=yellow>SP: </color>Boosts Fire, Lightning and Wind PAs and Techs\n     by 95%.\n     <color=yellow>[K-Frame]</color>\n②  Deals an additional 30% damage to enemies.\n     <color=yellow>[Chase]</color>\n③  Reduces CP consumption by 20%.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 25 seconds"
+		"tr_explainLong": "①  Boosts Light PAs and Techs by 90%.\n<color=yellow>SP: </color>Boosts Light PAs and Techs\n     by 95%.\n     <color=yellow>[K-Frame]</color>\n②  Deals an additional 30% damage to enemies.\n     <color=yellow>[Chase]</color>\n③  Reduces CP consumption by 20%.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 25 seconds"
 	},
 	{
 		"assign": "32021",
