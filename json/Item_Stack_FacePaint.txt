@@ -844,14 +844,14 @@
 		"jp_text": "ミコッテＭ・フェイス",
 		"tr_text": "Miqo'te M Face",
 		"jp_explain": "チケットを使用すると、新しいメイクの\nミコッテＭ・フェイスが選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Unlocks the male-only makeup\n\"Miqo'te M Face\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el maquillaje masculino\n\"Miqo'te M Face\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3250125",
 		"jp_text": "ミコッテＦ・フェイス",
 		"tr_text": "Miqo'te F Face",
 		"jp_explain": "チケットを使用すると、新しいメイクの\nミコッテＦ・フェイスが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the female-only makeup\n\"Miqo'te F Face\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el maquillaje femenino\n\"Miqo'te F Face\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3250126",
@@ -1516,35 +1516,35 @@
 		"jp_text": "侵食メイク",
 		"tr_text": "Corruption Makeup",
 		"jp_explain": "チケットを使用すると、新しいメイクの\n侵食メイクが選択可能。",
-		"tr_explain": "Unlocks the makeup\n\"Corruption Makeup\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el maquillaje\n\"Corruption Makeup\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3250238",
 		"jp_text": "ヒューイメイクＢ",
 		"tr_text": "Huey Makeup B",
 		"jp_explain": "チケットを使用すると、新しいメイクの\nヒューイメイクＢが選択可能。",
-		"tr_explain": "Unlocks the makeup\n\"Huey Makeup B\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el maquillaje\n\"Huey Makeup B\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3250239",
 		"jp_text": "カムラペイント",
 		"tr_text": "Kamla Paint",
 		"jp_explain": "チケットを使用すると、新しいメイクの\nカムラペイントが選択可能。",
-		"tr_explain": "Unlocks the makeup\n\"Kamla Paint\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el maquillaje\n\"Kamla Paint\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3250240",
 		"jp_text": "頬染めＢ",
 		"tr_text": "Blush B",
 		"jp_explain": "チケットを使用すると、新しいメイクの\n頬染めＢが選択可能。",
-		"tr_explain": "Unlocks the makeup\n\"Blush B\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el maquillaje\n\"Blush B\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3250241",
 		"jp_text": "Ｖロックメイク",
 		"tr_text": "V Rock Makeup",
 		"jp_explain": "チケットを使用すると、新しいメイクの\nＶロックメイクが選択可能。",
-		"tr_explain": "Unlocks the makeup\n\"V Rock Makeup\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el maquillaje\n\"V Rock Makeup\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3250242",

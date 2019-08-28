@@ -3595,7 +3595,7 @@
 		"jp_text": "509「カタナポーズ」",
 		"tr_text": "509 \"Katana Pose\"",
 		"jp_explain": "ロビアク『カタナポーズ』\nを全キャラクターで使用可能になる。\n対応機能：ボタン派生／武器装備反映\n<yellow>“PS Vita”では武器装備の反映不可<c>",
-		"tr_explain": "Aprende una nueva accion de lobby\n\"Katana Pose\".\nShows equipment, has extra actions.\n<yellow>Doesn't show equipment on PS Vita<c>"
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Katana Pose\".\nMuestra equipo, como accion extra.\n<yellow>Este no se muestra en PS Vita<c>"
 	},
 	{
 		"assign": "3230524",
@@ -3658,14 +3658,14 @@
 		"jp_text": "518「レギアスポーズ」",
 		"tr_text": "518 \"Regius Pose\"",
 		"jp_explain": "ロビアク『レギアスポーズ』\nを全キャラクターで使用可能になる。\n対応機能：ボタン派生／武器装備反映\n<yellow>“PS Vita”では武器装備の反映不可<c>",
-		"tr_explain": "Aprende una nueva accion de lobby\n\"Regius Pose\".\nShows equipment, has extra actions.\n<yellow>Doesn't show equipment on PS Vita<c>"
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Regius Pose\".\nMuestra equipo, como accion extra.\n<yellow>Este no se muestra en PS Vita<c>"
 	},
 	{
 		"assign": "3230533",
 		"jp_text": "519「マリアポーズ」",
 		"tr_text": "519 \"Maria Pose\"",
 		"jp_explain": "ロビアク『マリアポーズ』\nを全キャラクターで使用可能になる。\n対応機能：ボタン派生／武器装備反映\n<yellow>“PS Vita”では武器装備の反映不可<c>",
-		"tr_explain": "Aprende una nueva accion de lobby\n\"Maria Pose\".\nShows equipment, has extra actions.\n<yellow>Doesn't show equipment on PS Vita<c>"
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Maria Pose\".\nMuestra equipo, como accion extra.\n<yellow>Este no se muestra en PS Vita<c>"
 	},
 	{
 		"assign": "3230534",
@@ -3693,7 +3693,7 @@
 		"jp_text": "523「Ａライフルポーズ」",
 		"tr_text": "523 \"Assault Rifle Pose\"",
 		"jp_explain": "ロビアク『Ａライフルポーズ』\nを全キャラクターで使用可能になる。\n対応機能：ボタン派生／武器装備反映\n<yellow>“PS Vita”では武器装備の反映不可<c>",
-		"tr_explain": "Aprende una nueva accion de lobby\n\"Assault Rifle Pose\".\nShows equipment, has extra actions.\n<yellow>Doesn't show equipment on PS Vita<c>"
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Assault Rifle Pose\".\nMuestra equipo, como accion extra.\n<yellow>Este no se muestra en PS Vita<c>"
 	},
 	{
 		"assign": "3230538",
@@ -3777,7 +3777,7 @@
 		"jp_text": "535「Ｔマシンガンポーズ」",
 		"tr_text": "535 \"T Machine Gun Pose\"",
 		"jp_explain": "ロビアク『Ｔマシンガンポーズ』\nを全キャラクターで使用可能になる。\n対応機能：ボタン派生／武器装備反映\n<yellow>“PS Vita”では武器装備の反映不可<c>",
-		"tr_explain": "Aprende una nueva accion de lobby\n\"T Machine Gun Pose\".\nShows equipment, has extra actions.\n<yellow>Doesn't show equipment on PS Vita<c>"
+		"tr_explain": "Aprende una nueva accion de lobby\n\"T Machine Gun Pose\".\nMuestra equipo, como accion extra.\n<yellow>Este no se muestra en PS Vita<c>"
 	},
 	{
 		"assign": "3230550",
@@ -3798,14 +3798,14 @@
 		"jp_text": "538「バナナボート」",
 		"tr_text": "538 \"Banana Boat\"",
 		"jp_explain": "ロビアク『バナナボート』\nを全キャラクターで使用可能になる。\n対応機能：ボタン派生",
-		"tr_explain": "Unlocks the new lobby action\n\"Banana Boat\".\nUse action buttons for extra actions."
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Banana Boat\".\nUsa los botones para cambiar de pose."
 	},
 	{
 		"assign": "3230553",
 		"jp_text": "539「キック３」",
 		"tr_text": "539 \"Kick 3\"",
 		"jp_explain": "ロビアク『キック３』\nを全キャラクターで使用可能になる。",
-		"tr_explain": "Unlocks the new lobby action\n\"Kick 3\".\nUse action buttons for extra actions."
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Kick 3\".\nUsa los botones para cambiar de pose."
 	},
 	{
 		"assign": "3230554",
@@ -3819,21 +3819,21 @@
 		"jp_text": "541「ストラトスポーズ」",
 		"tr_text": "541 \"Stratos Pose\"",
 		"jp_explain": "ロビアク『ストラトスポーズ』\nを全キャラクターで使用可能になる。\n対応機能：ボタン派生／武器装備反映\n<yellow>“PS Vita”では武器装備の反映不可<c>",
-		"tr_explain": "Unlocks the new lobby action\n\"Stratos Pose\".\nShows equipment, has extra actions.\n<yellow>Doesn't show equipment on PS Vita<c>"
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Stratos Pose\".\nMuestra equipo, como accion extra.\n<yellow>Este no se muestra en PS Vita<c>"
 	},
 	{
 		"assign": "3230556",
 		"jp_text": "542「ベッド３」",
 		"tr_text": "542 \"Bed 3\"",
 		"jp_explain": "ロビアク『ベッド３』\nを全キャラクターで使用可能になる。",
-		"tr_explain": "Unlocks the new lobby action\n\"Bed 3\"."
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Bed 3\"."
 	},
 	{
 		"assign": "3230557",
 		"jp_text": "543「フォトンサークル」",
 		"tr_text": "543 \"Photon Circle\"",
 		"jp_explain": "ロビアク『フォトンサークル』\nを全キャラクターで使用可能になる。\n対応機能：ボタン派生",
-		"tr_explain": "Unlocks the new lobby action\n\"Photon Circle\".\nUse action buttons for extra actions."
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Photon Circle\".\nUsa los botones para cambiar de pose."
 	},
 	{
 		"assign": "3230558",

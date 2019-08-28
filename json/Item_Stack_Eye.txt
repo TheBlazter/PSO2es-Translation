@@ -1313,14 +1313,14 @@
 		"jp_text": "くっきりハイライト瞳",
 		"tr_text": "Distinct Highlight Eyes",
 		"jp_explain": "チケットを使用すると、新しい瞳の\nくっきりハイライト瞳が選択可能。",
-		"tr_explain": "Unlocks the eyes\n\"Distinct Highlight Eyes\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea los ojos\n\"Distinct Highlight Eyes\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3260190",
 		"jp_text": "カクカクうずまき瞳",
 		"tr_text": "Bright Spiral Eyes",
 		"jp_explain": "チケットを使用すると、新しい瞳の\nカクカクうずまき瞳が選択可能。",
-		"tr_explain": "Unlocks the eyes\n\"Bright Spiral Eyes\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea los ojos\n\"Bright Spiral Eyes\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3260191",
@@ -1334,6 +1334,6 @@
 		"jp_text": "夜光にじみ瞳",
 		"tr_text": "Blotted Noctilucent Eyes",
 		"jp_explain": "チケットを使用すると、新しい瞳の\n夜光にじみ瞳が選択可能。",
-		"tr_explain": "Unlocks the eyes\n\"Blotted Noctilucent Eyes\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea los ojos\n\"Blotted Noctilucent Eyes\"\npara usar en el Estilista."
 	}
 ]

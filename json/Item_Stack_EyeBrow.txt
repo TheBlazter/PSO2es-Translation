@@ -389,28 +389,28 @@
 		"jp_text": "カミナリまゆ",
 		"tr_text": "Thunderbolt Eyebrows",
 		"jp_explain": "チケットを使用すると、まゆ\nカミナリまゆが選択可能。",
-		"tr_explain": "Unlocks the eyebrows\n\"Thunderbolt Eyebrows\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea las cejas\n\"Thunderbolt Eyebrows\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "327061",
 		"jp_text": "多重まゆＣ",
 		"tr_text": "Multiple Eyebrows C",
 		"jp_explain": "チケットを使用すると、まゆ\n多重まゆＣが選択可能。",
-		"tr_explain": "Unlocks the eyebrows\n\"Multiple Eyebrows C\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea las cejas\n\"Multiple Eyebrows C\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "327062",
 		"jp_text": "細長カーブまゆ",
 		"tr_text": "Long Fine Curved Eyebrows",
 		"jp_explain": "チケットを使用すると、まゆ\n細長カーブまゆが選択可能。",
-		"tr_explain": "Unlocks the eyebrows\n\"Long Fine Curved Eyebrows\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea las cejas\n\"Long Fine Curved Eyebrows\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "327063",
 		"jp_text": "ふきげんまゆ",
 		"tr_text": "Sullen Eyebrows",
 		"jp_explain": "チケットを使用すると、まゆ\nふきげんまゆが選択可能。",
-		"tr_explain": "Unlocks the eyebrows\n\"Sullen Eyebrows\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea las cejas\n\"Sullen Eyebrows\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "327064",

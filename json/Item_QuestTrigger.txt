@@ -373,43 +373,43 @@
 	{
 		"assign": "373056",
 		"jp_text": "雨風２０１９トリガー",
-		"tr_text": "Rain 2019 Trigger",
+		"tr_text": "T. Mision: Rain 2019",
 		"jp_explain": "雨風とともに２０１９を\nクエストカウンターから発生させる。\n<yellow>※消費後はいかなる理由においても\n本アイテムは返却されません。<c>",
-		"tr_explain": "[In the Driving Rain 2019]\ncan be selected from Quest Counter.\n<yellow>※This item will not be returned after\nconsumption.<c>"
+		"tr_explain": "[In the Driving Rain 2019]\npodra elegirse en las Misiones.\n<yellow>※Este objeto no sera regresado\ndespues de su consumo.<c>"
 	},
 	{
 		"assign": "373057",
 		"jp_text": "特別突破訓練：ＥＰ５トリガー",
-		"tr_text": "Special Training: EP5 Trigger",
+		"tr_text": "T. Mision: Special Training EP5",
 		"jp_explain": "特別突破訓練：Episode5を\nクエストカウンターから発生させる。\n<yellow>※消費後はいかなる理由においても\n本アイテムは返却されません。<c>",
-		"tr_explain": "[Special Training: Episode 5]\ncan be selected from Quest Counter.\n<yellow>※This item will not be returned after\nconsumption.<c>"
+		"tr_explain": "[Special Training: Episode 5]\npodra elegirse en las Misiones.\n<yellow>※Este objeto no sera regresado\ndespues de su consumo.<c>"
 	},
 	{
 		"assign": "373058",
 		"jp_text": "迎撃戦：敵旗艦突撃トリガー",
-		"tr_text": "Capital Ship Invasion Trigger",
+		"tr_text": "T. Mision: Capital Ship Invasion",
 		"jp_explain": "艦隊迎撃戦：敵旗艦突撃を\nクエストカウンターから発生させる。\n<yellow>※消費後はいかなる理由においても\n本アイテムは返却されません。<c>",
-		"tr_explain": "[Armada: Capital Ship Invasion]\ncan be selected from Quest Counter.\n<yellow>※This item will not be returned after\nconsumption.<c>"
+		"tr_explain": "[Armada: Capital Ship Invasion]\npodra elegirse en las Misiones.\n<yellow>※Este objeto no sera regresado\ndespues de su consumo.<c>"
 	},
 	{
 		"assign": "373059",
 		"jp_text": "ビーチ２０１９トリガー",
-		"tr_text": "Beach 2019 Trigger",
+		"tr_text": "T. Mision: Beach 2019",
 		"jp_explain": "ビーチウォーズ２０１９！を\nクエストカウンターから発生させる。\n<yellow>※消費後はいかなる理由においても\n本アイテムは返却されません。<c>",
-		"tr_explain": "[Beach Wars 2019]\ncan be selected from Quest Counter.\n<yellow>※This item will not be returned after\nconsumption.<c>"
+		"tr_explain": "[Beach Wars 2019]\npodra elegirse en las Misiones.\n<yellow>※Este objeto no sera regresado\ndespues de su consumo.<c>"
 	},
 	{
 		"assign": "373060",
 		"jp_text": "迎撃戦：戦艦撃破トリガー",
-		"tr_text": "Battleship Demolition Trigger",
+		"tr_text": "T. Mision: Battleship Demolition",
 		"jp_explain": "艦隊迎撃戦：戦艦撃破を\nクエストカウンターから発生させる。\n<yellow>※消費後はいかなる理由においても\n本アイテムは返却されません。<c>",
-		"tr_explain": "[Armada: Battleship Demolition]\ncan be selected from Quest Counter.\n<yellow>※This item will not be returned after\nconsumption.<c>"
+		"tr_explain": "[Armada: Battleship Demolition]\npodra elegirse en las Misiones.\n<yellow>※Este objeto no sera regresado\ndespues de su consumo.<c>"
 	},
 	{
 		"assign": "373061",
 		"jp_text": "戦道２０１９トリガー",
-		"tr_text": "Regiment 2019 Trigger",
+		"tr_text": "T. Mision: Regiment 2019",
 		"jp_explain": "禍魂集いし戦道２０１９を\nクエストカウンターから発生させる。\n<yellow>※消費後はいかなる理由においても\n本アイテムは返却されません。<c>",
-		"tr_explain": "[Regiment of the Wicked 2019]\ncan be selected from Quest Counter.\n<yellow>※This item will not be returned after\nconsumption.<c>"
+		"tr_explain": "[Regiment of the Wicked 2019]\npodra elegirse en las Misiones.\n<yellow>※Este objeto no sera regresado\ndespues de su consumo.<c>"
 	}
 ]

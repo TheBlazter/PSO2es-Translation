@@ -844,7 +844,7 @@
 		"jp_text": "ブーメランパンツ／Ｆ海[Ba]",
 		"tr_text": "Boomerang Pants / F Sea [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nブーメランパンツ／Ｆ海[Ba]が選択可能。\n男性のみ使用可能。\n<yellow>※着用時はインナーが非表示になります。<c>",
-		"tr_explain": "Unlocks the new basewear\n\"Boomerang Pants / F Sea [Ba]\".\nOnly usable on male characters.\n<yellow>※Hides innerwear when worn.<c>"
+		"tr_explain": "Un nuevo traje base\n\"Boomerang Pants / F Sea [Ba]\".\nSolo para personajes masculinos.\n<yellow>※Oculta interiores cuando se usa.<c>"
 	},
 	{
 		"assign": "3340142",
@@ -5548,574 +5548,574 @@
 		"jp_text": "シーリスルインＭ[Ba]",
 		"tr_text": "Xirys Ruin M [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nシーリスルインＭ[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Xirys Ruin M [Ba]\".\nOnly usable on male characters."
+		"tr_explain": "Un nuevo traje base\n\"Xirys Ruin M [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340875",
 		"jp_text": "エルミル戦闘衣[Ba]",
 		"tr_text": "Elmir Battle Suit [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nエルミル戦闘衣[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Elmir Battle Suit [Ba]\".\nOnly usable on male characters."
+		"tr_explain": "Un nuevo traje base\n\"Elmir Battle Suit [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340876",
 		"jp_text": "エルミル戦闘衣　雪[Ba]",
 		"tr_text": "Elmir Battle Suit Snow [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nエルミル戦闘衣　雪[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Elmir Battle Suit Snow [Ba]\".\nOnly usable on male characters."
+		"tr_explain": "Un nuevo traje base\n\"Elmir Battle Suit Snow [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340877",
 		"jp_text": "エルミル戦闘衣　紅[Ba]",
 		"tr_text": "Elmir Battle Suit Crimson [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nエルミル戦闘衣　紅[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Elmir Battle Suit Crimson [Ba]\".\nOnly usable on male characters."
+		"tr_explain": "Un nuevo traje base\n\"Elmir Battle Suit Crimson [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340878",
 		"jp_text": "エルミル戦闘衣　夜[Ba]",
 		"tr_text": "Elmir Battle Suit Night [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nエルミル戦闘衣　夜[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Elmir Battle Suit Night [Ba]\".\nOnly usable on male characters."
+		"tr_explain": "Un nuevo traje base\n\"Elmir Battle Suit Night [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340879",
 		"jp_text": "エルミル戦闘衣　雅[Ba]",
 		"tr_text": "Elmir Battle Suit Elegant [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nエルミル戦闘衣　雅[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Elmir Battle Suit Elegant [Ba]\".\nOnly usable on male characters."
+		"tr_explain": "Un nuevo traje base\n\"Elmir Battle Suit Elegant [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340880",
 		"jp_text": "エルミル戦闘衣　影[Ba]",
 		"tr_text": "Elmir Battle Suit Shadow [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nエルミル戦闘衣　影[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Elmir Battle Suit Shadow [Ba]\".\nOnly usable on male characters."
+		"tr_explain": "Un nuevo traje base\n\"Elmir Battle Suit Shadow [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340881",
 		"jp_text": "藍微塵[Ba]",
 		"tr_text": "Aimijin [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\n藍微塵[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Aimijin [Ba]\".\nOnly usable on male characters."
+		"tr_explain": "Un nuevo traje base\n\"Aimijin [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340882",
 		"jp_text": "藍微塵　紅[Ba]",
 		"tr_text": "Aimijin Crimson [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\n藍微塵　紅[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Aimijin Crimson [Ba]\".\nOnly usable on male characters."
+		"tr_explain": "Un nuevo traje base\n\"Aimijin Crimson [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340883",
 		"jp_text": "藍微塵　陽[Ba]",
 		"tr_text": "Aimijin Sun [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\n藍微塵　陽[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Aimijin Sun [Ba]\".\nOnly usable on male characters."
+		"tr_explain": "Un nuevo traje base\n\"Aimijin Sun [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340884",
 		"jp_text": "藍微塵　雪[Ba]",
 		"tr_text": "Aimijin Snow [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\n藍微塵　雪[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Aimijin Snow [Ba]\".\nOnly usable on male characters."
+		"tr_explain": "Un nuevo traje base\n\"Aimijin Snow [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340885",
 		"jp_text": "藍微塵　空[Ba]",
 		"tr_text": "Aimijin Sky [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\n藍微塵　空[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Aimijin Sky [Ba]\".\nOnly usable on male characters."
+		"tr_explain": "Un nuevo traje base\n\"Aimijin Sky [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340886",
 		"jp_text": "藍微塵　桜[Ba]",
 		"tr_text": "Aimijin Sakura [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\n藍微塵　桜[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Aimijin Sakura [Ba]\".\nOnly usable on male characters."
+		"tr_explain": "Un nuevo traje base\n\"Aimijin Sakura [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340887",
 		"jp_text": "舞闘着Ｍ[Ba]",
 		"tr_text": "Butougi M [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\n舞闘着Ｍ[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Butougi M [Ba]\".\nOnly usable on male characters."
+		"tr_explain": "Un nuevo traje base\n\"Butougi M [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340888",
 		"jp_text": "舞闘着Ｍ夜[Ba]",
 		"tr_text": "Butougi M Night [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\n舞闘着Ｍ夜[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Butougi M Night [Ba]\".\nOnly usable on male characters."
+		"tr_explain": "Un nuevo traje base\n\"Butougi M Night [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340889",
 		"jp_text": "舞闘着Ｍ紅[Ba]",
 		"tr_text": "Butougi M Crimson [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\n舞闘着Ｍ紅[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Butougi M Crimson [Ba]\".\nOnly usable on male characters."
+		"tr_explain": "Un nuevo traje base\n\"Butougi M Crimson [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340890",
 		"jp_text": "舞闘着Ｍ影[Ba]",
 		"tr_text": "Butougi M Shadow [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\n舞闘着Ｍ影[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Butougi M Shadow [Ba]\".\nOnly usable on male characters."
+		"tr_explain": "Un nuevo traje base\n\"Butougi M Shadow [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340891",
 		"jp_text": "舞闘着Ｍ雪[Ba]",
 		"tr_text": "Butougi M Snow [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\n舞闘着Ｍ雪[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Butougi M Snow [Ba]\".\nOnly usable on male characters."
+		"tr_explain": "Un nuevo traje base\n\"Butougi M Snow [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340892",
 		"jp_text": "舞闘着Ｍ桜[Ba]",
 		"tr_text": "Butougi M Sakura [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\n舞闘着Ｍ桜[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Butougi M Sakura [Ba]\".\nOnly usable on male characters."
+		"tr_explain": "Un nuevo traje base\n\"Butougi M Sakura [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340893",
 		"jp_text": "パンクロングブーツ[Ba]",
 		"tr_text": "Punk Long Boots [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nパンクロングブーツ[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Punk Long Boots [Ba]\".\nOnly usable on male characters."
+		"tr_explain": "Un nuevo traje base\n\"Punk Long Boots [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340894",
 		"jp_text": "パンクロングブーツ紅[Ba]",
 		"tr_text": "Punk Long Boots Crimson [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nパンクロングブーツ紅[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Punk Long Boots Crimson [Ba]\".\nOnly usable on male characters."
+		"tr_explain": "Un nuevo traje base\n\"Punk Long Boots Crimson [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340895",
 		"jp_text": "パンクロングブーツ雪[Ba]",
 		"tr_text": "Punk Long Boots Snow [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nパンクロングブーツ雪[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Punk Long Boots Snow [Ba]\".\nOnly usable on male characters."
+		"tr_explain": "Un nuevo traje base\n\"Punk Long Boots Snow [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340896",
 		"jp_text": "パンクロングブーツ栗[Ba]",
 		"tr_text": "Punk Long Boots Chestnut [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nパンクロングブーツ栗[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Punk Long Boots Chestnut [Ba]\".\nOnly usable on male characters."
+		"tr_explain": "Un nuevo traje base\n\"Punk Long Boots Chestnut [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340897",
 		"jp_text": "パンクロングブーツ夜[Ba]",
 		"tr_text": "Punk Long Boots Night [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nパンクロングブーツ夜[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Punk Long Boots Night [Ba]\".\nOnly usable on male characters."
+		"tr_explain": "Un nuevo traje base\n\"Punk Long Boots Night [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340898",
 		"jp_text": "パンクロングブーツ葉[Ba]",
 		"tr_text": "Punk Long Boots Leaf [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nパンクロングブーツ葉[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Punk Long Boots Leaf [Ba]\".\nOnly usable on male characters."
+		"tr_explain": "Un nuevo traje base\n\"Punk Long Boots Leaf [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340899",
 		"jp_text": "零氷散華之衣Ｍ玄[Ba]",
 		"tr_text": "Reihyou Sange M Mysterious [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\n零氷散華之衣Ｍ玄[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Reihyou Sange M Mysterious [Ba]\".\nOnly usable on male characters."
+		"tr_explain": "Un nuevo traje base\n\"Reihyou Sange M Mysterious [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340900",
 		"jp_text": "零氷散華之衣Ｍ茜[Ba]",
 		"tr_text": "Reihyou Sange M Madder [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\n零氷散華之衣Ｍ茜[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Reihyou Sange M Madder [Ba]\".\nOnly usable on male characters."
+		"tr_explain": "Un nuevo traje base\n\"Reihyou Sange M Madder [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340901",
 		"jp_text": "零氷散華之衣Ｍ冬[Ba]",
 		"tr_text": "Reihyou Sange M Winter [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\n零氷散華之衣Ｍ冬[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Reihyou Sange M Winter [Ba]\".\nOnly usable on male characters."
+		"tr_explain": "Un nuevo traje base\n\"Reihyou Sange M Winter [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340902",
 		"jp_text": "ビターシムーン冬[Ba]",
 		"tr_text": "Bitter Simoom Winter [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nビターシムーン冬[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Bitter Simoom Winter [Ba]\".\nOnly usable on male characters."
+		"tr_explain": "Un nuevo traje base\n\"Bitter Simoom Winter [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340903",
 		"jp_text": "ビターシムーン影[Ba]",
 		"tr_text": "Bitter Simoom Shadow [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nビターシムーン影[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Bitter Simoom Shadow [Ba]\".\nOnly usable on male characters."
+		"tr_explain": "Un nuevo traje base\n\"Bitter Simoom Shadow [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340904",
 		"jp_text": "ヴァルザライズ曜[Ba]",
 		"tr_text": "Varza Rise Sun [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nヴァルザライズ曜[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Varza Rise Sun [Ba]\".\nOnly usable on male characters."
+		"tr_explain": "Un nuevo traje base\n\"Varza Rise Sun [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340905",
 		"jp_text": "アウトイブシャムス[Ba]",
 		"tr_text": "Outive Shams [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nアウトイブシャムス[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Outive Shams [Ba]\".\nOnly usable on male characters."
+		"tr_explain": "Un nuevo traje base\n\"Outive Shams [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340906",
 		"jp_text": "アウトイブシャムス雪[Ba]",
 		"tr_text": "Outive Shams Snow [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nアウトイブシャムス雪[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Outive Shams Snow [Ba]\".\nOnly usable on male characters."
+		"tr_explain": "Un nuevo traje base\n\"Outive Shams Snow [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340907",
 		"jp_text": "アウトイブシャムス影[Ba]",
 		"tr_text": "Outive Shams Shadow [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nアウトイブシャムス影[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Outive Shams Shadow [Ba]\".\nOnly usable on male characters."
+		"tr_explain": "Un nuevo traje base\n\"Outive Shams Shadow [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340908",
 		"jp_text": "アウトイブシャムス栗[Ba]",
 		"tr_text": "Outive Shams Chestnut [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nアウトイブシャムス栗[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Outive Shams Chestnut [Ba]\".\nOnly usable on male characters."
+		"tr_explain": "Un nuevo traje base\n\"Outive Shams Chestnut [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340909",
 		"jp_text": "アウトイブシャムス海[Ba]",
 		"tr_text": "Outive Shams Sea [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nアウトイブシャムス海[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Outive Shams Sea [Ba]\".\nOnly usable on male characters."
+		"tr_explain": "Un nuevo traje base\n\"Outive Shams Sea [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340910",
 		"jp_text": "アウトイブシャムス桜[Ba]",
 		"tr_text": "Outive Shams Sakura [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nアウトイブシャムス桜[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Outive Shams Sakura [Ba]\".\nOnly usable on male characters."
+		"tr_explain": "Un nuevo traje base\n\"Outive Shams Sakura [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340911",
 		"jp_text": "ジュウオームジン[Ba]",
 		"tr_text": "Zyuoh Mujin [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nジュウオームジン[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Zyuoh Mujin [Ba]\".\nOnly usable on male characters."
+		"tr_explain": "Un nuevo traje base\n\"Zyuoh Mujin [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340912",
 		"jp_text": "ジュウオームジン海[Ba]",
 		"tr_text": "Zyuoh Mujin Sea [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nジュウオームジン海[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Zyuoh Mujin Sea [Ba]\".\nOnly usable on male characters."
+		"tr_explain": "Un nuevo traje base\n\"Zyuoh Mujin Sea [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340913",
 		"jp_text": "ジュウオームジン影[Ba]",
 		"tr_text": "Zyuoh Mujin Shadow [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nジュウオームジン影[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Zyuoh Mujin Shadow [Ba]\".\nOnly usable on male characters."
+		"tr_explain": "Un nuevo traje base\n\"Zyuoh Mujin Shadow [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340914",
 		"jp_text": "ジュウオームジン雪[Ba]",
 		"tr_text": "Zyuoh Mujin Snow [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nジュウオームジン雪[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Zyuoh Mujin Snow [Ba]\".\nOnly usable on male characters."
+		"tr_explain": "Un nuevo traje base\n\"Zyuoh Mujin Snow [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340915",
 		"jp_text": "ジュウオームジン月[Ba]",
 		"tr_text": "Zyuoh Mujin Moon [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nジュウオームジン月[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Zyuoh Mujin Moon [Ba]\".\nOnly usable on male characters."
+		"tr_explain": "Un nuevo traje base\n\"Zyuoh Mujin Moon [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340916",
 		"jp_text": "ジュウオームジン雅[Ba]",
 		"tr_text": "Zyuoh Mujin Elegant [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nジュウオームジン雅[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Zyuoh Mujin Elegant [Ba]\".\nOnly usable on male characters."
+		"tr_explain": "Un nuevo traje base\n\"Zyuoh Mujin Elegant [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340917",
 		"jp_text": "エヴィルイクシーダ[Ba]",
 		"tr_text": "Evil Exceeder [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nエヴィルイクシーダ[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Evil Exceeder [Ba]\".\nOnly usable on male characters."
+		"tr_explain": "Un nuevo traje base\n\"Evil Exceeder [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340918",
 		"jp_text": "エヴィルイクシーダ海[Ba]",
 		"tr_text": "Evil Exceeder Sea [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nエヴィルイクシーダ海[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Evil Exceeder Sea [Ba]\".\nOnly usable on male characters."
+		"tr_explain": "Un nuevo traje base\n\"Evil Exceeder Sea [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340919",
 		"jp_text": "エヴィルイクシーダ空[Ba]",
 		"tr_text": "Evil Exceeder Sky [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nエヴィルイクシーダ空[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Evil Exceeder Sky [Ba]\".\nOnly usable on male characters."
+		"tr_explain": "Un nuevo traje base\n\"Evil Exceeder Sky [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340920",
 		"jp_text": "エヴィルイクシーダ影[Ba]",
 		"tr_text": "Evil Exceeder Shadow [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nエヴィルイクシーダ影[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Evil Exceeder Shadow [Ba]\".\nOnly usable on male characters."
+		"tr_explain": "Un nuevo traje base\n\"Evil Exceeder Shadow [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340921",
 		"jp_text": "エヴィルイクシーダ雪[Ba]",
 		"tr_text": "Evil Exceeder Snow [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nエヴィルイクシーダ雪[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Evil Exceeder Snow [Ba]\".\nOnly usable on male characters."
+		"tr_explain": "Un nuevo traje base\n\"Evil Exceeder Snow [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340922",
 		"jp_text": "エヴィルイクシーダ栗[Ba]",
 		"tr_text": "Evil Exceeder Chestnut [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nエヴィルイクシーダ栗[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Evil Exceeder Chestnut [Ba]\".\nOnly usable on male characters."
+		"tr_explain": "Un nuevo traje base\n\"Evil Exceeder Chestnut [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340923",
 		"jp_text": "渚のラッピーサーフ[Ba]",
 		"tr_text": "Beach Rappy Surf [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\n渚のラッピーサーフ[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Beach Rappy Surf [Ba]\".\nOnly usable on male characters."
+		"tr_explain": "Un nuevo traje base\n\"Beach Rappy Surf [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340924",
 		"jp_text": "渚のラッピーサーフ雪[Ba]",
 		"tr_text": "Beach Rappy Surf Snow [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\n渚のラッピーサーフ雪[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Beach Rappy Surf Snow [Ba]\".\nOnly usable on male characters."
+		"tr_explain": "Un nuevo traje base\n\"Beach Rappy Surf Snow [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340925",
 		"jp_text": "渚のラッピーサーフ葉[Ba]",
 		"tr_text": "Beach Rappy Surf Leaf [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\n渚のラッピーサーフ葉[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Beach Rappy Surf Leaf [Ba]\".\nOnly usable on male characters."
+		"tr_explain": "Un nuevo traje base\n\"Beach Rappy Surf Leaf [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340926",
 		"jp_text": "渚のラッピーサーフ雅[Ba]",
 		"tr_text": "Beach Rappy Surf Elegant [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\n渚のラッピーサーフ雅[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Beach Rappy Surf Elegant [Ba]\".\nOnly usable on male characters."
+		"tr_explain": "Un nuevo traje base\n\"Beach Rappy Surf Elegant [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340927",
 		"jp_text": "渚のラッピーサーフ海[Ba]",
 		"tr_text": "Beach Rappy Surf Sea [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\n渚のラッピーサーフ海[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Beach Rappy Surf Sea [Ba]\".\nOnly usable on male characters."
+		"tr_explain": "Un nuevo traje base\n\"Beach Rappy Surf Sea [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340928",
 		"jp_text": "渚のラッピーサーフ紅[Ba]",
 		"tr_text": "Beach Rappy Surf Crimson [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\n渚のラッピーサーフ紅[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Beach Rappy Surf Crimson [Ba]\".\nOnly usable on male characters."
+		"tr_explain": "Un nuevo traje base\n\"Beach Rappy Surf Crimson [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340929",
 		"jp_text": "イロドリテリトリーＭ紅[Ba]",
 		"tr_text": "I. Territory M Crimson [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nイロドリテリトリーＭ紅[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"I. Territory M Crimson [Ba]\".\nOnly usable on male characters."
+		"tr_explain": "Un nuevo traje base\n\"I. Territory M Crimson [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340930",
 		"jp_text": "イロドリテリトリーＭ桜[Ba]",
 		"tr_text": "I. Territory M Sakura [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nイロドリテリトリーＭ桜[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"I. Territory M Sakura [Ba]\".\nOnly usable on male characters."
+		"tr_explain": "Un nuevo traje base\n\"I. Territory M Sakura [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340931",
 		"jp_text": "ハナヤギテリトリーＭ玄[Ba]",
 		"tr_text": "H. Territory M Mysterious [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nハナヤギテリトリーＭ玄[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"H. Territory M Mysterious [Ba]\".\nOnly usable on male characters."
+		"tr_explain": "Un nuevo traje base\n\"H. Territory M Mysterious [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340932",
 		"jp_text": "ハナヤギテリトリーＭ鋼[Ba]",
 		"tr_text": "H. Territory M Steel [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nハナヤギテリトリーＭ鋼[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"H. Territory M Steel [Ba]\".\nOnly usable on male characters."
+		"tr_explain": "Un nuevo traje base\n\"H. Territory M Steel [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340933",
 		"jp_text": "エピラスウェスティ玄[Ba]",
 		"tr_text": "Epiras Westie Mysterious [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nエピラスウェスティ玄[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Epiras Westie Mysterious [Ba]\".\nOnly usable on male characters."
+		"tr_explain": "Un nuevo traje base\n\"Epiras Westie Mysterious [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340934",
 		"jp_text": "エピラスウェスティ雪[Ba]",
 		"tr_text": "Epiras Westie Snow [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nエピラスウェスティ雪[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Epiras Westie Snow [Ba]\".\nOnly usable on male characters."
+		"tr_explain": "Un nuevo traje base\n\"Epiras Westie Snow [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340935",
 		"jp_text": "エスクリダオン空[Ba]",
 		"tr_text": "Escuridaon Sky [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nエスクリダオン空[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Escuridaon Sky [Ba]\".\nOnly usable on male characters."
+		"tr_explain": "Un nuevo traje base\n\"Escuridaon Sky [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340936",
 		"jp_text": "エスクリダオン冬[Ba]",
 		"tr_text": "Escuridaon Winter [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nエスクリダオン冬[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Escuridaon Winter [Ba]\".\nOnly usable on male characters."
+		"tr_explain": "Un nuevo traje base\n\"Escuridaon Winter [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340937",
 		"jp_text": "シュレッガーの戦鎧　鋼[Ba]",
 		"tr_text": "Schlegger Armor Steel [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nシュレッガーの戦鎧　鋼[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Schlegger Armor Steel [Ba]\".\nOnly usable on male characters."
+		"tr_explain": "Un nuevo traje base\n\"Schlegger Armor Steel [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340938",
 		"jp_text": "シュレッガーの戦鎧　玄[Ba]",
 		"tr_text": "Schlegger Armor Mysterious [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nシュレッガーの戦鎧　玄[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Schlegger Armor Mysterious [Ba]\".\nOnly usable on male characters."
+		"tr_explain": "Un nuevo traje base\n\"Schlegger Armor Mysterious [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340939",
 		"jp_text": "エルミルの正礼装　藤[Ba]",
 		"tr_text": "Regent Formals Wisteria [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nエルミルの正礼装　藤[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Regent Formals Wisteria [Ba]\".\nOnly usable on male characters."
+		"tr_explain": "Un nuevo traje base\n\"Regent Formals Wisteria [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340940",
 		"jp_text": "エルミルの正礼装　曜[Ba]",
 		"tr_text": "Regent Formals Day [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nエルミルの正礼装　曜[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Regent Formals Day [Ba]\".\nOnly usable on male characters."
+		"tr_explain": "Un nuevo traje base\n\"Regent Formals Day [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340941",
 		"jp_text": "バーニングサマー玄[Ba]",
 		"tr_text": "Burning Summer Black [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nバーニングサマー玄[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Burning Summer Black [Ba]\".\nOnly usable on male characters."
+		"tr_explain": "Un nuevo traje base\n\"Burning Summer Black [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340942",
 		"jp_text": "バーニングサマー冬[Ba]",
 		"tr_text": "Burning Summer Winter [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nバーニングサマー冬[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Burning Summer Winter [Ba]\".\nOnly usable on male characters."
+		"tr_explain": "Un nuevo traje base\n\"Burning Summer Winter [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340943",
 		"jp_text": "バーニングサマー静[Ba]",
 		"tr_text": "Burning Summer Tranquil [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nバーニングサマー静[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Burning Summer Tranquil [Ba]\".\nOnly usable on male characters."
+		"tr_explain": "Un nuevo traje base\n\"Burning Summer Tranquil [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340944",
 		"jp_text": "パンサーＶパンツ雪[Ba]",
 		"tr_text": "Panther V Pants Snow [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nパンサーＶパンツ雪[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Panther V Pants Snow [Ba]\".\nOnly usable on male characters."
+		"tr_explain": "Un nuevo traje base\n\"Panther V Pants Snow [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340945",
 		"jp_text": "パンサーＶパンツ雅[Ba]",
 		"tr_text": "Panther V Pants Elegant [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nパンサーＶパンツ雅[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Panther V Pants Elegant [Ba]\".\nOnly usable on male characters."
+		"tr_explain": "Un nuevo traje base\n\"Panther V Pants Elegant [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340946",
 		"jp_text": "パンサーＶパンツ／Ｆ雪[Ba]",
 		"tr_text": "Panther V / F Snow [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nパンサーＶパンツ／Ｆ雪[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Panther V / F Snow [Ba]\".\nOnly usable on male characters."
+		"tr_explain": "Un nuevo traje base\n\"Panther V / F Snow [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340947",
 		"jp_text": "パンサーＶパンツ／Ｆ雅[Ba]",
 		"tr_text": "Panther V / F Elegant [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nパンサーＶパンツ／Ｆ雅[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Panther V / F Elegant [Ba]\".\nOnly usable on male characters."
+		"tr_explain": "Un nuevo traje base\n\"Panther V / F Elegant [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340948",
 		"jp_text": "クランマラッド曜[Ba]",
 		"tr_text": "Clan Maraud Day [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nクランマラッド曜[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Clan Maraud Day [Ba]\".\nOnly usable on male characters."
+		"tr_explain": "Un nuevo traje base\n\"Clan Maraud Day [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340949",
 		"jp_text": "ブーメランパンツ海[Ba]",
 		"tr_text": "Boomerang Pants Sea [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nブーメランパンツ海[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Boomerang Pants Sea [Ba]\".\nOnly usable on male characters."
+		"tr_explain": "Un nuevo traje base\n\"Boomerang Pants Sea [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340952",
 		"jp_text": "メッシュシャツＭ[Ba]",
 		"tr_text": "Mesh Shirt M [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nメッシュシャツＭ[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Mesh Shirt M [Ba]\".\nOnly usable on male characters."
+		"tr_explain": "Un nuevo traje base\n\"Mesh Shirt M [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340953",
 		"jp_text": "メッシュシャツＭ雅[Ba]",
 		"tr_text": "Mesh Shirt M Elegant [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nメッシュシャツＭ雅[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Mesh Shirt M Elegant [Ba]\".\nOnly usable on male characters."
+		"tr_explain": "Un nuevo traje base\n\"Mesh Shirt M Elegant [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340954",
 		"jp_text": "メッシュシャツＭ栗[Ba]",
 		"tr_text": "Mesh Shirt M Chestnut [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nメッシュシャツＭ栗[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Mesh Shirt M Chestnut [Ba]\".\nOnly usable on male characters."
+		"tr_explain": "Un nuevo traje base\n\"Mesh Shirt M Chestnut [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340955",
 		"jp_text": "メッシュシャツＭ鋼[Ba]",
 		"tr_text": "Mesh Shirt M Steel [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nメッシュシャツＭ鋼[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Mesh Shirt M Steel [Ba]\".\nOnly usable on male characters."
+		"tr_explain": "Un nuevo traje base\n\"Mesh Shirt M Steel [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340956",
 		"jp_text": "メッシュシャツＭ夜[Ba]",
 		"tr_text": "Mesh Shirt M Night [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nメッシュシャツＭ夜[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Mesh Shirt M Night [Ba]\".\nOnly usable on male characters."
+		"tr_explain": "Un nuevo traje base\n\"Mesh Shirt M Night [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340957",
 		"jp_text": "メッシュシャツＭ紅[Ba]",
 		"tr_text": "Mesh Shirt M Crimson [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nメッシュシャツＭ紅[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Mesh Shirt M Crimson [Ba]\".\nOnly usable on male characters."
+		"tr_explain": "Un nuevo traje base\n\"Mesh Shirt M Crimson [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340958",
@@ -6206,28 +6206,28 @@
 		"jp_text": "フローの衣装Ｍ玄[Ba]",
 		"tr_text": "Flo Attire M Mysterious [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nフローの衣装Ｍ玄[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Flo Attire M Mysterious [Ba]\".\nOnly usable on male characters."
+		"tr_explain": "Un nuevo traje base\n\"Flo Attire M Mysterious [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340971",
 		"jp_text": "フローの衣装Ｍ茜[Ba]",
 		"tr_text": "Flo Attire M Madder [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nフローの衣装Ｍ茜[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Flo Attire M Madder [Ba]\".\nOnly usable on male characters."
+		"tr_explain": "Un nuevo traje base\n\"Flo Attire M Madder [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340972",
 		"jp_text": "フィブルレユール茜[Ba]",
 		"tr_text": "Fibre Rayure Madder [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nフィブルレユール茜[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Fibre Rayure Madder [Ba]\".\nOnly usable on male characters."
+		"tr_explain": "Un nuevo traje base\n\"Fibre Rayure Madder [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340973",
 		"jp_text": "チェックスラックス曜[Ba]",
 		"tr_text": "Checkered Slacks Day [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nチェックスラックス曜[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Checkered Slacks Day [Ba]\".\nOnly usable on male characters."
+		"tr_explain": "Un nuevo traje base\n\"Checkered Slacks Day [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340974",
