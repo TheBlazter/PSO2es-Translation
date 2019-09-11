@@ -5226,35 +5226,35 @@
 		"jp_text": "インユウヘアー",
 		"tr_text": "Inyuu Hair",
 		"jp_explain": "チケットを使用すると、新しい髪型の\nインユウヘアーが選択可能。",
-		"tr_explain": "Unlocks the hairstyle\n\"Inyuu Hair\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el peinado\n\"Inyuu Hair\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3150897",
 		"jp_text": "カフウヘアー",
 		"tr_text": "Kafuu Hair",
 		"jp_explain": "チケットを使用すると、新しい髪型の\nカフウヘアーが選択可能。",
-		"tr_explain": "Unlocks the hairstyle\n\"Kafuu Hair\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el peinado\n\"Kafuu Hair\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3150898",
 		"jp_text": "ヤンヘアー１",
 		"tr_text": "Yang Hair 1",
 		"jp_explain": "チケットを使用すると、新しい髪型の\nヤンヘアー１が選択可能。",
-		"tr_explain": "Unlocks the hairstyle\n\"Yang Hair 1\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el peinado\n\"Yang Hair 1\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3150899",
 		"jp_text": "ヤンヘアー２",
 		"tr_text": "Yang Hair 2",
 		"jp_explain": "チケットを使用すると、新しい髪型の\nヤンヘアー２が選択可能。",
-		"tr_explain": "Unlocks the hairstyle\n\"Yang Hair 2\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el peinado\n\"Yang Hair 2\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3150900",
 		"jp_text": "ラインハルトヘアー",
 		"tr_text": "Reinhard Hair",
 		"jp_explain": "チケットを使用すると、新しい髪型の\nラインハルトヘアーが選択可能。",
-		"tr_explain": "Unlocks the hairstyle\n\"Reinhard Hair\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el peinado\n\"Reinhard Hair\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3150902",
@@ -5289,7 +5289,7 @@
 		"jp_text": "§イチカ§ヘアー",
 		"tr_text": "§Ichika§ Hair",
 		"jp_explain": "チケットを使用すると、新しい髪型の\n§イチカ§ヘアーが選択可能。",
-		"tr_explain": "Unlocks the hairstyle\n\"§Ichika§ Hair\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el peinado\n\"§Ichika§ Hair\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3150907",

@@ -3952,7 +3952,7 @@
 		"jp_text": "インユウ手袋",
 		"tr_text": "Inyuu Gloves",
 		"jp_explain": "チケットを使用すると、ボディペイント\nインユウ手袋が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Unlocks the male-only body paint\n\"Inyuu Gloves\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea la pintura masculina\n\"Inyuu Gloves\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3290617",
@@ -3994,14 +3994,14 @@
 		"jp_text": "カンナギノタビＣ",
 		"tr_text": "Kannagi Tabi C",
 		"jp_explain": "チケットを使用すると、ボディペイント\nカンナギノタビＣが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the female-only body paint\n\"Kannagi Tabi C\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Kannagi Tabi C\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3290623",
 		"jp_text": "華乙女ソックスＣ",
 		"tr_text": "Yakisaka Otome Socks C",
 		"jp_explain": "チケットを使用すると、ボディペイント\n華乙女ソックスＣが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the female-only body paint\n\"Yakisaka Otome Socks C\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Yakisaka Otome Socks C\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3290624",
@@ -4022,6 +4022,6 @@
 		"jp_text": "華乙女チョーカーＢ",
 		"tr_text": "Yakisaka Otome Choker B",
 		"jp_explain": "チケットを使用すると、ボディペイント\n華乙女チョーカーＢが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the female-only body paint\n\"Yakisaka Otome Choker B\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Yakisaka Otome Choker B\"\npara usar en el Estilista."
 	}
 ]
