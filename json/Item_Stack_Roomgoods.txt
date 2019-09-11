@@ -10754,7 +10754,7 @@
 	{
 		"assign": "3501721",
 		"jp_text": "ぷそ煮コミテトラマット",
-		"tr_text": "Puso ni Comi Tetora Mat",
+		"tr_text": "Puso ni Comi Tetra Mat",
 		"jp_explain": "マイルームの床に敷くためのマット。\nぷそ煮コミの受難＆巻き込まれタイプの\nテトラのマット。",
 		"tr_explain": ""
 	},
@@ -10768,7 +10768,7 @@
 	{
 		"assign": "3501723",
 		"jp_text": "ぷそ煮コミゼクトマット",
-		"tr_text": "Puso ni Comi Zekuto Mat",
+		"tr_text": "Puso ni Comi Zekt Mat",
 		"jp_explain": "マイルームの床に敷くためのマット。\nぷそ煮コミの「マジカルロボ☆ゼクト」\nが、正式名というゼクトのマット。",
 		"tr_explain": ""
 	},
@@ -11090,70 +11090,70 @@
 	{
 		"assign": "3501770",
 		"jp_text": "ぷそ煮コミ猫ノ宮マット",
-		"tr_text": "",
+		"tr_text": "Puso ni Comi Nekonomiya Mat",
 		"jp_explain": "マイルームの床に敷くためのマット。\nとある理由でぷそ煮コミのテトラに\n共感している猫ノ宮♪のマット。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3501771",
 		"jp_text": "銀河英雄伝説ポスターＡ",
-		"tr_text": "",
+		"tr_text": "L Galactic Heroes Poster A",
 		"jp_explain": "マイルームの壁に設置する装飾品。\n「銀河英雄伝説 Die Neue These」の\nポスター。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3501772",
 		"jp_text": "ブリュンヒルト",
-		"tr_text": "",
+		"tr_text": "Brunhild",
 		"jp_explain": "マイルームに設置可能なオブジェクト。\nラインハルトが愛用する\n戦艦ブリュンヒルトの模型。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3501773",
 		"jp_text": "ヤスミノコフ８０００Ｃポスター",
-		"tr_text": "",
+		"tr_text": "Yasminkov 8000C Poster",
 		"jp_explain": "マイルームの壁に設置する装飾品。\nヤスミノコフ８０００Ｃの\nウェポノイドのグラビアポスター。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3501774",
 		"jp_text": "フォルニスフィジスポスター",
-		"tr_text": "",
+		"tr_text": "Fornis Physis Poster",
 		"jp_explain": "マイルームの壁に設置する装飾品。\nフォルニスフィジスの\nウェポノイドのグラビアポスター。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3501775",
 		"jp_text": "スペース・ツナポスター",
-		"tr_text": "",
+		"tr_text": "Space Tuna Poster",
 		"jp_explain": "マイルームの壁に設置する装飾品。\nスペース・ツナのウェポノイドの\nグラビアポスター。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3501776",
 		"jp_text": "エルデトロスポスター",
-		"tr_text": "",
+		"tr_text": "Eldetross Poster",
 		"jp_explain": "マイルームの壁に設置する装飾品。\nエルデトロスのウェポノイドの\nグラビアポスター。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3501777",
 		"jp_text": "アギトポスター",
-		"tr_text": "",
+		"tr_text": "Agito Poster",
 		"jp_explain": "マイルームの壁に設置する装飾品。\nアギトのウェポノイドの\nグラビアポスター。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3501778",
 		"jp_text": "ぷそ煮コミ水着マット",
-		"tr_text": "",
+		"tr_text": "Puso ni Comi Swimsuit Mat",
 		"jp_explain": "マイルームの床に敷くためのマット。\n水着姿のみたらしが描かれた\n大判のビジュアルマット。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3501783",
 		"jp_text": "銀河英雄伝説ポスターＢ",
-		"tr_text": "",
+		"tr_text": "L Galactic Heroes Poster B",
 		"jp_explain": "マイルームの壁に設置する装飾品。\n「銀河英雄伝説 Die Neue These」の\nポスター。",
 		"tr_explain": ""
 	}
