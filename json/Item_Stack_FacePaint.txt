@@ -1549,16 +1549,16 @@
 	{
 		"assign": "3250242",
 		"jp_text": "アギト腐食フェイス",
-		"tr_text": "",
+		"tr_text": "Agito Corroded Face",
 		"jp_explain": "チケットを使用すると、新しいメイクの\nアギト腐食フェイスが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Desbloquea el maquillaje\n\"Agito Corroded Face\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3250243",
 		"jp_text": "シューティングＤメイクＢ",
-		"tr_text": "",
+		"tr_text": "Shooting D Makeup B",
 		"jp_explain": "チケットを使用すると、新しいメイクの\nシューティングＤメイクＢが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Desbloquea el maquillaje\n\"Shooting D Makeup B\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3250244",
@@ -1566,5 +1566,33 @@
 		"tr_text": "Running Tears",
 		"jp_explain": "チケットを使用すると、新しいメイクの\nにじみ涙が選択可能。",
 		"tr_explain": "Desbloquea el maquillaje\n\"Running Tears\"\npara usar en el Estilista."
+	},
+	{
+		"assign": "3250246",
+		"jp_text": "バタフライアイメイク　黒",
+		"tr_text": "Butterfly Eye Makeup Black",
+		"jp_explain": "チケットを使用すると、新しいメイクの\nバタフライアイメイク　黒が選択可能。",
+		"tr_explain": "Desbloquea el maquillaje\n\"Butterfly Eye Makeup Black\"\npara usar en el Estilista."
+	},
+	{
+		"assign": "3250247",
+		"jp_text": "バタフライアイメイク　青",
+		"tr_text": "Butterfly Eye Makeup Blue",
+		"jp_explain": "チケットを使用すると、新しいメイクの\nバタフライアイメイク　青が選択可能。",
+		"tr_explain": "Desbloquea el maquillaje\n\"Butterfly Eye Makeup Blue\"\npara usar en el Estilista."
+	},
+	{
+		"assign": "3250248",
+		"jp_text": "バタフライアイメイク　赤",
+		"tr_text": "Butterfly Eye Makeup Red",
+		"jp_explain": "チケットを使用すると、新しいメイクの\nバタフライアイメイク　赤が選択可能。",
+		"tr_explain": "Desbloquea el maquillaje\n\"Butterfly Eye Makeup Red\"\npara usar en el Estilista."
+	},
+	{
+		"assign": "3250249",
+		"jp_text": "濃いメイクＢ",
+		"tr_text": "",
+		"jp_explain": "チケットを使用すると、新しいメイクの\n濃いメイクＢが選択可能。",
+		"tr_explain": ""
 	}
 ]

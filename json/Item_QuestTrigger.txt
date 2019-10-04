@@ -410,6 +410,20 @@
 		"jp_text": "戦道２０１９トリガー",
 		"tr_text": "T. Mision: Regiment 2019",
 		"jp_explain": "禍魂集いし戦道２０１９を\nクエストカウンターから発生させる。\n<yellow>※消費後はいかなる理由においても\n本アイテムは返却されません。<c>",
-		"tr_explain": "[Regiment of the Wicked 2019]\npodra elegirse en las Misiones.\n<yellow>※Este objeto no sera regresado\ndespues de su consumo.<c>"
+		"tr_explain": "[Regiment of the Wicked 2019]\npodra elegirse en las Misiones.\n<yellow>※Este objeto no sera regresado\ndespues de su consumo.<c>
+	},
+	{
+		"assign": "373062",
+		"jp_text": "紅き閃機トリガー",
+		"tr_text": "T. Mision: Scarlet Space Splitter",
+		"jp_explain": "宇宙を斬り裂く紅き閃機を\nクエストカウンターから発生させる。\n<yellow>※消費後はいかなる理由においても\n本アイテムは返却されません。<c>",
+		"tr_explain": "[The Scarlet Space Splitter]\npodra elegirse en las Misiones.\n<yellow>※Este objeto no sera regresado\ndespues de su consumo.<c>"
+	},
+	{
+		"assign": "373063",
+		"jp_text": "トリトリ２０１９トリガー",
+		"tr_text": "T. Mision: Trick 2019",
+		"jp_explain": "トリックオアトリート２０１９！を\nクエストカウンターから発生させる。\n<yellow>※消費後はいかなる理由においても\n本アイテムは返却されません。<c>",
+		"tr_explain": "[Trick or Treat 2019]\npodra elegirse en las Misiones.\n<yellow>※Este objeto no sera regresado\ndespues de su consumo.<c>"
 	}
 ]

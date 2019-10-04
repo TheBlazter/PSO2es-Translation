@@ -1325,9 +1325,9 @@
 	{
 		"assign": "3260191",
 		"jp_text": "ヤスミ８０００Ｃアイ",
-		"tr_text": "",
+		"tr_text": "Yasminkov 8000C Eyes",
 		"jp_explain": "チケットを使用すると、新しい瞳の\nヤスミ８０００Ｃアイが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Desbloquea los ojos\n\"Yasminkov 8000C Eyes\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3260192",
@@ -1335,5 +1335,33 @@
 		"tr_text": "Blotted Noctilucent Eyes",
 		"jp_explain": "チケットを使用すると、新しい瞳の\n夜光にじみ瞳が選択可能。",
 		"tr_explain": "Desbloquea los ojos\n\"Blotted Noctilucent Eyes\"\npara usar en el Estilista."
+	},
+	{
+		"assign": "3260193",
+		"jp_text": "サイケデリック瞳Ｂ　大",
+		"tr_text": "",
+		"jp_explain": "チケットを使用すると、新しい瞳の\nサイケデリック瞳Ｂ　大が選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3260194",
+		"jp_text": "サイケデリック瞳Ｂ　小",
+		"tr_text": "",
+		"jp_explain": "チケットを使用すると、新しい瞳の\nサイケデリック瞳Ｂ　小が選択可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3260195",
+		"jp_text": "くっきり瞳孔Ｂ　大",
+		"tr_text": "Bold Pupils B L",
+		"jp_explain": "チケットを使用すると、新しい瞳の\nくっきり瞳孔Ｂ　大が選択可能。",
+		"tr_explain": "Desbloquea los ojos\n\"Bold Pupils B L\"\npara usar en el Estilista."
+	},
+	{
+		"assign": "3260196",
+		"jp_text": "くっきり瞳孔Ｂ　小",
+		"tr_text": "Bold Pupils B S",
+		"jp_explain": "チケットを使用すると、新しい瞳の\nくっきり瞳孔Ｂ　小が選択可能。",
+		"tr_explain": "Desbloquea los ojos\n\"Bold Pupils B S\"\npara usar en el Estilista."
 	}
 ]

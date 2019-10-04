@@ -1654,9 +1654,9 @@
 	{
 		"assign": "3340262",
 		"jp_text": "ビル・デ・ボンズ栗[Ba]",
-		"tr_text": "Bil De Bonez Chesnut [Ba]",
+		"tr_text": "Bil De Bonez Chestnut [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nビル・デ・ボンズ栗[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Un nuevo traje base\n\"Bil De Bonez Chesnut [Ba]\".\nSolo para personajes masculinos."
+		"tr_explain": "Un nuevo traje base\n\"Bil De Bonez Chestnut [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340263",
@@ -6232,44 +6232,44 @@
 	{
 		"assign": "3340974",
 		"jp_text": "ノクスカディナ影[Ba]",
-		"tr_text": "",
+		"tr_text": "Nox Cadina Shadow [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nノクスカディナ影[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Un nuevo traje base\n\"Nox Cadina Shadow [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340975",
 		"jp_text": "ノクスカディナ冬[Ba]",
-		"tr_text": "",
+		"tr_text": "Nox Cadina Winter [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nノクスカディナ冬[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Un nuevo traje base\n\"Nox Cadina Winter [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340976",
 		"jp_text": "ノクスカディナ玄[Ba]",
-		"tr_text": "",
+		"tr_text": "Nox Cadina Mysterious [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nノクスカディナ玄[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Un nuevo traje base\n\"Nox Cadina Mysterious [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340977",
 		"jp_text": "ニレンカムイＭ茜[Ba]",
-		"tr_text": "",
+		"tr_text": "Twin Kamui M Madder [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nニレンカムイＭ茜[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Un nuevo traje base\n\"Twin Kamui M Madder [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340978",
 		"jp_text": "ニレンカムイＭ玄[Ba]",
-		"tr_text": "",
+		"tr_text": "Twin Kamui M Mysterious [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nニレンカムイＭ玄[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Un nuevo traje base\n\"Twin Kamui M Mysterious [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340979",
 		"jp_text": "ニレンカムイＭ冬[Ba]",
-		"tr_text": "",
+		"tr_text": "Twin Kamui M Winter [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nニレンカムイＭ冬[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Un nuevo traje base\n\"Twin Kamui M Winter [Ba]\".\nSolo para personajes masculinos."
 	},
 	{
 		"assign": "3340980",
@@ -6284,5 +6284,159 @@
 		"tr_text": "Adein Rudel Mysterious [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nアデインリュデル玄[Ba]が選択可能。\n男性のみ使用可能。",
 		"tr_explain": "Un nuevo traje base\n\"Adein Rudel Mysterious [Ba]\".\nSolo para personajes masculinos."
+	},
+	{
+		"assign": "3340982",
+		"jp_text": "男子体操服[Ba]",
+		"tr_text": "Gym Wear M [Ba]",
+		"jp_explain": "使用すると、新しいベースウェアの\n男子体操服[Ba]が選択可能。\n男性のみ使用可能。",
+		"tr_explain": "Un nuevo traje base\n\"Gym Wear M [Ba]\".\nSolo para personajes masculinos."
+	},
+	{
+		"assign": "3340983",
+		"jp_text": "男子体操服　紅[Ba]",
+		"tr_text": "Gym Wear M Crimson [Ba]",
+		"jp_explain": "使用すると、新しいベースウェアの\n男子体操服　紅[Ba]が選択可能。\n男性のみ使用可能。",
+		"tr_explain": "Un nuevo traje base\n\"Gym Wear M Crimson [Ba]\".\nSolo para personajes masculinos."
+	},
+	{
+		"assign": "3340984",
+		"jp_text": "男子体操服　月[Ba]",
+		"tr_text": "Gym Wear M Moon [Ba]",
+		"jp_explain": "使用すると、新しいベースウェアの\n男子体操服　月[Ba]が選択可能。\n男性のみ使用可能。",
+		"tr_explain": "Un nuevo traje base\n\"Gym Wear M Moon [Ba]\".\nSolo para personajes masculinos."
+	},
+	{
+		"assign": "3340985",
+		"jp_text": "男子体操服　葉[Ba]",
+		"tr_text": "Gym Wear M Leaf [Ba]",
+		"jp_explain": "使用すると、新しいベースウェアの\n男子体操服　葉[Ba]が選択可能。\n男性のみ使用可能。",
+		"tr_explain": "Un nuevo traje base\n\"Gym Wear M Leaf [Ba]\".\nSolo para personajes masculinos."
+	},
+	{
+		"assign": "3340986",
+		"jp_text": "男子体操服　雪[Ba]",
+		"tr_text": "Gym Wear M Snow [Ba]",
+		"jp_explain": "使用すると、新しいベースウェアの\n男子体操服　雪[Ba]が選択可能。\n男性のみ使用可能。",
+		"tr_explain": "Un nuevo traje base\n\"Gym Wear M Snow [Ba]\".\nSolo para personajes masculinos."
+	},
+	{
+		"assign": "3340987",
+		"jp_text": "男子体操服　影[Ba]",
+		"tr_text": "Gym Wear M Shadow [Ba]",
+		"jp_explain": "使用すると、新しいベースウェアの\n男子体操服　影[Ba]が選択可能。\n男性のみ使用可能。",
+		"tr_explain": "Un nuevo traje base\n\"Gym Wear M Shadow [Ba]\".\nSolo para personajes masculinos."
+	},
+	{
+		"assign": "3340988",
+		"jp_text": "ブルートイロジオン[Ba]",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいベースウェアの\nブルートイロジオン[Ba]が選択可能。\n男性のみ使用可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3340989",
+		"jp_text": "ブルートイロジオン紅[Ba]",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいベースウェアの\nブルートイロジオン紅[Ba]が選択可能。\n男性のみ使用可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3340990",
+		"jp_text": "ブルートイロジオン空[Ba]",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいベースウェアの\nブルートイロジオン空[Ba]が選択可能。\n男性のみ使用可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3340991",
+		"jp_text": "ブルートイロジオン雪[Ba]",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいベースウェアの\nブルートイロジオン雪[Ba]が選択可能。\n男性のみ使用可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3340992",
+		"jp_text": "ブルートイロジオン栗[Ba]",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいベースウェアの\nブルートイロジオン栗[Ba]が選択可能。\n男性のみ使用可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3340993",
+		"jp_text": "ブルートイロジオン夜[Ba]",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいベースウェアの\nブルートイロジオン夜[Ba]が選択可能。\n男性のみ使用可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3340994",
+		"jp_text": "ロードゥファンガス[Ba]",
+		"tr_text": "Lord Fangus [Ba]",
+		"jp_explain": "使用すると、新しいベースウェアの\nロードゥファンガス[Ba]が選択可能。\n男性のみ使用可能。",
+		"tr_explain": "Un nuevo traje base\n\"Lord Fangus [Ba]\".\nSolo para personajes masculinos."
+	},
+	{
+		"assign": "3340995",
+		"jp_text": "ロードゥファンガス影[Ba]",
+		"tr_text": "Lord Fangus Shadow [Ba]",
+		"jp_explain": "使用すると、新しいベースウェアの\nロードゥファンガス影[Ba]が選択可能。\n男性のみ使用可能。",
+		"tr_explain": "Un nuevo traje base\n\"Lord Fangus Shadow [Ba]\".\nSolo para personajes masculinos."
+	},
+	{
+		"assign": "3340996",
+		"jp_text": "ロードゥファンガス紅[Ba]",
+		"tr_text": "Lord Fangus Crimson [Ba]",
+		"jp_explain": "使用すると、新しいベースウェアの\nロードゥファンガス紅[Ba]が選択可能。\n男性のみ使用可能。",
+		"tr_explain": "Un nuevo traje base\n\"Lord Fangus Crimson [Ba]\".\nSolo para personajes masculinos."
+	},
+	{
+		"assign": "3340997",
+		"jp_text": "ロードゥファンガス雅[Ba]",
+		"tr_text": "Lord Fangus Elegant [Ba]",
+		"jp_explain": "使用すると、新しいベースウェアの\nロードゥファンガス雅[Ba]が選択可能。\n男性のみ使用可能。",
+		"tr_explain": "Un nuevo traje base\n\"Lord Fangus Elegant [Ba]\".\nSolo para personajes masculinos."
+	},
+	{
+		"assign": "3340998",
+		"jp_text": "ロードゥファンガス鋼[Ba]",
+		"tr_text": "Lord Fangus Steel [Ba]",
+		"jp_explain": "使用すると、新しいベースウェアの\nロードゥファンガス鋼[Ba]が選択可能。\n男性のみ使用可能。",
+		"tr_explain": "Un nuevo traje base\n\"Lord Fangus Steel [Ba]\".\nSolo para personajes masculinos."
+	},
+	{
+		"assign": "3340999",
+		"jp_text": "ロードゥファンガス栗[Ba]",
+		"tr_text": "Lord Fangus Chestnut [Ba]",
+		"jp_explain": "使用すると、新しいベースウェアの\nロードゥファンガス栗[Ba]が選択可能。\n男性のみ使用可能。",
+		"tr_explain": "Un nuevo traje base\n\"Lord Fangus Chestnut [Ba]\".\nSolo para personajes masculinos."
+	},
+	{
+		"assign": "33401000",
+		"jp_text": "天星学院制服Ｍ鋼[Ba]",
+		"tr_text": "Tensei Uniform M Steel [Ba]",
+		"jp_explain": "使用すると、新しいベースウェアの\n天星学院制服Ｍ鋼[Ba]が選択可能。\n男性のみ使用可能。",
+		"tr_explain": "Un nuevo traje base\n\"Tensei Uniform M Steel [Ba]\".\nSolo para personajes masculinos."
+	},
+	{
+		"assign": "33401001",
+		"jp_text": "イービルテラー玄[Ba]",
+		"tr_text": "Evil Terror Mysterious [Ba]",
+		"jp_explain": "使用すると、新しいベースウェアの\nイービルテラー玄[Ba]が選択可能。\n男性のみ使用可能。",
+		"tr_explain": "Un nuevo traje base\n\"Evil Terror Mysterious [Ba]\".\nSolo para personajes masculinos."
+	},
+	{
+		"assign": "33401002",
+		"jp_text": "シャルフヴィント海[Ba]",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいベースウェアの\nシャルフヴィント海[Ba]が選択可能。\n男性のみ使用可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "33401003",
+		"jp_text": "シャルフヴィント秋[Ba]",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいベースウェアの\nシャルフヴィント秋[Ba]が選択可能。\n男性のみ使用可能。",
+		"tr_explain": ""
 	}
 ]

@@ -126,6 +126,27 @@
 		"tr_explain": "Un dulce para tu pet.\nPet PP +5 cuando es puesto."
 	},
 	{
+		"assign": "340018",
+		"jp_text": "パワスタクッキー",
+		"tr_text": "Power-Sta Cookie",
+		"jp_explain": "ペット用のキャンディー。\nキャンディーボックスに設置することで\nペットのＨＰと打撃力が上昇。",
+		"tr_explain": "A Candy for your pet.\nPet S-ATK and HP increase when\nplaced."
+	},
+	{
+		"assign": "340019",
+		"jp_text": "パワスタクッキー＋１",
+		"tr_text": "Power-Sta Cookie+1",
+		"jp_explain": "ペット用のキャンディー。\nキャンディーボックスに設置することで\nペットのＨＰと打撃力が上昇。",
+		"tr_explain": "A Candy for your pet.\nPet S-ATK and HP increase when\nplaced."
+	},
+	{
+		"assign": "340020",
+		"jp_text": "パワスタクッキー＋２",
+		"tr_text": "Power-Sta Cookie+2",
+		"jp_explain": "ペット用のキャンディー。\nキャンディーボックスに設置することで\nペットのＨＰと打撃力が上昇。",
+		"tr_explain": "A Candy for your pet.\nPet S-ATK and HP increase when\nplaced."
+	},
+	{
 		"assign": "340042",
 		"jp_text": "スタスピクッキー",
 		"tr_text": "Sta-Spi Cookie",
@@ -229,6 +250,13 @@
 		"tr_text": "Spirita Cookie+3",
 		"jp_explain": "ペット用のキャンディー。\nキャンディーボックスに設置することで\nＰＰが５上昇。",
 		"tr_explain": "Un dulce para tu pet.\nPet PP +5 cuando es puesto."
+	},
+	{
+		"assign": "340072",
+		"jp_text": "パワスタクッキー＋３",
+		"tr_text": "Power-Sta Cookie+3",
+		"jp_explain": "ペット用のキャンディー。\nキャンディーボックスに設置することで\nペットのＨＰと打撃力が上昇。",
+		"tr_explain": "A Candy for your pet.\nPet S-ATK and HP increase when\nplaced."
 	},
 	{
 		"assign": "340080",

@@ -3616,7 +3616,7 @@
 		"jp_text": "512「このすば３」",
 		"tr_text": "512 \"Konosuba 3\"",
 		"jp_explain": "ロビアク『このすば３』\nを全キャラクターで使用可能になる。\n対応機能：リアクション",
-		"tr_explain": "Aprende una nueva accion de lobby\n\"Konosuba 3\".\nReaction has extra actions."
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Konosuba 3\".\nReacciona como acciones extra."
 	},
 	{
 		"assign": "3230527",
@@ -3644,7 +3644,7 @@
 		"jp_text": "516「気を高める」",
 		"tr_text": "516 \"Raise Ki\"",
 		"jp_explain": "ロビアク『気を高める』\nを全キャラクターで使用可能になる。\n対応機能：リアクション",
-		"tr_explain": "Aprende una nueva accion de lobby\n\"Raise Ki\".\nReaction has extra actions."
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Raise Ki\".\nReacciona como acciones extra."
 	},
 	{
 		"assign": "3230531",
@@ -3838,64 +3838,141 @@
 	{
 		"assign": "3230558",
 		"jp_text": "544「ぷそ煮エンドカード」",
-		"tr_text": "",
+		"tr_text": "544 \"Puso ni End Card\"",
 		"jp_explain": "ロビアク『ぷそ煮エンドカード』\nを全キャラクターで使用可能になる。\n対応機能：ボタン派生",
-		"tr_explain": ""
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Puso ni End Card\".\nUsa los botones para cambiar de pose."
 	},
 	{
 		"assign": "3230559",
 		"jp_text": "545「膝立ち」",
-		"tr_text": "",
+		"tr_text": "545 \"Kneeling\"",
 		"jp_explain": "ロビアク『膝立ち』\nを全キャラクターで使用可能になる。\n対応機能：ボタン派生",
-		"tr_explain": ""
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Kneeling\".\nUsa los botones para cambiar de pose."
 	},
 	{
 		"assign": "3230560",
 		"jp_text": "546「プロージット」",
 		"tr_text": "546 \"Prosit\"",
 		"jp_explain": "ロビアク『プロージット』\nを全キャラクターで使用可能になる。\n対応機能：リアクション",
-		"tr_explain": "Aprende una nueva accion de lobby\n\"Prosit\"."
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Prosit\".\nReacciona como acciones extra."
 	},
 	{
 		"assign": "3230561",
 		"jp_text": "547「ロッドポーズ」",
 		"tr_text": "547 \"Rod Pose\"",
 		"jp_explain": "ロビアク『ロッドポーズ』\nを全キャラクターで使用可能になる。\n対応機能：ボタン派生／武器装備反映\n<yellow>“PS Vita”と一部武器では反映不可<c>",
-		"tr_explain": "Aprende una nueva accion de lobby\n\"Rod Pose\"."
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Rod Pose\".\nMuestra equipo, tiene accion extra.\n<yellow>Este no se muestra en PS Vita<c>"
 	},
 	{
 		"assign": "3230562",
 		"jp_text": "548「ウェポノイドポーズ５」",
-		"tr_text": "",
+		"tr_text": "548 \"Weaponoid Pose 5\"",
 		"jp_explain": "ロビアク『ウェポノイドポーズ５』\nを全キャラクターで使用可能になる。\n対応機能：武器装備反映\n<yellow>“PS Vita”と一部武器では反映不可<c>",
-		"tr_explain": ""
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Weaponoid Pose 5\".\nShows equipped weapons.\n<yellow>Doesn't show some weps, or on Vita<c>"
 	},
 	{
 		"assign": "3230563",
 		"jp_text": "549「ウェポノイドポーズ６」",
-		"tr_text": "",
+		"tr_text": "549 \"Weaponoid Pose 6\"",
 		"jp_explain": "ロビアク『ウェポノイドポーズ６』\nを全キャラクターで使用可能になる。\n対応機能：武器装備反映\n<yellow>“PS Vita”と一部武器では反映不可<c>",
-		"tr_explain": ""
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Weaponoid Pose 6\".\nShows equipped weapons.\n<yellow>Doesn't show some weps, or on Vita<c>"
 	},
 	{
 		"assign": "3230564",
 		"jp_text": "550「ウェポノイドポーズ７」",
-		"tr_text": "",
+		"tr_text": "550 \"Weaponoid Pose 7\"",
 		"jp_explain": "ロビアク『ウェポノイドポーズ７』\nを全キャラクターで使用可能になる。\n対応機能：ボタン派生",
-		"tr_explain": ""
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Weaponoid Pose 7\".\nUsa los botones para cambiar de pose."
 	},
 	{
 		"assign": "3230565",
 		"jp_text": "551「クーナポーズ２」",
-		"tr_text": "",
+		"tr_text": "551 \"Quna Pose 2\"",
 		"jp_explain": "ロビアク『クーナポーズ２』\nを全キャラクターで使用可能になる。\n対応機能：ボタン派生",
-		"tr_explain": ""
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Quna Pose 2\".\nUsa los botones para cambiar de pose."
 	},
 	{
 		"assign": "3230566",
 		"jp_text": "552「リサポーズ」",
-		"tr_text": "",
+		"tr_text": "552 \"Lisa Pose\"",
 		"jp_explain": "ロビアク『リサポーズ』\nを全キャラクターで使用可能になる。\n対応機能：ボタン派生／武器装備反映\n<yellow>“PS Vita”と一部武器では反映不可<c>",
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Lisa Pose\".\nMuestra equipo, tiene accion extra.\n<yellow>Este no se muestra en PS Vita<c>"
+	},
+	{
+		"assign": "3230567",
+		"jp_text": "553「ツインダガーポーズ」",
+		"tr_text": "553 \"Twin Dagger Pose\"",
+		"jp_explain": "ロビアク『ツインダガーポーズ』\nを全キャラクターで使用可能になる。\n対応機能：ボタン派生／武器装備反映\n<yellow>“PS Vita”と一部武器では反映不可<c>",
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Twin Dagger Pose\".\nMuestra equipo, tiene accion extra.\n<yellow>Este no se muestra en PS Vita<c>"
+	},
+	{
+		"assign": "3230568",
+		"jp_text": "554「腰掛ける２」",
+		"tr_text": "554 \"Sit Down 2\"",
+		"jp_explain": "ロビアク『腰掛ける２』\nを全キャラクターで使用可能になる。",
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Sit Down 2\"."
+	},
+	{
+		"assign": "3230569",
+		"jp_text": "555「勝利ポーズ４」",
+		"tr_text": "",
+		"jp_explain": "ロビアク『勝利ポーズ４』\nを全キャラクターで使用可能になる。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3230570",
+		"jp_text": "556「座る７」",
+		"tr_text": "",
+		"jp_explain": "ロビアク『座る７』\nを全キャラクターで使用可能になる。\n対応機能：ボタン派生",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3230571",
+		"jp_text": "557「召喚」",
+		"tr_text": "",
+		"jp_explain": "ロビアク『召喚』\nを全キャラクターで使用可能になる。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3230572",
+		"jp_text": "558「ペリエを飲む」",
+		"tr_text": "",
+		"jp_explain": "ロビアク『ペリエを飲む』\nを全キャラクターで使用可能になる。\n対応機能：ボタン派生",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3230573",
+		"jp_text": "559「全弾発射」",
+		"tr_text": "",
+		"jp_explain": "ロビアク『全弾発射』\nを全キャラクターで使用可能になる。\n対応機能：ボタン派生",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3230574",
+		"jp_text": "560「サイコロ投げ」",
+		"tr_text": "",
+		"jp_explain": "ロビアク『サイコロ投げ』\nを全キャラクターで使用可能になる。\n対応機能：ボタン派生／ランダム",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3230575",
+		"jp_text": "561「マトイポーズ１」",
+		"tr_text": "",
+		"jp_explain": "ロビアク『マトイポーズ１』\nを全キャラクターで使用可能になる。\n対応機能：武器装備反映\n<yellow>“PS Vita”と一部武器では反映不可<c>",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3230576",
+		"jp_text": "562「マトイポーズ２」",
+		"tr_text": "",
+		"jp_explain": "ロビアク『マトイポーズ２』\nを全キャラクターで使用可能になる。\n対応機能：ボタン派生／武器装備反映\n<yellow>“PS Vita”と一部武器では反映不可<c>",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3230577",
+		"jp_text": "563「マトイポーズ３」",
+		"tr_text": "",
+		"jp_explain": "ロビアク『マトイポーズ３』\nを全キャラクターで使用可能になる。\n対応機能：ボタン派生",
 		"tr_explain": ""
 	}
 ]
