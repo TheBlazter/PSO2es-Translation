@@ -410,7 +410,7 @@
 		"jp_text": "戦道２０１９トリガー",
 		"tr_text": "T. Mision: Regiment 2019",
 		"jp_explain": "禍魂集いし戦道２０１９を\nクエストカウンターから発生させる。\n<yellow>※消費後はいかなる理由においても\n本アイテムは返却されません。<c>",
-		"tr_explain": "[Regiment of the Wicked 2019]\npodra elegirse en las Misiones.\n<yellow>※Este objeto no sera regresado\ndespues de su consumo.<c>
+		"tr_explain": "[Regiment of the Wicked 2019]\npodra elegirse en las Misiones.\n<yellow>※Este objeto no sera regresado\ndespues de su consumo.<c>"
 	},
 	{
 		"assign": "373062",
