@@ -15661,16 +15661,16 @@
 	{
 		"assign": "3802409",
 		"jp_text": "リリーパ箱",
-		"tr_text": "Lillipa Box",
+		"tr_text": "Lillipan Box",
 		"jp_explain": "使用すると、新しいアクセサリーの\nリリーパ箱が選択可能。",
-		"tr_explain": "Desbloquea el accesorio\n\"Lillipa Box\"\npara usar en el Estilista."
+		"tr_explain": "Desbloquea el accesorio\n\"Lillipan Box\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3802410",
 		"jp_text": "ホラーリリーパ箱",
-		"tr_text": "Horror Lillipa Box",
+		"tr_text": "Horror Lillipan Box",
 		"jp_explain": "使用すると、新しいアクセサリーの\nホラーリリーパ箱が選択可能。",
-		"tr_explain": "Desbloquea el accesorio\n\"Horror Lillipa Box\"\npara usar en el Estilista."
+		"tr_explain": "Desbloquea el accesorio\n\"Horror Lillipan Box\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3802411",
@@ -27871,14 +27871,14 @@
 		"jp_text": "ブルージーレクイエム翼Ｌ　Ｂ",
 		"tr_text": "Bluesy Requiem Wing L B",
 		"jp_explain": "使用すると、新しいアクセサリーの\nブルージーレクイエム翼Ｌ　Ｂが選択可能。",
-		"tr_explain": "Unlocks the accessory\n\"Bluesy Requiem Wing L B\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el accesorio\n\"Bluesy Requiem Wing L B\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3804337",
 		"jp_text": "ブルージーレクイエム翼Ｒ　Ｂ",
 		"tr_text": "Bluesy Requiem Wing R B",
 		"jp_explain": "使用すると、新しいアクセサリーの\nブルージーレクイエム翼Ｒ　Ｂが選択可能。",
-		"tr_explain": "Unlocks the accessory\n\"Bluesy Requiem Wing R B\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el accesorio\n\"Bluesy Requiem Wing R B\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3804338",
@@ -27948,14 +27948,14 @@
 		"jp_text": "ニレンカムイフードＢ",
 		"tr_text": "Twin Kamui Hood B",
 		"jp_explain": "使用すると、新しいアクセサリーの\nニレンカムイフードＢが選択可能。",
-		"tr_explain": "Unlocks the accessory\n\"Twin Kamui Hood B\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el accesorio\n\"Twin Kamui Hood B\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3804348",
 		"jp_text": "ニレンカムイベルトＢ",
 		"tr_text": "Twin Kamui Belt B",
 		"jp_explain": "使用すると、新しいアクセサリーの\nニレンカムイベルトＢが選択可能。",
-		"tr_explain": "Unlocks the accessory\n\"Twin Kamui Belt B\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el accesorio\n\"Twin Kamui Belt B\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3804349",
@@ -27969,42 +27969,42 @@
 		"jp_text": "シューティングＤギアＣ",
 		"tr_text": "Shooting D Gear C",
 		"jp_explain": "使用すると、新しいアクセサリーの\nシューティングＤギアＣが選択可能。",
-		"tr_explain": "Unlocks the accessory\n\"Shooting D Gear C\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el accesorio\n\"Shooting D Gear C\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3804351",
 		"jp_text": "シューティングＤパーツＣ",
 		"tr_text": "Shooting D Gear Parts C",
 		"jp_explain": "使用すると、新しいアクセサリーの\nシューティングＤパーツＣが選択可能。",
-		"tr_explain": "Unlocks the accessory\n\"Shooting D Gear Parts C\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el accesorio\n\"Shooting D Gear Parts C\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3804352",
 		"jp_text": "シューティングＤビットＣ",
 		"tr_text": "Shooting D Bit C",
 		"jp_explain": "使用すると、新しいアクセサリーの\nシューティングＤビットＣが選択可能。",
-		"tr_explain": "Unlocks the accessory\n\"Shooting D Bit C\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el accesorio\n\"Shooting D Bit C\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3804353",
 		"jp_text": "ラヴィス＝ブレイドアームＢ",
 		"tr_text": "Lavis Blade Arms B",
 		"jp_explain": "使用すると、新しいアクセサリーの\nラヴィス＝ブレイドアームＢが選択可能。",
-		"tr_explain": "Unlocks the accessory\n\"Lavis Blade Arms B\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el accesorio\n\"Lavis Blade Arms B\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3804354",
 		"jp_text": "ラヴィス＝ブレイドレッグＢ",
 		"tr_text": "Lavis Blade Legs B",
 		"jp_explain": "使用すると、新しいアクセサリーの\nラヴィス＝ブレイドレッグＢが選択可能。",
-		"tr_explain": "Unlocks the accessory\n\"Lavis Blade Legs B\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el accesorio\n\"Lavis Blade Legs B\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3804355",
 		"jp_text": "ラヴィス＝ブレイドテイルＢ",
 		"tr_text": "Lavis Blade Tail B",
 		"jp_explain": "使用すると、新しいアクセサリーの\nラヴィス＝ブレイドテイルＢが選択可能。",
-		"tr_explain": "Unlocks the accessory\n\"Lavis Blade Tail B\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el accesorio\n\"Lavis Blade Tail B\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3804356",
@@ -28277,189 +28277,189 @@
 		"jp_text": "エルデトロス羽飾り",
 		"tr_text": "Eldetross Feathers",
 		"jp_explain": "使用すると、新しいアクセサリーの\nエルデトロス羽飾りが選択可能。",
-		"tr_explain": "Unlocks the accessory\n\"Eldetross Feathers\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el accesorio\n\"Eldetross Feathers\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3804395",
 		"jp_text": "アギト腐食アイパーツ",
 		"tr_text": "Agito Corroded Eye Parts",
 		"jp_explain": "使用すると、新しいアクセサリーの\nアギト腐食アイパーツが選択可能。",
-		"tr_explain": "Unlocks the accessory\n\"Agito Corroded Eye Parts\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el accesorio\n\"Agito Corroded Eye Parts\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3804396",
 		"jp_text": "アギトヘッドフォン",
 		"tr_text": "Agito Headphones",
 		"jp_explain": "使用すると、新しいアクセサリーの\nアギトヘッドフォンが選択可能。",
-		"tr_explain": "Unlocks the accessory\n\"Agito Headphones\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el accesorio\n\"Agito Headphones\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3804397",
 		"jp_text": "ヤスミ８０００Ｃハット",
 		"tr_text": "Yasminkov 8000C Hat",
 		"jp_explain": "使用すると、新しいアクセサリーの\nヤスミ８０００Ｃハットが選択可能。",
-		"tr_explain": "Unlocks the accessory\n\"Yasminkov 8000C Hat\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el accesorio\n\"Yasminkov 8000C Hat\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3804398",
 		"jp_text": "フォルニスフィジスリボン",
 		"tr_text": "Fornis Physis Ribbons",
 		"jp_explain": "使用すると、新しいアクセサリーの\nフォルニスフィジスリボンが選択可能。",
-		"tr_explain": "Unlocks the accessory\n\"Fornis Physis Ribbons\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el accesorio\n\"Fornis Physis Ribbons\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3804399",
 		"jp_text": "天使のフィジ",
 		"tr_text": "Angel Phy",
 		"jp_explain": "使用すると、新しいアクセサリーの\n天使のフィジが選択可能。\n<yellow>※サイズ調整はできません。<c>",
-		"tr_explain": "Unlocks the accessory\n\"Angel Phy\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el accesorio\n\"Angel Phy\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3804400",
 		"jp_text": "悪魔のジス",
 		"tr_text": "Devil Sis",
 		"jp_explain": "使用すると、新しいアクセサリーの\n悪魔のジスが選択可能。\n<yellow>※サイズ調整はできません。<c>",
-		"tr_explain": "Unlocks the accessory\n\"Devil Sis\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el accesorio\n\"Devil Sis\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3804401",
 		"jp_text": "スペース・ツナキャップ",
 		"tr_text": "Space Tuna Cap",
 		"jp_explain": "使用すると、新しいアクセサリーの\nスペース・ツナキャップが選択可能。",
-		"tr_explain": "Unlocks the accessory\n\"Space Tuna Cap\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el accesorio\n\"Space Tuna Cap\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3804402",
 		"jp_text": "マロンヘッドフォン",
 		"tr_text": "Maron Headphones",
 		"jp_explain": "使用すると、新しいアクセサリーの\nマロンヘッドフォンが選択可能。",
-		"tr_explain": "Unlocks the accessory\n\"Maron Headphones\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el accesorio\n\"Maron Headphones\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3804403",
 		"jp_text": "メロンヘッドフォン",
 		"tr_text": "Melon Headphones",
 		"jp_explain": "使用すると、新しいアクセサリーの\nメロンヘッドフォンが選択可能。",
-		"tr_explain": "Unlocks the accessory\n\"Melon Headphones\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el accesorio\n\"Melon Headphones\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3804404",
 		"jp_text": "マロンイヤー",
 		"tr_text": "Maron Ears",
 		"jp_explain": "使用すると、新しいアクセサリーの\nマロンイヤーが選択可能。",
-		"tr_explain": "Unlocks the accessory\n\"Maron Ears\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el accesorio\n\"Maron Ears\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3804405",
 		"jp_text": "メロンイヤー",
 		"tr_text": "Melon Ears",
 		"jp_explain": "使用すると、新しいアクセサリーの\nメロンイヤーが選択可能。",
-		"tr_explain": "Unlocks the accessory\n\"Melon Ears\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el accesorio\n\"Melon Ears\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3804406",
 		"jp_text": "マロンＳイヤー",
 		"tr_text": "Maron S Ears",
 		"jp_explain": "使用すると、新しいアクセサリーの\nマロンＳイヤーが選択可能。",
-		"tr_explain": "Unlocks the accessory\n\"Maron S Ears\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el accesorio\n\"Maron S Ears\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3804407",
 		"jp_text": "メロンＳイヤー",
 		"tr_text": "Melon S Ears",
 		"jp_explain": "使用すると、新しいアクセサリーの\nメロンＳイヤーが選択可能。",
-		"tr_explain": "Unlocks the accessory\n\"Melon S Ears\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el accesorio\n\"Melon S Ears\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3804408",
 		"jp_text": "マロンテイル",
 		"tr_text": "Maron Tail",
 		"jp_explain": "使用すると、新しいアクセサリーの\nマロンテイルが選択可能。",
-		"tr_explain": "Unlocks the accessory\n\"Maron Tail\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el accesorio\n\"Maron Tail\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3804409",
 		"jp_text": "メロンテイル",
 		"tr_text": "Melon Tail",
 		"jp_explain": "使用すると、新しいアクセサリーの\nメロンテイルが選択可能。",
-		"tr_explain": "Unlocks the accessory\n\"Melon Tail\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el accesorio\n\"Melon Tail\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3804410",
 		"jp_text": "マロンＳテイル",
 		"tr_text": "Maron S Tail",
 		"jp_explain": "使用すると、新しいアクセサリーの\nマロンＳテイルが選択可能。",
-		"tr_explain": "Unlocks the accessory\n\"Maron S Tail\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el accesorio\n\"Maron S Tail\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3804411",
 		"jp_text": "メロンＳテイル",
 		"tr_text": "Melon S Tail",
 		"jp_explain": "使用すると、新しいアクセサリーの\nメロンＳテイルが選択可能。",
-		"tr_explain": "Unlocks the accessory\n\"Melon S Tail\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el accesorio\n\"Melon S Tail\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3804412",
 		"jp_text": "カール前髪エクステ",
 		"tr_text": "Curled Bangs Extension",
 		"jp_explain": "使用すると、新しいアクセサリーの\nカール前髪エクステが選択可能。",
-		"tr_explain": "Unlocks the accessory\n\"Curled Bangs Extension\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el accesorio\n\"Curled Bangs Extension\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3804413",
 		"jp_text": "カール前髪エクステ　黒",
 		"tr_text": "Curled Bangs Extension Black",
 		"jp_explain": "使用すると、新しいアクセサリーの\nカール前髪エクステ　黒が選択可能。",
-		"tr_explain": "Unlocks the accessory\n\"Curled Bangs Extension Black\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el accesorio\n\"Curled Bangs Extension Black\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3804414",
 		"jp_text": "カール前髪エクステ　青",
 		"tr_text": "Curled Bangs Extension Blue",
 		"jp_explain": "使用すると、新しいアクセサリーの\nカール前髪エクステ　青が選択可能。",
-		"tr_explain": "Unlocks the accessory\n\"Curled Bangs Extension Blue\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el accesorio\n\"Curled Bangs Extension Blue\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3804415",
 		"jp_text": "カール前髪エクステ　紫",
 		"tr_text": "Curled Bangs Extension Purple",
 		"jp_explain": "使用すると、新しいアクセサリーの\nカール前髪エクステ　紫が選択可能。",
-		"tr_explain": "Unlocks the accessory\n\"Curled Bangs Extension Purple\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el accesorio\n\"Curled Bangs Extension Purple\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3804416",
 		"jp_text": "カール前髪エクステ　白",
 		"tr_text": "Curled Bangs Extension White",
 		"jp_explain": "使用すると、新しいアクセサリーの\nカール前髪エクステ　白が選択可能。",
-		"tr_explain": "Unlocks the accessory\n\"Curled Bangs Extension White\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el accesorio\n\"Curled Bangs Extension White\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3804417",
 		"jp_text": "カール前髪エクステ　黄",
 		"tr_text": "Curled Bangs Extension Yellow",
 		"jp_explain": "使用すると、新しいアクセサリーの\nカール前髪エクステ　黄が選択可能。",
-		"tr_explain": "Unlocks the accessory\n\"Curled Bangs Extension Yellow\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el accesorio\n\"Curled Bangs Extension Yellow\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3804418",
 		"jp_text": "カール前髪エクステ　赤",
 		"tr_text": "Curled Bangs Extension Red",
 		"jp_explain": "使用すると、新しいアクセサリーの\nカール前髪エクステ　赤が選択可能。",
-		"tr_explain": "Unlocks the accessory\n\"Curled Bangs Extension Red\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el accesorio\n\"Curled Bangs Extension Red\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3804419",
 		"jp_text": "二連ブレスレット　金",
 		"tr_text": "Double Bracelet Gold",
 		"jp_explain": "使用すると、新しいアクセサリーの\n二連ブレスレット　金が選択可能。",
-		"tr_explain": "Unlocks the accessory\n\"Double Bracelet Gold\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el accesorio\n\"Double Bracelet Gold\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3804420",
 		"jp_text": "二連ブレスレット　銀",
 		"tr_text": "Double Bracelet Silver",
 		"jp_explain": "使用すると、新しいアクセサリーの\n二連ブレスレット　銀が選択可能。",
-		"tr_explain": "Unlocks the accessory\n\"Double Bracelet Silver\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el accesorio\n\"Double Bracelet Silver\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3804421",
@@ -28471,296 +28471,268 @@
 	{
 		"assign": "3804437",
 		"jp_text": "たれうさ耳カチューシャＢ",
-		"tr_text": "",
+		"tr_text": "Drooping Bunny Ear Hairclip B",
 		"jp_explain": "使用すると、新しいアクセサリーの\nたれうさ耳カチューシャＢが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Desbloquea el accesorio\n\"Drooping Bunny Ear Hairclip B\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3804438",
 		"jp_text": "天星学院制服ネクタイＣ",
 		"tr_text": "Tensei Academy Uniform Tie C",
 		"jp_explain": "使用すると、新しいアクセサリーの\n天星学院制服ネクタイＣが選択可能。",
-		"tr_explain": "Unlocks the accessory\n\"Tensei Academy Uniform Tie C\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el accesorio\n\"Tensei Academy Uniform Tie C\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3804439",
 		"jp_text": "メルレットバレッタＢ",
 		"tr_text": "Merletto Barrette B",
 		"jp_explain": "使用すると、新しいアクセサリーの\nメルレットバレッタＢが選択可能。",
-		"tr_explain": "Unlocks the accessory\n\"Merletto Barrette B\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el accesorio\n\"Merletto Barrette B\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3804440",
 		"jp_text": "メルレットウィングＣ",
 		"tr_text": "Merletto Wings C",
 		"jp_explain": "使用すると、新しいアクセサリーの\nメルレットウィングＣが選択可能。",
-		"tr_explain": "Unlocks the accessory\n\"Merletto Wings C\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el accesorio\n\"Merletto Wings C\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3804441",
 		"jp_text": "カレテラヘアバンドＢ",
-		"tr_text": "",
+		"tr_text": "Careterra Hairband B",
 		"jp_explain": "使用すると、新しいアクセサリーの\nカレテラヘアバンドＢが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Desbloquea el accesorio\n\"Careterra Hairband B\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3804442",
 		"jp_text": "フロリックハットＢ",
 		"tr_text": "Frolic Hat B",
 		"jp_explain": "使用すると、新しいアクセサリーの\nフロリックハットＢが選択可能。",
-		"tr_explain": "Unlocks the accessory\n\"Frolic Hat B\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el accesorio\n\"Frolic Hat B\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3804443",
 		"jp_text": "フロリックテイルＢ",
 		"tr_text": "Frolic Tail B",
 		"jp_explain": "使用すると、新しいアクセサリーの\nフロリックテイルＢが選択可能。",
-		"tr_explain": "Unlocks the accessory\n\"Frolic Tail B\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el accesorio\n\"Frolic Tail B\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3804444",
 		"jp_text": "スピニングユニットＢ",
-		"tr_text": "",
+		"tr_text": "Spinning Units B",
 		"jp_explain": "使用すると、新しいアクセサリーの\nスピニングユニットＢが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Desbloquea el accesorio\n\"Spinning Units B\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3804445",
 		"jp_text": "ナイトメアヘアアクセＢ",
-		"tr_text": "",
+		"tr_text": "Nightmare Hair Accessory B",
 		"jp_explain": "使用すると、新しいアクセサリーの\nナイトメアヘアアクセＢが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Desbloquea el accesorio\n\"Nightmare Hair Accessory B\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3804446",
 		"jp_text": "黒き燃える手",
-		"tr_text": "",
+		"tr_text": "Flaming Hands Black",
 		"jp_explain": "使用すると、新しいアクセサリーの\n黒き燃える手が選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Desbloquea el accesorio\n\"Flaming Hands Black\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3804447",
 		"jp_text": "スピンブレード",
-		"tr_text": "",
+		"tr_text": "Spinning Blades",
 		"jp_explain": "使用すると、新しいアクセサリーの\nスピンブレードが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Desbloquea el accesorio\n\"Spinning Blades\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3804448",
 		"jp_text": "球",
 		"tr_text": "Sphere",
 		"jp_explain": "使用すると、新しいアクセサリーの\n球が選択可能。",
-		"tr_explain": "Unlocks the accessory\n\"Sphere\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el accesorio\n\"Sphere\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3804449",
 		"jp_text": "球　白",
 		"tr_text": "Sphere White",
 		"jp_explain": "使用すると、新しいアクセサリーの\n球　白が選択可能。",
-		"tr_explain": "Unlocks the accessory\n\"Sphere White\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el accesorio\n\"Sphere White\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3804450",
 		"jp_text": "球　髪",
 		"tr_text": "Sphere Hair",
 		"jp_explain": "使用すると、新しいアクセサリーの\n球　髪が選択可能。",
-		"tr_explain": "Unlocks the accessory\n\"Sphere Hair\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el accesorio\n\"Sphere Hair\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3804451",
 		"jp_text": "球　肌",
 		"tr_text": "Sphere Skin",
 		"jp_explain": "使用すると、新しいアクセサリーの\n球　肌が選択可能。",
-		"tr_explain": "Unlocks the accessory\n\"Sphere Skin\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el accesorio\n\"Sphere Skin\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3804452",
 		"jp_text": "立方体",
-		"tr_text": "",
+		"tr_text": "Cube",
 		"jp_explain": "使用すると、新しいアクセサリーの\n立方体が選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Desbloquea el accesorio\n\"Cube\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3804453",
 		"jp_text": "立方体　白",
-		"tr_text": "",
+		"tr_text": "Cube White",
 		"jp_explain": "使用すると、新しいアクセサリーの\n立方体　白が選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Desbloquea el accesorio\n\"Cube White\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3804454",
 		"jp_text": "立方体　髪",
-		"tr_text": "",
+		"tr_text": "Cube Hair",
 		"jp_explain": "使用すると、新しいアクセサリーの\n立方体　髪が選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Desbloquea el accesorio\n\"Cube Hair\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3804455",
 		"jp_text": "立方体　肌",
-		"tr_text": "",
+		"tr_text": "Cube Skin",
 		"jp_explain": "使用すると、新しいアクセサリーの\n立方体　肌が選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Desbloquea el accesorio\n\"Cube Skin\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3804456",
 		"jp_text": "トゥードモノクルＡ",
-		"tr_text": "",
+		"tr_text": "Tude Monocle A",
 		"jp_explain": "使用すると、新しいアクセサリーの\nトゥードモノクルＡが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Desbloquea el accesorio\n\"Tude Monocle A\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3804457",
-		"jp_text": "トゥードモノクルＢ　緑",
-		"tr_text": "",
-		"jp_explain": "使用すると、新しいアクセサリーの\nトゥードモノクルＢ　緑が選択可能。",
-		"tr_explain": ""
-	},
-	{
-		"assign": "3804458",
-		"jp_text": "トゥードモノクルＢ　赤",
-		"tr_text": "",
-		"jp_explain": "使用すると、新しいアクセサリーの\nトゥードモノクルＢ　赤が選択可能。",
-		"tr_explain": ""
-	},
-	{
-		"assign": "3804461",
-		"jp_text": "トゥードモノクルＢ　水",
-		"tr_text": "",
-		"jp_explain": "使用すると、新しいアクセサリーの\nトゥードモノクルＢ　水が選択可能。",
-		"tr_explain": ""
+		"jp_text": "トゥードモノクルＢ",
+		"tr_text": "Tude Monocle B",
+		"jp_explain": "使用すると、新しいアクセサリーの\nトゥードモノクルＢが選択可能。",
+		"tr_explain": "Desbloquea el accesorio\n\"Tude Monocle B\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3804463",
 		"jp_text": "ブルートネックＡ",
-		"tr_text": "",
+		"tr_text": "Brute Neck A",
 		"jp_explain": "使用すると、新しいアクセサリーの\nブルートネックＡが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Desbloquea el accesorio\n\"Brute Neck A\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3804464",
-		"jp_text": "ブルートネックＢ　緑",
-		"tr_text": "",
-		"jp_explain": "使用すると、新しいアクセサリーの\nブルートネックＢ　緑が選択可能。",
-		"tr_explain": ""
-	},
-	{
-		"assign": "3804465",
-		"jp_text": "ブルートネックＢ　赤",
-		"tr_text": "",
-		"jp_explain": "使用すると、新しいアクセサリーの\nブルートネックＢ　赤が選択可能。",
-		"tr_explain": ""
-	},
-	{
-		"assign": "3804468",
-		"jp_text": "ブルートネックＢ　水",
-		"tr_text": "",
-		"jp_explain": "使用すると、新しいアクセサリーの\nブルートネックＢ　水が選択可能。",
-		"tr_explain": ""
+		"jp_text": "ブルートネックＢ",
+		"tr_text": "Brute Neck B",
+		"jp_explain": "使用すると、新しいアクセサリーの\nブルートネックＢが選択可能。",
+		"tr_explain": "Desbloquea el accesorio\n\"Brute Neck B\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3804470",
 		"jp_text": "クロープフード",
 		"tr_text": "Crope Hood",
 		"jp_explain": "使用すると、新しいアクセサリーの\nクロープフードが選択可能。",
-		"tr_explain": "Unlocks the accessory\n\"Crope Hood\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el accesorio\n\"Crope Hood\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3804471",
 		"jp_text": "スクールバッグ",
 		"tr_text": "School Satchel",
 		"jp_explain": "使用すると、新しいアクセサリーの\nスクールバッグが選択可能。",
-		"tr_explain": "Unlocks the accessory\n\"School Satchel\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el accesorio\n\"School Satchel\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3804472",
 		"jp_text": "リリアック髪飾り",
 		"tr_text": "Liliac Hair Ornament",
 		"jp_explain": "使用すると、新しいアクセサリーの\nリリアック髪飾りが選択可能。",
-		"tr_explain": "Unlocks the accessory\n\"Liliac Hair Ornament\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el accesorio\n\"Liliac Hair Ornament\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3804473",
 		"jp_text": "ステルラハット",
 		"tr_text": "Stellar Hat",
 		"jp_explain": "使用すると、新しいアクセサリーの\nステルラハットが選択可能。",
-		"tr_explain": "Unlocks the accessory\n\"Stellar Hat\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el accesorio\n\"Stellar Hat\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3804474",
 		"jp_text": "ステルラホーン",
 		"tr_text": "Stellar Horns",
 		"jp_explain": "使用すると、新しいアクセサリーの\nステルラホーンが選択可能。",
-		"tr_explain": "Unlocks the accessory\n\"Stellar Horns\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el accesorio\n\"Stellar Horns\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3804475",
 		"jp_text": "ステルラチョーカー",
 		"tr_text": "Stellar Choker",
 		"jp_explain": "使用すると、新しいアクセサリーの\nステルラチョーカーが選択可能。",
-		"tr_explain": "Unlocks the accessory\n\"Stellar Choker\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el accesorio\n\"Stellar Choker\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3804476",
 		"jp_text": "ステルラテイル",
 		"tr_text": "Stellar Tail",
 		"jp_explain": "使用すると、新しいアクセサリーの\nステルラテイルが選択可能。",
-		"tr_explain": "Unlocks the accessory\n\"Stellar Tail\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el accesorio\n\"Stellar Tail\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3804477",
 		"jp_text": "ループエクステ",
-		"tr_text": "",
+		"tr_text": "Loop Extension",
 		"jp_explain": "使用すると、新しいアクセサリーの\nループエクステが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Desbloquea el accesorio\n\"Loop Extension\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3804478",
 		"jp_text": "補助輪",
 		"tr_text": "Training Wheels",
 		"jp_explain": "使用すると、新しいアクセサリーの\n補助輪が選択可能。",
-		"tr_explain": "Unlocks the accessory\n\"Training Wheels\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el accesorio\n\"Training Wheels\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3804479",
 		"jp_text": "グラスウィング　白",
-		"tr_text": "",
+		"tr_text": "Glass Wings White",
 		"jp_explain": "使用すると、新しいアクセサリーの\nグラスウィング　白が選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Desbloquea el accesorio\n\"Glass Wings White\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3804480",
 		"jp_text": "グラスウィング　青",
-		"tr_text": "",
+		"tr_text": "Glass Wings Blue",
 		"jp_explain": "使用すると、新しいアクセサリーの\nグラスウィング　青が選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Desbloquea el accesorio\n\"Glass Wings Blue\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3804481",
 		"jp_text": "グラスウィング　紫",
-		"tr_text": "",
+		"tr_text": "Glass Wings Purple",
 		"jp_explain": "使用すると、新しいアクセサリーの\nグラスウィング　紫が選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Desbloquea el accesorio\n\"Glass Wings Purple\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3804482",
 		"jp_text": "カジュアルシューズ　黒",
-		"tr_text": "",
+		"tr_text": "Casual Shoes Black",
 		"jp_explain": "使用すると、新しいアクセサリーの\nカジュアルシューズ　黒が選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Desbloquea el accesorio\n\"Casual Shoes Black\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3804483",
 		"jp_text": "カジュアルシューズ　茶",
-		"tr_text": "",
+		"tr_text": "Casual Shoes Brown",
 		"jp_explain": "使用すると、新しいアクセサリーの\nカジュアルシューズ　茶が選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Desbloquea el accesorio\n\"Casual Shoes Brown\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3804484",
 		"jp_text": "カジュアルシューズ　紺",
-		"tr_text": "",
+		"tr_text": "Casual Shoes Blue",
 		"jp_explain": "使用すると、新しいアクセサリーの\nカジュアルシューズ　紺が選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Desbloquea el accesorio\n\"Casual Shoes Blue\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3804485",
@@ -28814,65 +28786,65 @@
 	{
 		"assign": "3804492",
 		"jp_text": "バッジ付きベレー帽",
-		"tr_text": "",
+		"tr_text": "Badged Beret",
 		"jp_explain": "使用すると、新しいアクセサリーの\nバッジ付きベレー帽が選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Desbloquea el accesorio\n\"Badged Beret\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3804493",
 		"jp_text": "ファンガスヘッドギア",
 		"tr_text": "Fangus Headgear",
 		"jp_explain": "使用すると、新しいアクセサリーの\nファンガスヘッドギアが選択可能。",
-		"tr_explain": "Unlocks the accessory\n\"Fangus Headgear\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el accesorio\n\"Fangus Headgear\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3804494",
 		"jp_text": "ファンガステイル",
 		"tr_text": "Fangus Tail",
 		"jp_explain": "使用すると、新しいアクセサリーの\nファンガステイルが選択可能。",
-		"tr_explain": "Unlocks the accessory\n\"Fangus Tail\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el accesorio\n\"Fangus Tail\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3804495",
 		"jp_text": "花リボンベレー",
-		"tr_text": "",
+		"tr_text": "Flower Ribbon Beret",
 		"jp_explain": "使用すると、新しいアクセサリーの\n花リボンベレーが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Desbloquea el accesorio\n\"Flower Ribbon Beret\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3804496",
 		"jp_text": "ハートレースチョーカー",
-		"tr_text": "",
+		"tr_text": "Heart Lace Choker",
 		"jp_explain": "使用すると、新しいアクセサリーの\nハートレースチョーカーが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Desbloquea el accesorio\n\"Heart Lace Choker\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3804497",
 		"jp_text": "小花付きブレスレット",
-		"tr_text": "",
+		"tr_text": "Floret Bracelet",
 		"jp_explain": "使用すると、新しいアクセサリーの\n小花付きブレスレットが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Desbloquea el accesorio\n\"Floret Bracelet\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3804498",
 		"jp_text": "ハイウェストベルト　黒",
-		"tr_text": "",
+		"tr_text": "High Waist Belt Black",
 		"jp_explain": "使用すると、新しいアクセサリーの\nハイウェストベルト　黒が選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Desbloquea el accesorio\n\"High Waist Belt Black\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3804499",
 		"jp_text": "ハイウェストベルト　茶",
-		"tr_text": "",
+		"tr_text": "High Waist Belt Brown",
 		"jp_explain": "使用すると、新しいアクセサリーの\nハイウェストベルト　茶が選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Desbloquea el accesorio\n\"High Waist Belt Brown\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3804500",
 		"jp_text": "ハイウェストベルト　白",
-		"tr_text": "",
+		"tr_text": "High Waist Belt White",
 		"jp_explain": "使用すると、新しいアクセサリーの\nハイウェストベルト　白が選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Desbloquea el accesorio\n\"High Waist Belt White\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3804501",
@@ -28886,7 +28858,7 @@
 		"jp_text": "シールドキャノン",
 		"tr_text": "Shield Cannon",
 		"jp_explain": "使用すると、新しいアクセサリーの\nシールドキャノンが選択可能。",
-		"tr_explain": "Unlocks the accessory\n\"Shield Cannon\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el accesorio\n\"Shield Cannon\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3804503",
@@ -28914,6 +28886,6 @@
 		"jp_text": "スペース・ツナキャップ　黒",
 		"tr_text": "Space Tuna Cap Black",
 		"jp_explain": "使用すると、新しいアクセサリーの\nスペース・ツナキャップ　黒が選択可能。",
-		"tr_explain": "Unlocks the accessory\n\"Space Tuna Cap Black\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el accesorio\n\"Space Tuna Cap Black\"\npara usar en el Estilista."
 	}
 ]
