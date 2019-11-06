@@ -949,21 +949,21 @@
 		"jp_text": "デ・ロル・レ戦",
 		"tr_text": "De Rol Le Battle",
 		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ ＃３５\n『デ・ロル・レ戦』",
-		"tr_explain": "Un disco de musica para tu jukebox.\nPhantasy Star Online #35\n\"De Rol Le Battle\""
+		"tr_explain": "Un disco de musica para tu jukebox.\nPhantasy Star Online #35\n\"From seeing the rough wave\""
 	},
 	{
 		"assign": "3190139",
 		"jp_text": "バルバレイ戦",
 		"tr_text": "Barba Ray Battle",
 		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ ＃３６\n『バルバレイ戦』",
-		"tr_explain": "Un disco de musica para tu jukebox.\nPhantasy Star Online #36\n\"Barba Ray Battle\""
+		"tr_explain": "Un disco de musica para tu jukebox.\nPhantasy Star Online #36\n\"Revive the secred of rough wave\""
 	},
 	{
 		"assign": "3190140",
 		"jp_text": "ドラゴン戦",
 		"tr_text": "Dragon Battle",
 		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ ＃３７\n『ドラゴン戦』",
-		"tr_explain": "Un disco de musica para tu jukebox.\nPhantasy Star Online #37\n\"Dragon Battle\""
+		"tr_explain": "Un disco de musica para tu jukebox.\nPhantasy Star Online #37\n\"Growl, from the depths of the earth\""
 	},
 	{
 		"assign": "3190141",
@@ -984,14 +984,14 @@
 		"jp_text": "PSO-遺跡最深部",
 		"tr_text": "PSO - Ruins Final",
 		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ ＃３９\n『PSO-遺跡最深部』",
-		"tr_explain": "Un disco de musica para tu jukebox.\nPhantasy Star Online #39\n\"The nearest place to heaven\""
+		"tr_explain": "Un disco de musica para tu jukebox.\nPhantasy Star Online #39\n\"The nearest place to heaven part 1\""
 	},
 	{
 		"assign": "3190144",
 		"jp_text": "ダークファルス前哨戦",
 		"tr_text": "Dark Falz Prelude",
 		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ ＃４０\n『ダークファルス前哨戦』",
-		"tr_explain": "Un disco de musica para tu jukebox.\nPhantasy Star Online #40\n\"Dark Falz Prelude\""
+		"tr_explain": "Un disco de musica para tu jukebox.\nPhantasy Star Online #40\n\"The nearest place to heaven part 2\""
 	},
 	{
 		"assign": "3190145",
@@ -2963,16 +2963,16 @@
 	{
 		"assign": "3190452",
 		"jp_text": "existence reason",
-		"tr_text": "",
+		"tr_text": "existence reason",
 		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ＣＳＢ ＃０１\n『existence reason』",
-		"tr_explain": ""
+		"tr_explain": "Un disco de musica para tu jukebox.\nPSO2 Character Song B #01\n\"existence reason\""
 	},
 	{
 		"assign": "3190453",
 		"jp_text": "いざゆけウワサの情報通",
-		"tr_text": "",
+		"tr_text": "Rumor-Seekers, Go",
 		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ＣＳＢ ＃０２\n『いざゆけウワサの情報通』",
-		"tr_explain": ""
+		"tr_explain": "Un disco de musica para tu jukebox.\nPSO2 Character Song B #02\n\"Rumor-Seekers, Go\""
 	},
 	{
 		"assign": "3190454",
@@ -3000,48 +3000,69 @@
 		"jp_text": "煮コ☆ミュニケーション",
 		"tr_text": "Nico☆mmunication",
 		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ＣＯＭＩ ＃０１\n『煮コ☆ミュニケーション』",
-		"tr_explain": "Un disco de musica para tu jukebox.\nPuso Ni Comi #01\"Nico☆mmunication\""
+		"tr_explain": "Un disco de musica para tu jukebox.\nPuso Ni Comi #01\n\"Nico☆mmunication\""
 	},
 	{
 		"assign": "3190459",
 		"jp_text": "Hello Ver.Matoi",
-		"tr_text": "",
+		"tr_text": "Hello (Matoi ver.)",
 		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ＰＱＭ ＃０１\n『Hello（Matoi ver.）』",
-		"tr_explain": ""
+		"tr_explain": "Un disco de musica para tu jukebox.\nPSO2 Phantastic QM #01\n\"Hello (Matoi ver.)\""
 	},
 	{
 		"assign": "3190460",
 		"jp_text": "Tears of the moon（M）",
-		"tr_text": "",
+		"tr_text": "Tears of the Moon (M)",
 		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ＣＳ０４ ＃０１\n『Tears of the moon ver.Mother』",
-		"tr_explain": ""
+		"tr_explain": "Un disco de musica para tu jukebox.\nPSO2 Character Song 4 #01\n\"Tears of the Moon (Mother ver.)\""
 	},
 	{
 		"assign": "3190461",
 		"jp_text": "普遍数のlogic",
-		"tr_text": "",
+		"tr_text": "Universal Logic",
 		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ＣＳ０４ ＃０２\n『普遍数のlogic』",
-		"tr_explain": ""
+		"tr_explain": "Un disco de musica para tu jukebox.\nPSO2 Character Song 4 #02\n\"Universal Logic\""
 	},
 	{
 		"assign": "3190462",
 		"jp_text": "fantastic seeker",
-		"tr_text": "",
+		"tr_text": "Fantastic Seeker",
 		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ＣＳ０４ ＃０３\n『fantastic seeker』",
-		"tr_explain": ""
+		"tr_explain": "Un disco de musica para tu jukebox.\nPSO2 Character Song 4 #03\n\"Fantastic Seeker\""
 	},
 	{
 		"assign": "3190463",
 		"jp_text": "アマランスの空",
-		"tr_text": "",
+		"tr_text": "Amaranth Sky",
 		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ＣＳ０４ ＃０４\n『アマランスの空』",
-		"tr_explain": ""
+		"tr_explain": "Un disco de musica para tu jukebox.\nPSO2 Character Song 4 #04\n\"Amaranth Sky\""
 	},
 	{
 		"assign": "3190464",
 		"jp_text": "エキセントリック・Ｐ",
-		"tr_text": "",
+		"tr_text": "Eccentric Perfect",
 		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ＣＳ０４ ＃０５\n『エキセントリック・パーフェクト』",
+		"tr_explain": "Un disco de musica para tu jukebox.\nPSO2 Character Song 4 #05\n\"Eccentric Perfect\""
+	},
+	{
+		"assign": "3190465",
+		"jp_text": "ＶＤ「一位なのに……！」",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ＶＤ ＃１３\n『ＶＤ「一位なのに……！」』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190466",
+		"jp_text": "Destiny",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ＥＯ ＃０１\n『Destiny』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190467",
+		"jp_text": "Timeless Fortune",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ＥＯ ＃０２\n『Timeless Fortune』",
 		"tr_explain": ""
 	},
 	{
@@ -3685,22 +3706,22 @@
 		"assign": "3190570",
 		"jp_text": "檄！帝国華撃団",
 		"tr_text": "Declaration! Imperial Floral Assault",
-		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＳＫＲ ＃０１\n『檄！帝国華撃団』\n<pict cannot_play_icon><red>『PSO2 クラウド』では再生不可<c>",
-		"tr_explain": "Un disco de musica para tu jukebox.\nSakura Wars #01\n\"Declaration! Imperial Floral Assault\"\n<pict cannot_play_icon><red>Can't play on PSO2 Cloud ver.<c>"
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＳＫＲ ＃０１\n『檄！帝国華撃団』",
+		"tr_explain": "Un disco de musica para tu jukebox.\nSakura Wars #01\n\"Declaration! Imperial Floral Assault\"\n<pict cannot_play_icon><red>No trabaja en PSO2 Cloud.<c>"
 	},
 	{
 		"assign": "3190571",
 		"jp_text": "花咲く乙女",
 		"tr_text": "Dreaming Maiden",
-		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＳＫＲ ＃０２\n『花咲く乙女』\n<pict cannot_play_icon><red>『PSO2 クラウド』では再生不可<c>",
-		"tr_explain": "Un disco de musica para tu jukebox.\nSakura Wars #02\n\"Dreaming Maiden\"\n<pict cannot_play_icon><red>Can't play on PSO2 Cloud ver.<c>"
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＳＫＲ ＃０２\n『花咲く乙女』",
+		"tr_explain": "Un disco de musica para tu jukebox.\nSakura Wars #02\n\"Dreaming Maiden\"\n<pict cannot_play_icon><red>No trabaja en PSO2 Cloud.<c>"
 	},
 	{
 		"assign": "3190572",
 		"jp_text": "夢のつづき",
 		"tr_text": "Continuation of the Dream",
-		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＳＫＲ２ ＃０１\n『夢のつづき』\n<pict cannot_play_icon><red>『PSO2 クラウド』では再生不可<c>",
-		"tr_explain": "Un disco de musica para tu jukebox.\nSakura Wars #01\n\"Continuation of the Dreamm\"\n<pict cannot_play_icon><red>Can't play on PSO2 Cloud ver.<c>"
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＳＫＲ２ ＃０１\n『夢のつづき』",
+		"tr_explain": "Un disco de musica para tu jukebox.\nSakura Wars #01\n\"Continuation of the Dreamm\"\n<pict cannot_play_icon><red>No trabaja en PSO2 Cloud.<c>"
 	},
 	{
 		"assign": "3190573",
@@ -3769,22 +3790,22 @@
 		"assign": "3190584",
 		"jp_text": "ミラクルショッピング",
 		"tr_text": "Miracle Shopping",
-		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＤＮＫ ＃０１\n『ミラクルショッピング』\n<pict cannot_play_icon><red>『PSO2 クラウド』では再生不可<c>",
-		"tr_explain": "Un disco de musica para tu jukebox.\nDon Quijote01\n\"Miracle Shopping\"\n<pict cannot_play_icon><red>Can't play on PSO2 Cloud ver.<c>"
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＤＮＫ ＃０１\n『ミラクルショッピング』",
+		"tr_explain": "Un disco de musica para tu jukebox.\nDon Quijote01\n\"Miracle Shopping\"\n<pict cannot_play_icon><red>No trabaja en PSO2 Cloud.<c>"
 	},
 	{
 		"assign": "3190585",
 		"jp_text": "Tiny Tiny",
 		"tr_text": "Tiny Tiny",
-		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＦＡＧＩＲＬ ＃０１\n『Tiny Tiny』\n<pict cannot_play_icon><red>『PSO2 クラウド』では再生不可<c>",
-		"tr_explain": "Un disco de musica para tu jukebox.\nFrame Arms Girl #01\n\"Tiny Tiny\"\n<pict cannot_play_icon><red>Can't play on PSO2 Cloud ver.<c>"
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＦＡＧＩＲＬ ＃０１\n『Tiny Tiny』",
+		"tr_explain": "Un disco de musica para tu jukebox.\nFrame Arms Girl #01\n\"Tiny Tiny\"\n<pict cannot_play_icon><red>No trabaja en PSO2 Cloud.<c>"
 	},
 	{
 		"assign": "3190586",
 		"jp_text": "FULLSCRATCH LOVE",
 		"tr_text": "FULLSCRATCH LOVE",
-		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＦＡＧＩＲＬ ＃０２\n『FULLSCRATCH LOVE』\n<pict cannot_play_icon><red>『PSO2 クラウド』では再生不可<c>",
-		"tr_explain": "Un disco de musica para tu jukebox.\nFrame Arms Girl #02\n\"FULLSCRATCH LOVE\"\n<pict cannot_play_icon><red>Can't play on PSO2 Cloud ver.<c>"
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＦＡＧＩＲＬ ＃０２\n『FULLSCRATCH LOVE』",
+		"tr_explain": "Un disco de musica para tu jukebox.\nFrame Arms Girl #02\n\"FULLSCRATCH LOVE\"\n<pict cannot_play_icon><red>No trabaja en PSO2 Cloud.<c>"
 	},
 	{
 		"assign": "3190588",
@@ -4336,64 +4357,64 @@
 		"assign": "3190799",
 		"jp_text": "Phronesis",
 		"tr_text": "Phronesis",
-		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＡＴＬ ＃０１\n『Phronesis』\n<pict cannot_play_icon><red>『PSO2 クラウド』では再生不可<c>",
-		"tr_explain": "Un disco de musica para tu jukebox.\nAtelier #01\n\"Phronesis\"\n<pict cannot_play_icon><red>Can't play on PSO2 Cloud ver.<c>"
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＡＴＬ ＃０１\n『Phronesis』",
+		"tr_explain": "Un disco de musica para tu jukebox.\nAtelier #01\n\"Phronesis\"\n<pict cannot_play_icon><red>No trabaja en PSO2 Cloud.<c>"
 	},
 	{
 		"assign": "3190800",
 		"jp_text": "世界、星と空と道と",
 		"tr_text": "World, stars, sky, road",
-		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＡＴＬ ＃０２\n『世界、星と空と道と』\n<pict cannot_play_icon><red>『PSO2 クラウド』では再生不可<c>",
-		"tr_explain": "Un disco de musica para tu jukebox.\nAtelier #02\n\"World, stars, sky, road\"\n<pict cannot_play_icon><red>Can't play on PSO2 Cloud ver.<c>"
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＡＴＬ ＃０２\n『世界、星と空と道と』",
+		"tr_explain": "Un disco de musica para tu jukebox.\nAtelier #02\n\"World, stars, sky, road\"\n<pict cannot_play_icon><red>No trabaja en PSO2 Cloud.<c>"
 	},
 	{
 		"assign": "3190801",
 		"jp_text": "ドールメイクのうた",
 		"tr_text": "Doll Make-up Song",
-		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＡＴＬ ＃０３\n『ドールメイクのうた』\n<pict cannot_play_icon><red>『PSO2 クラウド』では再生不可<c>",
-		"tr_explain": "Un disco de musica para tu jukebox.\nAtelier #03\n\"Doll Make-up Song\"\n<pict cannot_play_icon><red>Can't play on PSO2 Cloud ver.<c>"
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＡＴＬ ＃０３\n『ドールメイクのうた』",
+		"tr_explain": "Un disco de musica para tu jukebox.\nAtelier #03\n\"Doll Make-up Song\"\n<pict cannot_play_icon><red>No trabaja en PSO2 Cloud.<c>"
 	},
 	{
 		"assign": "3190802",
 		"jp_text": "ミルク色の峠",
 		"tr_text": "Milk-White Peak",
-		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＡＴＬ ＃０４\n『ミルク色の峠』\n<pict cannot_play_icon><red>『PSO2 クラウド』では再生不可<c>",
-		"tr_explain": "Un disco de musica para tu jukebox.\nAtelier #04\n\"Milk-White Peak\"\n<pict cannot_play_icon><red>Can't play on PSO2 Cloud ver.<c>"
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＡＴＬ ＃０４\n『ミルク色の峠』",
+		"tr_explain": "Un disco de musica para tu jukebox.\nAtelier #04\n\"Milk-White Peak\"\n<pict cannot_play_icon><red>No trabaja en PSO2 Cloud.<c>"
 	},
 	{
 		"assign": "3190803",
 		"jp_text": "無限大クロニクル",
 		"tr_text": "Infinity Chronicle",
-		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＡＴＬ ＃０５\n『無限大クロニクル』\n<pict cannot_play_icon><red>『PSO2 クラウド』では再生不可<c>",
-		"tr_explain": "Un disco de musica para tu jukebox.\nAtelier #05\n\"Infinity Chronicle\"\n<pict cannot_play_icon><red>Can't play on PSO2 Cloud ver.<c>"
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＡＴＬ ＃０５\n『無限大クロニクル』",
+		"tr_explain": "Un disco de musica para tu jukebox.\nAtelier #05\n\"Infinity Chronicle\"\n<pict cannot_play_icon><red>No trabaja en PSO2 Cloud.<c>"
 	},
 	{
 		"assign": "3190804",
 		"jp_text": "Hitohira",
 		"tr_text": "Hitohira",
-		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＤＯＡ ＃０１\n『Hitohira』\n<pict cannot_play_icon><red>『PSO2 クラウド』では再生不可<c>",
-		"tr_explain": "Un disco de musica para tu jukebox.\nDead or Alive #01\n\"Hitohira\"\n<pict cannot_play_icon><red>Can't play on PSO2 Cloud ver.<c>"
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＤＯＡ ＃０１\n『Hitohira』",
+		"tr_explain": "Un disco de musica para tu jukebox.\nDead or Alive #01\n\"Hitohira\"\n<pict cannot_play_icon><red>No trabaja en PSO2 Cloud.<c>"
 	},
 	{
 		"assign": "3190805",
 		"jp_text": "Tehu Tehu",
 		"tr_text": "Tehu Tehu",
-		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＤＯＡ ＃０２\n『Tehu Tehu』\n<pict cannot_play_icon><red>『PSO2 クラウド』では再生不可<c>",
-		"tr_explain": "Un disco de musica para tu jukebox.\nDead or Alive #02\n\"Tehu Tehu\"\n<pict cannot_play_icon><red>Can't play on PSO2 Cloud ver.<c>"
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＤＯＡ ＃０２\n『Tehu Tehu』",
+		"tr_explain": "Un disco de musica para tu jukebox.\nDead or Alive #02\n\"Tehu Tehu\"\n<pict cannot_play_icon><red>No trabaja en PSO2 Cloud.<c>"
 	},
 	{
 		"assign": "3190806",
 		"jp_text": "Bloody Nocturne",
 		"tr_text": "Bloody Nocturne",
-		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＤＯＡ ＃０３\n『Bloody Nocturne』\n<pict cannot_play_icon><red>『PSO2 クラウド』では再生不可<c>",
-		"tr_explain": "Un disco de musica para tu jukebox.\nDead or Alive #03\n\"Bloody Nocturne\"\n<pict cannot_play_icon><red>Can't play on PSO2 Cloud ver.<c>"
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＤＯＡ ＃０３\n『Bloody Nocturne』",
+		"tr_explain": "Un disco de musica para tu jukebox.\nDead or Alive #03\n\"Bloody Nocturne\"\n<pict cannot_play_icon><red>No trabaja en PSO2 Cloud.<c>"
 	},
 	{
 		"assign": "3190807",
 		"jp_text": "鮮烈のリュウ -DW SW MIX-",
 		"tr_text": "Brilliant Ryu -DW SW MIX-",
-		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＤＯＡ ＃０４\n『鮮烈のリュウ -DW SW MIX-』\n<pict cannot_play_icon><red>『PSO2 クラウド』では再生不可<c>",
-		"tr_explain": "Un disco de musica para tu jukebox.\nDead or Alive #04\n\"Brilliant Ryu -DW SW MIX-\"\n<pict cannot_play_icon><red>Can't play on PSO2 Cloud ver.<c>"
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＤＯＡ ＃０４\n『鮮烈のリュウ -DW SW MIX-』",
+		"tr_explain": "Un disco de musica para tu jukebox.\nDead or Alive #04\n\"Brilliant Ryu -DW SW MIX-\"\n<pict cannot_play_icon><red>No trabaja en PSO2 Cloud.<c>"
 	},
 	{
 		"assign": "3190808",
@@ -4606,6 +4627,13 @@
 		"tr_explain": "Un disco de musica para tu jukebox.\nPersona 4 Golden #05\n\"Shadow World\""
 	},
 	{
+		"assign": "3190841",
+		"jp_text": "Vandor",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＩＤＬ ＃０２\n『Vandor』",
+		"tr_explain": ""
+	},
+	{
 		"assign": "3190899",
 		"jp_text": "エネミーラッシュ「待機所」",
 		"tr_text": "Enemy Rush \"Waiting\"",
@@ -4771,34 +4799,34 @@
 		"jp_text": "PSO2 イベント「ピンチ」",
 		"tr_text": "PSO2 Event [Pinch]",
 		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ ＃２０５\n『CUARUSSIS』",
-		"tr_explain": "A music disc for your jukebox.\nPhantasy Star Online 2 #205\n\"CUARUSSIS\""
+		"tr_explain": "Un disco de musica para tu jukebox.\nPhantasy Star Online 2 #205\n\"CUARUSSIS\""
 	},
 	{
 		"assign": "3190923",
 		"jp_text": "PSO2 イベント「EP5不穏」",
 		"tr_text": "PSO2 Event [EP5 Disquiet]",
 		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ ＃２０６\n『DOMINABLE』",
-		"tr_explain": "A music disc for your jukebox.\nPhantasy Star Online 2 #206\n\"DOMINABLE\""
+		"tr_explain": "Un disco de musica para tu jukebox.\nPhantasy Star Online 2 #206\n\"DOMINABLE\""
 	},
 	{
 		"assign": "3190924",
 		"jp_text": "PSO2 イベント「決起」",
 		"tr_text": "PSO2 Event [Uprising]",
 		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ ＃２０７\n『LEALT』",
-		"tr_explain": "A music disc for your jukebox.\nPhantasy Star Online 2 #207\n\"LEALT\""
+		"tr_explain": "Un disco de musica para tu jukebox.\nPhantasy Star Online 2 #207\n\"LEALT\""
 	},
 	{
 		"assign": "3190925",
 		"jp_text": "PSO2 イベント「悲哀」",
 		"tr_text": "PSO2 Event [Sorrow]",
 		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ ＃２０８\n『DALLAR』",
-		"tr_explain": "A music disc for your jukebox.\nPhantasy Star Online 2 #207\n\"DALLAR\""
+		"tr_explain": "Un disco de musica para tu jukebox.\nPhantasy Star Online 2 #208\n\"DALLAR\""
 	},
 	{
 		"assign": "3190926",
 		"jp_text": "PSO2 イベント「EP5穏やか」",
 		"tr_text": "PSO2 Event [EP5 Tranquil]",
 		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ ＃２０９\n『SEPARANQUIL』",
-		"tr_explain": ""
+		"tr_explain": "Un disco de musica para tu jukebox.\nPhantasy Star Online 2 #209\n\"SEPARANQUIL\""
 	}
 ]

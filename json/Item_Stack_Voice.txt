@@ -6545,6 +6545,20 @@
 		"tr_explain": "Una nueva voz podra ser elegida.\nSolo masculinos (todas las razas).\nCV: Hiro Shimono"
 	},
 	{
+		"assign": "31801261",
+		"jp_text": "男性共通ユリィボイス",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいボイスが選択可能。\n男性のみ使用可能。\nＣＶ増田 俊樹",
+		"tr_explain": ""
+	},
+	{
+		"assign": "31801262",
+		"jp_text": "男性共通ジャスパーボイス",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいボイスが選択可能。\n男性のみ使用可能。\nＣＶ斉藤 壮馬",
+		"tr_explain": ""
+	},
+	{
 		"assign": "31801287",
 		"jp_text": "男性Ｃ追加ボイス１３２",
 		"tr_text": "Male C Extra Voice 132",
@@ -6960,9 +6974,9 @@
 	{
 		"assign": "31801419",
 		"jp_text": "女性追加ボイス２０１",
-		"tr_text": "",
+		"tr_text": "Female Extra Voice 201",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n人間女性のみ使用可能。\nＣＶ能登 麻美子",
-		"tr_explain": ""
+		"tr_explain": "Allows a new voice to be selected.\nNon-Cast female characters only.\nCV: Mamiko Noto"
 	},
 	{
 		"assign": "31801420",
@@ -7275,9 +7289,9 @@
 	{
 		"assign": "31801509",
 		"jp_text": "女性Ｃ追加ボイス２０１",
-		"tr_text": "",
+		"tr_text": "Female C Extra Voice 201",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\nキャスト女性のみ使用可能。\nＣＶ能登 麻美子",
-		"tr_explain": ""
+		"tr_explain": "Allows a new voice to be selected.\nFemale Casts only.\nCV: Mamiko Noto"
 	},
 	{
 		"assign": "31801510",
@@ -7593,5 +7607,33 @@
 		"tr_text": "Female Melphonsina Voice",
 		"jp_explain": "使用すると、新しいボイスが選択可能。\n女性のみ使用可能。\nＣＶ花澤 香菜",
 		"tr_explain": "Una nueva voz podra ser elegida.\nSolo femeninos (todas las razas).\nCV: Kana Hanazawa"
+	},
+	{
+		"assign": "31801608",
+		"jp_text": "女性共通ステラボイス",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいボイスが選択可能。\n女性のみ使用可能。\nＣＶ藤田 茜",
+		"tr_explain": ""
+	},
+	{
+		"assign": "31801610",
+		"jp_text": "女性共通ローザリンデ",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいボイスが選択可能。\n女性のみ使用可能。\nＣＶ小松 未可子",
+		"tr_explain": ""
+	},
+	{
+		"assign": "31801612",
+		"jp_text": "女性共通ウィンディス",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいボイスが選択可能。\n女性のみ使用可能。\nＣＶ本渡 楓",
+		"tr_explain": ""
+	},
+	{
+		"assign": "31801614",
+		"jp_text": "女性共通ポポナボイス",
+		"tr_text": "",
+		"jp_explain": "使用すると、新しいボイスが選択可能。\n女性のみ使用可能。\nＣＶポポナ",
+		"tr_explain": ""
 	}
 ]

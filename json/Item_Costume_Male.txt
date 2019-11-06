@@ -9900,8 +9900,50 @@
 	{
 		"assign": "2101627",
 		"jp_text": "ラタン・ラッピースーツ・ミニ",
-		"tr_text": "",
+		"tr_text": "Latan Rappy Suit Mini",
 		"jp_explain": "ふわふわでかわいいラッピーの姿に\n虜になったメンバーが作り上げた服。\nお菓子を貰うために完全装備済み。",
+		"tr_explain": "A costume made by someone who\nwas obssessed with Rappies. Fully\nequipped for the serving of candy."
+	},
+	{
+		"assign": "2101632",
+		"jp_text": "ユリィＬ・レプカ",
+		"tr_text": "",
+		"jp_explain": "白羊騎士団の遊撃隊隊長ユリィが\nロウ班と行動を共にする際の服装。\n凛とした姿だが、包容力を感じさせる。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2101633",
+		"jp_text": "ユリィＬ・レプカ影",
+		"tr_text": "",
+		"jp_explain": "白羊騎士団の遊撃隊隊長ユリィが\nロウ班と行動を共にする際の服装。\n凛とした姿だが、包容力を感じさせる。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2101634",
+		"jp_text": "ユリィＬ・レプカ紅",
+		"tr_text": "",
+		"jp_explain": "白羊騎士団の遊撃隊隊長ユリィが\nロウ班と行動を共にする際の服装。\n凛とした姿だが、包容力を感じさせる。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2101635",
+		"jp_text": "ユリィＬ・レプカ夜",
+		"tr_text": "",
+		"jp_explain": "白羊騎士団の遊撃隊隊長ユリィが\nロウ班と行動を共にする際の服装。\n凛とした姿だが、包容力を感じさせる。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2101636",
+		"jp_text": "ユリィＬ・レプカ葉",
+		"tr_text": "",
+		"jp_explain": "白羊騎士団の遊撃隊隊長ユリィが\nロウ班と行動を共にする際の服装。\n凛とした姿だが、包容力を感じさせる。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2101637",
+		"jp_text": "ユリィＬ・レプカ栗",
+		"tr_text": "",
+		"jp_explain": "白羊騎士団の遊撃隊隊長ユリィが\nロウ班と行動を共にする際の服装。\n凛とした姿だが、包容力を感じさせる。",
 		"tr_explain": ""
 	}
 ]
