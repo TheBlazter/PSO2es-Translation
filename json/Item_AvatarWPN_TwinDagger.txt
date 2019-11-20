@@ -238,9 +238,16 @@
 		"tr_explain": ""
 	},
 	{
+		"assign": "104046",
+		"jp_text": "＊プログレッシブ・ナイフ",
+		"tr_text": "＊Progressive Knife",
+		"jp_explain": "エヴァ初号機が主に使用した\nプログレッシブ・ナイフを模した\n武器迷彩。高振動粒子の刃で切断する。",
+		"tr_explain": ""
+	},
+	{
 		"assign": "104047",
 		"jp_text": "＊グラッド・サッド",
-		"tr_text": "",
+		"tr_text": "＊Glad Sad",
 		"jp_explain": "ジェミニ【双児】のゾディアートである\nジャスパーの双剣を模した武器迷彩。\n自由を象徴する運命分岐時の形態。",
 		"tr_explain": ""
 	}

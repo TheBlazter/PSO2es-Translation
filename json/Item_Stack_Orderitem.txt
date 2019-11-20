@@ -912,7 +912,7 @@
 	{
 		"assign": "330130",
 		"jp_text": "グワナーダの甲殻",
-		"tr_text": "Gwanahda Carapaces",
+		"tr_text": "Gwanahda Carapace",
 		"jp_explain": "グワナーダから採れた甲殻。\n\n依頼者：<c a1ff6d>ファイナ<c>　再受注可能",
 		"tr_explain": "Carapace taken from a Gwanahda.\n\nClient: <c a1ff6d>Faina<c> (repeatable)"
 	},
@@ -1549,7 +1549,7 @@
 	{
 		"assign": "330221",
 		"jp_text": "ダガンの脚甲",
-		"tr_text": "Dagan Leg Carapaces",
+		"tr_text": "Dagan Leg Carapace",
 		"jp_explain": "ダガンの脚を守る甲殻。\nそこそこの防御力を持つ。\n依頼者：<c a1ff6d>ファーマ<c>　再受注不可",
 		"tr_explain": "ダガンの脚を守る甲殻。\nそこそこの防御力を持つ。\nClient: <c a1ff6d>Farma<c> (non-repeatable)"
 	},
@@ -1948,7 +1948,7 @@
 	{
 		"assign": "330278",
 		"jp_text": "オル・ミクダの甲羅",
-		"tr_text": "Ol Micda Carapaces",
+		"tr_text": "Ol Micda Carapace",
 		"jp_explain": "オル・ミクダの甲羅。\n堅いため甲羅をよけて攻撃するべし。\n依頼者：<c a1ff6d>ファーマ<c>　再受注不可",
 		"tr_explain": "オル・ミクダの甲羅。\n堅いため甲羅をよけて攻撃するべし。\nClient: <c a1ff6d>Farma<c> (non-repeatable)"
 	},
@@ -4926,6 +4926,13 @@
 		"tr_text": "Rippled Shell 2019",
 		"jp_explain": "ジェネたちからもらった貝殻。\n専用交換ショップで景品と交換できる。",
 		"tr_explain": "A seashell from Gene.\nCan be traded for prizes."
+	},
+	{
+		"assign": "330780",
+		"jp_text": "雪の結晶２０１９",
+		"tr_text": "Snow Crystal 2019",
+		"jp_explain": "特異な性質を持つ、きれいな雪の結晶。\n『ＰＳＯ２ｅｓ』交換ショップで\n景品と交換できる。",
+		"tr_explain": "Beautiful snow crystals with unique\nproperties. PSO2es only item.\nCan be exchanged for prizes."
 	},
 	{
 		"assign": "330798",
