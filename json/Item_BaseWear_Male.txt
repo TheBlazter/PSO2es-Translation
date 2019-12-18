@@ -6442,44 +6442,44 @@
 	{
 		"assign": "33401004",
 		"jp_text": "リスティボワーヌ[Ba]",
-		"tr_text": "",
+		"tr_text": "Lysti Buone [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nリスティボワーヌ[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Unlocks the new basewear\n\"Lysti Buone [Ba]\".\nOnly usable on male characters."
 	},
 	{
 		"assign": "33401005",
 		"jp_text": "リスティボワーヌ夜[Ba]",
-		"tr_text": "",
+		"tr_text": "Lysti Buone Night [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nリスティボワーヌ夜[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Unlocks the new basewear\n\"Lysti Buone Night [Ba]\".\nOnly usable on male characters."
 	},
 	{
 		"assign": "33401006",
 		"jp_text": "リスティボワーヌ影[Ba]",
-		"tr_text": "",
+		"tr_text": "Lysti Buone Shadow [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nリスティボワーヌ影[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Unlocks the new basewear\n\"Lysti Buone Shadow [Ba]\".\nOnly usable on male characters."
 	},
 	{
 		"assign": "33401007",
 		"jp_text": "リスティボワーヌ紅[Ba]",
-		"tr_text": "",
+		"tr_text": "Lysti Buone Crimson [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nリスティボワーヌ紅[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Unlocks the new basewear\n\"Lysti Buone Crimson [Ba]\".\nOnly usable on male characters."
 	},
 	{
 		"assign": "33401008",
 		"jp_text": "リスティボワーヌ鋼[Ba]",
-		"tr_text": "",
+		"tr_text": "Lysti Buone Steel [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nリスティボワーヌ鋼[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Unlocks the new basewear\n\"Lysti Buone Steel [Ba]\".\nOnly usable on male characters."
 	},
 	{
 		"assign": "33401009",
 		"jp_text": "リスティボワーヌ雅[Ba]",
-		"tr_text": "",
+		"tr_text": "Lysti Buone Elegant [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nリスティボワーヌ雅[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Unlocks the new basewear\n\"Lysti Buone Elegant [Ba]\".\nOnly usable on male characters."
 	},
 	{
 		"assign": "33401010",
@@ -6575,44 +6575,44 @@
 	{
 		"assign": "33401023",
 		"jp_text": "タクティカルスーツ玄[Ba]",
-		"tr_text": "",
+		"tr_text": "Tactical Suit Mysterious [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nタクティカルスーツ玄[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Unlocks the new basewear\n\"Tactical Suit Mysterious [Ba]\".\nOnly usable on male characters."
 	},
 	{
 		"assign": "33401024",
 		"jp_text": "タクティカルスーツ森[Ba]",
-		"tr_text": "",
+		"tr_text": "Tactical Suit Forest [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nタクティカルスーツ森[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Unlocks the new basewear\n\"Tactical Suit Forest [Ba]\".\nOnly usable on male characters."
 	},
 	{
 		"assign": "33401025",
 		"jp_text": "スヴェートノーチ雪[Ba]",
-		"tr_text": "",
+		"tr_text": "Svet Noci Snow [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nスヴェートノーチ雪[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Unlocks the new basewear\n\"Svet Noci Snow [Ba]\".\nOnly usable on male characters."
 	},
 	{
 		"assign": "33401026",
 		"jp_text": "スヴェートノーチ栗[Ba]",
-		"tr_text": "",
+		"tr_text": "Svet Noci Chestnut [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nスヴェートノーチ栗[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Unlocks the new basewear\n\"Svet Noci Chestnut [Ba]\".\nOnly usable on male characters."
 	},
 	{
 		"assign": "33401027",
 		"jp_text": "クロシェットノエル冬[Ba]",
-		"tr_text": "",
+		"tr_text": "Clochette Noel Winter [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nクロシェットノエル冬[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Unlocks the new basewear\n\"Clochette Noel Winter [Ba]\".\nOnly usable on male characters."
 	},
 	{
 		"assign": "33401028",
 		"jp_text": "クロシェットノエル曜[Ba]",
-		"tr_text": "",
+		"tr_text": "Clochette Noel Day [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nクロシェットノエル曜[Ba]が選択可能。\n男性のみ使用可能。",
-		"tr_explain": ""
+		"tr_explain": "Unlocks the new basewear\n\"Clochette Noel Day [Ba]\".\nOnly usable on male characters."
 	},
 	{
 		"assign": "33401029",
