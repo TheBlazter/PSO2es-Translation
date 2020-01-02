@@ -824,5 +824,12 @@
 		"tr_text": "Huevo de Redran S 14★",
 		"jp_explain": "ペット「レドラン」のエッグ。\n使用するとレドランが\nペット登録され、育成可能となる。",
 		"tr_explain": "Huevo de Redran.\nUsalo para registrar\ny cria esta mascota."
+	},
+	{
+		"assign": "1210307",
+		"jp_text": "ＥＸＰエッグ★１４",
+		"tr_text": "",
+		"jp_explain": "ペット育成促進用のエッグ。\nペットとして育成はできないが\nエッグ合成に使用可能。",
+		"tr_explain": ""
 	}
 ]

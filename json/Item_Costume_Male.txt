@@ -10019,56 +10019,56 @@
 	{
 		"assign": "2101644",
 		"jp_text": "オムニス・レナート",
-		"tr_text": "",
+		"tr_text": "Omnis Renato",
 		"jp_explain": "龍晶の粒子を媒介に復活を遂げた\nシャオが纏っている服を模したもの。\n龍族の加護が模様に表われている。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "2101645",
 		"jp_text": "オムニス・レナート紅",
-		"tr_text": "",
+		"tr_text": "Omnis Renato Crimson",
 		"jp_explain": "龍晶の粒子を媒介に復活を遂げた\nシャオが纏っている服を模したもの。\n龍族の加護が模様に表われている。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "2101646",
 		"jp_text": "オムニス・レナート影",
-		"tr_text": "",
+		"tr_text": "Omnis Renato Shadow",
 		"jp_explain": "龍晶の粒子を媒介に復活を遂げた\nシャオが纏っている服を模したもの。\n龍族の加護が模様に表われている。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "2101647",
 		"jp_text": "オムニス・レナート雪",
-		"tr_text": "",
+		"tr_text": "Omnis Renato Snow",
 		"jp_explain": "龍晶の粒子を媒介に復活を遂げた\nシャオが纏っている服を模したもの。\n龍族の加護が模様に表われている。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "2101648",
 		"jp_text": "オムニス・レナート陽",
-		"tr_text": "",
+		"tr_text": "Omnis Renato Sun",
 		"jp_explain": "龍晶の粒子を媒介に復活を遂げた\nシャオが纏っている服を模したもの。\n龍族の加護が模様に表われている。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "2101649",
 		"jp_text": "オムニス・レナート雅",
-		"tr_text": "",
+		"tr_text": "Omnis Renato Elegant",
 		"jp_explain": "龍晶の粒子を媒介に復活を遂げた\nシャオが纏っている服を模したもの。\n龍族の加護が模様に表われている。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "2101650",
 		"jp_text": "【双子・男】異界戦闘衣",
-		"tr_text": "",
+		"tr_text": "[Double] Omega Suit M",
 		"jp_explain": "【双子・男】が纏う新たなる戦闘衣。\n無垢なるフォトンにより組み立てられた\n全てを喰らい尽くす戯れの衣。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "2101651",
 		"jp_text": "【双子・男】異界戦闘衣　雪",
-		"tr_text": "",
+		"tr_text": "[Double] Omega Suit M Snow",
 		"jp_explain": "【双子・男】が纏う新たなる戦闘衣。\n無垢なるフォトンにより組み立てられた\n全てを喰らい尽くす戯れの衣。",
 		"tr_explain": ""
 	},
@@ -10112,6 +10112,55 @@
 		"jp_text": "ポイントアビリット雪",
 		"tr_text": "",
 		"jp_explain": "フォトンの力に覚醒した者が\n身に纏う、特化重点型の戦闘服。\n装着する者の想いを力に変える。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2101660",
+		"jp_text": "ユリィＣ・レプカ",
+		"tr_text": "",
+		"jp_explain": "白羊騎士団の遊撃隊隊長ユリィが\nカオス班と行動を共にする際の服装。\n強い覚悟と意志を感じさせる。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2101661",
+		"jp_text": "ユリィＣ・レプカ紅",
+		"tr_text": "",
+		"jp_explain": "白羊騎士団の遊撃隊隊長ユリィが\nカオス班と行動を共にする際の服装。\n強い覚悟と意志を感じさせる。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2101662",
+		"jp_text": "ユリィＣ・レプカ海",
+		"tr_text": "",
+		"jp_explain": "白羊騎士団の遊撃隊隊長ユリィが\nカオス班と行動を共にする際の服装。\n強い覚悟と意志を感じさせる。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2101663",
+		"jp_text": "ユリィＣ・レプカ雅",
+		"tr_text": "",
+		"jp_explain": "白羊騎士団の遊撃隊隊長ユリィが\nカオス班と行動を共にする際の服装。\n強い覚悟と意志を感じさせる。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2101664",
+		"jp_text": "ユリィＣ・レプカ雪",
+		"tr_text": "",
+		"jp_explain": "白羊騎士団の遊撃隊隊長ユリィが\nカオス班と行動を共にする際の服装。\n強い覚悟と意志を感じさせる。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2101665",
+		"jp_text": "ユリィＣ・レプカ栗",
+		"tr_text": "",
+		"jp_explain": "白羊騎士団の遊撃隊隊長ユリィが\nカオス班と行動を共にする際の服装。\n強い覚悟と意志を感じさせる。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "2101691",
+		"jp_text": "￥アークス研修生男制服",
+		"tr_text": "",
+		"jp_explain": "アークス研修生のために制定された服。\n公的な催事などを行う際に着用される\n礼儀と礼節を重んじる服装。",
 		"tr_explain": ""
 	}
 ]

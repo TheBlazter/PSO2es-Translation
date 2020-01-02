@@ -82,5 +82,12 @@
 		"tr_text": "Ph Material",
 		"jp_explain": "独極を踏破したファントムに与えられる\n希少な素材。",
 		"tr_explain": "Un raro material dado a Phantoms\nque lograron superar su limite\npor si solos."
+	},
+	{
+		"assign": "371013",
+		"jp_text": "Ｅｔマテリアル",
+		"tr_text": "Et Material",
+		"jp_explain": "独極を踏破したエトワールに与えられる\n希少な素材。",
+		"tr_explain": "Un raro material dado a Phantoms\nque lograron superar su limite\npor si solos."
 	}
 ]

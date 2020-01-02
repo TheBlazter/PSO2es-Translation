@@ -3035,7 +3035,7 @@
 		"jp_text": "427「バージンロード」",
 		"tr_text": "427 \"Virgin Road\"",
 		"jp_explain": "ロビアク『バージンロード』\nを全キャラクターで使用可能になる。",
-		"tr_explain": "Aprende una nueva accion de lobby\n\"Virgin Road\"."
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Virgin Road\".\nReacciona tiene una accion extra."
 	},
 	{
 		"assign": "3230442",
@@ -3098,7 +3098,7 @@
 		"jp_text": "436「忍者」",
 		"tr_text": "436 \"Ninja\"",
 		"jp_explain": "ロビアク『忍者』\nを全キャラクターで使用可能になる。",
-		"tr_explain": "Aprende una nueva accion de lobby\n\"Ninja\"."
+		"tr_explain": "Aprende una nueva accion de lobby\n\"Ninja\".\nReacciona tiene una accion extra."
 	},
 	{
 		"assign": "3230451",
@@ -4034,22 +4034,92 @@
 	{
 		"assign": "3230587",
 		"jp_text": "573「スクナヒメポーズ１」",
-		"tr_text": "",
+		"tr_text": "573 \"Sukunahime Pose 1\"",
 		"jp_explain": "ロビアク『スクナヒメポーズ１』\nを全キャラクターで使用可能になる。\n対応機能：ボタン派生",
-		"tr_explain": ""
+		"tr_explain": "Unlocks the new lobby action\n\"Sukunahime Pose 1\".\nUse action buttons for extra actions."
 	},
 	{
 		"assign": "3230588",
 		"jp_text": "574「スクナヒメポーズ２」",
-		"tr_text": "",
+		"tr_text": "574 \"Sukunahime Pose 2\"",
 		"jp_explain": "ロビアク『スクナヒメポーズ２』\nを全キャラクターで使用可能になる。\n対応機能：ボタン派生",
-		"tr_explain": ""
+		"tr_explain": "Unlocks the new lobby action\n\"Sukunahime Pose 2\".\nUse action buttons for extra actions."
 	},
 	{
 		"assign": "3230589",
 		"jp_text": "575「スクナヒメポーズ３」",
-		"tr_text": "",
+		"tr_text": "575 \"Sukunahime Pose 3\"",
 		"jp_explain": "ロビアク『スクナヒメポーズ３』\nを全キャラクターで使用可能になる。\n対応機能：ボタン派生",
+		"tr_explain": "Unlocks the new lobby action\n\"Sukunahime Pose 3\".\nUse action buttons for extra actions."
+	},
+	{
+		"assign": "3230590",
+		"jp_text": "576「時間確認」",
+		"tr_text": "",
+		"jp_explain": "ロビアク『時間確認』\nを全キャラクターで使用可能になる。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3230591",
+		"jp_text": "577「エトワールポーズ」",
+		"tr_text": "577 \"Etoile Pose\"",
+		"jp_explain": "ロビアク『エトワールポーズ』\nを全キャラクターで使用可能になる。\n対応機能：武器装備反映\n<yellow>“PS Vita”では武器装備の反映不可<c>",
+		"tr_explain": "Unlocks the new lobby action\n\"Etoile Pose\".\nShows equipment, has extra actions.\n<yellow>Doesn't show some weps, or on Vita<c>"
+	},
+	{
+		"assign": "3230592",
+		"jp_text": "578「独楽回し」",
+		"tr_text": "578 \"Spinning Top\"",
+		"jp_explain": "ロビアク『独楽回し』\nを全キャラクターで使用可能になる。\n対応機能：ボタン派生／ランダム",
+		"tr_explain": "Unlocks the new lobby action\n\"Spinning Top\".\nHas button actions/randomness"
+	},
+	{
+		"assign": "3230593",
+		"jp_text": "579「おみくじ」",
+		"tr_text": "",
+		"jp_explain": "ロビアク『おみくじ』\nを全キャラクターで使用可能になる。\n対応機能：ボタン派生／ランダム",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3230594",
+		"jp_text": "580「Ｄセイバーポーズ」",
+		"tr_text": "",
+		"jp_explain": "ロビアク『Ｄセイバーポーズ』\nを全キャラクターで使用可能になる。\n対応機能：ボタン派生／武器装備反映\n<yellow>“PS Vita”では武器装備の反映不可<c>",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3230595",
+		"jp_text": "581「雪遊び２」",
+		"tr_text": "",
+		"jp_explain": "ロビアク『雪遊び２』\nを全キャラクターで使用可能になる。\n対応機能：ボタン派生",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3230596",
+		"jp_text": "582「ゾンデ／檻」",
+		"tr_text": "",
+		"jp_explain": "ロビアク『ゾンデ／檻』\nを全キャラクターで使用可能になる。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3230597",
+		"jp_text": "583「バータ／彫像」",
+		"tr_text": "",
+		"jp_explain": "ロビアク『バータ／彫像』\nを全キャラクターで使用可能になる。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3230598",
+		"jp_text": "584「ウォンドポーズ」",
+		"tr_text": "",
+		"jp_explain": "ロビアク『ウォンドポーズ』\nを全キャラクターで使用可能になる。\n対応機能：ボタン派生／武器装備反映\n<yellow>“PS Vita”では武器装備の反映不可<c>",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3230599",
+		"jp_text": "585「雪を見上げる」",
+		"tr_text": "",
+		"jp_explain": "ロビアク『雪を見上げる』\nを全キャラクターで使用可能になる。",
 		"tr_explain": ""
 	}
 ]

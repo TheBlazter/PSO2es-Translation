@@ -10269,6 +10269,13 @@
 		"tr_explain": ""
 	},
 	{
+		"assign": "3501647",
+		"jp_text": "オ・ゾウニ",
+		"tr_text": "",
+		"jp_explain": "マイルームに設置可能な食べ物。\n新年に食べたくなる熱々の料理。\n火傷とお餅の食べ過ぎにご注意。",
+		"tr_explain": ""
+	},
+	{
 		"assign": "3501648",
 		"jp_text": "ファーストバーガー",
 		"tr_text": "",
@@ -10999,28 +11006,28 @@
 	{
 		"assign": "3501755",
 		"jp_text": "２０１９コスプレ優勝記念品",
-		"tr_text": "",
+		"tr_text": "2019 Cosplay Champ. Souvenir",
 		"jp_explain": "２０１９年アークス感謝祭\nコスプレコンテスト優勝の記念品！\nあなたが、ナンバーワンだ！",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3501756",
 		"jp_text": "２０１９コスプレ入賞記念品",
-		"tr_text": "",
+		"tr_text": "2019 Cosplay Runner Up Souvenir",
 		"jp_explain": "２０１９年アークス感謝祭\nコスプレコンテスト入賞の記念品！\n次こそ目指せ、ナンバーワン！",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3501757",
 		"jp_text": "２０１９クラフト優勝記念品",
-		"tr_text": "",
+		"tr_text": "2019 Craft Champ. Souvenir",
 		"jp_explain": "２０１９年アークス感謝祭\nクラフトコンテスト優勝の記念品！\nあなたが、ナンバーワンだ！",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3501758",
 		"jp_text": "２０１９クラフト入賞記念品",
-		"tr_text": "",
+		"tr_text": "2019 Craft Runner Up. Souvenir",
 		"jp_explain": "２０１９年アークス感謝祭\nクラフトコンテスト入賞の記念品！\n次こそ目指せ、ナンバーワン！",
 		"tr_explain": ""
 	},
@@ -11048,42 +11055,42 @@
 	{
 		"assign": "3501762",
 		"jp_text": "ｒｔｆぎゅジェネマット",
-		"tr_text": "",
+		"tr_text": "rtfgyu Gene Mat",
 		"jp_explain": "マイルームの床に敷くためのマット。\nジェネのマット。みんなの影響か\n新たな一面が見え隠れしている。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3501763",
 		"jp_text": "ｒｔｆぎゅアネットマット",
-		"tr_text": "",
+		"tr_text": "rtfgyu Annette Mat",
 		"jp_explain": "マイルームの床に敷くためのマット。\nアネットのマット。いつもの冷静さは\nどこかへいってしまったようだ。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3501764",
 		"jp_text": "ｒｔｆぎゅモアマット",
-		"tr_text": "",
+		"tr_text": "rtfgyu More Mat",
 		"jp_explain": "マイルームの床に敷くためのマット。\nモアのマット。やっぱり被害者。\nツッコミ役も板についてきたようだ。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3501765",
 		"jp_text": "ｒｔｆぎゅアフタルマット",
-		"tr_text": "",
+		"tr_text": "rtfgyu Akhtar Mat",
 		"jp_explain": "マイルームの床に敷くためのマット。\nアフタルのマット。故郷を救う目的は\nさておき、みんなと一緒で楽しそうだ。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3501766",
 		"jp_text": "ｒｔｆぎゅホルシードマット",
-		"tr_text": "",
+		"tr_text": "rtfgyu Khorshid Mat",
 		"jp_explain": "マイルームの床に敷くためのマット。\nホルシードのマット。真面目に星骸布を\n探しているが……新たな被害者。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3501767",
 		"jp_text": "ｒｔｆぎゅリーンマット",
-		"tr_text": "",
+		"tr_text": "rtfgyu Lien Mat",
 		"jp_explain": "マイルームの床に敷くためのマット。\nリーンのマット。マスコットとして\n愛されるときは来るのだろうか。",
 		"tr_explain": ""
 	},
@@ -11202,7 +11209,7 @@
 	{
 		"assign": "3501784",
 		"jp_text": "エヴァ×ＰＳＯ２ポスター",
-		"tr_text": "",
+		"tr_text": "Eva x PSO2 Poster",
 		"jp_explain": "マイルームの壁に設置する装飾品。\n境界を超える共闘を描いた\n大判ポスター。",
 		"tr_explain": ""
 	},
@@ -11307,8 +11314,120 @@
 	{
 		"assign": "3501799",
 		"jp_text": "ＥＰオラクル１巻ポスター",
-		"tr_text": "",
+		"tr_text": "EP Oracle Vol.1 Poster",
 		"jp_explain": "マイルームの壁に設置する装飾品。\nファンタシースターオンライン２\nエピソード・オラクルのポスター。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501800",
+		"jp_text": "ＥＰオラクル２巻ポスター",
+		"tr_text": "EP Oracle Vol.2 Poster",
+		"jp_explain": "マイルームの壁に設置する装飾品。\nファンタシースターオンライン２\nエピソード・オラクルのポスター。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501801",
+		"jp_text": "ＥＰオラクル３巻ポスター",
+		"tr_text": "EP Oracle Vol.3 Poster",
+		"jp_explain": "マイルームの壁に設置する装飾品。\nファンタシースターオンライン２\nエピソード・オラクルのポスター。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501809",
+		"jp_text": "ステレオコンポ",
+		"tr_text": "Stereo Equipment",
+		"jp_explain": "マイルームに設置可能な音響機器。\n室内のＢＧＭを、自分で所有する\nＢＧＭから自由に変更することが可能。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501816",
+		"jp_text": "７周年イラコン入賞作品Ａ",
+		"tr_text": "7th Anniversary Art Winner A",
+		"jp_explain": "マイルームの壁に設置する絵画。\n「ＰＳＯ２」７周年記念\nイラストコンテスト入賞作品。\n作者：リドニーク",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501817",
+		"jp_text": "７周年イラコン入賞作品Ｂ",
+		"tr_text": "7th Anniversary Art Winner B",
+		"jp_explain": "マイルームの壁に設置する絵画。\n「ＰＳＯ２」７周年記念\nイラストコンテスト入賞作品。\n作者：麻呂ん",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501818",
+		"jp_text": "７周年イラコン入賞作品Ｃ",
+		"tr_text": "7th Anniversary Art Winner C",
+		"jp_explain": "マイルームの壁に設置する絵画。\n「ＰＳＯ２」７周年記念\nイラストコンテスト入賞作品。\n作者：のこ",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501819",
+		"jp_text": "７周年イラコン入賞作品Ｄ",
+		"tr_text": "7th Anniversary Art Winner D",
+		"jp_explain": "マイルームの壁に設置する絵画。\n「ＰＳＯ２」７周年記念\nイラストコンテスト入賞作品。\n作者：影",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501820",
+		"jp_text": "７周年イラコン入賞作品Ｅ",
+		"tr_text": "7th Anniversary Art Winner E",
+		"jp_explain": "マイルームの壁に設置する絵画。\n「ＰＳＯ２」７周年記念\nイラストコンテスト入賞作品。\n作者：ごまあぶら",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501821",
+		"jp_text": "７周年イラコン入賞作品Ｆ",
+		"tr_text": "7th Anniversary Art Winner F",
+		"jp_explain": "マイルームの壁に設置する絵画。\n「ＰＳＯ２」７周年記念\nイラストコンテスト入賞作品。\n作者：ひ",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501822",
+		"jp_text": "７周年イラコン入賞作品Ｇ",
+		"tr_text": "7th Anniversary Art Winner G",
+		"jp_explain": "マイルームの壁に設置する絵画。\n「ＰＳＯ２」７周年記念\nイラストコンテスト入賞作品。\n作者：む",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501823",
+		"jp_text": "７周年イラコン入賞作品Ｈ",
+		"tr_text": "7th Anniversary Art Winner H",
+		"jp_explain": "マイルームの壁に設置する絵画。\n「ＰＳＯ２」７周年記念\nイラストコンテスト入賞作品。\n作者：青丸胡麻",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501824",
+		"jp_text": "７周年イラコン入賞作品Ｉ",
+		"tr_text": "7th Anniversary Art Winner I",
+		"jp_explain": "マイルームの壁に設置する絵画。\n「ＰＳＯ２」７周年記念\nイラストコンテスト入賞作品。\n作者：こあら",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501825",
+		"jp_text": "７周年イラコン入賞作品Ｊ",
+		"tr_text": "7th Anniversary Art Winner J",
+		"jp_explain": "マイルームの壁に設置する絵画。\n「ＰＳＯ２」７周年記念\nイラストコンテスト入賞作品。\n作者：dume",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501827",
+		"jp_text": "イドラシンボルポスターＤ",
+		"tr_text": "Idola Symbol Poster D",
+		"jp_explain": "マイルームの壁に設置する装飾品。\n「お宝ハンター・メリッサ」の\nポスター。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501828",
+		"jp_text": "イドラシンボルポスターＥ",
+		"tr_text": "Idola Symbol Poster E",
+		"jp_explain": "マイルームの壁に設置する装飾品。\n「エレガンス・マドモワゼル」の\nポスター。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3501829",
+		"jp_text": "イドラシンボルポスターＦ",
+		"tr_text": "Idola Symbol Poster F",
+		"jp_explain": "マイルームの壁に設置する装飾品。\n「アンニュイ・ミッドナイト」の\nポスター。",
 		"tr_explain": ""
 	}
 ]
