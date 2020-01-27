@@ -2060,30 +2060,30 @@
 	{
 		"assign": "3280299",
 		"jp_text": "三角上まつげ　黒",
-		"tr_text": "",
+		"tr_text": "Triangle Eyelashes Black",
 		"jp_explain": "チケットを使用すると、新しいまつげの\n三角上まつげ　黒が選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Unlocks the eyelashes\n\"Triangle Eyelashes Black\"\nfor use in the Beauty Salon."
 	},
 	{
 		"assign": "3280300",
 		"jp_text": "三角上まつげ　紺",
-		"tr_text": "",
+		"tr_text": "Triangle Eyelashes Blue",
 		"jp_explain": "チケットを使用すると、新しいまつげの\n三角上まつげ　紺が選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Unlocks the eyelashes\n\"Triangle Eyelashes Blue\"\nfor use in the Beauty Salon."
 	},
 	{
 		"assign": "3280301",
 		"jp_text": "三角上まつげ　茶",
-		"tr_text": "",
+		"tr_text": "Triangle Eyelashes Brown",
 		"jp_explain": "チケットを使用すると、新しいまつげの\n三角上まつげ　茶が選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Unlocks the eyelashes\n\"Triangle Eyelashes Brown\"\nfor use in the Beauty Salon."
 	},
 	{
 		"assign": "3280302",
 		"jp_text": "三角上まつげ　白",
-		"tr_text": "",
+		"tr_text": "Triangle Eyelashes White",
 		"jp_explain": "チケットを使用すると、新しいまつげの\n三角上まつげ　白が選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Unlocks the eyelashes\n\"Triangle Eyelashes White\"\nfor use in the Beauty Salon."
 	},
 	{
 		"assign": "3280303",
@@ -2116,15 +2116,15 @@
 	{
 		"assign": "3280323",
 		"jp_text": "ＰＳＯ２アニメまつげＤ　黒",
-		"tr_text": "",
+		"tr_text": "PSO2 Anime Eyelashes D Black",
 		"jp_explain": "チケットを使用すると、新しいまつげの\nＰＳＯ２アニメまつげＤ　黒が選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Unlocks the eyelashes\n\"PSO2 Anime Eyelashes D Black\"\nfor use in the Beauty Salon."
 	},
 	{
 		"assign": "3280327",
 		"jp_text": "ＰＳＯ２アニメまつげＥ　黒",
-		"tr_text": "",
+		"tr_text": "PSO2 Anime Eyelashes E Black",
 		"jp_explain": "チケットを使用すると、新しいまつげの\nＰＳＯ２アニメまつげＥ　黒が選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Unlocks the eyelashes\n\"PSO2 Anime Eyelashes E Black\"\nfor use in the Beauty Salon."
 	}
 ]

@@ -8517,7 +8517,7 @@
 	{
 		"assign": "window_sort_cost",
 		"jp_text": "コスト",
-		"tr_text": "CP cost"
+		"tr_text": "Equip cost"
 	},
 	{
 		"assign": "window_sort_price",
@@ -20607,7 +20607,7 @@
 	{
 		"assign": "blockresult_area_clear_reward",
 		"jp_text": "階層達成報酬",
-		"tr_text": "Achievement Reward Tier"
+		"tr_text": "Tier Achievement Reward"
 	},
 	{
 		"assign": "blockresult_area_g1_clear",

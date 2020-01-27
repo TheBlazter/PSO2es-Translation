@@ -1208,14 +1208,14 @@
 		"jp_text": "ノヴェルナックル",
 		"tr_text": "Novel Knuckle",
 		"jp_explain": "新技術により開発された鋼拳。\n次期主力を担う武器として作られた。\n硬い殻のようなもので覆われている。",
-		"tr_explain": ""
+		"tr_explain": "Pair of knuckles made with new tech\nto be the next-gen main weapon.\nIt seems to have a hard cover."
 	},
 	{
 		"assign": "160278",
 		"jp_text": "リバレイトナックル",
 		"tr_text": "Liberate Knuckle",
 		"jp_explain": "新技術により開発された鋼拳。\n次期主力を担う武器の真なる姿。\n高い操作性と打撃力向上性能を誇る。",
-		"tr_explain": ""
+		"tr_explain": "Knuckles made with new tech.\nThe true form of the next-gen\nweapon, high in power and stability."
 	},
 	{
 		"assign": "160280",
@@ -1353,7 +1353,7 @@
 	{
 		"assign": "160312",
 		"jp_text": "シホウゲンブ",
-		"tr_text": "Shiho Genbu",
+		"tr_text": "Shihou Genbu",
 		"jp_explain": "とある地域の神聖な生物をモチーフに\n作られた鋼拳。北方を守護する霊獣に\nあやかりたいアークスが愛用する。",
 		"tr_explain": ""
 	},
