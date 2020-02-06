@@ -453,5 +453,19 @@
 		"tr_text": "T. Mision: Space Magatsu",
 		"jp_explain": "天地を葬る災禍の凶神を\nクエストカウンターから発生させる。\n<yellow>※消費後はいかなる理由においても\n本アイテムは返却されません。<c>",
 		"tr_explain": "[The Cosmic Calamity]\npodra elegirse en las Misiones.\n<yellow>※Una vez usado no sera regrasado.<c>"
+	},
+	{
+		"assign": "373068",
+		"jp_text": "チョコレート２０２０トリガー",
+		"tr_text": "T. Mision: Chocolate 2020",
+		"jp_explain": "チョコレートの行方２０２０を\nクエストカウンターから発生させる。\n<yellow>※消費後はいかなる理由においても\n本アイテムは返却されません。<c>",
+		"tr_explain": "[The Chocolate Way 2020]\npodra elegirse en las Misiones.\n<yellow>※Una vez usado no sera regrasado.<c>"
+	},
+	{
+		"assign": "373069",
+		"jp_text": "ホワイトデー２０２０トリガー",
+		"tr_text": "T. Mision: White Day 2020",
+		"jp_explain": "ホワイトデーは大わらわ２０２０を\nクエストカウンターから発生させる。\n<yellow>※消費後はいかなる理由においても\n本アイテムは返却されません。<c>",
+		"tr_explain": "[A Boisterous White Day 2020]\npodra elegirse en las Misiones.\n<yellow>※Una vez usado no sera regrasado.<c>"
 	}
 ]
