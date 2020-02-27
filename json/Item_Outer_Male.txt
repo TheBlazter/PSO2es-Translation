@@ -415,7 +415,7 @@
 	{
 		"assign": "230135",
 		"jp_text": "テオレマードラッド月[Ou]",
-		"tr_text": "",
+		"tr_text": "Teoremard Lad Moon [Ou]",
 		"jp_explain": "機械仕掛け風のデザインが特徴的な\nコート。試験管のホルダーや柄などが\n発明家を思わせる装い。",
 		"tr_explain": ""
 	},
@@ -1430,7 +1430,7 @@
 	{
 		"assign": "230431",
 		"jp_text": "クレディアフォルテ影[Ou]",
-		"tr_text": "",
+		"tr_text": "Credea Forte Shadow [Ou]",
 		"jp_explain": "古の詩曲で謳われた、誉れ高き騎士の\n装束を再現した衣装。華美なマントは\n勇気に舞い、荘厳な刺繍は信念に輝く。",
 		"tr_explain": ""
 	},
@@ -1528,7 +1528,7 @@
 	{
 		"assign": "230484",
 		"jp_text": "エヴィルイクシーダ雪[Ou]",
-		"tr_text": "",
+		"tr_text": "Evil Exceeder Snow [Ou]",
 		"jp_explain": "すべての戦慄を超越した者が\n纏うにふさわしい、威厳を放つ戦闘服。\n見る者を跪かせる程の威圧を帯びる。",
 		"tr_explain": ""
 	},
@@ -1682,7 +1682,7 @@
 	{
 		"assign": "230573",
 		"jp_text": "ハートエプロンＭ[Ou]",
-		"tr_text": "",
+		"tr_text": "Heart Apron M [Ou]",
 		"jp_explain": "胸元をハート形に切り込んだエプロン。\nシンプルで丸みを帯びたシルエットが\n身体によくなじみ、軽やかな着心地。",
 		"tr_explain": ""
 	},
@@ -1696,14 +1696,14 @@
 	{
 		"assign": "230581",
 		"jp_text": "レゾンヒュブリス雪[Ou]",
-		"tr_text": "",
+		"tr_text": "Raison Hubris Snow [Ou]",
 		"jp_explain": "罪と罰の声が絶えず聞こえる深き闇と\n生きる者の血潮を表現した戦闘服。\n内なる凶悪な声に耳を傾けないように。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "230584",
 		"jp_text": "ワイルドガンボーイ影[Ou]",
-		"tr_text": "",
+		"tr_text": "Wild Gun Boy Shadow [Ou]",
 		"jp_explain": "荒野のならず者たちが好んで着る服装。\n無法者と呼ばれながらも、己の正義を\n貫き通すアウトローにこそふさわしい。",
 		"tr_explain": ""
 	}

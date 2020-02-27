@@ -471,23 +471,23 @@
 	{
 		"assign": "327072",
 		"jp_text": "太カーブまゆ",
-		"tr_text": "",
+		"tr_text": "Thick Curved Eyebrows",
 		"jp_explain": "チケットを使用すると、まゆ\n太カーブまゆが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Unlocks the eyebrows\n\"Thick Curved Eyebrows\"\nfor use in the Beauty Salon."
 	},
 	{
 		"assign": "327073",
 		"jp_text": "スッキリまゆ",
-		"tr_text": "",
+		"tr_text": "Shapely Eyebrows",
 		"jp_explain": "チケットを使用すると、まゆ\nスッキリまゆが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Unlocks the eyebrows\n\"Shapely Eyebrows\"\nfor use in the Beauty Salon."
 	},
 	{
 		"assign": "327074",
 		"jp_text": "ミニ太困りまゆ",
-		"tr_text": "",
+		"tr_text": "Mini Thick Worried Eyebrows",
 		"jp_explain": "チケットを使用すると、まゆ\nミニ太困りまゆが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Unlocks the eyebrows\n\"Mini Thick Worried Eyebrows\"\nfor use in the Beauty Salon."
 	},
 	{
 		"assign": "327075",
@@ -499,15 +499,15 @@
 	{
 		"assign": "327076",
 		"jp_text": "ＰＳＯ２アニメまゆＤ",
-		"tr_text": "",
+		"tr_text": "PSO2 Anime Eyebrows D",
 		"jp_explain": "チケットを使用すると、まゆ\nＰＳＯ２アニメまゆＤが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Unlocks the eyebrows\n\"PSO2 Anime Eyebrows D\"\nfor use in the Beauty Salon."
 	},
 	{
 		"assign": "327077",
 		"jp_text": "ＰＳＯ２アニメまゆＥ",
-		"tr_text": "",
+		"tr_text": "PSO2 Anime Eyebrows E",
 		"jp_explain": "チケットを使用すると、まゆ\nＰＳＯ２アニメまゆＥが選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Unlocks the eyebrows\n\"PSO2 Anime Eyebrows E\"\nfor use in the Beauty Salon."
 	}
 ]
