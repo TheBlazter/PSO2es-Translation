@@ -27,7 +27,7 @@
  6. Presiona "Commit changes".
  7. Repite los 2 al 6 con todos los archivos que quieras editar. Una vez finalizado procedemos al paso 8.
  8. Haz clic en el botón "New pull request" en la esquina superior izquierda en la pagina de GitHub.
- 9. Asegúrate que "Base fork" sea "TheBlazter/PSO2es-Translation" y en el "Head fork" se encuentre el tuyo.
+ 9. Asegúrate que "Base fork" sea "Arks-Layer/PSO2esTranslations/ES" y en el "Head Fork" se encuentre el tuyo.
  10. Haz clic en el botón de "Create pull request" y escribe un titulo y un pequeño sumario.
  11. Haz clic en el botón de "Create pull request" de nuevo y tus cambios serán enviados.
  12. Hasta que alguien del equipo observe los cambios que has realizado estos serán a combinados con el parche de traducción.
