@@ -1369,112 +1369,112 @@
 		"jp_text": "トラベラーズアイ　大",
 		"tr_text": "Travelers Eyes L",
 		"jp_explain": "チケットを使用すると、新しい瞳の\nトラベラーズアイ　大が選択可能。",
-		"tr_explain": "Unlocks the eyes\n\"Travelers Eyes L\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea los ojos\n\"Travelers Eyes L\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3260198",
 		"jp_text": "トラベラーズアイ　小",
 		"tr_text": "Travelers Eyes S",
 		"jp_explain": "チケットを使用すると、新しい瞳の\nトラベラーズアイ　小が選択可能。",
-		"tr_explain": "Unlocks the eyes\n\"Travelers Eyes S\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea los ojos\n\"Travelers Eyes S\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3260199",
 		"jp_text": "イラスト風瞳Ｄ　大",
 		"tr_text": "Illustration Style Eyes D L",
 		"jp_explain": "チケットを使用すると、新しい瞳の\nイラスト風瞳Ｄ　大が選択可能。",
-		"tr_explain": "Unlocks the eyes\n\"Illustration Style Eyes D L\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea los ojos\n\"Illustration Style Eyes D L\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3260200",
 		"jp_text": "イラスト風瞳Ｄ　小",
 		"tr_text": "Illustration Style Eyes D S",
 		"jp_explain": "チケットを使用すると、新しい瞳の\nイラスト風瞳Ｄ　小が選択可能。",
-		"tr_explain": "Unlocks the eyes\n\"Illustration Style Eyes D S\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea los ojos\n\"Illustration Style Eyes D S\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3260201",
 		"jp_text": "スターダストアイ　大",
 		"tr_text": "Stardust Eyes L",
 		"jp_explain": "チケットを使用すると、新しい瞳の\nスターダストアイ　大が選択可能。",
-		"tr_explain": "Unlocks the eyes\n\"Stardust Eyes L\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea los ojos\n\"Stardust Eyes L\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3260202",
 		"jp_text": "スターダストアイ　小",
 		"tr_text": "Stardust Eyes S",
 		"jp_explain": "チケットを使用すると、新しい瞳の\nスターダストアイ　小が選択可能。",
-		"tr_explain": "Unlocks the eyes\n\"Stardust Eyes S\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea los ojos\n\"Stardust Eyes S\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3260203",
 		"jp_text": "ハニカムアイ　大",
 		"tr_text": "Honeycomb Eyes L",
 		"jp_explain": "チケットを使用すると、新しい瞳の\nハニカムアイ　大が選択可能。",
-		"tr_explain": "Unlocks the eyes\n\"Honeycomb Eyes L\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea los ojos\n\"Honeycomb Eyes L\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3260204",
 		"jp_text": "ハニカムアイ　小",
 		"tr_text": "Honeycomb Eyes S",
 		"jp_explain": "チケットを使用すると、新しい瞳の\nハニカムアイ　小が選択可能。",
-		"tr_explain": "Unlocks the eyes\n\"Honeycomb Eyes S\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea los ojos\n\"Honeycomb Eyes S\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3260205",
 		"jp_text": "バッテン瞳　大",
 		"tr_text": "Cross Mark Eyes L",
 		"jp_explain": "チケットを使用すると、新しい瞳の\nバッテン瞳　大が選択可能。",
-		"tr_explain": "Unlocks the eyes\n\"Cross Mark Eyes L\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea los ojos\n\"Cross Mark Eyes L\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3260206",
 		"jp_text": "バッテン瞳　小",
 		"tr_text": "Cross Mark Eyes S",
 		"jp_explain": "チケットを使用すると、新しい瞳の\nバッテン瞳　小が選択可能。",
-		"tr_explain": "Unlocks the eyes\n\"Cross Mark Eyes S\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea los ojos\n\"Cross Mark Eyes S\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3260207",
 		"jp_text": "四角ハイライト瞳　大",
 		"tr_text": "Square Highlight Eyes L",
 		"jp_explain": "チケットを使用すると、新しい瞳の\n四角ハイライト瞳　大が選択可能。",
-		"tr_explain": "Unlocks the eyes\n\"Square Highlight Eyes L\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea los ojos\n\"Square Highlight Eyes L\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3260208",
 		"jp_text": "四角ハイライト瞳　小",
 		"tr_text": "Square Highlight Eyes S",
 		"jp_explain": "チケットを使用すると、新しい瞳の\n四角ハイライト瞳　小が選択可能。",
-		"tr_explain": "Unlocks the eyes\n\"Square Highlight Eyes S\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea los ojos\n\"Square Highlight Eyes S\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3260210",
 		"jp_text": "ジュエルアイ　大",
 		"tr_text": "Jewel Eyes L",
 		"jp_explain": "チケットを使用すると、新しい瞳の\nジュエルアイ　大が選択可能。",
-		"tr_explain": "Unlocks the eyes\n\"Jewel Eyes L\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea los ojos\n\"Jewel Eyes L\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3260211",
 		"jp_text": "ジュエルアイ　小",
 		"tr_text": "Jewel Eyes S",
 		"jp_explain": "チケットを使用すると、新しい瞳の\nジュエルアイ　小が選択可能。",
-		"tr_explain": "Unlocks the eyes\n\"Jewel Eyes S\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea los ojos\n\"Jewel Eyes S\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3260212",
 		"jp_text": "夜光瞳Ｂ　大",
 		"tr_text": "Noctilucent Eyes B L",
 		"jp_explain": "チケットを使用すると、新しい瞳の\n夜光瞳Ｂ　大が選択可能。",
-		"tr_explain": "Unlocks the eyes\n\"Noctilucent Eyes B L\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea los ojos\n\"Noctilucent Eyes B L\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3260213",
 		"jp_text": "夜光瞳Ｂ　小",
 		"tr_text": "Noctilucent Eyes B S",
 		"jp_explain": "チケットを使用すると、新しい瞳の\n夜光瞳Ｂ　小が選択可能。",
-		"tr_explain": "Unlocks the eyes\n\"Noctilucent Eyes B S\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea los ojos\n\"Noctilucent Eyes B S\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3260214",
@@ -1495,27 +1495,27 @@
 		"jp_text": "ＰＳＯ２アニメ瞳Ｄ　大",
 		"tr_text": "PSO2 Anime Eyes D Large",
 		"jp_explain": "チケットを使用すると、新しい瞳の\nＰＳＯ２アニメ瞳Ｄ　大が選択可能。",
-		"tr_explain": "Unlocks the eyes\n\"PSO2 Anime Eyes D Large\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea los ojos\n\"PSO2 Anime Eyes D Large\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3260217",
 		"jp_text": "ＰＳＯ２アニメ瞳Ｄ　小",
 		"tr_text": "PSO2 Anime Eyes D Small",
 		"jp_explain": "チケットを使用すると、新しい瞳の\nＰＳＯ２アニメ瞳Ｄ　小が選択可能。",
-		"tr_explain": "Unlocks the eyes\n\"PSO2 Anime Eyes D Small\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea los ojos\n\"PSO2 Anime Eyes D Small\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3260218",
 		"jp_text": "ＰＳＯ２アニメ瞳Ｅ　大",
 		"tr_text": "PSO2 Anime Eyes E Large",
 		"jp_explain": "チケットを使用すると、新しい瞳の\nＰＳＯ２アニメ瞳Ｅ　大が選択可能。",
-		"tr_explain": "Unlocks the eyes\n\"PSO2 Anime Eyes E Large\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea los ojos\n\"PSO2 Anime Eyes E Large\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3260219",
 		"jp_text": "ＰＳＯ２アニメ瞳Ｅ　小",
 		"tr_text": "PSO2 Anime Eyes E Small",
 		"jp_explain": "チケットを使用すると、新しい瞳の\nＰＳＯ２アニメ瞳Ｅ　小が選択可能。",
-		"tr_explain": "Unlocks the eyes\n\"PSO2 Anime Eyes E Small\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea los ojos\n\"PSO2 Anime Eyes E Small\"\npara usar en el Estilista."
 	}
 ]

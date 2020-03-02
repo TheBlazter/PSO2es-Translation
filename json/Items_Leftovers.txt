@@ -2054,7 +2054,7 @@
 		"jp_text": "５００万ＩＤ記念ステッカー",
 		"tr_text": "5 Million ID Memorial Sticker",
 		"jp_explain": "",
-		"tr_explain": "Unlocks the sticker\n\"5 Million ID Memorial\"\nfor use in the Beauty Salon.",
+		"tr_explain": "Desbloquea el emblema\n\"5 Million ID Memorial\"\npara usar en el Estilista.",
 		"assign": 0
 	},
 	{

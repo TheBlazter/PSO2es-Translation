@@ -1929,14 +1929,14 @@
 		"jp_text": "クリミナル・ヘッドＣＶ",
 		"tr_text": "Criminal Head CV",
 		"jp_explain": "チケットを使用すると、新しい頭部の\nクリミナル・ヘッドＣＶが選択可能。\nキャスト男性のみ使用可能。",
-		"tr_explain": "Unlocks the male Cast head\n\"Criminal Head CV\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea la cabeza masculina\n\"Criminal Head CV\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3160321",
 		"jp_text": "クリミナル・ヘッドＧＶ",
 		"tr_text": "Criminal Head GV",
 		"jp_explain": "チケットを使用すると、新しい頭部の\nクリミナル・ヘッドＧＶが選択可能。\nキャスト男性のみ使用可能。",
-		"tr_explain": "Unlocks the male Cast head\n\"Criminal Head GV\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea la cabeza masculina\n\"Criminal Head GV\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3160322",
@@ -1950,14 +1950,14 @@
 		"jp_text": "ナイトメア・ヘッドＣＶ",
 		"tr_text": "Nightmare Head CV",
 		"jp_explain": "チケットを使用すると、新しい頭部の\nナイトメア・ヘッドＣＶが選択可能。\nキャスト女性のみ使用可能。",
-		"tr_explain": "Unlocks the female Cast head\n\"Nightmare Head CV\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea la cabeza femenina\n\"Nightmare Head CV\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3160324",
 		"jp_text": "ナイトメア・ヘッドＧＶ",
 		"tr_text": "Nightmare Head GV",
 		"jp_explain": "チケットを使用すると、新しい頭部の\nナイトメア・ヘッドＧＶが選択可能。\nキャスト女性のみ使用可能。",
-		"tr_explain": "Unlocks the female Cast head\n\"Nightmare Head GV\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea la cabeza femenina\n\"Nightmare Head GV\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3160325",
@@ -2013,7 +2013,7 @@
 		"jp_text": "エグザギア・ヘッドＣＶ",
 		"tr_text": "Exagia Head CV",
 		"jp_explain": "チケットを使用すると、新しい頭部の\nエグザギア・ヘッドＣＶが選択可能。\nキャスト男性のみ使用可能。",
-		"tr_explain": "Unlocks the male Cast head\n\"Exagia Head CV\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea la cabeza masculina\n\"Exagia Head CV\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3160346",
@@ -2027,48 +2027,48 @@
 		"jp_text": "エグザリア・ヘッドＣＶ",
 		"tr_text": "Exalia Head CV",
 		"jp_explain": "チケットを使用すると、新しい頭部の\nエグザリア・ヘッドＣＶが選択可能。\nキャスト女性のみ使用可能。",
-		"tr_explain": "Unlocks the female Cast head\n\"Exalia Head CV\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea la cabeza femenina\n\"Exalia Head CV\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3160350",
 		"jp_text": "ハーゼン・ヘッド",
 		"tr_text": "Hazen Head",
 		"jp_explain": "チケットを使用すると、新しい頭部の\nハーゼン・ヘッドが選択可能。\nキャスト男性のみ使用可能。",
-		"tr_explain": "Unlocks the male Cast head\n\"Hazen Head\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea la cabeza masculina\n\"Hazen Head\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3160353",
 		"jp_text": "マーヴィス・ヘッド",
 		"tr_text": "Malvis Head",
 		"jp_explain": "チケットを使用すると、新しい頭部の\nマーヴィス・ヘッドが選択可能。\nキャスト女性のみ使用可能。",
-		"tr_explain": "Unlocks the female Cast head\n\"Malvis Head\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea la cabeza femenina\n\"Malvis Head\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3160356",
 		"jp_text": "ソルリス・ヘッド",
 		"tr_text": "Solis Head",
 		"jp_explain": "チケットを使用すると、新しい頭部の\nソルリス・ヘッドが選択可能。\nキャスト女性のみ使用可能。",
-		"tr_explain": "Unlocks the female Cast head\n\"Solis Head\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea la cabeza femenina\n\"Solis Head\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3160359",
 		"jp_text": "ティタンガム・ヘッドＣＶ",
 		"tr_text": "Titangam Head CV",
 		"jp_explain": "チケットを使用すると、新しい頭部の\nティタンガム・ヘッドＣＶが選択可能。\nキャスト男性のみ使用可能。",
-		"tr_explain": "Unlocks the male Cast head\n\"Titangam Head CV\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea la cabeza masculina\n\"Titangam Head CV\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3160361",
 		"jp_text": "アイシリカ・ヘッドＣＶ",
 		"tr_text": "Icesilica Head CV",
 		"jp_explain": "チケットを使用すると、新しい頭部の\nアイシリカ・ヘッドＣＶが選択可能。\nキャスト女性のみ使用可能。",
-		"tr_explain": "Unlocks the female Cast head\n\"Icesilica Head CV\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea la cabeza femenina\n\"Icesilica Head CV\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3160363",
 		"jp_text": "ライナー・ヘッド",
 		"tr_text": "Liner Head",
 		"jp_explain": "チケットを使用すると、新しい頭部の\nライナー・ヘッドが選択可能。\nキャスト男性のみ使用可能。",
-		"tr_explain": "Unlocks the male Cast head\n\"Liner Head\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea la cabeza masculina\n\"Liner Head\"\npara usar en el Estilista."
 	}
 ]

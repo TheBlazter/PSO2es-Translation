@@ -431,63 +431,63 @@
 		"jp_text": "くるりんまゆ",
 		"tr_text": "Twirled Eyebrows",
 		"jp_explain": "チケットを使用すると、まゆ\nくるりんまゆが選択可能。",
-		"tr_explain": "Unlocks the eyebrows\n\"Twirled Eyebrows\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea las cejas\n\"Twirled Eyebrows\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "327067",
 		"jp_text": "ミニ太まゆ",
 		"tr_text": "Mini Thick Eyebrows",
 		"jp_explain": "チケットを使用すると、まゆ\nミニ太まゆが選択可能。",
-		"tr_explain": "Unlocks the eyebrows\n\"Mini Thick Eyebrows\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea las cejas\n\"Mini Thick Eyebrows\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "327068",
 		"jp_text": "太困りまゆ",
 		"tr_text": "Thick Worried Eyebrows",
 		"jp_explain": "チケットを使用すると、まゆ\n太困りまゆが選択可能。",
-		"tr_explain": "Unlocks the eyebrows\n\"Thick Worried Eyebrows\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea las cejas\n\"Thick Worried Eyebrows\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "327069",
 		"jp_text": "コミカルまゆ",
 		"tr_text": "Comical Eyebrows",
 		"jp_explain": "チケットを使用すると、まゆ\nコミカルまゆが選択可能。",
-		"tr_explain": "Unlocks the eyebrows\n\"Comical Eyebrows\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea las cejas\n\"Comical Eyebrows\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "327070",
 		"jp_text": "はなれまゆ",
 		"tr_text": "Spaced Eyebrows",
 		"jp_explain": "チケットを使用すると、まゆ\nはなれまゆが選択可能。",
-		"tr_explain": "Unlocks the eyebrows\n\"Spaced Eyebrows\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea las cejas\n\"Spaced Eyebrows\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "327071",
 		"jp_text": "連玉まゆ",
 		"tr_text": "Ball Eyebrows",
 		"jp_explain": "チケットを使用すると、まゆ\n連玉まゆが選択可能。",
-		"tr_explain": "Unlocks the eyebrows\n\"Ball Eyebrows\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea las cejas\n\"Ball Eyebrows\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "327072",
 		"jp_text": "太カーブまゆ",
 		"tr_text": "Thick Curved Eyebrows",
 		"jp_explain": "チケットを使用すると、まゆ\n太カーブまゆが選択可能。",
-		"tr_explain": "Unlocks the eyebrows\n\"Thick Curved Eyebrows\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea las cejas\n\"Thick Curved Eyebrows\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "327073",
 		"jp_text": "スッキリまゆ",
 		"tr_text": "Shapely Eyebrows",
 		"jp_explain": "チケットを使用すると、まゆ\nスッキリまゆが選択可能。",
-		"tr_explain": "Unlocks the eyebrows\n\"Shapely Eyebrows\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea las cejas\n\"Shapely Eyebrows\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "327074",
 		"jp_text": "ミニ太困りまゆ",
 		"tr_text": "Mini Thick Worried Eyebrows",
 		"jp_explain": "チケットを使用すると、まゆ\nミニ太困りまゆが選択可能。",
-		"tr_explain": "Unlocks the eyebrows\n\"Mini Thick Worried Eyebrows\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea las cejas\n\"Mini Thick Worried Eyebrows\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "327075",
@@ -501,13 +501,13 @@
 		"jp_text": "ＰＳＯ２アニメまゆＤ",
 		"tr_text": "PSO2 Anime Eyebrows D",
 		"jp_explain": "チケットを使用すると、まゆ\nＰＳＯ２アニメまゆＤが選択可能。",
-		"tr_explain": "Unlocks the eyebrows\n\"PSO2 Anime Eyebrows D\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea las cejas\n\"PSO2 Anime Eyebrows D\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "327077",
 		"jp_text": "ＰＳＯ２アニメまゆＥ",
 		"tr_text": "PSO2 Anime Eyebrows E",
 		"jp_explain": "チケットを使用すると、まゆ\nＰＳＯ２アニメまゆＥが選択可能。",
-		"tr_explain": "Unlocks the eyebrows\n\"PSO2 Anime Eyebrows E\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea las cejas\n\"PSO2 Anime Eyebrows E\"\npara usar en el Estilista."
 	}
 ]

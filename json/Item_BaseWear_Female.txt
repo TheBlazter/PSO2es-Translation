@@ -11232,42 +11232,42 @@
 		"jp_text": "フォルニスフィジス[Ba]",
 		"tr_text": "Fornis Physis [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nフォルニスフィジス[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Fornis Physis [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Fornis Physis [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501724",
 		"jp_text": "フォルニスフィジス葉[Ba]",
 		"tr_text": "Fornis Physis Leaf [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nフォルニスフィジス葉[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Fornis Physis Leaf [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Fornis Physis Leaf [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501725",
 		"jp_text": "フォルニスフィジス影[Ba]",
 		"tr_text": "Fornis Physis Shadow [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nフォルニスフィジス影[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Fornis Physis Shadow [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Fornis Physis Shadow [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501726",
 		"jp_text": "フォルニスフィジス紅[Ba]",
 		"tr_text": "Fornis Physis Crimson [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nフォルニスフィジス紅[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Fornis Physis Crimson [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Fornis Physis Crimson [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501727",
 		"jp_text": "フォルニスフィジス海[Ba]",
 		"tr_text": "Fornis Physis Sea [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nフォルニスフィジス海[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Fornis Physis Sea [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Fornis Physis Sea [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501728",
 		"jp_text": "フォルニスフィジス雅[Ba]",
 		"tr_text": "Fornis Physis Elegant [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nフォルニスフィジス雅[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Fornis Physis Elegant [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Fornis Physis Elegant [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501729",
@@ -11365,1575 +11365,1575 @@
 		"jp_text": "ニレンカムイＦ茜[Ba]",
 		"tr_text": "Twin Kamui F Madder [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nニレンカムイＦ茜[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Twin Kamui F Madder [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Twin Kamui F Madder [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501743",
 		"jp_text": "ニレンカムイＦ玄[Ba]",
 		"tr_text": "Twin Kamui F Mysterious [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nニレンカムイＦ玄[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Twin Kamui F Mysterious [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Twin Kamui F Mysterious [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501744",
 		"jp_text": "ニレンカムイＦ冬[Ba]",
 		"tr_text": "Twin Kamui F Winter [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nニレンカムイＦ冬[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Twin Kamui F Winter [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Twin Kamui F Winter [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501745",
 		"jp_text": "シューティングＤ・冬[Ba]",
 		"tr_text": "Shooting Drive Winter [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nシューティングＤ・冬[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Shooting Drive Winter [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Shooting Drive Winter [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501746",
 		"jp_text": "シューティングＤ・茜[Ba]",
 		"tr_text": "Shooting Drive Madder [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nシューティングＤ・茜[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Shooting Drive Madder [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Shooting Drive Madder [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501747",
 		"jp_text": "シューティングＤ・藤[Ba]",
 		"tr_text": "Shooting Drive Lavender [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nシューティングＤ・藤[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Shooting Drive Lavender [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Shooting Drive Lavender [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501748",
 		"jp_text": "ラヴィス＝ブレイド冬[Ba]",
 		"tr_text": "Lavis Blade Winter [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nラヴィス＝ブレイド冬[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Lavis Blade Winter [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Lavis Blade Winter [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501749",
 		"jp_text": "ラヴィス＝ブレイド玄[Ba]",
 		"tr_text": "Lavis Blade Mysterious [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nラヴィス＝ブレイド玄[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Lavis Blade Mysterious [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Lavis Blade Mysterious [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501750",
 		"jp_text": "ラヴィス＝ブレイド雅[Ba]",
 		"tr_text": "Lavis Blade Elegant [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nラヴィス＝ブレイド雅[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Lavis Blade Elegant [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Lavis Blade Elegant [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501751",
 		"jp_text": "ヤミガラス・レプカ月[Ba]",
 		"tr_text": "Yamigarasu Repca Moon [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nヤミガラス・レプカ月[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Yamigarasu Repca Moon [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Yamigarasu Repca Moon [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501754",
 		"jp_text": "女子体操服[Ba]",
 		"tr_text": "Gym Wear F [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\n女子体操服[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Gym Wear F [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Gym Wear F [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501755",
 		"jp_text": "女子体操服　影[Ba]",
 		"tr_text": "Gym Wear F Shadow [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\n女子体操服　影[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Gym Wear F Shadow [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Gym Wear F Shadow [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501756",
 		"jp_text": "女子体操服　海[Ba]",
 		"tr_text": "Gym Wear F Sea [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\n女子体操服　海[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Gym Wear F Sea [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Gym Wear F Sea [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501757",
 		"jp_text": "女子体操服　桜[Ba]",
 		"tr_text": "Gym Wear F Sakura [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\n女子体操服　桜[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Gym Wear F Sakura [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Gym Wear F Sakura [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501758",
 		"jp_text": "女子体操服　月[Ba]",
 		"tr_text": "Gym Wear F Moon [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\n女子体操服　月[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Gym Wear F Moon [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Gym Wear F Moon [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501759",
 		"jp_text": "女子体操服　雪[Ba]",
 		"tr_text": "Gym Wear F Snow [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\n女子体操服　雪[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Gym Wear F Snow [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Gym Wear F Snow [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501760",
 		"jp_text": "トゥードイロジオン[Ba]",
 		"tr_text": "Tude Erosion [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nトゥードイロジオン[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Tude Erosion [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Tude Erosion [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501761",
 		"jp_text": "トゥードイロジオン紅[Ba]",
 		"tr_text": "Tude Erosion Crimson [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nトゥードイロジオン紅[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Tude Erosion Crimson [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Tude Erosion Crimson [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501762",
 		"jp_text": "トゥードイロジオン空[Ba]",
 		"tr_text": "Tude Erosion Sky [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nトゥードイロジオン空[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Tude Erosion Sky [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Tude Erosion Sky [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501763",
 		"jp_text": "トゥードイロジオン雪[Ba]",
 		"tr_text": "Tude Erosion Snow [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nトゥードイロジオン雪[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Tude Erosion Snow [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Tude Erosion Snow [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501764",
 		"jp_text": "トゥードイロジオン栗[Ba]",
 		"tr_text": "Tude Erosion Chestnut [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nトゥードイロジオン栗[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Tude Erosion Chestnut [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Tude Erosion Chestnut [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501765",
 		"jp_text": "トゥードイロジオン夜[Ba]",
 		"tr_text": "Tude Erosion Night [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nトゥードイロジオン夜[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Tude Erosion Night [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Tude Erosion Night [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501766",
 		"jp_text": "スキニージーンズ[Ba]",
 		"tr_text": "Skinny Jeans [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nスキニージーンズ[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Skinny Jeans [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Skinny Jeans [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501767",
 		"jp_text": "スキニージーンズ影[Ba]",
 		"tr_text": "Skinny Jeans Shadow [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nスキニージーンズ影[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Skinny Jeans Shadow [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Skinny Jeans Shadow [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501768",
 		"jp_text": "スキニージーンズ紅[Ba]",
 		"tr_text": "Skinny Jeans Crimson [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nスキニージーンズ紅[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Skinny Jeans Crimson [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Skinny Jeans Crimson [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501769",
 		"jp_text": "スキニージーンズ夜[Ba]",
 		"tr_text": "Skinny Jeans Night [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nスキニージーンズ夜[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Skinny Jeans Night [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Skinny Jeans Night [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501770",
 		"jp_text": "スキニージーンズ雅[Ba]",
 		"tr_text": "Skinny Jeans Elegant [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nスキニージーンズ雅[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Skinny Jeans Elegant [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Skinny Jeans Elegant [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501771",
 		"jp_text": "スキニージーンズ栗[Ba]",
 		"tr_text": "Skinny Jeans Chestnut [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nスキニージーンズ栗[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Skinny Jeans Chestnut [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Skinny Jeans Chestnut [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501772",
 		"jp_text": "チェックスカート[Ba]",
 		"tr_text": "Checkered Skirt [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nチェックスカート[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Checkered Skirt [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Checkered Skirt [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501773",
 		"jp_text": "チェックスカート紅[Ba]",
 		"tr_text": "Checkered Skirt Crimson [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nチェックスカート紅[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Checkered Skirt Crimson [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Checkered Skirt Crimson [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501774",
 		"jp_text": "チェックスカート夜[Ba]",
 		"tr_text": "Checkered Skirt Night [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nチェックスカート夜[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Checkered Skirt Night [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Checkered Skirt Night [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501775",
 		"jp_text": "チェックスカート影[Ba]",
 		"tr_text": "Checkered Skirt Shadow [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nチェックスカート影[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Checkered Skirt Shadow [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Checkered Skirt Shadow [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501776",
 		"jp_text": "チェックスカート桜[Ba]",
 		"tr_text": "Checkered Skirt Sakura [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nチェックスカート桜[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Checkered Skirt Sakura [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Checkered Skirt Sakura [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501777",
 		"jp_text": "チェックスカート雅[Ba]",
 		"tr_text": "Checkered Skirt Elegant [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nチェックスカート雅[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Checkered Skirt Elegant [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Checkered Skirt Elegant [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501778",
 		"jp_text": "ロードゥクロープ[Ba]",
 		"tr_text": "Lord Crope [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nロードゥクロープ[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Lord Crope [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Lord Crope [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501779",
 		"jp_text": "ロードゥクロープ夜[Ba]",
 		"tr_text": "Lord Crope Night [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nロードゥクロープ夜[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Lord Crope Night [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Lord Crope Night [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501780",
 		"jp_text": "ロードゥクロープ雅[Ba]",
 		"tr_text": "Lord Crope Elegant [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nロードゥクロープ雅[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Lord Crope Elegant [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Lord Crope Elegant [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501781",
 		"jp_text": "ロードゥクロープ影[Ba]",
 		"tr_text": "Lord Crope Shadow [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nロードゥクロープ影[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Lord Crope Shadow [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Lord Crope Shadow [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501782",
 		"jp_text": "ロードゥクロープ栗[Ba]",
 		"tr_text": "Lord Crope Chestnut [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nロードゥクロープ栗[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Lord Crope Chestnut [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Lord Crope Chestnut [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501783",
 		"jp_text": "ロードゥクロープ雪[Ba]",
 		"tr_text": "Lord Crope Snow [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nロードゥクロープ雪[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Lord Crope Snow [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Lord Crope Snow [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501784",
 		"jp_text": "リリアックライラ[Ba]",
 		"tr_text": "Liliac Lyra [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nリリアックライラ[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Liliac Lyra [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Liliac Lyra [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501785",
 		"jp_text": "リリアックライラ陽[Ba]",
 		"tr_text": "Liliac Lyra Sun [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nリリアックライラ陽[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Liliac Lyra Sun [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Liliac Lyra Sun [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501786",
 		"jp_text": "リリアックライラ紅[Ba]",
 		"tr_text": "Liliac Lyra Crimson [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nリリアックライラ紅[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Liliac Lyra Crimson [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Liliac Lyra Crimson [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501787",
 		"jp_text": "リリアックライラ夜[Ba]",
 		"tr_text": "Liliac Lyra Night [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nリリアックライラ夜[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Liliac Lyra Night [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Liliac Lyra Night [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501788",
 		"jp_text": "リリアックライラ雪[Ba]",
 		"tr_text": "Liliac Lyra Snow [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nリリアックライラ雪[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Liliac Lyra Snow [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Liliac Lyra Snow [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501789",
 		"jp_text": "リリアックライラ影[Ba]",
 		"tr_text": "Liliac Lyra Shadow [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nリリアックライラ影[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Liliac Lyra Shadow [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Liliac Lyra Shadow [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501790",
 		"jp_text": "ステルラアーダ[Ba]",
 		"tr_text": "Stella Ardor [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nステルラアーダ[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Stella Ardor [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Stella Ardor [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501791",
 		"jp_text": "ステルラアーダ雅[Ba]",
 		"tr_text": "Stella Ardor Elegant [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nステルラアーダ雅[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Stella Ardor Elegant [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Stella Ardor Elegant [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501792",
 		"jp_text": "ステルラアーダ影[Ba]",
 		"tr_text": "Stella Ardor Shadow [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nステルラアーダ影[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Stella Ardor Shadow [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Stella Ardor Shadow [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501793",
 		"jp_text": "ステルラアーダ陽[Ba]",
 		"tr_text": "Stella Ardor Sun [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nステルラアーダ陽[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Stella Ardor Sun [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Stella Ardor Sun [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501794",
 		"jp_text": "ステルラアーダ葉[Ba]",
 		"tr_text": "Stella Ardor Leaf [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nステルラアーダ葉[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Stella Ardor Leaf [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Stella Ardor Leaf [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501795",
 		"jp_text": "ステルラアーダ夜[Ba]",
 		"tr_text": "Stella Ardor Night [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nステルラアーダ夜[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Stella Ardor Night [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Stella Ardor Night [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501796",
 		"jp_text": "ワンショルワンピ[Ba]",
 		"tr_text": "One Shoulder Dress [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nワンショルワンピ[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"One Shoulder Dress [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"One Shoulder Dress [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501797",
 		"jp_text": "ワンショルワンピ陽[Ba]",
 		"tr_text": "One Shoulder Dress Sun [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nワンショルワンピ陽[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"One Shoulder Dress Sun [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"One Shoulder Dress Sun [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501798",
 		"jp_text": "ワンショルワンピ雅[Ba]",
 		"tr_text": "One Shoulder Dress Elegant [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nワンショルワンピ雅[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"One Shoulder Dress Elegant [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"One Shoulder Dress Elegant [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501799",
 		"jp_text": "ワンショルワンピ海[Ba]",
 		"tr_text": "One Shoulder Dress Sea [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nワンショルワンピ海[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"One Shoulder Dress Sea [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"One Shoulder Dress Sea [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501800",
 		"jp_text": "ワンショルワンピ影[Ba]",
 		"tr_text": "One Shoulder Dress Shadow [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nワンショルワンピ影[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"One Shoulder Dress Shadow [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"One Shoulder Dress Shadow [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501801",
 		"jp_text": "ワンショルワンピ葉[Ba]",
 		"tr_text": "One Shoulder Dress Leaf [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nワンショルワンピ葉[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"One Shoulder Dress Leaf [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"One Shoulder Dress Leaf [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501802",
 		"jp_text": "天星学院制服Ｆ栗[Ba]",
 		"tr_text": "Tensei Uniform F Chestnut [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\n天星学院制服Ｆ栗[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Tensei Uniform F Chestnut [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Tensei Uniform F Chestnut [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501803",
 		"jp_text": "エクササイズブルマ茜[Ba]",
 		"tr_text": "Exercise Bloomers Madder [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nエクササイズブルマ茜[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Exercise Bloomers Madder [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Exercise Bloomers Madder [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501804",
 		"jp_text": "エクササイズブルマ夜[Ba]",
 		"tr_text": "Exercise Bloomers Night [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nエクササイズブルマ夜[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Exercise Bloomers Night [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Exercise Bloomers Night [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501805",
 		"jp_text": "ショートデニム紅[Ba]",
 		"tr_text": "Short Denim Crimson [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nショートデニム紅[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Short Denim Crimson [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Short Denim Crimson [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501806",
 		"jp_text": "フリルスカート影[Ba]",
 		"tr_text": "Frill Skirt Shadow [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nフリルスカート影[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Frill Skirt Shadow [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Frill Skirt Shadow [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501807",
 		"jp_text": "フロリックポプシー秋[Ba]",
 		"tr_text": "Frolic Popsy Autumn [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nフロリックポプシー秋[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Frolic Popsy Autumn [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Frolic Popsy Autumn [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501808",
 		"jp_text": "フロリックポプシー栗[Ba]",
 		"tr_text": "Frolic Popsy Chestnut [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nフロリックポプシー栗[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Frolic Popsy Chestnut [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Frolic Popsy Chestnut [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501809",
 		"jp_text": "ラミュロスシルエット玄[Ba]",
 		"tr_text": "Lamyros Silhouette Black [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nラミュロスシルエット玄[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Lamyros Silhouette Black [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Lamyros Silhouette Black [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501810",
 		"jp_text": "メルレットカリーナ葉[Ba]",
 		"tr_text": "Merletto Carina Leaf [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nメルレットカリーナ葉[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Merletto Carina Leaf [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Merletto Carina Leaf [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501811",
 		"jp_text": "メルレットカリーナ雅[Ba]",
 		"tr_text": "Merletto Carina Elegant [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nメルレットカリーナ雅[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Merletto Carina Elegant [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Merletto Carina Elegant [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501812",
 		"jp_text": "カレテラヴィント海[Ba]",
 		"tr_text": "Careterra Wind Sea [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nカレテラヴィント海[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Careterra Wind Sea [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Careterra Wind Sea [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501813",
 		"jp_text": "カレテラヴィント秋[Ba]",
 		"tr_text": "Careterra Wind Autumn [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nカレテラヴィント秋[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Careterra Wind Autumn [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Careterra Wind Autumn [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501814",
 		"jp_text": "ミコトクラスタ[Ba]",
 		"tr_text": "Mikoto Cluster [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nミコトクラスタ[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Mikoto Cluster [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Mikoto Cluster [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501820",
 		"jp_text": "リスティジルフィ[Ba]",
 		"tr_text": "Lysti Zyllphi [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nリスティジルフィ[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Lysti Zyllphi [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Lysti Zyllphi [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501821",
 		"jp_text": "リスティジルフィ海[Ba]",
 		"tr_text": "Lysti Zyllphi Sea [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nリスティジルフィ海[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Lysti Zyllphi Sea [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Lysti Zyllphi Sea [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501822",
 		"jp_text": "リスティジルフィ影[Ba]",
 		"tr_text": "Lysti Zyllphi Shadow [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nリスティジルフィ影[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Lysti Zyllphi Shadow [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Lysti Zyllphi Shadow [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501823",
 		"jp_text": "リスティジルフィ雪[Ba]",
 		"tr_text": "Lysti Zyllphi Snow [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nリスティジルフィ雪[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Lysti Zyllphi Snow [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Lysti Zyllphi Snow [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501824",
 		"jp_text": "リスティジルフィ紅[Ba]",
 		"tr_text": "Lysti Zyllphi Crimson [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nリスティジルフィ紅[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Lysti Zyllphi Crimson [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Lysti Zyllphi Crimson [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501825",
 		"jp_text": "リスティジルフィ桜[Ba]",
 		"tr_text": "Lysti Zyllphi Sakura [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nリスティジルフィ桜[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Lysti Zyllphi Sakura [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Lysti Zyllphi Sakura [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501826",
 		"jp_text": "ポポナ・レプカ[Ba]",
 		"tr_text": "Popona Repca [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nポポナ・レプカ[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Popona Repca [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Popona Repca [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501827",
 		"jp_text": "ポポナ・レプカ空[Ba]",
 		"tr_text": "Popona Repca Sky [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nポポナ・レプカ空[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Popona Repca Sky [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Popona Repca Sky [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501828",
 		"jp_text": "ポポナ・レプカ影[Ba]",
 		"tr_text": "Popona Repca Shadow [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nポポナ・レプカ影[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Popona Repca Shadow [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Popona Repca Shadow [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501829",
 		"jp_text": "ポポナ・レプカ月[Ba]",
 		"tr_text": "Popona Repca Moon [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nポポナ・レプカ月[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Popona Repca Moon [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Popona Repca Moon [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501830",
 		"jp_text": "ポポナ・レプカ紅[Ba]",
 		"tr_text": "Popona Repca Crimson [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nポポナ・レプカ紅[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Popona Repca Crimson [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Popona Repca Crimson [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501831",
 		"jp_text": "ポポナ・レプカ雅[Ba]",
 		"tr_text": "Popona Repca Elegant [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nポポナ・レプカ雅[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Popona Repca Elegant [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Popona Repca Elegant [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501832",
 		"jp_text": "イノセンシアユール[Ba]",
 		"tr_text": "Innocentia Yule [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nイノセンシアユール[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Innocentia Yule [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Innocentia Yule [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501833",
 		"jp_text": "イノセンシアユール海[Ba]",
 		"tr_text": "Innocentia Yule Sea [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nイノセンシアユール海[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Innocentia Yule Sea [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Innocentia Yule Sea [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501834",
 		"jp_text": "イノセンシアユール桜[Ba]",
 		"tr_text": "Innocentia Yule Sakura [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nイノセンシアユール桜[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Innocentia Yule Sakura [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Innocentia Yule Sakura [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501835",
 		"jp_text": "イノセンシアユール葉[Ba]",
 		"tr_text": "Innocentia Yule Leaf [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nイノセンシアユール葉[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Innocentia Yule Leaf [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Innocentia Yule Leaf [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501836",
 		"jp_text": "イノセンシアユール雅[Ba]",
 		"tr_text": "Innocentia Yule Elegant [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nイノセンシアユール雅[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Innocentia Yule Elegant [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Innocentia Yule Elegant [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501837",
 		"jp_text": "イノセンシアユール雪[Ba]",
 		"tr_text": "Innocentia Yule Snow [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nイノセンシアユール雪[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Innocentia Yule Snow [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Innocentia Yule Snow [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501838",
 		"jp_text": "メルターウィンテル[Ba]",
 		"tr_text": "Melter Winter [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nメルターウィンテル[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Melter Winter [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Melter Winter [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501839",
 		"jp_text": "メルターウィンテル海[Ba]",
 		"tr_text": "Melter Winter Sea [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nメルターウィンテル海[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Melter Winter Sea [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Melter Winter Sea [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501840",
 		"jp_text": "メルターウィンテル陽[Ba]",
 		"tr_text": "Melter Winter Sun [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nメルターウィンテル陽[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Melter Winter Sun [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Melter Winter Sun [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501841",
 		"jp_text": "メルターウィンテル雅[Ba]",
 		"tr_text": "Melter Winter Elegant [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nメルターウィンテル雅[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Melter Winter Elegant [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Melter Winter Elegant [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501842",
 		"jp_text": "メルターウィンテル影[Ba]",
 		"tr_text": "Melter Winter Shadow [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nメルターウィンテル影[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Melter Winter Shadow [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Melter Winter Shadow [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501843",
 		"jp_text": "メルターウィンテル雪[Ba]",
 		"tr_text": "Melter Winter Snow [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nメルターウィンテル雪[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Melter Winter Snow [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Melter Winter Snow [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501844",
 		"jp_text": "シランスリート[Ba]",
 		"tr_text": "Silence Lied [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nシランスリート[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Silence Lied [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Silence Lied [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501845",
 		"jp_text": "シランスリート空[Ba]",
 		"tr_text": "Silence Lied Sky [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nシランスリート空[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Silence Lied Sky [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Silence Lied Sky [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501846",
 		"jp_text": "シランスリート雅[Ba]",
 		"tr_text": "Silence Lied Elegant [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nシランスリート雅[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Silence Lied Elegant [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Silence Lied Elegant [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501847",
 		"jp_text": "シランスリート紅[Ba]",
 		"tr_text": "Silence Lied Crimson [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nシランスリート紅[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Silence Lied Crimson [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Silence Lied Crimson [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501848",
 		"jp_text": "シランスリート影[Ba]",
 		"tr_text": "Silence Lied Shadow [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nシランスリート影[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Silence Lied Shadow [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Silence Lied Shadow [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501849",
 		"jp_text": "シランスリート雪[Ba]",
 		"tr_text": "Silence Lied Snow [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nシランスリート雪[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Silence Lied Snow [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Silence Lied Snow [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501850",
 		"jp_text": "少名比売麗衣[Ba]",
 		"tr_text": "Sukunahime Finery [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\n少名比売麗衣[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Sukunahime Finery [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Sukunahime Finery [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501851",
 		"jp_text": "少名比売麗衣　影[Ba]",
 		"tr_text": "Sukunahime Finery Shadow [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\n少名比売麗衣　影[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Sukunahime Finery Shadow [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Sukunahime Finery Shadow [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501852",
 		"jp_text": "少名比売麗衣　月[Ba]",
 		"tr_text": "Sukunahime Finery Moon [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\n少名比売麗衣　月[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Sukunahime Finery Moon [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Sukunahime Finery Moon [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501853",
 		"jp_text": "少名比売麗衣　葉[Ba]",
 		"tr_text": "Sukunahime Finery Leaf [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\n少名比売麗衣　葉[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Sukunahime Finery Leaf [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Sukunahime Finery Leaf [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501854",
 		"jp_text": "少名比売麗衣　雅[Ba]",
 		"tr_text": "Sukunahime Finery Elegant [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\n少名比売麗衣　雅[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Sukunahime Finery Elegant [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Sukunahime Finery Elegant [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501855",
 		"jp_text": "少名比売麗衣　鋼[Ba]",
 		"tr_text": "Sukunahime Finery Steel [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\n少名比売麗衣　鋼[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Sukunahime Finery Steel [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Sukunahime Finery Steel [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501856",
 		"jp_text": "リバティークラスタ[Ba]",
 		"tr_text": "Liberty Cluster [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nリバティークラスタ[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Liberty Cluster [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Liberty Cluster [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501857",
 		"jp_text": "サーキットデイジー玄[Ba]",
 		"tr_text": "Circuit Daisy Mysterious [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nサーキットデイジー玄[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Circuit Daisy Mysterious [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Circuit Daisy Mysterious [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501858",
 		"jp_text": "サーキットデイジー冬[Ba]",
 		"tr_text": "Circuit Daisy Winter [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nサーキットデイジー冬[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Circuit Daisy Winter [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Circuit Daisy Winter [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501859",
 		"jp_text": "サーキットデイジー茜[Ba]",
 		"tr_text": "Circuit Daisy Madder [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nサーキットデイジー茜[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Circuit Daisy Madder [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Circuit Daisy Madder [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501860",
 		"jp_text": "コンバットライダー玄[Ba]",
 		"tr_text": "Combat Rider Mysterious [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nコンバットライダー玄[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Combat Rider Mysterious [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Combat Rider Mysterious [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501861",
 		"jp_text": "コンバットライダー森[Ba]",
 		"tr_text": "Combat Rider Forest [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nコンバットライダー森[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Combat Rider Forest [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Combat Rider Forest [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501862",
 		"jp_text": "コンバットライダー鋼[Ba]",
 		"tr_text": "Combat Rider Steel [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nコンバットライダー鋼[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Combat Rider Steel [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Combat Rider Steel [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501863",
 		"jp_text": "アクセルクイーン茜[Ba]",
 		"tr_text": "Accel Queen Madder [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nアクセルクイーン茜[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Accel Queen Madder [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Accel Queen Madder [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501864",
 		"jp_text": "アクセルクイーン夏[Ba]",
 		"tr_text": "Accel Queen Summer [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nアクセルクイーン夏[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Accel Queen Summer [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Accel Queen Summer [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501865",
 		"jp_text": "ハッピーガーネット紅[Ba]",
 		"tr_text": "Happy Garnet Crimson [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nハッピーガーネット紅[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Happy Garnet Crimson [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Happy Garnet Crimson [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501866",
 		"jp_text": "ハッピーガーネット鋼[Ba]",
 		"tr_text": "Happy Garnet Steel [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nハッピーガーネット鋼[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Happy Garnet Steel [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Happy Garnet Steel [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501867",
 		"jp_text": "スマートサファイア海[Ba]",
 		"tr_text": "Smart Sapphire Sea [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nスマートサファイア海[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Smart Sapphire Sea [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Smart Sapphire Sea [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501868",
 		"jp_text": "スマートサファイア雪[Ba]",
 		"tr_text": "Smart Sapphire Snow [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nスマートサファイア雪[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Smart Sapphire Snow [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Smart Sapphire Snow [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501869",
 		"jp_text": "テンダーエメラルド葉[Ba]",
 		"tr_text": "Tender Emerald Leaf [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nテンダーエメラルド葉[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Tender Emerald Leaf [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Tender Emerald Leaf [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501870",
 		"jp_text": "テンダーエメラルド玄[Ba]",
 		"tr_text": "Tender Emerald Black [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nテンダーエメラルド玄[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Tender Emerald Black [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Tender Emerald Black [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501871",
 		"jp_text": "スターリージュエル玄[Ba]",
 		"tr_text": "Starry Jewel Mysterious [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nスターリージュエル玄[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Starry Jewel Mysterious [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Starry Jewel Mysterious [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501872",
 		"jp_text": "スターリージュエル紅[Ba]",
 		"tr_text": "Starry Jewel Crimson [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nスターリージュエル紅[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Starry Jewel Crimson [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Starry Jewel Crimson [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501873",
 		"jp_text": "フェリシテノーチェ玄[Ba]",
 		"tr_text": "Felicite Noche Mysterious [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nフェリシテノーチェ玄[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Felicite Noche Mysterious [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Felicite Noche Mysterious [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501874",
 		"jp_text": "フェリシテノーチェ茜[Ba]",
 		"tr_text": "Felicite Noche Madder [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nフェリシテノーチェ茜[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Felicite Noche Madder [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Felicite Noche Madder [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501875",
 		"jp_text": "ネーヴェレンナ玄[Ba]",
 		"tr_text": "Neve Renna Mysterious [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nネーヴェレンナ玄[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Neve Renna Mysterious [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Neve Renna Mysterious [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501876",
 		"jp_text": "ネーヴェレンナ冬[Ba]",
 		"tr_text": "Neve Renna Winter [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nネーヴェレンナ冬[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Neve Renna Winter [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Neve Renna Winter [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501877",
 		"jp_text": "スノーファンタジア玄[Ba]",
 		"tr_text": "Snow Fantasia Mysterious [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nスノーファンタジア玄[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Snow Fantasia Mysterious [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Snow Fantasia Mysterious [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501878",
 		"jp_text": "スノーファンタジア冬[Ba]",
 		"tr_text": "Snow Fantasia Winter [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nスノーファンタジア冬[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Snow Fantasia Winter [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Snow Fantasia Winter [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501879",
 		"jp_text": "デサンブルアンジュ栗[Ba]",
 		"tr_text": "Decembre Ange Chestnut [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nデサンブルアンジュ栗[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Decembre Ange Chestnut [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Decembre Ange Chestnut [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501880",
 		"jp_text": "デサンブルアンジュ空[Ba]",
 		"tr_text": "Decembre Ange Sky [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nデサンブルアンジュ空[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Decembre Ange Sky [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Decembre Ange Sky [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501881",
 		"jp_text": "イロイスアルキュリア冬[Ba]",
 		"tr_text": "Iloise Alcuria Winter [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nイロイスアルキュリア冬[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Iloise Alcuria Winter [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Iloise Alcuria Winter [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501882",
 		"jp_text": "ゼルシウス紅[Ba]",
 		"tr_text": "Zelsius Crimson [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nゼルシウス紅[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Zelsius Crimson [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Zelsius Crimson [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501883",
 		"jp_text": "ロレットベルディア冬[Ba]",
 		"tr_text": "Lorette Beldia Winter [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nロレットベルディア冬[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Lorette Beldia Winter [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Lorette Beldia Winter [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501884",
 		"jp_text": "ロレットベルディアＢ冬[Ba]",
 		"tr_text": "Lorette Beldia B Winter [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nロレットベルディアＢ冬[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Lorette Beldia B Winter [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Lorette Beldia B Winter [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501885",
 		"jp_text": "フレンチスリーブ[Ba]",
 		"tr_text": "French Sleeve [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nフレンチスリーブ[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"French Sleeve [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"French Sleeve [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501886",
 		"jp_text": "フレンチスリーブ雪[Ba]",
 		"tr_text": "French Sleeve Snow [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nフレンチスリーブ雪[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"French Sleeve Snow [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"French Sleeve Snow [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501891",
 		"jp_text": "エスタテリザ[Ba]",
 		"tr_text": "Esta Teresa [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nエスタテリザ[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Esta Teresa [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Esta Teresa [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501892",
 		"jp_text": "エスタテリザ夜[Ba]",
 		"tr_text": "Esta Teresa Night [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nエスタテリザ夜[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Esta Teresa Night [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Esta Teresa Night [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501893",
 		"jp_text": "エスタテリザ雪[Ba]",
 		"tr_text": "Esta Teresa Snow [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nエスタテリザ雪[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Esta Teresa Snow [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Esta Teresa Snow [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501894",
 		"jp_text": "エスタテリザ海[Ba]",
 		"tr_text": "Esta Teresa Sea [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nエスタテリザ海[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Esta Teresa Sea [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Esta Teresa Sea [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501895",
 		"jp_text": "エスタテリザ雅[Ba]",
 		"tr_text": "Esta Teresa Elegant [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nエスタテリザ雅[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Esta Teresa Elegant [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Esta Teresa Elegant [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501896",
 		"jp_text": "エスタテリザ影[Ba]",
 		"tr_text": "Esta Teresa Shadow [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nエスタテリザ影[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Esta Teresa Shadow [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Esta Teresa Shadow [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501897",
 		"jp_text": "煌蝶春風[Ba]",
 		"tr_text": "Lustrous Butterfly [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\n煌蝶春風[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Lustrous Butterfly [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Lustrous Butterfly [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501898",
 		"jp_text": "煌蝶春風　紅[Ba]",
 		"tr_text": "Lustrous Butterfly Scarlet [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\n煌蝶春風　紅[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Lustrous Butterfly Scarlet [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Lustrous Butterfly Scarlet [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501899",
 		"jp_text": "煌蝶春風　影[Ba]",
 		"tr_text": "Lustrous Butterfly Shadow [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\n煌蝶春風　影[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Lustrous Butterfly Shadow [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Lustrous Butterfly Shadow [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501900",
 		"jp_text": "煌蝶春風　陽[Ba]",
 		"tr_text": "Lustrous Butterfly Sun [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\n煌蝶春風　陽[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Lustrous Butterfly Sun [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Lustrous Butterfly Sun [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501901",
 		"jp_text": "煌蝶春風　海[Ba]",
 		"tr_text": "Lustrous Butterfly Sea [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\n煌蝶春風　海[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Lustrous Butterfly Sea [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Lustrous Butterfly Sea [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501902",
 		"jp_text": "煌蝶春風　雪[Ba]",
 		"tr_text": "Lustrous Butterfly Snow [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\n煌蝶春風　雪[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Lustrous Butterfly Snow [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Lustrous Butterfly Snow [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501903",
 		"jp_text": "椿輪春明[Ba]",
 		"tr_text": "Budding Camellia [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\n椿輪春明[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Budding Camellia [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Budding Camellia [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501904",
 		"jp_text": "椿輪春明　桜[Ba]",
 		"tr_text": "Budding Camellia Sakura [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\n椿輪春明　桜[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Budding Camellia Sakura [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Budding Camellia Sakura [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501905",
 		"jp_text": "椿輪春明　葉[Ba]",
 		"tr_text": "Budding Camellia Leaf [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\n椿輪春明　葉[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Budding Camellia Leaf [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Budding Camellia Leaf [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501906",
 		"jp_text": "椿輪春明　空[Ba]",
 		"tr_text": "Budding Camellia Sky [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\n椿輪春明　空[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Budding Camellia Sky [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Budding Camellia Sky [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501907",
 		"jp_text": "椿輪春明　月[Ba]",
 		"tr_text": "Budding Camellia Moon [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\n椿輪春明　月[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Budding Camellia Moon [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Budding Camellia Moon [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501908",
 		"jp_text": "椿輪春明　雅[Ba]",
 		"tr_text": "Budding Camellia Elegant [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\n椿輪春明　雅[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Budding Camellia Elegant [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Budding Camellia Elegant [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501909",
 		"jp_text": "ヤヨイシュガリー[Ba]",
 		"tr_text": "Yayoi Sugary [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nヤヨイシュガリー[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Yayoi Sugary [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Yayoi Sugary [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501910",
 		"jp_text": "ヤヨイシュガリー空[Ba]",
 		"tr_text": "Yayoi Sugary Sky [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nヤヨイシュガリー空[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Yayoi Sugary Sky [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Yayoi Sugary Sky [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501911",
 		"jp_text": "ヤヨイシュガリー紅[Ba]",
 		"tr_text": "Yayoi Sugary Crimson [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nヤヨイシュガリー紅[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Yayoi Sugary Crimson [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Yayoi Sugary Crimson [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501912",
 		"jp_text": "ヤヨイシュガリー陽[Ba]",
 		"tr_text": "Yayoi Sugary Sun [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nヤヨイシュガリー陽[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Yayoi Sugary Sun [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Yayoi Sugary Sun [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501913",
 		"jp_text": "ヤヨイシュガリー葉[Ba]",
 		"tr_text": "Yayoi Sugary Leaf [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nヤヨイシュガリー葉[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Yayoi Sugary Leaf [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Yayoi Sugary Leaf [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501914",
 		"jp_text": "ヤヨイシュガリー影[Ba]",
 		"tr_text": "Yayoi Sugary Shadow [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nヤヨイシュガリー影[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Yayoi Sugary Shadow [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Yayoi Sugary Shadow [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501915",
 		"jp_text": "メイヴィスエブリル[Ba]",
 		"tr_text": "Mavis Avril [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nメイヴィスエブリル[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Mavis Avril [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Mavis Avril [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501916",
 		"jp_text": "メイヴィスエブリル栗[Ba]",
 		"tr_text": "Mavis Avril Chestnut [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nメイヴィスエブリル栗[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Mavis Avril Chestnut [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Mavis Avril Chestnut [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501917",
 		"jp_text": "メイヴィスエブリル影[Ba]",
 		"tr_text": "Mavis Avril Shadow [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nメイヴィスエブリル影[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Mavis Avril Shadow [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Mavis Avril Shadow [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501918",
 		"jp_text": "メイヴィスエブリル葉[Ba]",
 		"tr_text": "Mavis Avril Leaf [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nメイヴィスエブリル葉[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Mavis Avril Leaf [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Mavis Avril Leaf [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501919",
 		"jp_text": "メイヴィスエブリル海[Ba]",
 		"tr_text": "Mavis Avril Sea [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nメイヴィスエブリル海[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Mavis Avril Sea [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Mavis Avril Sea [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501920",
 		"jp_text": "メイヴィスエブリル桜[Ba]",
 		"tr_text": "Mavis Avril Sakura [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nメイヴィスエブリル桜[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Mavis Avril Sakura [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Mavis Avril Sakura [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501921",
 		"jp_text": "藤花姫[Ba]",
 		"tr_text": "Wisteria Dame [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\n藤花姫[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Wisteria Dame [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Wisteria Dame [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501922",
 		"jp_text": "藤花姫　空[Ba]",
 		"tr_text": "Wisteria Dame Sky [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\n藤花姫　空[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Wisteria Dame Sky [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Wisteria Dame Sky [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501923",
 		"jp_text": "藤花姫　雅[Ba]",
 		"tr_text": "Wisteria Dame Elegant [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\n藤花姫　雅[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Wisteria Dame Elegant [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Wisteria Dame Elegant [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501924",
 		"jp_text": "藤花姫　夜[Ba]",
 		"tr_text": "Wisteria Dame Night [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\n藤花姫　夜[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Wisteria Dame Night [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Wisteria Dame Night [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501925",
 		"jp_text": "藤花姫　月[Ba]",
 		"tr_text": "Wisteria Dame Moon [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\n藤花姫　月[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Wisteria Dame Moon [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Wisteria Dame Moon [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501926",
 		"jp_text": "藤花姫　影[Ba]",
 		"tr_text": "Wisteria Dame Shadow [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\n藤花姫　影[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Wisteria Dame Shadow [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Wisteria Dame Shadow [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501927",
 		"jp_text": "鈴蘭姫[Ba]",
 		"tr_text": "Convallaria Dame [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\n鈴蘭姫[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Convallaria Dame [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Convallaria Dame [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501928",
 		"jp_text": "鈴蘭姫　空[Ba]",
 		"tr_text": "Convallaria Dame Sky [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\n鈴蘭姫　空[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Convallaria Dame Sky [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Convallaria Dame Sky [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501929",
 		"jp_text": "鈴蘭姫　影[Ba]",
 		"tr_text": "Convallaria Dame Shadow [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\n鈴蘭姫　影[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Convallaria Dame Shadow [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Convallaria Dame Shadow [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501930",
 		"jp_text": "鈴蘭姫　桜[Ba]",
 		"tr_text": "Convallaria Dame Sakura [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\n鈴蘭姫　桜[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Convallaria Dame Sakura [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Convallaria Dame Sakura [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501931",
 		"jp_text": "鈴蘭姫　葉[Ba]",
 		"tr_text": "Convallaria Dame Leaf [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\n鈴蘭姫　葉[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Convallaria Dame Leaf [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Convallaria Dame Leaf [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501932",
 		"jp_text": "鈴蘭姫　月[Ba]",
 		"tr_text": "Convallaria Dame Moon [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\n鈴蘭姫　月[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Convallaria Dame Moon [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Convallaria Dame Moon [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501933",
 		"jp_text": "森ガール風ワンピ[Ba]",
 		"tr_text": "Mori Girl Dress [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\n森ガール風ワンピ[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Mori Girl Dress [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Mori Girl Dress [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501934",
 		"jp_text": "森ガール風ワンピ葉[Ba]",
 		"tr_text": "Mori Girl Dress Leaf [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\n森ガール風ワンピ葉[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Mori Girl Dress Leaf [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Mori Girl Dress Leaf [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501935",
 		"jp_text": "森ガール風ワンピ桜[Ba]",
 		"tr_text": "Mori Girl Dress Sakura [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\n森ガール風ワンピ桜[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Mori Girl Dress Sakura [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Mori Girl Dress Sakura [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501936",
 		"jp_text": "森ガール風ワンピ月[Ba]",
 		"tr_text": "Mori Girl Dress Moon [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\n森ガール風ワンピ月[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Mori Girl Dress Moon [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Mori Girl Dress Moon [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501937",
 		"jp_text": "森ガール風ワンピ影[Ba]",
 		"tr_text": "Mori Girl Dress Shadow [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\n森ガール風ワンピ影[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Mori Girl Dress Shadow [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Mori Girl Dress Shadow [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501938",
 		"jp_text": "森ガール風ワンピ雪[Ba]",
 		"tr_text": "Mori Girl Dress Snow [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\n森ガール風ワンピ雪[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Mori Girl Dress Snow [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Mori Girl Dress Snow [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501939",
 		"jp_text": "ローザリンデＣ・レプカ[Ba]",
 		"tr_text": "Rosalinde C Repca [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nローザリンデＣ・レプカ[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Rosalinde C Repca [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Rosalinde C Repca [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501940",
 		"jp_text": "ローザリンデＣ・レプカ紅[Ba]",
 		"tr_text": "Rosalinde C Repca Crimson [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nローザリンデＣ・レプカ紅[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Rosalinde C Repca Crimson [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Rosalinde C Repca Crimson [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501941",
 		"jp_text": "ローザリンデＣ・レプカ影[Ba]",
 		"tr_text": "Rosalinde C Repca Shadow [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nローザリンデＣ・レプカ影[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Rosalinde C Repca Shadow [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Rosalinde C Repca Shadow [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501942",
 		"jp_text": "ローザリンデＣ・レプカ海[Ba]",
 		"tr_text": "Rosalinde C Repca Sea [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nローザリンデＣ・レプカ海[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Rosalinde C Repca Sea [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Rosalinde C Repca Sea [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501943",
 		"jp_text": "ローザリンデＣ・レプカ陽[Ba]",
 		"tr_text": "Rosalinde C Repca Sun [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nローザリンデＣ・レプカ陽[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Rosalinde C Repca Sun [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Rosalinde C Repca Sun [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501944",
 		"jp_text": "ローザリンデＣ・レプカ空[Ba]",
 		"tr_text": "Rosalinde C Repca Sky [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nローザリンデＣ・レプカ空[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Rosalinde C Repca Sky [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Rosalinde C Repca Sky [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501945",
 		"jp_text": "ゾラ・レプカ[Ba]",
 		"tr_text": "Zola Repca [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nゾラ・レプカ[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Zola Repca [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Zola Repca [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501946",
 		"jp_text": "ゾラ・レプカ雪[Ba]",
 		"tr_text": "Zola Repca Snow [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nゾラ・レプカ雪[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Zola Repca Snow [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Zola Repca Snow [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501947",
 		"jp_text": "ゾラ・レプカ栗[Ba]",
 		"tr_text": "Zola Repca Chestnut [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nゾラ・レプカ栗[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Zola Repca Chestnut [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Zola Repca Chestnut [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501948",
 		"jp_text": "ゾラ・レプカ紅[Ba]",
 		"tr_text": "Zola Repca Crimson [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nゾラ・レプカ紅[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Zola Repca Crimson [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Zola Repca Crimson [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501949",
 		"jp_text": "ゾラ・レプカ海[Ba]",
 		"tr_text": "Zola Repca Sea [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nゾラ・レプカ海[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Zola Repca Sea [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Zola Repca Sea [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501950",
 		"jp_text": "ゾラ・レプカ葉[Ba]",
 		"tr_text": "Zola Repca Leaf [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nゾラ・レプカ葉[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Zola Repca Leaf [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Zola Repca Leaf [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501951",
 		"jp_text": "アベーユ・レプカ[Ba]",
 		"tr_text": "Abeille Repca [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nアベーユ・レプカ[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Abeille Repca [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Abeille Repca [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501952",
 		"jp_text": "アベーユ・レプカ葉[Ba]",
 		"tr_text": "Abeille Repca Leaf [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nアベーユ・レプカ葉[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Abeille Repca Leaf [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Abeille Repca Leaf [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501953",
 		"jp_text": "アベーユ・レプカ雪[Ba]",
 		"tr_text": "Abeille Repca Snow [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nアベーユ・レプカ雪[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Abeille Repca Snow [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Abeille Repca Snow [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501954",
 		"jp_text": "アベーユ・レプカ紅[Ba]",
 		"tr_text": "Abeille Repca Crimson [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nアベーユ・レプカ紅[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Abeille Repca Crimson [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Abeille Repca Crimson [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501955",
 		"jp_text": "アベーユ・レプカ海[Ba]",
 		"tr_text": "Abeille Repca Sea [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nアベーユ・レプカ海[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Abeille Repca Sea [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Abeille Repca Sea [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501956",
 		"jp_text": "アベーユ・レプカ雅[Ba]",
 		"tr_text": "Abeille Repca Elegant [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nアベーユ・レプカ雅[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Abeille Repca Elegant [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Abeille Repca Elegant [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501957",
 		"jp_text": "ソルジャーズメロウ[Ba]",
 		"tr_text": "Soldier's Mellow [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nソルジャーズメロウ[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Soldier's Mellow [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Soldier's Mellow [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501958",
 		"jp_text": "キャンディークラウン[Ba]",
 		"tr_text": "Candy Crown [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nキャンディークラウン[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Candy Crown [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Candy Crown [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501959",
 		"jp_text": "逢魔幽玄譚　玄[Ba]",
 		"tr_text": "Amorous Tale Mysterious [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\n逢魔幽玄譚　玄[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Amorous Tale Mysterious [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Amorous Tale Mysterious [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501960",
 		"jp_text": "逢魔幽玄譚　冬[Ba]",
 		"tr_text": "Amorous Tale Winter [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\n逢魔幽玄譚　冬[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Amorous Tale Winter [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Amorous Tale Winter [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501961",
 		"jp_text": "逢魔幽玄譚　茜[Ba]",
 		"tr_text": "Amorous Tale Madder [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\n逢魔幽玄譚　茜[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Amorous Tale Madder [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Amorous Tale Madder [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501962",
 		"jp_text": "ターフピオナ冬[Ba]",
 		"tr_text": "Turf Peony Winter [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nターフピオナ冬[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Turf Peony Winter [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Turf Peony Winter [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501963",
 		"jp_text": "ターフピオナ玄[Ba]",
 		"tr_text": "Turf Peony Mysterious [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nターフピオナ玄[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Turf Peony Mysterious [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Turf Peony Mysterious [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501964",
 		"jp_text": "ターフピオナ茜[Ba]",
 		"tr_text": "Turf Peony Madder [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nターフピオナ茜[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Turf Peony Madder [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Turf Peony Madder [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501965",
 		"jp_text": "ストライプワンピース桜[Ba]",
 		"tr_text": "Striped One-Piece Sakura [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nストライプワンピース桜[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Striped One-Piece Sakura [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Striped One-Piece Sakura [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501966",
 		"jp_text": "ストライプワンピース夜[Ba]",
 		"tr_text": "Striped One-Piece Night [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nストライプワンピース夜[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Striped One-Piece Night [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Striped One-Piece Night [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501967",
 		"jp_text": "エヴィルアマルティ冬[Ba]",
 		"tr_text": "Evil Amalty Winter [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nエヴィルアマルティ冬[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Evil Amalty Winter [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Evil Amalty Winter [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501968",
 		"jp_text": "エヴィルアマルティ紅[Ba]",
 		"tr_text": "Evil Amalty Crimson [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nエヴィルアマルティ紅[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Evil Amalty Crimson [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Evil Amalty Crimson [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501969",
 		"jp_text": "エヴィルアマルティ凍[Ba]",
 		"tr_text": "Evil Amalty Frozen [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nエヴィルアマルティ凍[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Evil Amalty Frozen [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Evil Amalty Frozen [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501970",
 		"jp_text": "クレディアジャステ夜[Ba]",
 		"tr_text": "Credea Juste Night [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nクレディアジャステ夜[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Credea Juste Night [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Credea Juste Night [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501971",
 		"jp_text": "クレディアジャステ栗[Ba]",
 		"tr_text": "Credea Juste Chestnut [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nクレディアジャステ栗[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Credea Juste Chestnut [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Credea Juste Chestnut [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501972",
 		"jp_text": "ハルチハヤ玄[Ba]",
 		"tr_text": "Haru Chihaya Winter [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nハルチハヤ玄[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Haru Chihaya Winter [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Haru Chihaya Winter [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501973",
 		"jp_text": "ハルチハヤ紅[Ba]",
 		"tr_text": "Haru Chihaya Scarlet [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nハルチハヤ紅[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Haru Chihaya Scarlet [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Haru Chihaya Scarlet [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501974",
 		"jp_text": "ハルチハヤ藤[Ba]",
 		"tr_text": "Haru Chihaya Wisteria [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nハルチハヤ藤[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Haru Chihaya Wisteria [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Haru Chihaya Wisteria [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501975",
 		"jp_text": "淑花絹羽織　鋼[Ba]",
 		"tr_text": "Perennial Opulence Steel [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\n淑花絹羽織　鋼[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Perennial Opulence Steel [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Perennial Opulence Steel [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501976",
 		"jp_text": "淑花絹羽織　冬[Ba]",
 		"tr_text": "Perennial Opulence Winter [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\n淑花絹羽織　冬[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Perennial Opulence Winter [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Perennial Opulence Winter [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501977",
 		"jp_text": "淑花絹羽織　海[Ba]",
 		"tr_text": "Perennial Opulence Sea [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\n淑花絹羽織　海[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Perennial Opulence Sea [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Perennial Opulence Sea [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501978",
@@ -12954,210 +12954,210 @@
 		"jp_text": "ガナッシュフォンダ[Ba]",
 		"tr_text": "Ganache Fondant [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nガナッシュフォンダ[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Ganache Fondant [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Ganache Fondant [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501981",
 		"jp_text": "ガナッシュフォンダ紅[Ba]",
 		"tr_text": "Ganache Fondant Crimson [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nガナッシュフォンダ紅[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Ganache Fondant Crimson [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Ganache Fondant Crimson [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501982",
 		"jp_text": "ガナッシュフォンダ栗[Ba]",
 		"tr_text": "Ganache Fondant Chestnut [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nガナッシュフォンダ栗[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Ganache Fondant Chestnut [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Ganache Fondant Chestnut [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501983",
 		"jp_text": "ガナッシュフォンダ雪[Ba]",
 		"tr_text": "Ganache Fondant Snow [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nガナッシュフォンダ雪[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Ganache Fondant Snow [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Ganache Fondant Snow [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501984",
 		"jp_text": "ガナッシュフォンダ空[Ba]",
 		"tr_text": "Ganache Fondant Sky [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nガナッシュフォンダ空[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Ganache Fondant Sky [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Ganache Fondant Sky [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501985",
 		"jp_text": "ガナッシュフォンダ影[Ba]",
 		"tr_text": "Ganache Fondant Shadow [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nガナッシュフォンダ影[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Ganache Fondant Shadow [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Ganache Fondant Shadow [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501986",
 		"jp_text": "ハーツウィンプ[Ba]",
 		"tr_text": "Hearts Wimp [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nハーツウィンプ[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Hearts Wimp [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Hearts Wimp [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501987",
 		"jp_text": "ハーツウィンプ影[Ba]",
 		"tr_text": "Hearts Wimp Shadow [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nハーツウィンプ影[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Hearts Wimp Shadow [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Hearts Wimp Shadow [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501988",
 		"jp_text": "ハーツウィンプ紅[Ba]",
 		"tr_text": "Hearts Wimp Crimson [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nハーツウィンプ紅[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Hearts Wimp Crimson [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Hearts Wimp Crimson [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501989",
 		"jp_text": "ハーツウィンプ月[Ba]",
 		"tr_text": "Hearts Wimp Moon [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nハーツウィンプ月[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Hearts Wimp Moon [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Hearts Wimp Moon [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501990",
 		"jp_text": "ハーツウィンプ空[Ba]",
 		"tr_text": "Hearts Wimp Sky [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nハーツウィンプ空[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Hearts Wimp Sky [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Hearts Wimp Sky [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501991",
 		"jp_text": "ハーツウィンプ桜[Ba]",
 		"tr_text": "Hearts Wimp Sakura [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nハーツウィンプ桜[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Hearts Wimp Sakura [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Hearts Wimp Sakura [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501992",
 		"jp_text": "ブラウニーカルン[Ba]",
 		"tr_text": "Brownie Carn [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nブラウニーカルン[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Brownie Carn [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Brownie Carn [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501993",
 		"jp_text": "ブラウニーカルン葉[Ba]",
 		"tr_text": "Brownie Carn Leaf [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nブラウニーカルン葉[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Brownie Carn Leaf [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Brownie Carn Leaf [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501994",
 		"jp_text": "ブラウニーカルン影[Ba]",
 		"tr_text": "Brownie Carn Shadow [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nブラウニーカルン影[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Brownie Carn Shadow [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Brownie Carn Shadow [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501995",
 		"jp_text": "ブラウニーカルン陽[Ba]",
 		"tr_text": "Brownie Carn Sun [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nブラウニーカルン陽[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Brownie Carn Sun [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Brownie Carn Sun [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501996",
 		"jp_text": "ブラウニーカルン雪[Ba]",
 		"tr_text": "Brownie Carn Snow [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nブラウニーカルン雪[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Brownie Carn Snow [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Brownie Carn Snow [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501997",
 		"jp_text": "ブラウニーカルン桜[Ba]",
 		"tr_text": "Brownie Carn Sakura [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nブラウニーカルン桜[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Brownie Carn Sakura [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Brownie Carn Sakura [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501998",
 		"jp_text": "ティエヌフルース[Ba]",
 		"tr_text": "Tienne Fluse [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nティエヌフルース[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Tienne Fluse [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Tienne Fluse [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33501999",
 		"jp_text": "ティエヌフルース影[Ba]",
 		"tr_text": "Tienne Fluse Shadow [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nティエヌフルース影[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Tienne Fluse Shadow [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Tienne Fluse Shadow [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33502000",
 		"jp_text": "ティエヌフルース海[Ba]",
 		"tr_text": "Tienne Fluse Sea [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nティエヌフルース海[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Tienne Fluse Sea [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Tienne Fluse Sea [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33502001",
 		"jp_text": "ティエヌフルース紅[Ba]",
 		"tr_text": "Tienne Fluse Crimson [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nティエヌフルース紅[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Tienne Fluse Crimson [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Tienne Fluse Crimson [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33502002",
 		"jp_text": "ティエヌフルース葉[Ba]",
 		"tr_text": "Tienne Fluse Leaf [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nティエヌフルース葉[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Tienne Fluse Leaf [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Tienne Fluse Leaf [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33502003",
 		"jp_text": "ティエヌフルース桜[Ba]",
 		"tr_text": "Tienne Fluse Sakura [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nティエヌフルース桜[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Tienne Fluse Sakura [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Tienne Fluse Sakura [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33502004",
 		"jp_text": "オールディビューティ[Ba]",
 		"tr_text": "Olde Beauty [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nオールディビューティ[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Olde Beauty [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Olde Beauty [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33502005",
 		"jp_text": "オールディビューティ海[Ba]",
 		"tr_text": "Olde Beauty Sea [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nオールディビューティ海[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Olde Beauty Sea [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Olde Beauty Sea [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33502006",
 		"jp_text": "オールディビューティ紅[Ba]",
 		"tr_text": "Olde Beauty Crimson [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nオールディビューティ紅[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Olde Beauty Crimson [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Olde Beauty Crimson [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33502007",
 		"jp_text": "オールディビューティ月[Ba]",
 		"tr_text": "Olde Beauty Moon [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nオールディビューティ月[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Olde Beauty Moon [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Olde Beauty Moon [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33502008",
 		"jp_text": "オールディビューティ桜[Ba]",
 		"tr_text": "Olde Beauty Sakura [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nオールディビューティ桜[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Olde Beauty Sakura [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Olde Beauty Sakura [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33502009",
 		"jp_text": "オールディビューティ雪[Ba]",
 		"tr_text": "Olde Beauty Snow [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nオールディビューティ雪[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Olde Beauty Snow [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Olde Beauty Snow [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33502010",
@@ -13290,77 +13290,77 @@
 		"jp_text": "シュクルメルヘン桜[Ba]",
 		"tr_text": "Sucre Marchen Sakura [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nシュクルメルヘン桜[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Sucre Marchen Sakura [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Sucre Marchen Sakura [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33502029",
 		"jp_text": "シュクルメルヘン栗[Ba]",
 		"tr_text": "Sucre Marchen Chestnut [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nシュクルメルヘン栗[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Sucre Marchen Chestnut [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Sucre Marchen Chestnut [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33502030",
 		"jp_text": "アーベントローゼ静[Ba]",
 		"tr_text": "Abend Rose Tranquil [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nアーベントローゼ静[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Abend Rose Tranquil [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Abend Rose Tranquil [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33502031",
 		"jp_text": "アーベントローゼ玄[Ba]",
 		"tr_text": "Abend Rose Mysterious [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nアーベントローゼ玄[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Abend Rose Mysterious [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Abend Rose Mysterious [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33502032",
 		"jp_text": "レゾンヴァニタス玄[Ba]",
 		"tr_text": "Raison Vanitas Mysterious [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nレゾンヴァニタス玄[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Raison Vanitas Mysterious [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Raison Vanitas Mysterious [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33502033",
 		"jp_text": "レゾンヴァニタス夏[Ba]",
 		"tr_text": "Raison Vanitas Summer [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nレゾンヴァニタス夏[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Raison Vanitas Summer [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Raison Vanitas Summer [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33502034",
 		"jp_text": "レゾンヴァニタス月[Ba]",
 		"tr_text": "Raison Vanitas Moon [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nレゾンヴァニタス月[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Raison Vanitas Moon [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Raison Vanitas Moon [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33502035",
 		"jp_text": "ウェスタンガンガール玄[Ba]",
 		"tr_text": "Western Gun Girl Black [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nウェスタンガンガール玄[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Western Gun Girl Black [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Western Gun Girl Black [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33502036",
 		"jp_text": "ウェスタンガンガール冬[Ba]",
 		"tr_text": "Western Gun Girl Winter [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nウェスタンガンガール冬[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Western Gun Girl Winter [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Western Gun Girl Winter [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33502037",
 		"jp_text": "アベントレイス栗[Ba]",
 		"tr_text": "Avent Lace Chestnut [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nアベントレイス栗[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Avent Lace Chestnut [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Avent Lace Chestnut [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33502038",
 		"jp_text": "アベントレイス曜[Ba]",
 		"tr_text": "Avent Lace Day [Ba]",
 		"jp_explain": "使用すると、新しいベースウェアの\nアベントレイス曜[Ba]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new basewear\n\"Avent Lace Day [Ba]\".\nOnly usable on female characters."
+		"tr_explain": "Un nuevo traje base\n\"Avent Lace Day [Ba]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "33502039",

@@ -1593,112 +1593,112 @@
 		"jp_text": "濃いメイクＢ",
 		"tr_text": "Strong Makeup B",
 		"jp_explain": "チケットを使用すると、新しいメイクの\n濃いメイクＢが選択可能。",
-		"tr_explain": "Unlocks the makeup\n\"Strong Makeup B\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el maquillaje\n\"Strong Makeup B\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3250250",
 		"jp_text": "泣き腫らしメイク",
 		"tr_text": "Weepy Makeup",
 		"jp_explain": "チケットを使用すると、新しいメイクの\n泣き腫らしメイクが選択可能。",
-		"tr_explain": "Unlocks the makeup\n\"Weepy Makeup\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el maquillaje\n\"Weepy Makeup\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3250251",
 		"jp_text": "ステラのメイク",
 		"tr_text": "Stella Makeup",
 		"jp_explain": "チケットを使用すると、新しいメイクの\nステラのメイクが選択可能。",
-		"tr_explain": "Unlocks the makeup\n\"Stella Makeup\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el maquillaje\n\"Stella Makeup\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3250252",
 		"jp_text": "ステラの頬染め",
 		"tr_text": "Stella Blush",
 		"jp_explain": "チケットを使用すると、新しいメイクの\nステラの頬染めが選択可能。",
-		"tr_explain": "Unlocks the makeup\n\"Stella Blush\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el maquillaje\n\"Stella Blush\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3250253",
 		"jp_text": "ジャスパーＣフェイス",
 		"tr_text": "Jasper C Face",
 		"jp_explain": "チケットを使用すると、新しいメイクの\nジャスパーＣフェイスが選択可能。",
-		"tr_explain": "Unlocks the makeup\n\"Jasper C Face\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el maquillaje\n\"Jasper C Face\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3250254",
 		"jp_text": "ゴシックメイク",
 		"tr_text": "Gothic Makeup",
 		"jp_explain": "チケットを使用すると、新しいメイクの\nゴシックメイクが選択可能。",
-		"tr_explain": "Unlocks the makeup\n\"Gothic Makeup\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el maquillaje\n\"Gothic Makeup\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3250255",
 		"jp_text": "レナートアイメイク",
 		"tr_text": "Renato Eye Makeup",
 		"jp_explain": "チケットを使用すると、新しいメイクの\nレナートアイメイクが選択可能。",
-		"tr_explain": "Unlocks the makeup\n\"Renato Eye Makeup\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el maquillaje\n\"Renato Eye Makeup\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3250256",
 		"jp_text": "ゾラのメイク",
 		"tr_text": "Zola Makeup",
 		"jp_explain": "チケットを使用すると、新しいメイクの\nゾラのメイクが選択可能。",
-		"tr_explain": "Unlocks the makeup\n\"Zola Makeup\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el maquillaje\n\"Zola Makeup\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3250257",
 		"jp_text": "ユリィＣフェイス",
 		"tr_text": "Uly C Face",
 		"jp_explain": "チケットを使用すると、新しいメイクの\nユリィＣフェイスが選択可能。",
-		"tr_explain": "Unlocks the makeup\n\"Uly C Face\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el maquillaje\n\"Uly C Face\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3250258",
 		"jp_text": "アベーユのメイク",
 		"tr_text": "Abeille Makeup",
 		"jp_explain": "チケットを使用すると、新しいメイクの\nアベーユのメイクが選択可能。",
-		"tr_explain": "Unlocks the makeup\n\"Abeille Makeup\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el maquillaje\n\"Abeille Makeup\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3250259",
 		"jp_text": "ふたえまぶた",
 		"tr_text": "Double-Edged Eyelids",
 		"jp_explain": "チケットを使用すると、新しいメイクの\nふたえまぶたが選択可能。",
-		"tr_explain": "Unlocks the makeup\n\"Double-Edged Eyelids\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el maquillaje\n\"Double-Edged Eyelids\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3250260",
 		"jp_text": "チークスノー　水",
 		"tr_text": "Cheek Snow Blue",
 		"jp_explain": "チケットを使用すると、新しいメイクの\nチークスノー　水が選択可能。",
-		"tr_explain": "Unlocks the makeup\n\"Cheek Snow Blue\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el maquillaje\n\"Cheek Snow Blue\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3250261",
 		"jp_text": "チークスノー　白",
 		"tr_text": "Cheek Snow White",
 		"jp_explain": "チケットを使用すると、新しいメイクの\nチークスノー　白が選択可能。",
-		"tr_explain": "Unlocks the makeup\n\"Cheek Snow White\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el maquillaje\n\"Cheek Snow White\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3250262",
 		"jp_text": "妖異三つ目Ｂ",
 		"tr_text": "Twisted Third Eye B",
 		"jp_explain": "チケットを使用すると、新しいメイクの\n妖異三つ目Ｂが選択可能。",
-		"tr_explain": "Unlocks the makeup\n\"Twisted Third Eye B\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el maquillaje\n\"Twisted Third Eye B\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3250263",
 		"jp_text": "ディスカーメイク",
 		"tr_text": "Discar Makeup",
 		"jp_explain": "チケットを使用すると、新しいメイクの\nディスカーメイクが選択可能。",
-		"tr_explain": "Unlocks the makeup\n\"Discar Makeup\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el maquillaje\n\"Discar Makeup\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3250264",
 		"jp_text": "オールディメイク",
 		"tr_text": "Olde Makeup",
 		"jp_explain": "チケットを使用すると、新しいメイクの\nオールディメイクが選択可能。",
-		"tr_explain": "Unlocks the makeup\n\"Olde Makeup\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el maquillaje\n\"Olde Makeup\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3250265",

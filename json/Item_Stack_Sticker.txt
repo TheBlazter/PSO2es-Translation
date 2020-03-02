@@ -4,49 +4,49 @@
 		"jp_text": "六芒の零ステッカーＡ",
 		"tr_text": "Council of Six Zero Sticker A",
 		"jp_explain": "特定ステッカーの装着許可チケット。\n使用すると、新しいステッカーの\n六芒の零Ａが選択可能。",
-		"tr_explain": "Unlocks the sticker\n\"Council of Six Zero A\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el emblema\n\"Council of Six Zero A\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "31703",
 		"jp_text": "六芒の一ステッカーＡ",
 		"tr_text": "Council of Six #1 Sticker A",
 		"jp_explain": "特定ステッカーの装着許可チケット。\n使用すると、新しいステッカーの\n六芒の一Ａが選択可能。",
-		"tr_explain": "Unlocks the sticker\n\"Council of Six #1 A\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el emblema\n\"Council of Six #1 A\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "31704",
 		"jp_text": "六芒の二ステッカーＡ",
 		"tr_text": "Council of Six #2 Sticker A",
 		"jp_explain": "特定ステッカーの装着許可チケット。\n使用すると、新しいステッカーの\n六芒の二Ａが選択可能。",
-		"tr_explain": "Unlocks the sticker\n\"Council of Six #2 A\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el emblema\n\"Council of Six #2 A\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "31705",
 		"jp_text": "六芒の三ステッカーＡ",
 		"tr_text": "Council of Six #3 Sticker A",
 		"jp_explain": "特定ステッカーの装着許可チケット。\n使用すると、新しいステッカーの\n六芒の三Ａが選択可能。",
-		"tr_explain": "Unlocks the sticker\n\"Council of Six #3 A\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el emblema\n\"Council of Six #3 A\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "31706",
 		"jp_text": "六芒の四ステッカーＡ",
 		"tr_text": "Council of Six #4 Sticker A",
 		"jp_explain": "特定ステッカーの装着許可チケット。\n使用すると、新しいステッカーの\n六芒の四Ａが選択可能。",
-		"tr_explain": "Unlocks the sticker\n\"Council of Six #4 A\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el emblema\n\"Council of Six #4 A\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "31707",
 		"jp_text": "六芒の五ステッカーＡ",
 		"tr_text": "Council of Six #5 Sticker A",
 		"jp_explain": "特定ステッカーの装着許可チケット。\n使用すると、新しいステッカーの\n六芒の五Ａが選択可能。",
-		"tr_explain": "Unlocks the sticker\n\"Council of Six #5 A\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el emblema\n\"Council of Six #5 A\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "31708",
 		"jp_text": "六芒の六ステッカーＡ",
 		"tr_text": "Council of Six #6 Sticker A",
 		"jp_explain": "特定ステッカーの装着許可チケット。\n使用すると、新しいステッカーの\n六芒の六Ａが選択可能。",
-		"tr_explain": "Unlocks the sticker\n\"Council of Six #6 A\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el emblema\n\"Council of Six #6 A\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "31709",
@@ -1726,7 +1726,7 @@
 		"jp_text": "ジャージーステッカー",
 		"tr_text": "Jersey Sticker",
 		"jp_explain": "特定ステッカーの装着許可チケット。\n使用すると、新しいステッカーの\nジャージーが選択可能。",
-		"tr_explain": "Unlocks the sticker\n\"Jersey\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el emblema\n\"Jersey\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3170271",
@@ -1873,14 +1873,14 @@
 		"jp_text": "アークス検定２０１８合格",
 		"tr_text": "ARKS Exam 2018: Passed",
 		"jp_explain": "特定ステッカーの装着許可チケット。\n使用すると、新しいステッカーの\nアークス検定２０１８合格が選択可能。",
-		"tr_explain": "Unlocks the sticker\n\"ARKS Exam 2018: Passed\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el emblema\n\"ARKS Exam 2018: Passed\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3170294",
 		"jp_text": "わさっちステッカー",
 		"tr_text": "Wasachi Sticker",
 		"jp_explain": "特定ステッカーの装着許可チケット。\n使用すると、新しいステッカーの\nわさっちが選択可能。",
-		"tr_explain": "Unlocks the sticker\n\"Wasachi\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el emblema\n\"Wasachi\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3170295",
@@ -1936,7 +1936,7 @@
 		"jp_text": "ＰＳ感謝祭２０１９",
 		"tr_text": "PS Thanksgiving 2019",
 		"jp_explain": "特定ステッカーの装着許可チケット。\n使用すると、新しいステッカーの\nＰＳ感謝祭２０１９が選択可能。",
-		"tr_explain": "Unlocks the sticker\n\"PS Thanksgiving 2019\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el emblema\n\"PS Thanksgiving 2019\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3170303",
@@ -1978,7 +1978,7 @@
 		"jp_text": "アークスＢＴ２０１９",
 		"tr_text": "ARKS BT 2019",
 		"jp_explain": "特定ステッカーの装着許可チケット。\n使用すると、新しいステッカーの\nアークスＢＴ２０１９が選択可能。",
-		"tr_explain": "Unlocks the sticker\n\"ARKS BT 2019\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el emblema\n\"ARKS BT 2019\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3170310",
@@ -2307,35 +2307,35 @@
 		"jp_text": "ケロロステッカー",
 		"tr_text": "Keroro Sticker",
 		"jp_explain": "特定ステッカーの装着許可チケット。\n使用すると、新しいステッカーの\nケロロが選択可能。",
-		"tr_explain": "Unlocks the sticker\n\"Keroro\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el emblema\n\"Keroro\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3170359",
 		"jp_text": "ギロロステッカー",
 		"tr_text": "Giroro Sticker",
 		"jp_explain": "特定ステッカーの装着許可チケット。\n使用すると、新しいステッカーの\nギロロが選択可能。",
-		"tr_explain": "Unlocks the sticker\n\"Giroro\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el emblema\n\"Giroro\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3170360",
 		"jp_text": "タママステッカー",
 		"tr_text": "Tamama Sticker",
 		"jp_explain": "特定ステッカーの装着許可チケット。\n使用すると、新しいステッカーの\nタママが選択可能。",
-		"tr_explain": "Unlocks the sticker\n\"Tamama\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el emblema\n\"Tamama\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3170361",
 		"jp_text": "クルルステッカー",
 		"tr_text": "Kururu Sticker",
 		"jp_explain": "特定ステッカーの装着許可チケット。\n使用すると、新しいステッカーの\nクルルが選択可能。",
-		"tr_explain": "Unlocks the sticker\n\"Kururu\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el emblema\n\"Kururu\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3170362",
 		"jp_text": "ドロロステッカー",
 		"tr_text": "Dororo Sticker",
 		"jp_explain": "特定ステッカーの装着許可チケット。\n使用すると、新しいステッカーの\nドロロが選択可能。",
-		"tr_explain": "Unlocks the sticker\n\"Dororo\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el emblema\n\"Dororo\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3170363",
@@ -2363,91 +2363,91 @@
 		"jp_text": "ペリエステッカー",
 		"tr_text": "Perrier Sticker",
 		"jp_explain": "特定ステッカーの装着許可チケット。\n使用すると、新しいステッカーの\nペリエが選択可能。",
-		"tr_explain": "Unlocks the sticker\n\"Perrier\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el emblema\n\"Perrier\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3170367",
 		"jp_text": "白羊騎士団ステッカー",
 		"tr_text": "Aries White Knight Sticker",
 		"jp_explain": "特定ステッカーの装着許可チケット。\n使用すると、新しいステッカーの\n白羊騎士団が選択可能。",
-		"tr_explain": "Unlocks the sticker\n\"Aries White Knight\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el emblema\n\"Aries White Knight\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3170368",
 		"jp_text": "イドラニュートラルＳ",
 		"tr_text": "Idola Neutral Sticker",
 		"jp_explain": "特定ステッカーの装着許可チケット。\n使用すると、新しいステッカーの\nイドラニュートラルが選択可能。",
-		"tr_explain": "Unlocks the sticker\n\"Idola Neutral\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el emblema\n\"Idola Neutral\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3170369",
 		"jp_text": "イドラカオスステッカー",
 		"tr_text": "Idola Chaos Sticker",
 		"jp_explain": "特定ステッカーの装着許可チケット。\n使用すると、新しいステッカーの\nイドラカオスが選択可能。",
-		"tr_explain": "Unlocks the sticker\n\"Idola Chaos\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el emblema\n\"Idola Chaos\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3170370",
 		"jp_text": "イドラロウステッカー",
 		"tr_text": "Idola Law Sticker",
 		"jp_explain": "特定ステッカーの装着許可チケット。\n使用すると、新しいステッカーの\nイドラロウが選択可能。",
-		"tr_explain": "Unlocks the sticker\n\"Idola Law\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el emblema\n\"Idola Law\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3170371",
 		"jp_text": "イドラ白羊宮ステッカー",
 		"tr_text": "Idola Aries Sticker",
 		"jp_explain": "特定ステッカーの装着許可チケット。\n使用すると、新しいステッカーの\nイドラ白羊宮が選択可能。",
-		"tr_explain": "Unlocks the sticker\n\"Idola Aries\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el emblema\n\"Idola Aries\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3170372",
 		"jp_text": "イドラ双児宮ステッカー",
 		"tr_text": "Idola Gemini Sticker",
 		"jp_explain": "特定ステッカーの装着許可チケット。\n使用すると、新しいステッカーの\nイドラ双児宮が選択可能。",
-		"tr_explain": "Unlocks the sticker\n\"Idola Gemini\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el emblema\n\"Idola Gemini\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3170373",
 		"jp_text": "イドラ獅子宮ステッカー",
 		"tr_text": "Idola Leo Sticker",
 		"jp_explain": "特定ステッカーの装着許可チケット。\n使用すると、新しいステッカーの\nイドラ獅子宮が選択可能。",
-		"tr_explain": "Unlocks the sticker\n\"Idola Leo\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el emblema\n\"Idola Leo\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3170374",
 		"jp_text": "エースオブエトワール",
 		"tr_text": "Ace of Etoile",
 		"jp_explain": "特定ステッカーの装着許可チケット。\n使用すると、新しいステッカーの\nエースオブエトワールが選択可能。",
-		"tr_explain": "Unlocks the sticker\n\"Ace of Etoile\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el emblema\n\"Ace of Etoile\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3170375",
 		"jp_text": "アークススターステッカーＡ",
 		"tr_text": "ARKS Star Sticker A",
 		"jp_explain": "特定ステッカーの装着許可チケット。\n使用すると、新しいステッカーの\nアークススターＡが選択可能。",
-		"tr_explain": "Unlocks the sticker\n\"ARKS Star Sticker A\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el emblema\n\"ARKS Star Sticker A\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3170376",
 		"jp_text": "アークススターステッカーＢ",
 		"tr_text": "ARKS Star Sticker B",
 		"jp_explain": "特定ステッカーの装着許可チケット。\n使用すると、新しいステッカーの\nアークススターＢが選択可能。",
-		"tr_explain": "Unlocks the sticker\n\"ARKS Star Sticker B\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el emblema\n\"ARKS Star Sticker B\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3170377",
 		"jp_text": "アークススターステッカーＣ",
 		"tr_text": "ARKS Star Sticker C",
 		"jp_explain": "特定ステッカーの装着許可チケット。\n使用すると、新しいステッカーの\nアークススターＣが選択可能。",
-		"tr_explain": "Unlocks the sticker\n\"ARKS Star Sticker C\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el emblema\n\"ARKS Star Sticker C\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3170379",
 		"jp_text": "ライナーステッカー",
 		"tr_text": "Liner Sticker",
 		"jp_explain": "特定ステッカーの装着許可チケット。\n使用すると、新しいステッカーの\nライナーが選択可能。",
-		"tr_explain": "Unlocks the sticker\n\"Liner\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el emblema\n\"Liner\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3170380",
@@ -2461,83 +2461,83 @@
 		"jp_text": "アークス検定２０２０合格",
 		"tr_text": "ARKS Exam 2020: Passed",
 		"jp_explain": "特定ステッカーの装着許可チケット。\n使用すると、新しいステッカーの\nアークス検定２０２０合格が選択可能。",
-		"tr_explain": "Unlocks the sticker\n\"ARKS Exam 2020: Passed\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el emblema\n\"ARKS Exam 2020: Passed\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3170382",
 		"jp_text": "六芒の一ステッカーＢ",
 		"tr_text": "Council of Six #1 Sticker B",
 		"jp_explain": "特定ステッカーの装着許可チケット。\n使用すると、新しいステッカーの\n六芒の一Ｂが選択可能。",
-		"tr_explain": "Unlocks the sticker\n\"Council of Six #1 B\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el emblema\n\"Council of Six #1 B\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3170383",
 		"jp_text": "六芒の二ステッカーＢ",
 		"tr_text": "Council of Six #2 Sticker B",
 		"jp_explain": "特定ステッカーの装着許可チケット。\n使用すると、新しいステッカーの\n六芒の二Ｂが選択可能。",
-		"tr_explain": "Unlocks the sticker\n\"Council of Six #2 B\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el emblema\n\"Council of Six #2 B\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3170384",
 		"jp_text": "六芒の三ステッカーＢ",
 		"tr_text": "Council of Six #3 Sticker B",
 		"jp_explain": "特定ステッカーの装着許可チケット。\n使用すると、新しいステッカーの\n六芒の三Ｂが選択可能。",
-		"tr_explain": "Unlocks the sticker\n\"Council of Six #3 B\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el emblema\n\"Council of Six #3 B\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3170385",
 		"jp_text": "六芒の四ステッカーＢ",
 		"tr_text": "Council of Six #4 Sticker B",
 		"jp_explain": "特定ステッカーの装着許可チケット。\n使用すると、新しいステッカーの\n六芒の四Ｂが選択可能。",
-		"tr_explain": "Unlocks the sticker\n\"Council of Six #4 B\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el emblema\n\"Council of Six #4 B\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3170386",
 		"jp_text": "六芒の五ステッカーＢ",
 		"tr_text": "Council of Six #5 Sticker B",
 		"jp_explain": "特定ステッカーの装着許可チケット。\n使用すると、新しいステッカーの\n六芒の五Ｂが選択可能。",
-		"tr_explain": "Unlocks the sticker\n\"Council of Six #5 B\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el emblema\n\"Council of Six #5 B\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3170387",
 		"jp_text": "六芒の六ステッカーＢ",
 		"tr_text": "Council of Six #6 Sticker B",
 		"jp_explain": "特定ステッカーの装着許可チケット。\n使用すると、新しいステッカーの\n六芒の六Ｂが選択可能。",
-		"tr_explain": "Unlocks the sticker\n\"Council of Six #6 B\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el emblema\n\"Council of Six #6 B\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3170388",
 		"jp_text": "イドラ処女宮ステッカー",
 		"tr_text": "Idola Virgo Sticker",
 		"jp_explain": "特定ステッカーの装着許可チケット。\n使用すると、新しいステッカーの\nイドラ処女宮が選択可能。",
-		"tr_explain": "Unlocks the sticker\n\"Idola Virgo\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el emblema\n\"Idola Virgo\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3170389",
 		"jp_text": "イドラ磨羯宮ステッカー",
 		"tr_text": "Idola Capricorn Sticker",
 		"jp_explain": "特定ステッカーの装着許可チケット。\n使用すると、新しいステッカーの\nイドラ磨羯宮が選択可能。",
-		"tr_explain": "Unlocks the sticker\n\"Idola Capricorn\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el emblema\n\"Idola Capricorn\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3170390",
 		"jp_text": "イドラ人馬宮ステッカー",
 		"tr_text": "Idola Sagittarius Sticker",
 		"jp_explain": "特定ステッカーの装着許可チケット。\n使用すると、新しいステッカーの\nイドラ人馬宮が選択可能。",
-		"tr_explain": "Unlocks the sticker\n\"Idola Sagittarius\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el emblema\n\"Idola Sagittarius\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3170391",
 		"jp_text": "六芒の零ステッカーＢ",
 		"tr_text": "Council of Six Zero Sticker B",
 		"jp_explain": "特定ステッカーの装着許可チケット。\n使用すると、新しいステッカーの\n六芒の零Ｂが選択可能。",
-		"tr_explain": "Unlocks the sticker\n\"Council of Six Zero B\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el emblema\n\"Council of Six Zero B\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3170408",
 		"jp_text": "ゼルシウスクーナステッカー",
 		"tr_text": "Zelsius Quna Sticker",
 		"jp_explain": "特定ステッカーの装着許可チケット。\n使用すると、新しいステッカーの\nゼルシウスクーナが選択可能。",
-		"tr_explain": "Unlocks the sticker\n\"Zelsius Quna\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el emblema\n\"Zelsius Quna\"\npara usar en el Estilista."
 	}
 ]

@@ -5261,28 +5261,28 @@
 		"jp_text": "アギトヘアー",
 		"tr_text": "Agito Hair",
 		"jp_explain": "チケットを使用すると、新しい髪型の\nアギトヘアーが選択可能。",
-		"tr_explain": "Unlocks the hairstyle\n\"Agito Hair\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el peinado\n\"Agito Hair\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3150903",
 		"jp_text": "ヤスミ８０００Ｃヘアー",
 		"tr_text": "Yasminkov 8000C Hair",
 		"jp_explain": "チケットを使用すると、新しい髪型の\nヤスミ８０００Ｃヘアーが選択可能。",
-		"tr_explain": "Unlocks the hairstyle\n\"Yasminkov 8000C Hair\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el peinado\n\"Yasminkov 8000C Hair\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3150904",
 		"jp_text": "フォルニスフィジスヘアー",
 		"tr_text": "Fornis Physis Hair",
 		"jp_explain": "チケットを使用すると、新しい髪型の\nフォルニスフィジスヘアーが選択可能。",
-		"tr_explain": "Unlocks the hairstyle\n\"Fornis Physis Hair\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el peinado\n\"Fornis Physis Hair\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3150905",
 		"jp_text": "スペース・ツナヘアー",
 		"tr_text": "Space Tuna Hair",
 		"jp_explain": "チケットを使用すると、新しい髪型の\nスペース・ツナヘアーが選択可能。",
-		"tr_explain": "Unlocks the hairstyle\n\"Space Tuna Hair\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el peinado\n\"Space Tuna Hair\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3150906",
@@ -5296,315 +5296,315 @@
 		"jp_text": "ノクスカディナフードＢ",
 		"tr_text": "Nox Cadina Hood B",
 		"jp_explain": "チケットを使用すると、新しい髪型の\nノクスカディナフードＢが選択可能。",
-		"tr_explain": "Unlocks the hairstyle\n\"Nox Cadina Hood B\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el peinado\n\"Nox Cadina Hood B\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3150908",
 		"jp_text": "ラヴィス＝ブレイドヘアーＢ",
 		"tr_text": "Lavis Blade Hair B",
 		"jp_explain": "チケットを使用すると、新しい髪型の\nラヴィス＝ブレイドヘアーＢが選択可能。",
-		"tr_explain": "Unlocks the hairstyle\n\"Lavis Blade Hair B\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el peinado\n\"Lavis Blade Hair B\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3150917",
 		"jp_text": "トゥードヘアー",
 		"tr_text": "Tude Hair",
 		"jp_explain": "チケットを使用すると、新しい髪型の\nトゥードヘアーが選択可能。",
-		"tr_explain": "Unlocks the hairstyle\n\"Tude Hair\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el peinado\n\"Tude Hair\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3150918",
 		"jp_text": "ステルラヘアー１",
 		"tr_text": "Stellar Hair 1",
 		"jp_explain": "チケットを使用すると、新しい髪型の\nステルラヘアー１が選択可能。",
-		"tr_explain": "Unlocks the hairstyle\n\"Stellar Hair 1\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el peinado\n\"Stellar Hair 1\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3150919",
 		"jp_text": "ステルラヘアー２",
 		"tr_text": "Stellar Hair 2",
 		"jp_explain": "チケットを使用すると、新しい髪型の\nステルラヘアー２が選択可能。",
-		"tr_explain": "Unlocks the hairstyle\n\"Stellar Hair 2\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el peinado\n\"Stellar Hair 2\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3150920",
 		"jp_text": "ヒツギおろし髪ＧＶ",
 		"tr_text": "Hitsugi Undone Hair GV",
 		"jp_explain": "チケットを使用すると、新しい髪型の\nヒツギおろし髪ＧＶが選択可能。",
-		"tr_explain": "Unlocks the hairstyle\n\"Hitsugi Undone Hair GV\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el peinado\n\"Hitsugi Undone Hair GV\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3150921",
 		"jp_text": "ファレグヘアー２",
 		"tr_text": "Phaleg Hair 2",
 		"jp_explain": "チケットを使用すると、新しい髪型の\nファレグヘアー２が選択可能。",
-		"tr_explain": "Unlocks the hairstyle\n\"Phaleg Hair 2\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el peinado\n\"Phaleg Hair 2\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3150922",
 		"jp_text": "コオリお団子ヘアー",
 		"tr_text": "Kohri Odango Hair",
 		"jp_explain": "チケットを使用すると、新しい髪型の\nコオリお団子ヘアーが選択可能。",
-		"tr_explain": "Unlocks the hairstyle\n\"Kohri Odango Hair\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el peinado\n\"Kohri Odango Hair\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3150923",
 		"jp_text": "オークゥヘアー３",
 		"tr_text": "Och Hair 3",
 		"jp_explain": "チケットを使用すると、新しい髪型の\nオークゥヘアー３が選択可能。",
-		"tr_explain": "Unlocks the hairstyle\n\"Och Hair 3\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el peinado\n\"Och Hair 3\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3150924",
 		"jp_text": "ロングツインテール２ＧＶ",
 		"tr_text": "Long Twin Tail 2 GV",
 		"jp_explain": "チケットを使用すると、新しい髪型の\nロングツインテール２ＧＶが選択可能。",
-		"tr_explain": "Unlocks the hairstyle\n\"Long Twin Tail 2 GV\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el peinado\n\"Long Twin Tail 2 GV\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3150925",
 		"jp_text": "マトイストレート２ＧＶ",
 		"tr_text": "Matoi Straight 2 GV",
 		"jp_explain": "チケットを使用すると、新しい髪型の\nマトイストレート２ＧＶが選択可能。",
-		"tr_explain": "Unlocks the hairstyle\n\"Matoi Straight 2 GV\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el peinado\n\"Matoi Straight 2 GV\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3150926",
 		"jp_text": "マトイループテール２ＧＶ",
 		"tr_text": "Matoi Loop Tail 2 GV",
 		"jp_explain": "チケットを使用すると、新しい髪型の\nマトイループテール２ＧＶが選択可能。",
-		"tr_explain": "Unlocks the hairstyle\n\"Matoi Loop Tail 2 GV\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el peinado\n\"Matoi Loop Tail 2 GV\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3150927",
 		"jp_text": "グルグルツインテール",
 		"tr_text": "Swirling Twin Tail",
 		"jp_explain": "チケットを使用すると、新しい髪型の\nグルグルツインテールが選択可能。",
-		"tr_explain": "Unlocks the hairstyle\n\"Swirling Twin Tail\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el peinado\n\"Swirling Twin Tail\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3150928",
 		"jp_text": "シンジヘアー",
 		"tr_text": "Shinji Hair",
 		"jp_explain": "チケットを使用すると、新しい髪型の\nシンジヘアーが選択可能。\n男性のみ使用可能。\n<yellow>※カラーは変更できません<c>",
-		"tr_explain": "Unlocks the male-only hairstyle\n\"Shinji Hair\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el peinado masculino\n\"Shinji Hair\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3150929",
 		"jp_text": "アスカヘアー",
 		"tr_text": "Asuka Hair",
 		"jp_explain": "チケットを使用すると、新しい髪型の\nアスカヘアーが選択可能。\n女性のみ使用可能。\n<yellow>※カラーは変更できません<c>",
-		"tr_explain": "Unlocks the female-only hairstyle\n\"Asuka Hair\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el peinado femenino\n\"Asuka Hair\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3150930",
 		"jp_text": "レイヘアー",
 		"tr_text": "Rei Hair",
 		"jp_explain": "チケットを使用すると、新しい髪型の\nレイヘアーが選択可能。\n女性のみ使用可能。\n<yellow>※カラーは変更できません<c>",
-		"tr_explain": "Unlocks the female-only hairstyle\n\"Rei Hair\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el peinado femenino\n\"Rei Hair\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3150931",
 		"jp_text": "ミサトヘアー",
 		"tr_text": "Misato Hair",
 		"jp_explain": "チケットを使用すると、新しい髪型の\nミサトヘアーが選択可能。\n女性のみ使用可能。\n<yellow>※カラーは変更できません<c>",
-		"tr_explain": "Unlocks the female-only hairstyle\n\"Misato Hair\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el peinado femenino\n\"Misato Hair\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3150932",
 		"jp_text": "ステラヘアー",
 		"tr_text": "Stella Hair",
 		"jp_explain": "チケットを使用すると、新しい髪型の\nステラヘアーが選択可能。",
-		"tr_explain": "Unlocks the hairstyle\n\"Stella Hair\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el peinado\n\"Stella Hair\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3150933",
 		"jp_text": "ユリィＬヘアー",
 		"tr_text": "Uly Hair",
 		"jp_explain": "チケットを使用すると、新しい髪型の\nユリィＬヘアーが選択可能。",
-		"tr_explain": "Unlocks the hairstyle\n\"Uly Hair\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el peinado\n\"Uly Hair\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3150934",
 		"jp_text": "ポポナヘアー",
 		"tr_text": "Popona Hair",
 		"jp_explain": "チケットを使用すると、新しい髪型の\nポポナヘアーが選択可能。",
-		"tr_explain": "Unlocks the hairstyle\n\"Popona Hair\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el peinado\n\"Popona Hair\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3150935",
 		"jp_text": "ローザリンデＬヘアー",
 		"tr_text": "Rosalinde L Hair",
 		"jp_explain": "チケットを使用すると、新しい髪型の\nローザリンデＬヘアーが選択可能。",
-		"tr_explain": "Unlocks the hairstyle\n\"Rosalinde L Hair\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el peinado\n\"Rosalinde L Hair\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3150936",
 		"jp_text": "ジャスパーＣヘアー",
 		"tr_text": "Jasper C Hair",
 		"jp_explain": "チケットを使用すると、新しい髪型の\nジャスパーＣヘアーが選択可能。",
-		"tr_explain": "Unlocks the hairstyle\n\"Jasper C Hair\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el peinado\n\"Jasper C Hair\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3150937",
 		"jp_text": "ウィンディスヘアー",
 		"tr_text": "Wyndis Hair",
 		"jp_explain": "チケットを使用すると、新しい髪型の\nウィンディスヘアーが選択可能。",
-		"tr_explain": "Unlocks the hairstyle\n\"Wyndis Hair\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el peinado\n\"Wyndis Hair\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3150938",
 		"jp_text": "イノセンシアヘアー",
 		"tr_text": "Innocentia Hair",
 		"jp_explain": "チケットを使用すると、新しい髪型の\nイノセンシアヘアーが選択可能。",
-		"tr_explain": "Unlocks the hairstyle\n\"Innocentia Hair\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el peinado\n\"Innocentia Hair\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3150939",
 		"jp_text": "サフィールヘアー",
 		"tr_text": "Saphir Hair",
 		"jp_explain": "チケットを使用すると、新しい髪型の\nサフィールヘアーが選択可能。",
-		"tr_explain": "Unlocks the hairstyle\n\"Saphir Hair\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el peinado\n\"Saphir Hair\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3150940",
 		"jp_text": "グラモラヘアー",
 		"tr_text": "Glamoura Hair",
 		"jp_explain": "チケットを使用すると、新しい髪型の\nグラモラヘアーが選択可能。",
-		"tr_explain": "Unlocks the hairstyle\n\"Glamoura Hair\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el peinado\n\"Glamoura Hair\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3150941",
 		"jp_text": "クーナヘアー３",
 		"tr_text": "Quna Hair 3",
 		"jp_explain": "チケットを使用すると、新しい髪型の\nクーナヘアー３が選択可能。",
-		"tr_explain": "Unlocks the hairstyle\n\"Quna Hair 3\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el peinado\n\"Quna Hair 3\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3150942",
 		"jp_text": "レナートヘアー",
 		"tr_text": "Renato Hair",
 		"jp_explain": "チケットを使用すると、新しい髪型の\nレナートヘアーが選択可能。",
-		"tr_explain": "Unlocks the hairstyle\n\"Renato Hair\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el peinado\n\"Renato Hair\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3150943",
 		"jp_text": "【双子・男】ヘアーＢ",
 		"tr_text": "Double Hair M B",
 		"jp_explain": "チケットを使用すると、新しい髪型の\n【双子・男】ヘアーＢが選択可能。",
-		"tr_explain": "Unlocks the hairstyle\n\"Double Hair M B\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el peinado\n\"Double Hair M B\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3150944",
 		"jp_text": "【双子・女】ヘアーＢ",
 		"tr_text": "Double Hair F B",
 		"jp_explain": "チケットを使用すると、新しい髪型の\n【双子・女】ヘアーＢが選択可能。",
-		"tr_explain": "Unlocks the hairstyle\n\"Double Hair F B\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el peinado\n\"Double Hair F B\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3150945",
 		"jp_text": "リバティーツインループ",
 		"tr_text": "Liberty Twin Loop",
 		"jp_explain": "チケットを使用すると、新しい髪型の\nリバティーツインループが選択可能。",
-		"tr_explain": "Unlocks the hairstyle\n\"Liberty Twin Loop\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el peinado\n\"Liberty Twin Loop\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3150946",
 		"jp_text": "ゼルシウスヘアーＢ",
 		"tr_text": "Zelsius Hair B",
 		"jp_explain": "チケットを使用すると、新しい髪型の\nゼルシウスヘアーＢが選択可能。",
-		"tr_explain": "Unlocks the hairstyle\n\"Zelsius Hair B\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el peinado\n\"Zelsius Hair B\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3150947",
 		"jp_text": "アッシュヘアー",
 		"tr_text": "Ash Hair",
 		"jp_explain": "チケットを使用すると、新しい髪型の\nアッシュヘアーが選択可能。",
-		"tr_explain": "Unlocks the hairstyle\n\"Ash Hair\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el peinado\n\"Ash Hair\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3150954",
 		"jp_text": "テリザヘアー",
 		"tr_text": "Teresa Hair",
 		"jp_explain": "チケットを使用すると、新しい髪型の\nテリザヘアーが選択可能。",
-		"tr_explain": "Unlocks the hairstyle\n\"Teresa Hair\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el peinado\n\"Teresa Hair\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3150955",
 		"jp_text": "レフィクスヘアー",
 		"tr_text": "Refix Hair",
 		"jp_explain": "チケットを使用すると、新しい髪型の\nレフィクスヘアーが選択可能。",
-		"tr_explain": "Unlocks the hairstyle\n\"Refix Hair\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el peinado\n\"Refix Hair\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3150956",
 		"jp_text": "ソルリスヘアー",
 		"tr_text": "Solis Hair",
 		"jp_explain": "チケットを使用すると、新しい髪型の\nソルリスヘアーが選択可能。",
-		"tr_explain": "Unlocks the hairstyle\n\"Solis Hair\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el peinado\n\"Solis Hair\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3150957",
 		"jp_text": "シュガリーヘアー１",
 		"tr_text": "Sugary Hair 1",
 		"jp_explain": "チケットを使用すると、新しい髪型の\nシュガリーヘアー１が選択可能。",
-		"tr_explain": "Unlocks the hairstyle\n\"Sugary Hair 1\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el peinado\n\"Sugary Hair 1\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3150958",
 		"jp_text": "シュガリーヘアー２",
 		"tr_text": "Sugary Hair 2",
 		"jp_explain": "チケットを使用すると、新しい髪型の\nシュガリーヘアー２が選択可能。",
-		"tr_explain": "Unlocks the hairstyle\n\"Sugary Hair 2\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el peinado\n\"Sugary Hair 2\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3150959",
 		"jp_text": "藤花姫ヘアー",
 		"tr_text": "Wisteria Hair",
 		"jp_explain": "チケットを使用すると、新しい髪型の\n藤花姫ヘアーが選択可能。",
-		"tr_explain": "Unlocks the hairstyle\n\"Wisteria Hair\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el peinado\n\"Wisteria Hair\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3150960",
 		"jp_text": "鈴蘭姫ヘアー",
 		"tr_text": "Convallaria Hair",
 		"jp_explain": "チケットを使用すると、新しい髪型の\n鈴蘭姫ヘアーが選択可能。",
-		"tr_explain": "Unlocks the hairstyle\n\"Convallaria Hair\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el peinado\n\"Convallaria Hair\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3150961",
 		"jp_text": "ユリィＣヘアー",
 		"tr_text": "Uly C Hair",
 		"jp_explain": "チケットを使用すると、新しい髪型の\nユリィＣヘアーが選択可能。",
-		"tr_explain": "Unlocks the hairstyle\n\"Uly C Hair\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el peinado\n\"Uly C Hair\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3150962",
 		"jp_text": "メリッサヘアー",
 		"tr_text": "Melissa Hair",
 		"jp_explain": "チケットを使用すると、新しい髪型の\nメリッサヘアーが選択可能。",
-		"tr_explain": "Unlocks the hairstyle\n\"Melissa Hair\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el peinado\n\"Melissa Hair\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3150963",
 		"jp_text": "ローザリンデＣヘアー",
 		"tr_text": "Rosalinde C Hair",
 		"jp_explain": "チケットを使用すると、新しい髪型の\nローザリンデＣヘアーが選択可能。",
-		"tr_explain": "Unlocks the hairstyle\n\"Rosalinde C Hair\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el peinado\n\"Rosalinde C Hair\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3150964",
 		"jp_text": "ゾラヘアー",
 		"tr_text": "Zola Hair",
 		"jp_explain": "チケットを使用すると、新しい髪型の\nゾラヘアーが選択可能。",
-		"tr_explain": "Unlocks the hairstyle\n\"Zola Hair\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el peinado\n\"Zola Hair\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3150965",
 		"jp_text": "アベーユヘアー",
 		"tr_text": "Abeille Hair",
 		"jp_explain": "チケットを使用すると、新しい髪型の\nアベーユヘアーが選択可能。",
-		"tr_explain": "Unlocks the hairstyle\n\"Abeille Hair\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el peinado\n\"Abeille Hair\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3150970",
@@ -5618,48 +5618,48 @@
 		"jp_text": "アメルヘアー",
 		"tr_text": "Amel Hair",
 		"jp_explain": "チケットを使用すると、新しい髪型の\nアメルヘアーが選択可能。",
-		"tr_explain": "Unlocks the hairstyle\n\"Amel Hair\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el peinado\n\"Amel Hair\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3150972",
 		"jp_text": "テクシオヘアー",
 		"tr_text": "Texio Hair",
 		"jp_explain": "チケットを使用すると、新しい髪型の\nテクシオヘアーが選択可能。",
-		"tr_explain": "Unlocks the hairstyle\n\"Texio Hair\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el peinado\n\"Texio Hair\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3150973",
 		"jp_text": "ディスカーヘアー",
 		"tr_text": "Discar Hair",
 		"jp_explain": "チケットを使用すると、新しい髪型の\nディスカーヘアーが選択可能。",
-		"tr_explain": "Unlocks the hairstyle\n\"Discar Hair\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el peinado\n\"Discar Hair\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3150974",
 		"jp_text": "プワゾンヘアー",
 		"tr_text": "Poison Hair",
 		"jp_explain": "チケットを使用すると、新しい髪型の\nプワゾンヘアーが選択可能。",
-		"tr_explain": "Unlocks the hairstyle\n\"Poison Hair\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el peinado\n\"Poison Hair\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3150975",
 		"jp_text": "シュクルメルヘンヘアー２",
 		"tr_text": "Sucre Marchen Hair 2",
 		"jp_explain": "チケットを使用すると、新しい髪型の\nシュクルメルヘンヘアー２が選択可能。",
-		"tr_explain": "Unlocks the hairstyle\n\"Sucre Marchen Hair 2\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el peinado\n\"Sucre Marchen Hair 2\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3150976",
 		"jp_text": "キョクヤヘアー",
 		"tr_text": "Kyokuya Hair",
 		"jp_explain": "チケットを使用すると、新しい髪型の\nキョクヤヘアーが選択可能。",
-		"tr_explain": "Unlocks the hairstyle\n\"Kyokuya Hair\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el peinado\n\"Kyokuya Hair\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3150977",
 		"jp_text": "ナイトメアヘアーＧＶ",
 		"tr_text": "Nightmare Hair GV",
 		"jp_explain": "チケットを使用すると、新しい髪型の\nナイトメアヘアーＧＶが選択可能。",
-		"tr_explain": "Unlocks the hairstyle\n\"Nightmare Hair GV\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea el peinado\n\"Nightmare Hair GV\"\npara usar en el Estilista."
 	}
 ]

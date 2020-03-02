@@ -3693,300 +3693,300 @@
 		"jp_text": "フォルニスフィジス[In]",
 		"tr_text": "Fornis Physis [In]",
 		"jp_explain": "使用すると、新しいインナーウェアの\nフォルニスフィジス[In]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new innerwear\n\"Fornis Physis [In]\".\nOnly usable on female characters."
+		"tr_explain": "Una nueva ropa interior\n\"Fornis Physis [In]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "3370581",
 		"jp_text": "フォルニスフィジス月[In]",
 		"tr_text": "Fornis Physis Moon [In]",
 		"jp_explain": "使用すると、新しいインナーウェアの\nフォルニスフィジス月[In]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new innerwear\n\"Fornis Physis Moon [In]\".\nOnly usable on female characters."
+		"tr_explain": "Una nueva ropa interior\n\"Fornis Physis Moon [In]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "3370582",
 		"jp_text": "フォルニスフィジス影[In]",
 		"tr_text": "Fornis Physis Shadow [In]",
 		"jp_explain": "使用すると、新しいインナーウェアの\nフォルニスフィジス影[In]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new innerwear\n\"Fornis Physis Shadow [In]\".\nOnly usable on female characters."
+		"tr_explain": "Una nueva ropa interior\n\"Fornis Physis Shadow [In]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "3370583",
 		"jp_text": "フォルニスフィジス紅[In]",
 		"tr_text": "Fornis Physis Crimson [In]",
 		"jp_explain": "使用すると、新しいインナーウェアの\nフォルニスフィジス紅[In]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new innerwear\n\"Fornis Physis Crimson [In]\".\nOnly usable on female characters."
+		"tr_explain": "Una nueva ropa interior\n\"Fornis Physis Crimson [In]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "3370584",
 		"jp_text": "フォルニスフィジス夜[In]",
 		"tr_text": "Fornis Physis Night [In]",
 		"jp_explain": "使用すると、新しいインナーウェアの\nフォルニスフィジス夜[In]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new innerwear\n\"Fornis Physis Night [In]\".\nOnly usable on female characters."
+		"tr_explain": "Una nueva ropa interior\n\"Fornis Physis Night [In]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "3370585",
 		"jp_text": "フォルニスフィジス雅[In]",
 		"tr_text": "Fornis Physis Elegant [In]",
 		"jp_explain": "使用すると、新しいインナーウェアの\nフォルニスフィジス雅[In]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new innerwear\n\"Fornis Physis Elegant [In]\".\nOnly usable on female characters."
+		"tr_explain": "Una nueva ropa interior\n\"Fornis Physis Elegant [In]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "3370588",
 		"jp_text": "トゥードイロジオン[In]",
 		"tr_text": "Tude Erosion [In]",
 		"jp_explain": "使用すると、新しいインナーウェアの\nトゥードイロジオン[In]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new innerwear\n\"Tude Erosion [In]\".\nOnly usable on female characters."
+		"tr_explain": "Una nueva ropa interior\n\"Tude Erosion [In]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "3370589",
 		"jp_text": "トゥードイロジオン紅[In]",
 		"tr_text": "Tude Erosion Crimson [In]",
 		"jp_explain": "使用すると、新しいインナーウェアの\nトゥードイロジオン紅[In]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new innerwear\n\"Tude Erosion Crimson [In]\".\nOnly usable on female characters."
+		"tr_explain": "Una nueva ropa interior\n\"Tude Erosion Crimson [In]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "3370590",
 		"jp_text": "トゥードイロジオン夜[In]",
 		"tr_text": "Tude Erosion Night [In]",
 		"jp_explain": "使用すると、新しいインナーウェアの\nトゥードイロジオン夜[In]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new innerwear\n\"Tude Erosion Night [In]\".\nOnly usable on female characters."
+		"tr_explain": "Una nueva ropa interior\n\"Tude Erosion Night [In]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "3370591",
 		"jp_text": "トゥードイロジオン雪[In]",
 		"tr_text": "Tude Erosion Snow [In]",
 		"jp_explain": "使用すると、新しいインナーウェアの\nトゥードイロジオン雪[In]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new innerwear\n\"Tude Erosion Snow [In]\".\nOnly usable on female characters."
+		"tr_explain": "Una nueva ropa interior\n\"Tude Erosion Snow [In]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "3370592",
 		"jp_text": "トゥードイロジオン栗[In]",
 		"tr_text": "Tude Erosion Chestnut [In]",
 		"jp_explain": "使用すると、新しいインナーウェアの\nトゥードイロジオン栗[In]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new innerwear\n\"Tude Erosion Chestnut [In]\".\nOnly usable on female characters."
+		"tr_explain": "Una nueva ropa interior\n\"Tude Erosion Chestnut [In]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "3370593",
 		"jp_text": "トゥードイロジオン陽[In]",
 		"tr_text": "Tude Erosion Sun [In]",
 		"jp_explain": "使用すると、新しいインナーウェアの\nトゥードイロジオン陽[In]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new innerwear\n\"Tude Erosion Sun [In]\".\nOnly usable on female characters."
+		"tr_explain": "Una nueva ropa interior\n\"Tude Erosion Sun [In]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "3370594",
 		"jp_text": "ロードゥクロープ[In]",
 		"tr_text": "Lord Crope [In]",
 		"jp_explain": "使用すると、新しいインナーウェアの\nロードゥクロープ[In]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new innerwear\n\"Lord Crope [In]\".\nOnly usable on female characters."
+		"tr_explain": "Una nueva ropa interior\n\"Lord Crope [In]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "3370595",
 		"jp_text": "ロードゥクロープ夜[In]",
 		"tr_text": "Lord Crope Night [In]",
 		"jp_explain": "使用すると、新しいインナーウェアの\nロードゥクロープ夜[In]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new innerwear\n\"Lord Crope Night [In]\".\nOnly usable on female characters."
+		"tr_explain": "Una nueva ropa interior\n\"Lord Crope Night [In]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "3370596",
 		"jp_text": "ロードゥクロープ雅[In]",
 		"tr_text": "Lord Crope Elegant [In]",
 		"jp_explain": "使用すると、新しいインナーウェアの\nロードゥクロープ雅[In]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new innerwear\n\"Lord Crope Elegant [In]\".\nOnly usable on female characters."
+		"tr_explain": "Una nueva ropa interior\n\"Lord Crope Elegant [In]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "3370597",
 		"jp_text": "ロードゥクロープ影[In]",
 		"tr_text": "Lord Crope Shadow [In]",
 		"jp_explain": "使用すると、新しいインナーウェアの\nロードゥクロープ影[In]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new innerwear\n\"Lord Crope Shadow [In]\".\nOnly usable on female characters."
+		"tr_explain": "Una nueva ropa interior\n\"Lord Crope Shadow [In]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "3370598",
 		"jp_text": "ロードゥクロープ栗[In]",
 		"tr_text": "Lord Crope Chestnut [In]",
 		"jp_explain": "使用すると、新しいインナーウェアの\nロードゥクロープ栗[In]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new innerwear\n\"Lord Crope Chestnut [In]\".\nOnly usable on female characters."
+		"tr_explain": "Una nueva ropa interior\n\"Lord Crope Chestnut [In]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "3370599",
 		"jp_text": "ロードゥクロープ紅[In]",
 		"tr_text": "Lord Crope Crimson [In]",
 		"jp_explain": "使用すると、新しいインナーウェアの\nロードゥクロープ紅[In]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new innerwear\n\"Lord Crope Crimson [In]\".\nOnly usable on female characters."
+		"tr_explain": "Una nueva ropa interior\n\"Lord Crope Crimson [In]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "3370606",
 		"jp_text": "リスティジルフィ[In]",
 		"tr_text": "Lysti Zyllphi [In]",
 		"jp_explain": "使用すると、新しいインナーウェアの\nリスティジルフィ[In]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new innerwear\n\"Lysti Zyllphi [In]\".\nOnly usable on female characters."
+		"tr_explain": "Una nueva ropa interior\n\"Lysti Zyllphi [In]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "3370607",
 		"jp_text": "リスティジルフィ海[In]",
 		"tr_text": "Lysti Zyllphi Sea [In]",
 		"jp_explain": "使用すると、新しいインナーウェアの\nリスティジルフィ海[In]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new innerwear\n\"Lysti Zyllphi Sea [In]\".\nOnly usable on female characters."
+		"tr_explain": "Una nueva ropa interior\n\"Lysti Zyllphi Sea [In]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "3370608",
 		"jp_text": "リスティジルフィ影[In]",
 		"tr_text": "Lysti Zyllphi Shadow [In]",
 		"jp_explain": "使用すると、新しいインナーウェアの\nリスティジルフィ影[In]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new innerwear\n\"Lysti Zyllphi Shadow [In]\".\nOnly usable on female characters."
+		"tr_explain": "Una nueva ropa interior\n\"Lysti Zyllphi Shadow [In]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "3370609",
 		"jp_text": "リスティジルフィ雪[In]",
 		"tr_text": "Lysti Zyllphi Snow [In]",
 		"jp_explain": "使用すると、新しいインナーウェアの\nリスティジルフィ雪[In]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new innerwear\n\"Lysti Zyllphi Snow [In]\".\nOnly usable on female characters."
+		"tr_explain": "Una nueva ropa interior\n\"Lysti Zyllphi Snow [In]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "3370610",
 		"jp_text": "リスティジルフィ紅[In]",
 		"tr_text": "Lysti Zyllphi Crimson [In]",
 		"jp_explain": "使用すると、新しいインナーウェアの\nリスティジルフィ紅[In]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new innerwear\n\"Lysti Zyllphi Crimson [In]\".\nOnly usable on female characters."
+		"tr_explain": "Una nueva ropa interior\n\"Lysti Zyllphi Crimson [In]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "3370611",
 		"jp_text": "リスティジルフィ桜[In]",
 		"tr_text": "Lysti Zyllphi Sakura [In]",
 		"jp_explain": "使用すると、新しいインナーウェアの\nリスティジルフィ桜[In]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new innerwear\n\"Lysti Zyllphi Sakura [In]\".\nOnly usable on female characters."
+		"tr_explain": "Una nueva ropa interior\n\"Lysti Zyllphi Sakura [In]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "3370612",
 		"jp_text": "メルターウィンテル[In]",
 		"tr_text": "Melter Winter [In]",
 		"jp_explain": "使用すると、新しいインナーウェアの\nメルターウィンテル[In]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new innerwear\n\"Melter Winter [In]\".\nOnly usable on female characters."
+		"tr_explain": "Una nueva ropa interior\n\"Melter Winter [In]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "3370613",
 		"jp_text": "メルターウィンテル海[In]",
 		"tr_text": "Melter Winter Sea [In]",
 		"jp_explain": "使用すると、新しいインナーウェアの\nメルターウィンテル海[In]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new innerwear\n\"Melter Winter Sea [In]\".\nOnly usable on female characters."
+		"tr_explain": "Una nueva ropa interior\n\"Melter Winter Sea [In]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "3370614",
 		"jp_text": "メルターウィンテル栗[In]",
 		"tr_text": "Melter Winter Chestnut [In]",
 		"jp_explain": "使用すると、新しいインナーウェアの\nメルターウィンテル栗[In]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new innerwear\n\"Melter Winter Chestnut [In]\".\nOnly usable on female characters."
+		"tr_explain": "Una nueva ropa interior\n\"Melter Winter Chestnut [In]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "3370615",
 		"jp_text": "メルターウィンテル雅[In]",
 		"tr_text": "Melter Winter Elegant [In]",
 		"jp_explain": "使用すると、新しいインナーウェアの\nメルターウィンテル雅[In]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new innerwear\n\"Melter Winter Elegant [In]\".\nOnly usable on female characters."
+		"tr_explain": "Una nueva ropa interior\n\"Melter Winter Elegant [In]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "3370616",
 		"jp_text": "メルターウィンテル影[In]",
 		"tr_text": "Melter Winter Shadow [In]",
 		"jp_explain": "使用すると、新しいインナーウェアの\nメルターウィンテル影[In]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new innerwear\n\"Melter Winter Shadow [In]\".\nOnly usable on female characters."
+		"tr_explain": "Una nueva ropa interior\n\"Melter Winter Shadow [In]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "3370617",
 		"jp_text": "メルターウィンテル雪[In]",
 		"tr_text": "Melter Winter Snow [In]",
 		"jp_explain": "使用すると、新しいインナーウェアの\nメルターウィンテル雪[In]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new innerwear\n\"Melter Winter Snow [In]\".\nOnly usable on female characters."
+		"tr_explain": "Una nueva ropa interior\n\"Melter Winter Snow [In]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "3370618",
 		"jp_text": "シランスリート[In]",
 		"tr_text": "Silence Lied [In]",
 		"jp_explain": "使用すると、新しいインナーウェアの\nシランスリート[In]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new innerwear\n\"Silence Lied [In]\".\nOnly usable on female characters."
+		"tr_explain": "Una nueva ropa interior\n\"Silence Lied [In]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "3370619",
 		"jp_text": "シランスリート空[In]",
 		"tr_text": "Silence Lied Sky [In]",
 		"jp_explain": "使用すると、新しいインナーウェアの\nシランスリート空[In]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new innerwear\n\"Silence Lied Sky [In]\".\nOnly usable on female characters."
+		"tr_explain": "Una nueva ropa interior\n\"Silence Lied Sky [In]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "3370620",
 		"jp_text": "シランスリート雅[In]",
 		"tr_text": "Silence Lied Elegant [In]",
 		"jp_explain": "使用すると、新しいインナーウェアの\nシランスリート雅[In]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new innerwear\n\"Silence Lied Elegant [In]\".\nOnly usable on female characters."
+		"tr_explain": "Una nueva ropa interior\n\"Silence Lied Elegant [In]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "3370621",
 		"jp_text": "シランスリート紅[In]",
 		"tr_text": "Silence Lied Crimson [In]",
 		"jp_explain": "使用すると、新しいインナーウェアの\nシランスリート紅[In]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new innerwear\n\"Silence Lied Crimson [In]\".\nOnly usable on female characters."
+		"tr_explain": "Una nueva ropa interior\n\"Silence Lied Crimson [In]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "3370622",
 		"jp_text": "シランスリート雪[In]",
 		"tr_text": "Silence Lied Snow [In]",
 		"jp_explain": "使用すると、新しいインナーウェアの\nシランスリート雪[In]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new innerwear\n\"Silence Lied Snow [In]\".\nOnly usable on female characters."
+		"tr_explain": "Una nueva ropa interior\n\"Silence Lied Snow [In]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "3370623",
 		"jp_text": "シランスリート鋼[In]",
 		"tr_text": "Silence Lied Steel [In]",
 		"jp_explain": "使用すると、新しいインナーウェアの\nシランスリート鋼[In]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new innerwear\n\"Silence Lied Steel [In]\".\nOnly usable on female characters."
+		"tr_explain": "Una nueva ropa interior\n\"Silence Lied Steel [In]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "3370624",
 		"jp_text": "リバティークラスタ[In]",
 		"tr_text": "Liberty Cluster [In]",
 		"jp_explain": "使用すると、新しいインナーウェアの\nリバティークラスタ[In]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new innerwear\n\"Liberty Cluster [In]\".\nOnly usable on female characters."
+		"tr_explain": "Una nueva ropa interior\n\"Liberty Cluster [In]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "3370626",
 		"jp_text": "エスタテリザ[In]",
 		"tr_text": "Esta Teresa [In]",
 		"jp_explain": "使用すると、新しいインナーウェアの\nエスタテリザ[In]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new innerwear\n\"Esta Teresa [In]\".\nOnly usable on female characters."
+		"tr_explain": "Una nueva ropa interior\n\"Esta Teresa [In]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "3370627",
 		"jp_text": "エスタテリザ海[In]",
 		"tr_text": "Esta Teresa Sea [In]",
 		"jp_explain": "使用すると、新しいインナーウェアの\nエスタテリザ海[In]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new innerwear\n\"Esta Teresa Sea [In]\".\nOnly usable on female characters."
+		"tr_explain": "Una nueva ropa interior\n\"Esta Teresa Sea [In]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "3370628",
 		"jp_text": "エスタテリザ雪[In]",
 		"tr_text": "Esta Teresa Snow [In]",
 		"jp_explain": "使用すると、新しいインナーウェアの\nエスタテリザ雪[In]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new innerwear\n\"Esta Teresa Snow [In]\".\nOnly usable on female characters."
+		"tr_explain": "Una nueva ropa interior\n\"Esta Teresa Snow [In]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "3370629",
 		"jp_text": "エスタテリザ陽[In]",
 		"tr_text": "Esta Teresa Sun [In]",
 		"jp_explain": "使用すると、新しいインナーウェアの\nエスタテリザ陽[In]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new innerwear\n\"Esta Teresa Sun [In]\".\nOnly usable on female characters."
+		"tr_explain": "Una nueva ropa interior\n\"Esta Teresa Sun [In]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "3370630",
 		"jp_text": "エスタテリザ桜[In]",
 		"tr_text": "Esta Teresa Sakura [In]",
 		"jp_explain": "使用すると、新しいインナーウェアの\nエスタテリザ桜[In]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new innerwear\n\"Esta Teresa Sakura [In]\".\nOnly usable on female characters."
+		"tr_explain": "Una nueva ropa interior\n\"Esta Teresa Sakura [In]\".\nSolo para personajes femeninos."
 	},
 	{
 		"assign": "3370631",
 		"jp_text": "エスタテリザ紅[In]",
 		"tr_text": "Esta Teresa Crimson [In]",
 		"jp_explain": "使用すると、新しいインナーウェアの\nエスタテリザ紅[In]が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the new innerwear\n\"Esta Teresa Crimson [In]\".\nOnly usable on female characters."
+		"tr_explain": "Una nueva ropa interior\n\"Esta Teresa Crimson [In]\".\nSolo para personajes femeninos."
 	}
 ]

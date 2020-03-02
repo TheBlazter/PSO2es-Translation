@@ -3749,14 +3749,14 @@
 		"jp_text": "ルインペイントＭ",
 		"tr_text": "Ruin Paint M",
 		"jp_explain": "チケットを使用すると、ボディペイント\nルインペイントＭが選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Unlocks the male-only body paint\n\"Ruin Paint M\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea la pintura masculina\n\"Ruin Paint M\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3290588",
 		"jp_text": "ルインペイントＦ",
 		"tr_text": "Ruin Paint F",
 		"jp_explain": "チケットを使用すると、ボディペイント\nルインペイントＦが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the female-only body paint\n\"Ruin Paint F\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Ruin Paint F\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3290589",
@@ -4029,21 +4029,21 @@
 		"jp_text": "レトロストッキング",
 		"tr_text": "Retro Stockings",
 		"jp_explain": "チケットを使用すると、ボディペイント\nレトロストッキングが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the female-only body paint\n\"Retro Stockings\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Retro Stockings\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3290629",
 		"jp_text": "ドット柄サイハイ",
 		"tr_text": "Dotted Thigh Highs",
 		"jp_explain": "チケットを使用すると、ボディペイント\nドット柄サイハイが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the female-only body paint\n\"Dotted Thigh Highs\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Dotted Thigh Highs\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3290630",
 		"jp_text": "ミコトソックス",
 		"tr_text": "Mikoto Socks",
 		"jp_explain": "チケットを使用すると、ボディペイント\nミコトソックスが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the female-only body paint\n\"Mikoto Socks\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Mikoto Socks\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3290631",
@@ -4085,377 +4085,377 @@
 		"jp_text": "オーバーニータイツ　茶",
 		"tr_text": "Over Knee Tights Brown",
 		"jp_explain": "チケットを使用すると、ボディペイント\nオーバーニータイツ　茶が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the female-only body paint\n\"Over Knee Tights Brown\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Over Knee Tights Brown\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3290637",
 		"jp_text": "パターンレギンスＢ",
 		"tr_text": "Pattern Leggings B",
 		"jp_explain": "チケットを使用すると、ボディペイント\nパターンレギンスＢが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the female-only body paint\n\"Pattern Leggings B\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Pattern Leggings B\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3290638",
 		"jp_text": "カレテラソックスＢ",
 		"tr_text": "Careterra Socks B",
 		"jp_explain": "チケットを使用すると、ボディペイント\nカレテラソックスＢが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the female-only body paint\n\"Careterra Socks B\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Careterra Socks B\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3290639",
 		"jp_text": "シャルフペイントＢ",
 		"tr_text": "Scharf Paint B",
 		"jp_explain": "チケットを使用すると、ボディペイント\nシャルフペイントＢが選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Unlocks the male-only body paint\n\"Scharf Paint B\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea la pintura masculina\n\"Scharf Paint B\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3290640",
 		"jp_text": "モザイク柄タイツ　青",
 		"tr_text": "Mosaic Tights Blue",
 		"jp_explain": "チケットを使用すると、ボディペイント\nモザイク柄タイツ　青が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the female-only body paint\n\"Mosaic Tights Blue\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Mosaic Tights Blue\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3290641",
 		"jp_text": "モザイク柄タイツ　黒",
 		"tr_text": "Mosaic Tights Black",
 		"jp_explain": "チケットを使用すると、ボディペイント\nモザイク柄タイツ　黒が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the female-only body paint\n\"Mosaic Tights Black\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Mosaic Tights Black\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3290642",
 		"jp_text": "心の鍵穴Ｍ",
 		"tr_text": "Heart Keyhole M",
 		"jp_explain": "チケットを使用すると、ボディペイント\n心の鍵穴Ｍが選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Unlocks the male-only body paint\n\"Heart Keyhole M\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea la pintura masculina\n\"Heart Keyhole M\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3290643",
 		"jp_text": "心の鍵穴Ｆ",
 		"tr_text": "Heart Keyhole F",
 		"jp_explain": "チケットを使用すると、ボディペイント\n心の鍵穴Ｆが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the female-only body paint\n\"Heart Keyhole F\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Heart Keyhole F\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3290644",
 		"jp_text": "ポポナのソックス",
 		"tr_text": "Popona Socks",
 		"jp_explain": "チケットを使用すると、ボディペイント\nポポナのソックスが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the female-only body paint\n\"Popona Socks\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Popona Socks\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3290645",
 		"jp_text": "メルターソックス",
 		"tr_text": "Melter Socks",
 		"jp_explain": "チケットを使用すると、ボディペイント\nメルターソックスが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the female-only body paint\n\"Melter Socks\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Melter Socks\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3290646",
 		"jp_text": "星空タイツ",
 		"tr_text": "Starry Tights",
 		"jp_explain": "チケットを使用すると、ボディペイント\n星空タイツが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the female-only body paint\n\"Starry Tights\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Starry Tights\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3290647",
 		"jp_text": "星空タイツ　紺",
 		"tr_text": "Starry Tights Blue",
 		"jp_explain": "チケットを使用すると、ボディペイント\n星空タイツ　紺が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the female-only body paint\n\"Starry Tights Blue\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Starry Tights Blue\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3290648",
 		"jp_text": "星空タイツ　黒",
 		"tr_text": "Starry Tights Black",
 		"jp_explain": "チケットを使用すると、ボディペイント\n星空タイツ　黒が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the female-only body paint\n\"Starry Tights Black\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Starry Tights Black\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3290649",
 		"jp_text": "レナートペイント",
 		"tr_text": "Renato Paint",
 		"jp_explain": "チケットを使用すると、ボディペイント\nレナートペイントが選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Unlocks the male-only body paint\n\"Renato Paint\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea la pintura masculina\n\"Renato Paint\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3290650",
 		"jp_text": "ハッピーグローブＢ",
 		"tr_text": "Happy Gloves B",
 		"jp_explain": "チケットを使用すると、ボディペイント\nハッピーグローブＢが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the female-only body paint\n\"Happy Gloves B\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Happy Gloves B\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3290651",
 		"jp_text": "スマートソックス＆手袋Ｂ",
 		"tr_text": "Smart Socks & Gloves B",
 		"jp_explain": "チケットを使用すると、ボディペイント\nスマートソックス＆手袋Ｂが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the female-only body paint\n\"Smart Socks & Gloves B\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Smart Socks & Gloves B\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3290652",
 		"jp_text": "フェリシテグローブＢ",
 		"tr_text": "Felicite Gloves B",
 		"jp_explain": "チケットを使用すると、ボディペイント\nフェリシテグローブＢが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the female-only body paint\n\"Felicite Gloves B\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Felicite Gloves B\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3290653",
 		"jp_text": "ネーヴェサイハイＢ",
 		"tr_text": "Neve Thigh Highs B",
 		"jp_explain": "チケットを使用すると、ボディペイント\nネーヴェサイハイＢが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the female-only body paint\n\"Neve Thigh Highs B\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Neve Thigh Highs B\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3290654",
 		"jp_text": "アルキュリアトレンカＢ",
 		"tr_text": "Alcuria Stirrup Leggings B",
 		"jp_explain": "チケットを使用すると、ボディペイント\nアルキュリアトレンカＢが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the female-only body paint\n\"Alcuria Stirrup Leggings B\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Alcuria Stirrup Leggings B\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3290656",
 		"jp_text": "テリザタイツ",
 		"tr_text": "Teresa Tights",
 		"jp_explain": "チケットを使用すると、ボディペイント\nテリザタイツが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the female-only body paint\n\"Teresa Tights\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Teresa Tights\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3290657",
 		"jp_text": "シュガリーニーハイ",
 		"tr_text": "Sugar Knee Highs",
 		"jp_explain": "チケットを使用すると、ボディペイント\nシュガリーニーハイが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the female-only body paint\n\"Sugar Knee Highs\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Sugar Knee Highs\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3290658",
 		"jp_text": "レーススリーブ",
 		"tr_text": "Lace Sleeves",
 		"jp_explain": "チケットを使用すると、ボディペイント\nレーススリーブが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the female-only body paint\n\"Lace Sleeves\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Lace Sleeves\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3290659",
 		"jp_text": "ゾラペイント",
 		"tr_text": "Zola Paint",
 		"jp_explain": "チケットを使用すると、ボディペイント\nゾラペイントが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the female-only body paint\n\"Zola Paint\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Zola Paint\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3290660",
 		"jp_text": "ゾラのハーフグローブ",
 		"tr_text": "Zola Half Gloves",
 		"jp_explain": "チケットを使用すると、ボディペイント\nゾラのハーフグローブが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the female-only body paint\n\"Zola Half Gloves\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Zola Half Gloves\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3290661",
 		"jp_text": "アベーユのネイル",
 		"tr_text": "Abeille Nails",
 		"jp_explain": "チケットを使用すると、ボディペイント\nアベーユのネイルが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the female-only body paint\n\"Abeille Nails\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Abeille Nails\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3290662",
 		"jp_text": "アベーユペイント",
 		"tr_text": "Abeille Paint",
 		"jp_explain": "チケットを使用すると、ボディペイント\nアベーユペイントが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the female-only body paint\n\"Abeille Paint\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Abeille Paint\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3290663",
 		"jp_text": "メリッサペイント",
 		"tr_text": "Melissa Paint",
 		"jp_explain": "チケットを使用すると、ボディペイント\nメリッサペイントが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the female-only body paint\n\"Melissa Paint\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Melissa Paint\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3290664",
 		"jp_text": "ローザリンデＣペイント",
 		"tr_text": "Rosalinde C Paint",
 		"jp_explain": "チケットを使用すると、ボディペイント\nローザリンデＣペイントが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the male-only body paint\n\"Rosalinde C Paint\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea la pintura masculina\n\"Rosalinde C Paint\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3290665",
 		"jp_text": "クロームタトゥーＭ　水",
 		"tr_text": "Chrome Tattoo M Aqua",
 		"jp_explain": "チケットを使用すると、ボディペイント\nクロームタトゥーＭ　水が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Unlocks the male-only body paint\n\"Chrome Tattoo M Aqua\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea la pintura masculina\n\"Chrome Tattoo M Aqua\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3290666",
 		"jp_text": "クロームタトゥーＦ　水",
 		"tr_text": "Chrome Tattoo F Aqua",
 		"jp_explain": "チケットを使用すると、ボディペイント\nクロームタトゥーＦ　水が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the female-only body paint\n\"Chrome Tattoo F Aqua\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Chrome Tattoo F Aqua\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3290667",
 		"jp_text": "ネイルカラーＭ　白",
 		"tr_text": "Nail Color M White",
 		"jp_explain": "チケットを使用すると、ボディペイント\nネイルカラーＭ　白が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Unlocks the male-only body paint\n\"Nail Color M White\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea la pintura masculina\n\"Nail Color M White\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3290668",
 		"jp_text": "ネイルカラーＦ　白",
 		"tr_text": "Nail Color F White",
 		"jp_explain": "チケットを使用すると、ボディペイント\nネイルカラーＦ　白が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the female-only body paint\n\"Nail Color F White\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Nail Color F White\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3290669",
 		"jp_text": "ネイルカラーＭ　金",
 		"tr_text": "Nail Color M Gold",
 		"jp_explain": "チケットを使用すると、ボディペイント\nネイルカラーＭ　金が選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Unlocks the male-only body paint\n\"Nail Color M Gold\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea la pintura masculina\n\"Nail Color M Gold\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3290670",
 		"jp_text": "ネイルカラーＦ　金",
 		"tr_text": "Nail Color F Gold",
 		"jp_explain": "チケットを使用すると、ボディペイント\nネイルカラーＦ　金が選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the female-only body paint\n\"Nail Color F Gold\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Nail Color F Gold\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3290671",
 		"jp_text": "逢魔靴下Ｂ",
 		"tr_text": "Amorous Stockings B",
 		"jp_explain": "チケットを使用すると、ボディペイント\n逢魔靴下Ｂが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the female-only body paint\n\"Amorous Stockings B\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Amorous Stockings B\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3290672",
 		"jp_text": "逢魔タトゥーＢ",
 		"tr_text": "Amorous Tattoo B",
 		"jp_explain": "チケットを使用すると、ボディペイント\n逢魔タトゥーＢが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the female-only body paint\n\"Amorous Tattoo B\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Amorous Tattoo B\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3290673",
 		"jp_text": "妖異包帯Ｂ",
 		"tr_text": "Twisted Tidings Bandages B",
 		"jp_explain": "チケットを使用すると、ボディペイント\n妖異包帯Ｂが選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Unlocks the male-only body paint\n\"Twisted Tidings Bandages B\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea la pintura masculina\n\"Twisted Tidings Bandages B\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3290674",
 		"jp_text": "ショートソックスＢ",
 		"tr_text": "Short Socks B",
 		"jp_explain": "チケットを使用すると、ボディペイント\nショートソックスＢが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the female-only body paint\n\"Short Socks B\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Short Socks B\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3290675",
 		"jp_text": "ジャステグローブＢ",
 		"tr_text": "Juste Gloves B",
 		"jp_explain": "チケットを使用すると、ボディペイント\nジャステグローブＢが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the female-only body paint\n\"Juste Gloves B\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Juste Gloves B\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3290676",
 		"jp_text": "イージーサイハイＦ",
 		"tr_text": "Easy Thigh Highs F",
 		"jp_explain": "チケットを使用すると、ボディペイント\nイージーサイハイＦが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the female-only body paint\n\"Easy Thigh Highs F\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Easy Thigh Highs F\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3290677",
 		"jp_text": "イージーサイハイＭ",
 		"tr_text": "Easy Thigh Highs M",
 		"jp_explain": "チケットを使用すると、ボディペイント\nイージーサイハイＭが選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Unlocks the male-only body paint\n\"Easy Thigh Highs M\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea la pintura masculina\n\"Easy Thigh Highs M\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3290678",
 		"jp_text": "エレガンテタイツＦ",
 		"tr_text": "Elegant Tights F",
 		"jp_explain": "チケットを使用すると、ボディペイント\nエレガンテタイツＦが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the female-only body paint\n\"Elegant Tights F\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Elegant Tights F\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3290679",
 		"jp_text": "エレガンテタイツＭ",
 		"tr_text": "Elegant Tights M",
 		"jp_explain": "チケットを使用すると、ボディペイント\nエレガンテタイツＭが選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Unlocks the male-only body paint\n\"Elegant Tights M\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea la pintura masculina\n\"Elegant Tights M\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3290680",
 		"jp_text": "プラリネグローブ",
 		"tr_text": "Praline Gloves",
 		"jp_explain": "チケットを使用すると、ボディペイント\nプラリネグローブが選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Unlocks the male-only body paint\n\"Praline Gloves\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea la pintura masculina\n\"Praline Gloves\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3290681",
 		"jp_text": "プラリネソックス",
 		"tr_text": "Praline Socks",
 		"jp_explain": "チケットを使用すると、ボディペイント\nプラリネソックスが選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Unlocks the male-only body paint\n\"Praline Socks\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea la pintura masculina\n\"Praline Socks\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3290682",
 		"jp_text": "ガナッシュニーソックス",
 		"tr_text": "Ganache Knee Socks",
 		"jp_explain": "チケットを使用すると、ボディペイント\nガナッシュニーソックスが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the female-only body paint\n\"Ganache Knee Socks\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Ganache Knee Socks\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3290683",
 		"jp_text": "ブラウニーソックス",
 		"tr_text": "Brownie Socks",
 		"jp_explain": "チケットを使用すると、ボディペイント\nブラウニーソックスが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the female-only body paint\n\"Brownie Socks\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Brownie Socks\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3290684",
 		"jp_text": "ティエヌサイハイ",
 		"tr_text": "Tienne Thigh Highs",
 		"jp_explain": "チケットを使用すると、ボディペイント\nティエヌサイハイが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the female-only body paint\n\"Tienne Thigh Highs\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Tienne Thigh Highs\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3290685",
 		"jp_text": "ディスカーネイル",
 		"tr_text": "Discar Nails",
 		"jp_explain": "チケットを使用すると、ボディペイント\nディスカーネイルが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the female-only body paint\n\"Discar Nails\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Discar Nails\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3290686",
 		"jp_text": "アーベントタイツＢ",
 		"tr_text": "Abend Tights B",
 		"jp_explain": "チケットを使用すると、ボディペイント\nアーベントタイツＢが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the female-only body paint\n\"Abend Tights B\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Abend Tights B\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3290687",
 		"jp_text": "ガンボーイタトゥーＢ",
 		"tr_text": "Gun Boy Tattoo B",
 		"jp_explain": "チケットを使用すると、ボディペイント\nガンボーイタトゥーＢが選択可能。\n男性のみ使用可能。",
-		"tr_explain": "Unlocks the male-only body paint\n\"Gun Boy Tattoo B\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea la pintura masculina\n\"Gun Boy Tattoo B\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3290688",
 		"jp_text": "メディックニーハイＣ",
 		"tr_text": "Medic Knee High Socks C",
 		"jp_explain": "チケットを使用すると、ボディペイント\nメディックニーハイＣが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the female-only body paint\n\"Medic Knee High Socks C\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Medic Knee High Socks C\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3290689",
 		"jp_text": "シンプルレギンスＢ",
 		"tr_text": "Simple Leggings B",
 		"jp_explain": "チケットを使用すると、ボディペイント\nシンプルレギンスＢが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the female-only body paint\n\"Simple Leggings B\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Simple Leggings B\"\npara usar en el Estilista."
 	},
 	{
 		"assign": "3290691",
 		"jp_text": "キャンディースパッツ",
 		"tr_text": "Candy Spats",
 		"jp_explain": "チケットを使用すると、ボディペイント\nキャンディースパッツが選択可能。\n女性のみ使用可能。",
-		"tr_explain": "Unlocks the female-only body paint\n\"Candy Spats\"\nfor use in the Beauty Salon."
+		"tr_explain": "Desbloquea la pintura femenina\n\"Candy Spats\"\npara usar en el Estilista."
 	}
 ]
